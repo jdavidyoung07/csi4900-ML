@@ -5,8 +5,8 @@ import shutil
 
 # Variables
 player_name = 'Jedı07'
-matches_dir = '../../data/Jedı07_match_history/matches'
-general_dir = '../../data/Jedı07_match_history/matches/match_'
+matches_dir = '../data/Jedı07_match_history/matches'
+general_dir = '../data/Jedı07_match_history/matches/match_'
 
 # Get list of the player's matches
 matches_list = []
@@ -16,7 +16,7 @@ with os.scandir(matches_dir) as iter:
             matches_list.append(directory.name)
 
 for match in matches_list:
-    general_dir = '../../data/Jedı07_match_history/matches/' + match
+    general_dir = '../data/Jedı07_match_history/matches/' + match
     data_directory = general_dir + '/participants'
 
     # Create directory for the game's players' data to be stored
