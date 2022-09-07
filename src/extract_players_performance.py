@@ -26,7 +26,6 @@ def extract_players_performance(name):
         os.mkdir(data_directory)
 
         # Path of the match data file
-        #match_data_path = '../../data/Jedı07_match_history/matches/match_NA1_4276627830/NA1_4276627830.json'
         match_data_path = general_dir + '/' + match[6:] + '.json'
 
         # Open the json file as a python dictionary
