@@ -1,6 +1,7 @@
 import json
+import os
 
-TEST_FILE = '../data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
+#TEST_FILE = '../data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
 participants_key_subset = [
     'win',
     'teamId',
@@ -23,6 +24,29 @@ participants_key_subset = [
     ]
 
 TEAMS = [100,200]
+
+def get_players_list()-> list:
+    players_directory = '../data/'
+    players_list = []
+    with os.scandir(players_directory) in iter:
+        for directory in iter:
+            if not (directory.name.startswith('.') and directory.isfile()):
+                directory_name = directory.name.removesuffix('_match_history')
+                players_list.append(directory_name)
+    return players_list
+
+
+def get_matches(players_list:list)-> list:
+    players_directory = '../data/'
+    match_list = []
+    for player in players_list:
+        current_directory = players_directory + player + '_match_history/matches'
+        with os.scandir(current_directory) in iter:
+            for directory in iter:
+                if not (directory.name.startswith('.') and directory.isfile()):
+                    directory_name = directory.name.removeprefix('match_')
+                    match_list.append(directory_name)
+    return match_list
 
 
 def get_winner(participants:list)-> bool :
@@ -59,8 +83,6 @@ def compute_team_match_performance(teams_data,team_id,participants) -> None :
             if p['damageDealtToObjectives'] > max_obj_carry :
                 max_obj_carry = p['totalDamageDealtToChampions']
                 obj_carry = p['championName']
-
-
         
     team_size = len(teams_data['per_team'][team_id]['team_comp'])
     
@@ -92,10 +114,6 @@ def compute_team_match_performance(teams_data,team_id,participants) -> None :
         teams_data['general']['gold_spender_winner'] = team_id
     
     
-    
-
-
-
 def clean_json_match_data(match:dict) -> dict :
 
     participants = match['info']['participants']
@@ -139,10 +157,25 @@ def clean_json_match_data(match:dict) -> dict :
 
 
 def run() :
-    with open(TEST_FILE, 'r') as f:
-        data = json.load(f)
-    match_data_per_team = clean_json_match_data(data)
-    print(match_data_per_team)
+    players_list = get_players_list()
+    matches_list = get_matches(players_list)
+
+    for player in players_list:
+        for match in matches_list:
+            match_directory = '..data/' + player + '_match_history/matches/match_' + match + '/' + match + '.json'
+            match_data_file_path = '..data/' + player + '_match_history/matches/match_' + match + '/data_per_team.json'
+            with open(match_directory, 'r') as file:
+                data = json.load(file)
+                match_data_per_team = clean_json_match_data(data)
+                match_data_json_string = json.dumps(match_data_per_team, indent=2)
+                match_data_json_file = open(match_data_file_path, 'w')
+                match_data_json_file.write(match_data_json_string)
+                match_data_json_file.close()
+    #with open(TEST_FILE, 'r') as f:
+    #    data = json.load(f)
+    #match_data_per_team = clean_json_match_data(data)
+    #print(match_data_per_team)
+
 
 if __name__ == '__main__' :
     run() 
