@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56918,
+      "total_gold_spent": 55075,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 91706,
+      "total_damage_dealt_to_objectives": 23833,
+      "total_damage_taken": 110634,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 104,
+      "average_champion_experience": 13495,
+      "dmg_carry": "Corki",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4224975441"
+    },
+    "200": {
+      "total_gold_earned": 63829,
+      "total_gold_spent": 58375,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 96374,
+      "total_damage_dealt_to_objectives": 98538,
+      "total_damage_taken": 124901,
+      "average_vision_score": 23,
+      "total_wards_placed": 40,
+      "average_creep_score": 109,
+      "average_champion_experience": 14562,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4224975441"
+    }
+  }
+}

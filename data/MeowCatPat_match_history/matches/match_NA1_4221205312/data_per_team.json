@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62727,
+      "total_gold_spent": 61758,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 108710,
+      "total_damage_dealt_to_objectives": 54180,
+      "total_damage_taken": 161466,
+      "average_vision_score": 29,
+      "total_wards_placed": 58,
+      "average_creep_score": 140,
+      "average_champion_experience": 14157,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4221205312"
+    },
+    "200": {
+      "total_gold_earned": 74300,
+      "total_gold_spent": 62908,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 47,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 135094,
+      "total_damage_dealt_to_objectives": 62028,
+      "total_damage_taken": 141741,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 148,
+      "average_champion_experience": 17792,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4221205312"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37131,
+      "total_gold_spent": 35325,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 44515,
+      "total_damage_dealt_to_objectives": 17737,
+      "total_damage_taken": 77188,
+      "average_vision_score": 16,
+      "total_wards_placed": 38,
+      "average_creep_score": 107,
+      "average_champion_experience": 9408,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4361563166"
+    },
+    "200": {
+      "total_gold_earned": 49595,
+      "total_gold_spent": 44375,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 54974,
+      "total_damage_dealt_to_objectives": 52756,
+      "total_damage_taken": 70398,
+      "average_vision_score": 15,
+      "total_wards_placed": 34,
+      "average_creep_score": 113,
+      "average_champion_experience": 11583,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4361563166"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44688,
+      "total_gold_spent": 43000,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 81320,
+      "total_damage_dealt_to_objectives": 16253,
+      "total_damage_taken": 88597,
+      "average_vision_score": 22,
+      "total_wards_placed": 53,
+      "average_creep_score": 108,
+      "average_champion_experience": 10764,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4298229129"
+    },
+    "200": {
+      "total_gold_earned": 57149,
+      "total_gold_spent": 49050,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 73473,
+      "total_damage_dealt_to_objectives": 62024,
+      "total_damage_taken": 112267,
+      "average_vision_score": 21,
+      "total_wards_placed": 44,
+      "average_creep_score": 116,
+      "average_champion_experience": 13288,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4298229129"
+    }
+  }
+}

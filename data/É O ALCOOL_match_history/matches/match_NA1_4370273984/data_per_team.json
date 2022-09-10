@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76912,
+      "total_gold_spent": 69650,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 154557,
+      "total_damage_dealt_to_objectives": 54516,
+      "total_damage_taken": 173518,
+      "average_vision_score": 29,
+      "total_wards_placed": 66,
+      "average_creep_score": 160,
+      "average_champion_experience": 19374,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4370273984"
+    },
+    "200": {
+      "total_gold_earned": 74650,
+      "total_gold_spent": 71475,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 135815,
+      "total_damage_dealt_to_objectives": 76823,
+      "total_damage_taken": 186810,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 146,
+      "average_champion_experience": 18627,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4370273984"
+    }
+  }
+}

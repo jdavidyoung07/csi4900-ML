@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55005,
+      "total_gold_spent": 52550,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 104807,
+      "total_damage_dealt_to_objectives": 60527,
+      "total_damage_taken": 173151,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 132,
+      "average_champion_experience": 13287,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4399888667"
+    },
+    "200": {
+      "total_gold_earned": 63069,
+      "total_gold_spent": 54658,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 142033,
+      "total_damage_dealt_to_objectives": 59873,
+      "total_damage_taken": 136912,
+      "average_vision_score": 31,
+      "total_wards_placed": 71,
+      "average_creep_score": 119,
+      "average_champion_experience": 15247,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4399888667"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76164,
+      "total_gold_spent": 73150,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 179175,
+      "total_damage_dealt_to_objectives": 56121,
+      "total_damage_taken": 167230,
+      "average_vision_score": 43,
+      "total_wards_placed": 85,
+      "average_creep_score": 150,
+      "average_champion_experience": 18491,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4372390226"
+    },
+    "200": {
+      "total_gold_earned": 78673,
+      "total_gold_spent": 73100,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 136371,
+      "total_damage_dealt_to_objectives": 96506,
+      "total_damage_taken": 220489,
+      "average_vision_score": 37,
+      "total_wards_placed": 84,
+      "average_creep_score": 150,
+      "average_champion_experience": 17988,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4372390226"
+    }
+  }
+}

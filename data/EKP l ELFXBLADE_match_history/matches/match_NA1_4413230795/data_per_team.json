@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66934,
+      "total_gold_spent": 57370,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 130041,
+      "total_damage_dealt_to_objectives": 73550,
+      "total_damage_taken": 157006,
+      "average_vision_score": 17,
+      "total_wards_placed": 45,
+      "average_creep_score": 126,
+      "average_champion_experience": 14317,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4413230795"
+    },
+    "200": {
+      "total_gold_earned": 54406,
+      "total_gold_spent": 51980,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 110472,
+      "total_damage_dealt_to_objectives": 40952,
+      "total_damage_taken": 154363,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 117,
+      "average_champion_experience": 12283,
+      "dmg_carry": "Swain",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4413230795"
+    }
+  }
+}

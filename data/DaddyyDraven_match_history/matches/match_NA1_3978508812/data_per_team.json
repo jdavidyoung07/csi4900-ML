@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 11,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 15454,
+      "total_gold_spent": 10075,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 2,
+      "total_deaths": 0,
+      "total_damage_dealt_to_champions": 8829,
+      "total_damage_dealt_to_objectives": 7743,
+      "total_damage_taken": 18539,
+      "average_vision_score": 5,
+      "total_wards_placed": 18,
+      "average_creep_score": 41,
+      "average_champion_experience": 3692,
+      "dmg_carry": "Zed",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_3978508812"
+    },
+    "200": {
+      "total_gold_earned": 14452,
+      "total_gold_spent": 9600,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 0,
+      "total_deaths": 2,
+      "total_damage_dealt_to_champions": 8364,
+      "total_damage_dealt_to_objectives": 9019,
+      "total_damage_taken": 17135,
+      "average_vision_score": 5,
+      "total_wards_placed": 16,
+      "average_creep_score": 38,
+      "average_champion_experience": 3900,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_3978508812"
+    }
+  }
+}

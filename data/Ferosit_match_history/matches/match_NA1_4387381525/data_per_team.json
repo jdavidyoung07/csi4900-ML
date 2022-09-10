@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64158,
+      "total_gold_spent": 58625,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 110274,
+      "total_damage_dealt_to_objectives": 63534,
+      "total_damage_taken": 137577,
+      "average_vision_score": 35,
+      "total_wards_placed": 65,
+      "average_creep_score": 155,
+      "average_champion_experience": 15994,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4387381525"
+    },
+    "200": {
+      "total_gold_earned": 67174,
+      "total_gold_spent": 62573,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 115219,
+      "total_damage_dealt_to_objectives": 85761,
+      "total_damage_taken": 144410,
+      "average_vision_score": 29,
+      "total_wards_placed": 68,
+      "average_creep_score": 144,
+      "average_champion_experience": 16520,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4387381525"
+    }
+  }
+}

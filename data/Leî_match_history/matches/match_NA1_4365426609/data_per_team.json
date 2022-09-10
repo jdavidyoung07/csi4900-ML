@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60751,
+      "total_gold_spent": 53100,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 97194,
+      "total_damage_dealt_to_objectives": 56408,
+      "total_damage_taken": 121341,
+      "average_vision_score": 26,
+      "total_wards_placed": 50,
+      "average_creep_score": 109,
+      "average_champion_experience": 13018,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4365426609"
+    },
+    "200": {
+      "total_gold_earned": 52705,
+      "total_gold_spent": 51140,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 89431,
+      "total_damage_dealt_to_objectives": 59165,
+      "total_damage_taken": 121563,
+      "average_vision_score": 32,
+      "total_wards_placed": 67,
+      "average_creep_score": 100,
+      "average_champion_experience": 11791,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4365426609"
+    }
+  }
+}

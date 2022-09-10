@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51513,
+      "total_gold_spent": 46383,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 84178,
+      "total_damage_dealt_to_objectives": 56696,
+      "total_damage_taken": 88514,
+      "average_vision_score": 21,
+      "total_wards_placed": 49,
+      "average_creep_score": 102,
+      "average_champion_experience": 11884,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4352359818"
+    },
+    "200": {
+      "total_gold_earned": 44472,
+      "total_gold_spent": 41875,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 64000,
+      "total_damage_dealt_to_objectives": 27278,
+      "total_damage_taken": 107280,
+      "average_vision_score": 26,
+      "total_wards_placed": 39,
+      "average_creep_score": 100,
+      "average_champion_experience": 9740,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4352359818"
+    }
+  }
+}

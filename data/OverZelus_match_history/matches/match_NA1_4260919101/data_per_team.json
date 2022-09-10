@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52122,
+      "total_gold_spent": 49500,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 68456,
+      "total_damage_dealt_to_objectives": 18138,
+      "total_damage_taken": 145005,
+      "average_vision_score": 18,
+      "total_wards_placed": 35,
+      "average_creep_score": 117,
+      "average_champion_experience": 14588,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4260919101"
+    },
+    "200": {
+      "total_gold_earned": 66935,
+      "total_gold_spent": 61725,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 49,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 114987,
+      "total_damage_dealt_to_objectives": 91281,
+      "total_damage_taken": 100900,
+      "average_vision_score": 24,
+      "total_wards_placed": 49,
+      "average_creep_score": 129,
+      "average_champion_experience": 17040,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4260919101"
+    }
+  }
+}

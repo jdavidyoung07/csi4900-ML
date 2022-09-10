@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31539,
+      "total_gold_spent": 29815,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 45188,
+      "total_damage_dealt_to_objectives": 11650,
+      "total_damage_taken": 77505,
+      "average_vision_score": 16,
+      "total_wards_placed": 39,
+      "average_creep_score": 83,
+      "average_champion_experience": 7928,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4057281672"
+    },
+    "200": {
+      "total_gold_earned": 48259,
+      "total_gold_spent": 36175,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 58063,
+      "total_damage_dealt_to_objectives": 74295,
+      "total_damage_taken": 69012,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 74,
+      "average_champion_experience": 10373,
+      "dmg_carry": "Syndra",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4057281672"
+    }
+  }
+}

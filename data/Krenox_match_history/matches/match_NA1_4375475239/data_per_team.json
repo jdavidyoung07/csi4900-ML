@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75694,
+      "total_gold_spent": 68400,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 184831,
+      "total_damage_dealt_to_objectives": 67674,
+      "total_damage_taken": 185546,
+      "average_vision_score": 37,
+      "total_wards_placed": 76,
+      "average_creep_score": 109,
+      "average_champion_experience": 18196,
+      "dmg_carry": "Diana",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4375475239"
+    },
+    "200": {
+      "total_gold_earned": 73765,
+      "total_gold_spent": 75725,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 151220,
+      "total_damage_dealt_to_objectives": 80691,
+      "total_damage_taken": 221646,
+      "average_vision_score": 40,
+      "total_wards_placed": 83,
+      "average_creep_score": 130,
+      "average_champion_experience": 17462,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4375475239"
+    }
+  }
+}

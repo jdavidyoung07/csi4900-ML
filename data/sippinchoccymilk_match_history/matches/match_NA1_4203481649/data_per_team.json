@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54645,
+      "total_gold_spent": 52110,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 103307,
+      "total_damage_dealt_to_objectives": 52557,
+      "total_damage_taken": 111932,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 112,
+      "average_champion_experience": 12134,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4203481649"
+    },
+    "200": {
+      "total_gold_earned": 61517,
+      "total_gold_spent": 54250,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 86586,
+      "total_damage_dealt_to_objectives": 85205,
+      "total_damage_taken": 130751,
+      "average_vision_score": 26,
+      "total_wards_placed": 52,
+      "average_creep_score": 110,
+      "average_champion_experience": 15093,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4203481649"
+    }
+  }
+}

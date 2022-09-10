@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49855,
+      "total_gold_spent": 47130,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 83064,
+      "total_damage_dealt_to_objectives": 17080,
+      "total_damage_taken": 93562,
+      "average_vision_score": 24,
+      "total_wards_placed": 52,
+      "average_creep_score": 106,
+      "average_champion_experience": 10349,
+      "dmg_carry": "Draven",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4422792118"
+    },
+    "200": {
+      "total_gold_earned": 53376,
+      "total_gold_spent": 47050,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 72112,
+      "total_damage_dealt_to_objectives": 89390,
+      "total_damage_taken": 114658,
+      "average_vision_score": 23,
+      "total_wards_placed": 44,
+      "average_creep_score": 94,
+      "average_champion_experience": 12261,
+      "dmg_carry": "Viego",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4422792118"
+    }
+  }
+}

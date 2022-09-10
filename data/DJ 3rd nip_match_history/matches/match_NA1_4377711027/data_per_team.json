@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67310,
+      "total_gold_spent": 63135,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 120702,
+      "total_damage_dealt_to_objectives": 45121,
+      "total_damage_taken": 138750,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 133,
+      "average_champion_experience": 16575,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4377711027"
+    },
+    "200": {
+      "total_gold_earned": 68866,
+      "total_gold_spent": 61100,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 114754,
+      "total_damage_dealt_to_objectives": 92875,
+      "total_damage_taken": 155312,
+      "average_vision_score": 30,
+      "total_wards_placed": 54,
+      "average_creep_score": 145,
+      "average_champion_experience": 16130,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4377711027"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50855,
+      "total_gold_spent": 47000,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 73097,
+      "total_damage_dealt_to_objectives": 19095,
+      "total_damage_taken": 119830,
+      "average_vision_score": 24,
+      "total_wards_placed": 63,
+      "average_creep_score": 119,
+      "average_champion_experience": 11700,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4056300416"
+    },
+    "200": {
+      "total_gold_earned": 63456,
+      "total_gold_spent": 55600,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 96581,
+      "total_damage_dealt_to_objectives": 92455,
+      "total_damage_taken": 115874,
+      "average_vision_score": 27,
+      "total_wards_placed": 45,
+      "average_creep_score": 97,
+      "average_champion_experience": 15357,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4056300416"
+    }
+  }
+}

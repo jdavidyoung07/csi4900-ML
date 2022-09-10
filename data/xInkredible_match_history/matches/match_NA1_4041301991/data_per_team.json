@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58619,
+      "total_gold_spent": 57290,
+      "team_comp": [
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 96627,
+      "total_damage_dealt_to_objectives": 35600,
+      "total_damage_taken": 123390,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 126,
+      "average_champion_experience": 15090,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4041301991"
+    },
+    "200": {
+      "total_gold_earned": 67781,
+      "total_gold_spent": 60310,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 47,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 95336,
+      "total_damage_dealt_to_objectives": 97428,
+      "total_damage_taken": 124310,
+      "average_vision_score": 24,
+      "total_wards_placed": 52,
+      "average_creep_score": 113,
+      "average_champion_experience": 15371,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4041301991"
+    }
+  }
+}

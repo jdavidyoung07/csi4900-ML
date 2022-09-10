@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69888,
+      "total_gold_spent": 60850,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 148906,
+      "total_damage_dealt_to_objectives": 101715,
+      "total_damage_taken": 188462,
+      "average_vision_score": 31,
+      "total_wards_placed": 62,
+      "average_creep_score": 129,
+      "average_champion_experience": 17094,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4174346298"
+    },
+    "200": {
+      "total_gold_earned": 66984,
+      "total_gold_spent": 65264,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 140579,
+      "total_damage_dealt_to_objectives": 43130,
+      "total_damage_taken": 175188,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 116,
+      "average_champion_experience": 16565,
+      "dmg_carry": "Swain",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4174346298"
+    }
+  }
+}

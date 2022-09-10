@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64558,
+      "total_gold_spent": 58775,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 108207,
+      "total_damage_dealt_to_objectives": 21310,
+      "total_damage_taken": 140959,
+      "average_vision_score": 32,
+      "total_wards_placed": 75,
+      "average_creep_score": 131,
+      "average_champion_experience": 15526,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4312830753"
+    },
+    "200": {
+      "total_gold_earned": 71584,
+      "total_gold_spent": 65675,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 117014,
+      "total_damage_dealt_to_objectives": 70398,
+      "total_damage_taken": 145744,
+      "average_vision_score": 25,
+      "total_wards_placed": 73,
+      "average_creep_score": 149,
+      "average_champion_experience": 17216,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4312830753"
+    }
+  }
+}

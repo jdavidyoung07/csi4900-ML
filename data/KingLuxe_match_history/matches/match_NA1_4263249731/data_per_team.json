@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53037,
+      "total_gold_spent": 50450,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 75827,
+      "total_damage_dealt_to_objectives": 31469,
+      "total_damage_taken": 126291,
+      "average_vision_score": 20,
+      "total_wards_placed": 46,
+      "average_creep_score": 137,
+      "average_champion_experience": 12657,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4263249731"
+    },
+    "200": {
+      "total_gold_earned": 61446,
+      "total_gold_spent": 56250,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 104536,
+      "total_damage_dealt_to_objectives": 73664,
+      "total_damage_taken": 106323,
+      "average_vision_score": 19,
+      "total_wards_placed": 34,
+      "average_creep_score": 119,
+      "average_champion_experience": 14380,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4263249731"
+    }
+  }
+}

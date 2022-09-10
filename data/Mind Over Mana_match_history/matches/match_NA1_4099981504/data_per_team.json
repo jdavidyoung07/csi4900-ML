@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46932,
+      "total_gold_spent": 45830,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 53801,
+      "total_damage_dealt_to_objectives": 35348,
+      "total_damage_taken": 93908,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 95,
+      "average_champion_experience": 10028,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4099981504"
+    },
+    "200": {
+      "total_gold_earned": 49974,
+      "total_gold_spent": 46480,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 75684,
+      "total_damage_dealt_to_objectives": 40925,
+      "total_damage_taken": 73424,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 92,
+      "average_champion_experience": 10780,
+      "dmg_carry": "Diana",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4099981504"
+    }
+  }
+}

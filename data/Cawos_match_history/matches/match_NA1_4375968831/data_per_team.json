@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55870,
+      "total_gold_spent": 53360,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 76990,
+      "total_damage_dealt_to_objectives": 37630,
+      "total_damage_taken": 146899,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 140,
+      "average_champion_experience": 13966,
+      "dmg_carry": "Brand",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4375968831"
+    },
+    "200": {
+      "total_gold_earned": 66602,
+      "total_gold_spent": 60400,
+      "team_comp": [
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 114560,
+      "total_damage_dealt_to_objectives": 84764,
+      "total_damage_taken": 102149,
+      "average_vision_score": 30,
+      "total_wards_placed": 69,
+      "average_creep_score": 138,
+      "average_champion_experience": 16464,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4375968831"
+    }
+  }
+}

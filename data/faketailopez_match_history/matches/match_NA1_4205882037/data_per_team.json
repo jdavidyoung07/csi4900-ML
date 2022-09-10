@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65467,
+      "total_gold_spent": 62350,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 129973,
+      "total_damage_dealt_to_objectives": 42808,
+      "total_damage_taken": 153823,
+      "average_vision_score": 27,
+      "total_wards_placed": 63,
+      "average_creep_score": 95,
+      "average_champion_experience": 14810,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4205882037"
+    },
+    "200": {
+      "total_gold_earned": 66149,
+      "total_gold_spent": 60790,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 127544,
+      "total_damage_dealt_to_objectives": 53970,
+      "total_damage_taken": 153464,
+      "average_vision_score": 23,
+      "total_wards_placed": 47,
+      "average_creep_score": 91,
+      "average_champion_experience": 15498,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4205882037"
+    }
+  }
+}

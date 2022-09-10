@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57208,
+      "total_gold_spent": 55545,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 101769,
+      "total_damage_dealt_to_objectives": 16814,
+      "total_damage_taken": 145437,
+      "average_vision_score": 25,
+      "total_wards_placed": 57,
+      "average_creep_score": 111,
+      "average_champion_experience": 13045,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4423397688"
+    },
+    "200": {
+      "total_gold_earned": 68977,
+      "total_gold_spent": 65285,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 129262,
+      "total_damage_dealt_to_objectives": 120516,
+      "total_damage_taken": 134633,
+      "average_vision_score": 25,
+      "total_wards_placed": 65,
+      "average_creep_score": 107,
+      "average_champion_experience": 16748,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4423397688"
+    }
+  }
+}

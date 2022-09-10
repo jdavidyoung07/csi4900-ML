@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63923,
+      "total_gold_spent": 59180,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 129745,
+      "total_damage_dealt_to_objectives": 42170,
+      "total_damage_taken": 143084,
+      "average_vision_score": 44,
+      "total_wards_placed": 80,
+      "average_creep_score": 132,
+      "average_champion_experience": 14354,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4412529304"
+    },
+    "200": {
+      "total_gold_earned": 71533,
+      "total_gold_spent": 67310,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 41,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 115171,
+      "total_damage_dealt_to_objectives": 93402,
+      "total_damage_taken": 160258,
+      "average_vision_score": 35,
+      "total_wards_placed": 85,
+      "average_creep_score": 142,
+      "average_champion_experience": 16160,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Swain",
+      "match_id": "NA1_4412529304"
+    }
+  }
+}

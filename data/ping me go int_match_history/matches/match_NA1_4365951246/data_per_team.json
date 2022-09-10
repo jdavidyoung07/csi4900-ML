@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55900,
+      "total_gold_spent": 53590,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 72984,
+      "total_damage_dealt_to_objectives": 28604,
+      "total_damage_taken": 117732,
+      "average_vision_score": 29,
+      "total_wards_placed": 56,
+      "average_creep_score": 128,
+      "average_champion_experience": 13007,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Morgana",
+      "match_id": "NA1_4365951246"
+    },
+    "200": {
+      "total_gold_earned": 63205,
+      "total_gold_spent": 56248,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 93745,
+      "total_damage_dealt_to_objectives": 70817,
+      "total_damage_taken": 99850,
+      "average_vision_score": 37,
+      "total_wards_placed": 88,
+      "average_creep_score": 129,
+      "average_champion_experience": 15272,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4365951246"
+    }
+  }
+}

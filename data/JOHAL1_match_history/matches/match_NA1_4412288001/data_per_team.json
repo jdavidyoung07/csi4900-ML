@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35533,
+      "total_gold_spent": 32800,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 55784,
+      "total_damage_dealt_to_objectives": 23756,
+      "total_damage_taken": 89622,
+      "average_vision_score": 12,
+      "total_wards_placed": 32,
+      "average_creep_score": 79,
+      "average_champion_experience": 8182,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4412288001"
+    },
+    "200": {
+      "total_gold_earned": 54876,
+      "total_gold_spent": 48250,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 76887,
+      "total_damage_dealt_to_objectives": 56749,
+      "total_damage_taken": 80401,
+      "average_vision_score": 11,
+      "total_wards_placed": 22,
+      "average_creep_score": 96,
+      "average_champion_experience": 11049,
+      "dmg_carry": "Zed",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4412288001"
+    }
+  }
+}

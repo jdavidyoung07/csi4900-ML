@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38762,
+      "total_gold_spent": 37335,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 46466,
+      "total_damage_dealt_to_objectives": 10498,
+      "total_damage_taken": 99137,
+      "average_vision_score": 20,
+      "total_wards_placed": 55,
+      "average_creep_score": 97,
+      "average_champion_experience": 8941,
+      "dmg_carry": "Swain",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4389240720"
+    },
+    "200": {
+      "total_gold_earned": 51168,
+      "total_gold_spent": 46345,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 82173,
+      "total_damage_dealt_to_objectives": 70534,
+      "total_damage_taken": 89121,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 91,
+      "average_champion_experience": 11557,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4389240720"
+    }
+  }
+}

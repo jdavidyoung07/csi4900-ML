@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81726,
+      "total_gold_spent": 76375,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 173261,
+      "total_damage_dealt_to_objectives": 84989,
+      "total_damage_taken": 166560,
+      "average_vision_score": 35,
+      "total_wards_placed": 68,
+      "average_creep_score": 162,
+      "average_champion_experience": 19749,
+      "dmg_carry": "Corki",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4178050658"
+    },
+    "200": {
+      "total_gold_earned": 80526,
+      "total_gold_spent": 81525,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 133840,
+      "total_damage_dealt_to_objectives": 73216,
+      "total_damage_taken": 202828,
+      "average_vision_score": 37,
+      "total_wards_placed": 83,
+      "average_creep_score": 147,
+      "average_champion_experience": 19460,
+      "dmg_carry": "TahmKench",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4178050658"
+    }
+  }
+}

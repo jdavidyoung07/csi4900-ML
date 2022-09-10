@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63591,
+      "total_gold_spent": 62185,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 113492,
+      "total_damage_dealt_to_objectives": 25315,
+      "total_damage_taken": 137005,
+      "average_vision_score": 35,
+      "total_wards_placed": 66,
+      "average_creep_score": 137,
+      "average_champion_experience": 16489,
+      "dmg_carry": "Yone",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4292980430"
+    },
+    "200": {
+      "total_gold_earned": 72715,
+      "total_gold_spent": 67050,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 111797,
+      "total_damage_dealt_to_objectives": 80781,
+      "total_damage_taken": 150769,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 133,
+      "average_champion_experience": 17606,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4292980430"
+    }
+  }
+}

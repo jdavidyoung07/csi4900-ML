@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37613,
+      "total_gold_spent": 31883,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 20,
+      "total_deaths": 3,
+      "total_damage_dealt_to_champions": 40709,
+      "total_damage_dealt_to_objectives": 53533,
+      "total_damage_taken": 43636,
+      "average_vision_score": 12,
+      "total_wards_placed": 25,
+      "average_creep_score": 81,
+      "average_champion_experience": 7092,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4266584326"
+    },
+    "200": {
+      "total_gold_earned": 23482,
+      "total_gold_spent": 20975,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 3,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 24472,
+      "total_damage_dealt_to_objectives": 754,
+      "total_damage_taken": 50609,
+      "average_vision_score": 10,
+      "total_wards_placed": 26,
+      "average_creep_score": 67,
+      "average_champion_experience": 5789,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4266584326"
+    }
+  }
+}

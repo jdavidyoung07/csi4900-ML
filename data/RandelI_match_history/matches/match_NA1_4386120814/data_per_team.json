@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52381,
+      "total_gold_spent": 43305,
+      "team_comp": [
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 76088,
+      "total_damage_dealt_to_objectives": 62710,
+      "total_damage_taken": 86811,
+      "average_vision_score": 23,
+      "total_wards_placed": 44,
+      "average_creep_score": 100,
+      "average_champion_experience": 12132,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4386120814"
+    },
+    "200": {
+      "total_gold_earned": 38445,
+      "total_gold_spent": 36008,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 64538,
+      "total_damage_dealt_to_objectives": 22519,
+      "total_damage_taken": 95313,
+      "average_vision_score": 19,
+      "total_wards_placed": 47,
+      "average_creep_score": 86,
+      "average_champion_experience": 9716,
+      "dmg_carry": "Vex",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4386120814"
+    }
+  }
+}

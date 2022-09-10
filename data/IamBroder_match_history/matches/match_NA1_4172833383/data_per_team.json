@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37853,
+      "total_gold_spent": 33525,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 42752,
+      "total_damage_dealt_to_objectives": 36609,
+      "total_damage_taken": 47868,
+      "average_vision_score": 8,
+      "total_wards_placed": 23,
+      "average_creep_score": 71,
+      "average_champion_experience": 7604,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4172833383"
+    },
+    "200": {
+      "total_gold_earned": 25184,
+      "total_gold_spent": 21635,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 27906,
+      "total_damage_dealt_to_objectives": 3676,
+      "total_damage_taken": 57842,
+      "average_vision_score": 10,
+      "total_wards_placed": 27,
+      "average_creep_score": 43,
+      "average_champion_experience": 5272,
+      "dmg_carry": "Samira",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4172833383"
+    }
+  }
+}

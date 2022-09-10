@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 86614,
+      "total_gold_spent": 83280,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 28,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 182676,
+      "total_damage_dealt_to_objectives": 93683,
+      "total_damage_taken": 221612,
+      "average_vision_score": 40,
+      "total_wards_placed": 77,
+      "average_creep_score": 170,
+      "average_champion_experience": 21327,
+      "dmg_carry": "Corki",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4386139718"
+    },
+    "200": {
+      "total_gold_earned": 85269,
+      "total_gold_spent": 79018,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 178216,
+      "total_damage_dealt_to_objectives": 93188,
+      "total_damage_taken": 240867,
+      "average_vision_score": 41,
+      "total_wards_placed": 103,
+      "average_creep_score": 181,
+      "average_champion_experience": 21851,
+      "dmg_carry": "Akali",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4386139718"
+    }
+  }
+}

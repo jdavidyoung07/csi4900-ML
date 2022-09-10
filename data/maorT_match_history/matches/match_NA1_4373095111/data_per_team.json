@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66807,
+      "total_gold_spent": 64790,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 131508,
+      "total_damage_dealt_to_objectives": 36550,
+      "total_damage_taken": 170040,
+      "average_vision_score": 35,
+      "total_wards_placed": 85,
+      "average_creep_score": 131,
+      "average_champion_experience": 16151,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4373095111"
+    },
+    "200": {
+      "total_gold_earned": 77999,
+      "total_gold_spent": 66775,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 142442,
+      "total_damage_dealt_to_objectives": 99135,
+      "total_damage_taken": 168029,
+      "average_vision_score": 40,
+      "total_wards_placed": 83,
+      "average_creep_score": 152,
+      "average_champion_experience": 19195,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Seraphine",
+      "match_id": "NA1_4373095111"
+    }
+  }
+}

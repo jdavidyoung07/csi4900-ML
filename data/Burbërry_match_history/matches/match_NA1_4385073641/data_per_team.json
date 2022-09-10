@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91255,
+      "total_gold_spent": 78535,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 187470,
+      "total_damage_dealt_to_objectives": 105448,
+      "total_damage_taken": 239909,
+      "average_vision_score": 41,
+      "total_wards_placed": 102,
+      "average_creep_score": 193,
+      "average_champion_experience": 23104,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4385073641"
+    },
+    "200": {
+      "total_gold_earned": 89672,
+      "total_gold_spent": 86820,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 208687,
+      "total_damage_dealt_to_objectives": 77285,
+      "total_damage_taken": 221536,
+      "average_vision_score": 54,
+      "total_wards_placed": 92,
+      "average_creep_score": 184,
+      "average_champion_experience": 21013,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4385073641"
+    }
+  }
+}

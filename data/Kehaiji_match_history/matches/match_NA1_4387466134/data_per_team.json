@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44312,
+      "total_gold_spent": 41985,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 94064,
+      "total_damage_dealt_to_objectives": 20886,
+      "total_damage_taken": 115172,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 95,
+      "average_champion_experience": 9708,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4387466134"
+    },
+    "200": {
+      "total_gold_earned": 55398,
+      "total_gold_spent": 47075,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 93701,
+      "total_damage_dealt_to_objectives": 81549,
+      "total_damage_taken": 126808,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 92,
+      "average_champion_experience": 12635,
+      "dmg_carry": "Garen",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4387466134"
+    }
+  }
+}

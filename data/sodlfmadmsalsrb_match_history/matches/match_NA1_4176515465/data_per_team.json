@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55125,
+      "total_gold_spent": 44875,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 73023,
+      "total_damage_dealt_to_objectives": 79229,
+      "total_damage_taken": 96956,
+      "average_vision_score": 19,
+      "total_wards_placed": 47,
+      "average_creep_score": 109,
+      "average_champion_experience": 13294,
+      "dmg_carry": "Jax",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4176515465"
+    },
+    "200": {
+      "total_gold_earned": 50742,
+      "total_gold_spent": 48445,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 57733,
+      "total_damage_dealt_to_objectives": 23622,
+      "total_damage_taken": 97974,
+      "average_vision_score": 24,
+      "total_wards_placed": 48,
+      "average_creep_score": 105,
+      "average_champion_experience": 10895,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4176515465"
+    }
+  }
+}

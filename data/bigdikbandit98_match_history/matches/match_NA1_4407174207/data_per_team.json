@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65776,
+      "total_gold_spent": 61805,
+      "team_comp": [
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 100047,
+      "total_damage_dealt_to_objectives": 56118,
+      "total_damage_taken": 162440,
+      "average_vision_score": 27,
+      "total_wards_placed": 62,
+      "average_creep_score": 127,
+      "average_champion_experience": 16101,
+      "dmg_carry": "Brand",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4407174207"
+    },
+    "200": {
+      "total_gold_earned": 71704,
+      "total_gold_spent": 60400,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 133088,
+      "total_damage_dealt_to_objectives": 108342,
+      "total_damage_taken": 131416,
+      "average_vision_score": 33,
+      "total_wards_placed": 63,
+      "average_creep_score": 142,
+      "average_champion_experience": 17625,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Seraphine",
+      "match_id": "NA1_4407174207"
+    }
+  }
+}

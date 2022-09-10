@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59028,
+      "total_gold_spent": 55875,
+      "team_comp": [
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 87626,
+      "total_damage_dealt_to_objectives": 58590,
+      "total_damage_taken": 129838,
+      "average_vision_score": 24,
+      "total_wards_placed": 46,
+      "average_creep_score": 116,
+      "average_champion_experience": 13935,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4240498283"
+    },
+    "200": {
+      "total_gold_earned": 61785,
+      "total_gold_spent": 55450,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 96170,
+      "total_damage_dealt_to_objectives": 47194,
+      "total_damage_taken": 120324,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 118,
+      "average_champion_experience": 14832,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4240498283"
+    }
+  }
+}

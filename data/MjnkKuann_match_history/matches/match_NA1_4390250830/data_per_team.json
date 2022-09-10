@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73406,
+      "total_gold_spent": 66730,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 131145,
+      "total_damage_dealt_to_objectives": 57974,
+      "total_damage_taken": 161237,
+      "average_vision_score": 45,
+      "total_wards_placed": 95,
+      "average_creep_score": 159,
+      "average_champion_experience": 16356,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4390250830"
+    },
+    "200": {
+      "total_gold_earned": 82798,
+      "total_gold_spent": 73925,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 129115,
+      "total_damage_dealt_to_objectives": 106515,
+      "total_damage_taken": 160815,
+      "average_vision_score": 48,
+      "total_wards_placed": 98,
+      "average_creep_score": 159,
+      "average_champion_experience": 18509,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4390250830"
+    }
+  }
+}

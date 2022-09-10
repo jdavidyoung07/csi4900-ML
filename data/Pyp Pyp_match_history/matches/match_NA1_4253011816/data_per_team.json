@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53000,
+      "total_gold_spent": 49855,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 82369,
+      "total_damage_dealt_to_objectives": 60982,
+      "total_damage_taken": 126333,
+      "average_vision_score": 25,
+      "total_wards_placed": 38,
+      "average_creep_score": 93,
+      "average_champion_experience": 11807,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4253011816"
+    },
+    "200": {
+      "total_gold_earned": 61804,
+      "total_gold_spent": 53343,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 99550,
+      "total_damage_dealt_to_objectives": 50066,
+      "total_damage_taken": 113147,
+      "average_vision_score": 22,
+      "total_wards_placed": 43,
+      "average_creep_score": 103,
+      "average_champion_experience": 14860,
+      "dmg_carry": "Akali",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4253011816"
+    }
+  }
+}

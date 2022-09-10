@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91393,
+      "total_gold_spent": 82145,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 61,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 195462,
+      "total_damage_dealt_to_objectives": 81591,
+      "total_damage_taken": 227845,
+      "average_vision_score": 46,
+      "total_wards_placed": 80,
+      "average_creep_score": 151,
+      "average_champion_experience": 24506,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4189380190"
+    },
+    "200": {
+      "total_gold_earned": 86269,
+      "total_gold_spent": 81010,
+      "team_comp": [
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 57,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 189860,
+      "total_damage_dealt_to_objectives": 93820,
+      "total_damage_taken": 231032,
+      "average_vision_score": 43,
+      "total_wards_placed": 90,
+      "average_creep_score": 146,
+      "average_champion_experience": 21889,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4189380190"
+    }
+  }
+}

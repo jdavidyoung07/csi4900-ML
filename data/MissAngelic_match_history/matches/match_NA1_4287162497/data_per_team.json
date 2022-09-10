@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77442,
+      "total_gold_spent": 71610,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 136164,
+      "total_damage_dealt_to_objectives": 55051,
+      "total_damage_taken": 206820,
+      "average_vision_score": 31,
+      "total_wards_placed": 77,
+      "average_creep_score": 167,
+      "average_champion_experience": 18948,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4287162497"
+    },
+    "200": {
+      "total_gold_earned": 75900,
+      "total_gold_spent": 69075,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 5,
+      "total_kills": 31,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 165573,
+      "total_damage_dealt_to_objectives": 83517,
+      "total_damage_taken": 175756,
+      "average_vision_score": 30,
+      "total_wards_placed": 50,
+      "average_creep_score": 152,
+      "average_champion_experience": 17585,
+      "dmg_carry": "Yone",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4287162497"
+    }
+  }
+}

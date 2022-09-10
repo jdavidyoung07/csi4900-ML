@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67109,
+      "total_gold_spent": 62985,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 108035,
+      "total_damage_dealt_to_objectives": 26316,
+      "total_damage_taken": 118867,
+      "average_vision_score": 31,
+      "total_wards_placed": 81,
+      "average_creep_score": 138,
+      "average_champion_experience": 15487,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4208556016"
+    },
+    "200": {
+      "total_gold_earned": 72301,
+      "total_gold_spent": 70195,
+      "team_comp": [
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 95967,
+      "total_damage_dealt_to_objectives": 123781,
+      "total_damage_taken": 141974,
+      "average_vision_score": 37,
+      "total_wards_placed": 78,
+      "average_creep_score": 116,
+      "average_champion_experience": 16456,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Nautilus",
+      "match_id": "NA1_4208556016"
+    }
+  }
+}

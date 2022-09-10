@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51859,
+      "total_gold_spent": 49850,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 16,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 73731,
+      "total_damage_dealt_to_objectives": 47903,
+      "total_damage_taken": 127517,
+      "average_vision_score": 26,
+      "total_wards_placed": 62,
+      "average_creep_score": 130,
+      "average_champion_experience": 12570,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4044177763"
+    },
+    "200": {
+      "total_gold_earned": 59656,
+      "total_gold_spent": 54100,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 100941,
+      "total_damage_dealt_to_objectives": 73268,
+      "total_damage_taken": 103467,
+      "average_vision_score": 29,
+      "total_wards_placed": 53,
+      "average_creep_score": 130,
+      "average_champion_experience": 14712,
+      "dmg_carry": "Malphite",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4044177763"
+    }
+  }
+}

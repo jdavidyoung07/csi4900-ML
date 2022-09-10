@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52032,
+      "total_gold_spent": 50020,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 66491,
+      "total_damage_dealt_to_objectives": 14332,
+      "total_damage_taken": 96795,
+      "average_vision_score": 30,
+      "total_wards_placed": 71,
+      "average_creep_score": 127,
+      "average_champion_experience": 13154,
+      "dmg_carry": "Annie",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4248485148"
+    },
+    "200": {
+      "total_gold_earned": 62978,
+      "total_gold_spent": 55700,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 82137,
+      "total_damage_dealt_to_objectives": 113403,
+      "total_damage_taken": 99611,
+      "average_vision_score": 29,
+      "total_wards_placed": 58,
+      "average_creep_score": 115,
+      "average_champion_experience": 15384,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4248485148"
+    }
+  }
+}

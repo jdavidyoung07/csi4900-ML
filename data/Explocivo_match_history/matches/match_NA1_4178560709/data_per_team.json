@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65613,
+      "total_gold_spent": 59225,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 115149,
+      "total_damage_dealt_to_objectives": 56367,
+      "total_damage_taken": 95371,
+      "average_vision_score": 30,
+      "total_wards_placed": 59,
+      "average_creep_score": 117,
+      "average_champion_experience": 15535,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4178560709"
+    },
+    "200": {
+      "total_gold_earned": 55220,
+      "total_gold_spent": 54225,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 23,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 74347,
+      "total_damage_dealt_to_objectives": 34078,
+      "total_damage_taken": 132368,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 125,
+      "average_champion_experience": 12752,
+      "dmg_carry": "Diana",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4178560709"
+    }
+  }
+}

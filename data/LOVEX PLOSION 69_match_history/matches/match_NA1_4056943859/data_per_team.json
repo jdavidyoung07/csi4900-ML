@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 39,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73830,
+      "total_gold_spent": 68280,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 132779,
+      "total_damage_dealt_to_objectives": 83788,
+      "total_damage_taken": 187550,
+      "average_vision_score": 39,
+      "total_wards_placed": 79,
+      "average_creep_score": 153,
+      "average_champion_experience": 17520,
+      "dmg_carry": "Swain",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4056943859"
+    },
+    "200": {
+      "total_gold_earned": 79511,
+      "total_gold_spent": 78935,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 154069,
+      "total_damage_dealt_to_objectives": 68667,
+      "total_damage_taken": 160431,
+      "average_vision_score": 38,
+      "total_wards_placed": 77,
+      "average_creep_score": 154,
+      "average_champion_experience": 19562,
+      "dmg_carry": "Talon",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4056943859"
+    }
+  }
+}

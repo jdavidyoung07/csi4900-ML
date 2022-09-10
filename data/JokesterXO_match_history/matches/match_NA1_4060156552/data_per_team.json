@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63835,
+      "total_gold_spent": 56185,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 106513,
+      "total_damage_dealt_to_objectives": 70261,
+      "total_damage_taken": 96925,
+      "average_vision_score": 34,
+      "total_wards_placed": 60,
+      "average_creep_score": 106,
+      "average_champion_experience": 14536,
+      "dmg_carry": "Veigar",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4060156552"
+    },
+    "200": {
+      "total_gold_earned": 48410,
+      "total_gold_spent": 46860,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 59735,
+      "total_damage_dealt_to_objectives": 25926,
+      "total_damage_taken": 126840,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 94,
+      "average_champion_experience": 11065,
+      "dmg_carry": "Twitch",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4060156552"
+    }
+  }
+}

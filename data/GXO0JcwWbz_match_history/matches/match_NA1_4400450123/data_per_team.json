@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57114,
+      "total_gold_spent": 53505,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 101775,
+      "total_damage_dealt_to_objectives": 60734,
+      "total_damage_taken": 133102,
+      "average_vision_score": 25,
+      "total_wards_placed": 60,
+      "average_creep_score": 111,
+      "average_champion_experience": 13292,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4400450123"
+    },
+    "200": {
+      "total_gold_earned": 62456,
+      "total_gold_spent": 53916,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 105496,
+      "total_damage_dealt_to_objectives": 71126,
+      "total_damage_taken": 123733,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 100,
+      "average_champion_experience": 13820,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4400450123"
+    }
+  }
+}

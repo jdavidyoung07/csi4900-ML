@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69430,
+      "total_gold_spent": 68558,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 99297,
+      "total_damage_dealt_to_objectives": 77097,
+      "total_damage_taken": 135739,
+      "average_vision_score": 37,
+      "total_wards_placed": 87,
+      "average_creep_score": 147,
+      "average_champion_experience": 15941,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4295031467"
+    },
+    "200": {
+      "total_gold_earned": 73223,
+      "total_gold_spent": 63330,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 105487,
+      "total_damage_dealt_to_objectives": 67786,
+      "total_damage_taken": 129101,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 160,
+      "average_champion_experience": 18298,
+      "dmg_carry": "Zed",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4295031467"
+    }
+  }
+}

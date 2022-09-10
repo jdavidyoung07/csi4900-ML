@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51329,
+      "total_gold_spent": 46575,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 84159,
+      "total_damage_dealt_to_objectives": 64168,
+      "total_damage_taken": 83366,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 94,
+      "average_champion_experience": 11818,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4383235295"
+    },
+    "200": {
+      "total_gold_earned": 40137,
+      "total_gold_spent": 37275,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 62196,
+      "total_damage_dealt_to_objectives": 18886,
+      "total_damage_taken": 106931,
+      "average_vision_score": 25,
+      "total_wards_placed": 43,
+      "average_creep_score": 95,
+      "average_champion_experience": 9641,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4383235295"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65616,
+      "total_gold_spent": 60925,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 93512,
+      "total_damage_dealt_to_objectives": 61390,
+      "total_damage_taken": 109366,
+      "average_vision_score": 31,
+      "total_wards_placed": 61,
+      "average_creep_score": 150,
+      "average_champion_experience": 16726,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4305532451"
+    },
+    "200": {
+      "total_gold_earned": 63180,
+      "total_gold_spent": 57940,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 22,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 85699,
+      "total_damage_dealt_to_objectives": 71935,
+      "total_damage_taken": 126312,
+      "average_vision_score": 25,
+      "total_wards_placed": 61,
+      "average_creep_score": 147,
+      "average_champion_experience": 15652,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4305532451"
+    }
+  }
+}

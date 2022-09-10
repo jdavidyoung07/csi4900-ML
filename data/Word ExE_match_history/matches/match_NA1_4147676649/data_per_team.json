@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60266,
+      "total_gold_spent": 55380,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 34,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 86378,
+      "total_damage_dealt_to_objectives": 85900,
+      "total_damage_taken": 104691,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 124,
+      "average_champion_experience": 14196,
+      "dmg_carry": "Riven",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4147676649"
+    },
+    "200": {
+      "total_gold_earned": 48373,
+      "total_gold_spent": 45075,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 64395,
+      "total_damage_dealt_to_objectives": 21485,
+      "total_damage_taken": 102001,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 127,
+      "average_champion_experience": 11704,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4147676649"
+    }
+  }
+}

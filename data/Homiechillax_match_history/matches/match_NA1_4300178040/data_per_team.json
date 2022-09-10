@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69967,
+      "total_gold_spent": 65858,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 88447,
+      "total_damage_dealt_to_objectives": 39927,
+      "total_damage_taken": 136312,
+      "average_vision_score": 36,
+      "total_wards_placed": 102,
+      "average_creep_score": 138,
+      "average_champion_experience": 17040,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4300178040"
+    },
+    "200": {
+      "total_gold_earned": 75618,
+      "total_gold_spent": 65050,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 42,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 116858,
+      "total_damage_dealt_to_objectives": 107462,
+      "total_damage_taken": 126341,
+      "average_vision_score": 25,
+      "total_wards_placed": 52,
+      "average_creep_score": 133,
+      "average_champion_experience": 19346,
+      "dmg_carry": "Karthus",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4300178040"
+    }
+  }
+}

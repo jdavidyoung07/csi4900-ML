@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50328,
+      "total_gold_spent": 41593,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 74297,
+      "total_damage_dealt_to_objectives": 53239,
+      "total_damage_taken": 70326,
+      "average_vision_score": 18,
+      "total_wards_placed": 39,
+      "average_creep_score": 82,
+      "average_champion_experience": 10489,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4298347342"
+    },
+    "200": {
+      "total_gold_earned": 36680,
+      "total_gold_spent": 34350,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 48459,
+      "total_damage_dealt_to_objectives": 26851,
+      "total_damage_taken": 90348,
+      "average_vision_score": 16,
+      "total_wards_placed": 45,
+      "average_creep_score": 82,
+      "average_champion_experience": 7899,
+      "dmg_carry": "Draven",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4298347342"
+    }
+  }
+}

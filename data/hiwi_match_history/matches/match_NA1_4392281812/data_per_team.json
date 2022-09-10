@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75822,
+      "total_gold_spent": 66860,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 151068,
+      "total_damage_dealt_to_objectives": 74893,
+      "total_damage_taken": 166630,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 151,
+      "average_champion_experience": 17811,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4392281812"
+    },
+    "200": {
+      "total_gold_earned": 68685,
+      "total_gold_spent": 66275,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 130095,
+      "total_damage_dealt_to_objectives": 88500,
+      "total_damage_taken": 175892,
+      "average_vision_score": 30,
+      "total_wards_placed": 65,
+      "average_creep_score": 121,
+      "average_champion_experience": 14416,
+      "dmg_carry": "Yone",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4392281812"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59509,
+      "total_gold_spent": 54750,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 127567,
+      "total_damage_dealt_to_objectives": 18504,
+      "total_damage_taken": 157290,
+      "average_vision_score": 23,
+      "total_wards_placed": 64,
+      "average_creep_score": 109,
+      "average_champion_experience": 15784,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4428087520"
+    },
+    "200": {
+      "total_gold_earned": 70536,
+      "total_gold_spent": 66150,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 125490,
+      "total_damage_dealt_to_objectives": 101934,
+      "total_damage_taken": 174850,
+      "average_vision_score": 29,
+      "total_wards_placed": 45,
+      "average_creep_score": 134,
+      "average_champion_experience": 17409,
+      "dmg_carry": "Varus",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4428087520"
+    }
+  }
+}

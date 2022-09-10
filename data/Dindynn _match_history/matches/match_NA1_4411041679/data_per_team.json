@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76513,
+      "total_gold_spent": 76700,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 154323,
+      "total_damage_dealt_to_objectives": 106269,
+      "total_damage_taken": 212162,
+      "average_vision_score": 33,
+      "total_wards_placed": 67,
+      "average_creep_score": 143,
+      "average_champion_experience": 18379,
+      "dmg_carry": "Samira",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4411041679"
+    },
+    "200": {
+      "total_gold_earned": 81722,
+      "total_gold_spent": 69330,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 171553,
+      "total_damage_dealt_to_objectives": 83194,
+      "total_damage_taken": 182193,
+      "average_vision_score": 34,
+      "total_wards_placed": 76,
+      "average_creep_score": 153,
+      "average_champion_experience": 20618,
+      "dmg_carry": "Swain",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4411041679"
+    }
+  }
+}

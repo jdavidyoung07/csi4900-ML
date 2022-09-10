@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69602,
+      "total_gold_spent": 65185,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 111564,
+      "total_damage_dealt_to_objectives": 52948,
+      "total_damage_taken": 165635,
+      "average_vision_score": 34,
+      "total_wards_placed": 70,
+      "average_creep_score": 157,
+      "average_champion_experience": 17041,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4421168557"
+    },
+    "200": {
+      "total_gold_earned": 72796,
+      "total_gold_spent": 63218,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 132968,
+      "total_damage_dealt_to_objectives": 116486,
+      "total_damage_taken": 139520,
+      "average_vision_score": 29,
+      "total_wards_placed": 54,
+      "average_creep_score": 153,
+      "average_champion_experience": 17768,
+      "dmg_carry": "Annie",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4421168557"
+    }
+  }
+}

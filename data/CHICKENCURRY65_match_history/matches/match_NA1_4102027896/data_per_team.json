@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57261,
+      "total_gold_spent": 57200,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 95306,
+      "total_damage_dealt_to_objectives": 44493,
+      "total_damage_taken": 135470,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 125,
+      "average_champion_experience": 13422,
+      "dmg_carry": "Lux",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4102027896"
+    },
+    "200": {
+      "total_gold_earned": 64444,
+      "total_gold_spent": 55920,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 108074,
+      "total_damage_dealt_to_objectives": 71858,
+      "total_damage_taken": 131101,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 110,
+      "average_champion_experience": 15712,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4102027896"
+    }
+  }
+}

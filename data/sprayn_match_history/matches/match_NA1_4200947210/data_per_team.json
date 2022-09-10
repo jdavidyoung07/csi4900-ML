@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 100058,
+      "total_gold_spent": 88875,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 56,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 197757,
+      "total_damage_dealt_to_objectives": 82241,
+      "total_damage_taken": 205320,
+      "average_vision_score": 55,
+      "total_wards_placed": 115,
+      "average_creep_score": 182,
+      "average_champion_experience": 25216,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4200947210"
+    },
+    "200": {
+      "total_gold_earned": 92782,
+      "total_gold_spent": 84265,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 49,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 171474,
+      "total_damage_dealt_to_objectives": 105972,
+      "total_damage_taken": 238467,
+      "average_vision_score": 48,
+      "total_wards_placed": 104,
+      "average_creep_score": 161,
+      "average_champion_experience": 20842,
+      "dmg_carry": "Senna",
+      "obj_carry": "Aphelios",
+      "match_id": "NA1_4200947210"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48215,
+      "total_gold_spent": 46265,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 79349,
+      "total_damage_dealt_to_objectives": 38674,
+      "total_damage_taken": 133707,
+      "average_vision_score": 32,
+      "total_wards_placed": 64,
+      "average_creep_score": 106,
+      "average_champion_experience": 11116,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4381242661"
+    },
+    "200": {
+      "total_gold_earned": 63292,
+      "total_gold_spent": 56300,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 107702,
+      "total_damage_dealt_to_objectives": 75736,
+      "total_damage_taken": 106794,
+      "average_vision_score": 25,
+      "total_wards_placed": 51,
+      "average_creep_score": 119,
+      "average_champion_experience": 14374,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4381242661"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70764,
+      "total_gold_spent": 66728,
+      "team_comp": [
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 148187,
+      "total_damage_dealt_to_objectives": 81410,
+      "total_damage_taken": 178977,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 146,
+      "average_champion_experience": 16763,
+      "dmg_carry": "Swain",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4358536837"
+    },
+    "200": {
+      "total_gold_earned": 73066,
+      "total_gold_spent": 69150,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 144110,
+      "total_damage_dealt_to_objectives": 76664,
+      "total_damage_taken": 177183,
+      "average_vision_score": 28,
+      "total_wards_placed": 70,
+      "average_creep_score": 144,
+      "average_champion_experience": 18839,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4358536837"
+    }
+  }
+}

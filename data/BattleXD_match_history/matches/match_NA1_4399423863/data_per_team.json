@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68880,
+      "total_gold_spent": 69685,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 147842,
+      "total_damage_dealt_to_objectives": 38082,
+      "total_damage_taken": 183869,
+      "average_vision_score": 23,
+      "total_wards_placed": 59,
+      "average_creep_score": 117,
+      "average_champion_experience": 16144,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4399423863"
+    },
+    "200": {
+      "total_gold_earned": 74610,
+      "total_gold_spent": 64900,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 152488,
+      "total_damage_dealt_to_objectives": 126326,
+      "total_damage_taken": 182826,
+      "average_vision_score": 24,
+      "total_wards_placed": 55,
+      "average_creep_score": 106,
+      "average_champion_experience": 17997,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4399423863"
+    }
+  }
+}

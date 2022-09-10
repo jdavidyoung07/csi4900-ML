@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 39,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72732,
+      "total_gold_spent": 64425,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 125076,
+      "total_damage_dealt_to_objectives": 54317,
+      "total_damage_taken": 132430,
+      "average_vision_score": 26,
+      "total_wards_placed": 64,
+      "average_creep_score": 159,
+      "average_champion_experience": 18123,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4037580853"
+    },
+    "200": {
+      "total_gold_earned": 66447,
+      "total_gold_spent": 63925,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 106453,
+      "total_damage_dealt_to_objectives": 67402,
+      "total_damage_taken": 155726,
+      "average_vision_score": 30,
+      "total_wards_placed": 67,
+      "average_creep_score": 154,
+      "average_champion_experience": 17920,
+      "dmg_carry": "Zyra",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4037580853"
+    }
+  }
+}

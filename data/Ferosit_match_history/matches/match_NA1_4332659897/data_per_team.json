@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53321,
+      "total_gold_spent": 51290,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 97492,
+      "total_damage_dealt_to_objectives": 31846,
+      "total_damage_taken": 112846,
+      "average_vision_score": 33,
+      "total_wards_placed": 74,
+      "average_creep_score": 115,
+      "average_champion_experience": 12249,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4332659897"
+    },
+    "200": {
+      "total_gold_earned": 61214,
+      "total_gold_spent": 55480,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 87763,
+      "total_damage_dealt_to_objectives": 68425,
+      "total_damage_taken": 121860,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 98,
+      "average_champion_experience": 13801,
+      "dmg_carry": "Diana",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4332659897"
+    }
+  }
+}

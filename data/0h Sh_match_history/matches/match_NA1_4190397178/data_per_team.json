@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49678,
+      "total_gold_spent": 42050,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 26,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 55144,
+      "total_damage_dealt_to_objectives": 72536,
+      "total_damage_taken": 81546,
+      "average_vision_score": 18,
+      "total_wards_placed": 47,
+      "average_creep_score": 94,
+      "average_champion_experience": 11660,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4190397178"
+    },
+    "200": {
+      "total_gold_earned": 36112,
+      "total_gold_spent": 34360,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 51004,
+      "total_damage_dealt_to_objectives": 33145,
+      "total_damage_taken": 76125,
+      "average_vision_score": 14,
+      "total_wards_placed": 38,
+      "average_creep_score": 97,
+      "average_champion_experience": 8204,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4190397178"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59249,
+      "total_gold_spent": 53750,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 83531,
+      "total_damage_dealt_to_objectives": 73132,
+      "total_damage_taken": 79263,
+      "average_vision_score": 39,
+      "total_wards_placed": 59,
+      "average_creep_score": 124,
+      "average_champion_experience": 13966,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4047534249"
+    },
+    "200": {
+      "total_gold_earned": 51115,
+      "total_gold_spent": 45610,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 52803,
+      "total_damage_dealt_to_objectives": 13536,
+      "total_damage_taken": 100538,
+      "average_vision_score": 22,
+      "total_wards_placed": 63,
+      "average_creep_score": 125,
+      "average_champion_experience": 12612,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4047534249"
+    }
+  }
+}

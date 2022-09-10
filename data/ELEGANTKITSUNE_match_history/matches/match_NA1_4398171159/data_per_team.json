@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59547,
+      "total_gold_spent": 57935,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 131092,
+      "total_damage_dealt_to_objectives": 57827,
+      "total_damage_taken": 143211,
+      "average_vision_score": 36,
+      "total_wards_placed": 79,
+      "average_creep_score": 117,
+      "average_champion_experience": 13353,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4398171159"
+    },
+    "200": {
+      "total_gold_earned": 67119,
+      "total_gold_spent": 61510,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 118187,
+      "total_damage_dealt_to_objectives": 90370,
+      "total_damage_taken": 164959,
+      "average_vision_score": 36,
+      "total_wards_placed": 77,
+      "average_creep_score": 114,
+      "average_champion_experience": 16189,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4398171159"
+    }
+  }
+}

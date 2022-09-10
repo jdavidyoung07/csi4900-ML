@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 24,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37328,
+      "total_gold_spent": 34885,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 47004,
+      "total_damage_dealt_to_objectives": 23089,
+      "total_damage_taken": 91445,
+      "average_vision_score": 20,
+      "total_wards_placed": 45,
+      "average_creep_score": 83,
+      "average_champion_experience": 9257,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4019595604"
+    },
+    "200": {
+      "total_gold_earned": 50226,
+      "total_gold_spent": 40950,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 77420,
+      "total_damage_dealt_to_objectives": 85892,
+      "total_damage_taken": 76675,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 100,
+      "average_champion_experience": 11423,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4019595604"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70917,
+      "total_gold_spent": 68275,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 127707,
+      "total_damage_dealt_to_objectives": 55577,
+      "total_damage_taken": 155688,
+      "average_vision_score": 34,
+      "total_wards_placed": 58,
+      "average_creep_score": 158,
+      "average_champion_experience": 17517,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4256095432"
+    },
+    "200": {
+      "total_gold_earned": 76423,
+      "total_gold_spent": 69825,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 120225,
+      "total_damage_dealt_to_objectives": 88044,
+      "total_damage_taken": 159655,
+      "average_vision_score": 30,
+      "total_wards_placed": 54,
+      "average_creep_score": 148,
+      "average_champion_experience": 18697,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4256095432"
+    }
+  }
+}

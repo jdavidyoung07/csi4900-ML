@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71513,
+      "total_gold_spent": 65533,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 44,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 114762,
+      "total_damage_dealt_to_objectives": 63766,
+      "total_damage_taken": 158615,
+      "average_vision_score": 26,
+      "total_wards_placed": 48,
+      "average_creep_score": 142,
+      "average_champion_experience": 16751,
+      "dmg_carry": "Swain",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4252365418"
+    },
+    "200": {
+      "total_gold_earned": 64161,
+      "total_gold_spent": 61838,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 115714,
+      "total_damage_dealt_to_objectives": 41065,
+      "total_damage_taken": 139690,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 127,
+      "average_champion_experience": 14908,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4252365418"
+    }
+  }
+}

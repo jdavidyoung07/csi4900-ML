@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63141,
+      "total_gold_spent": 61925,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 54,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 145188,
+      "total_damage_dealt_to_objectives": 59023,
+      "total_damage_taken": 174177,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 81,
+      "average_champion_experience": 13773,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4383217500"
+    },
+    "200": {
+      "total_gold_earned": 66054,
+      "total_gold_spent": 57260,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 130071,
+      "total_damage_dealt_to_objectives": 61118,
+      "total_damage_taken": 176226,
+      "average_vision_score": 20,
+      "total_wards_placed": 55,
+      "average_creep_score": 108,
+      "average_champion_experience": 15864,
+      "dmg_carry": "Samira",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4383217500"
+    }
+  }
+}

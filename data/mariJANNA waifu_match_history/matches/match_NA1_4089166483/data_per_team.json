@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63229,
+      "total_gold_spent": 62583,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 123186,
+      "total_damage_dealt_to_objectives": 37577,
+      "total_damage_taken": 179251,
+      "average_vision_score": 34,
+      "total_wards_placed": 53,
+      "average_creep_score": 131,
+      "average_champion_experience": 14325,
+      "dmg_carry": "Yone",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4089166483"
+    },
+    "200": {
+      "total_gold_earned": 74149,
+      "total_gold_spent": 65790,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 152788,
+      "total_damage_dealt_to_objectives": 81017,
+      "total_damage_taken": 168295,
+      "average_vision_score": 25,
+      "total_wards_placed": 59,
+      "average_creep_score": 133,
+      "average_champion_experience": 17802,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4089166483"
+    }
+  }
+}

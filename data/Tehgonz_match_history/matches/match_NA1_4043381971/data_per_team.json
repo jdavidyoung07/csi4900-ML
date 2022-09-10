@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41042,
+      "total_gold_spent": 39288,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 51285,
+      "total_damage_dealt_to_objectives": 37305,
+      "total_damage_taken": 108471,
+      "average_vision_score": 12,
+      "total_wards_placed": 30,
+      "average_creep_score": 80,
+      "average_champion_experience": 9325,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4043381971"
+    },
+    "200": {
+      "total_gold_earned": 55863,
+      "total_gold_spent": 49025,
+      "team_comp": [
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 89677,
+      "total_damage_dealt_to_objectives": 42590,
+      "total_damage_taken": 82600,
+      "average_vision_score": 18,
+      "total_wards_placed": 41,
+      "average_creep_score": 87,
+      "average_champion_experience": 11956,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4043381971"
+    }
+  }
+}

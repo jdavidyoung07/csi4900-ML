@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38020,
+      "total_gold_spent": 34525,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 34781,
+      "total_damage_dealt_to_objectives": 15801,
+      "total_damage_taken": 70246,
+      "average_vision_score": 20,
+      "total_wards_placed": 47,
+      "average_creep_score": 105,
+      "average_champion_experience": 9099,
+      "dmg_carry": "Varus",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4301699303"
+    },
+    "200": {
+      "total_gold_earned": 46001,
+      "total_gold_spent": 38675,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 55339,
+      "total_damage_dealt_to_objectives": 53690,
+      "total_damage_taken": 58425,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 99,
+      "average_champion_experience": 11295,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4301699303"
+    }
+  }
+}

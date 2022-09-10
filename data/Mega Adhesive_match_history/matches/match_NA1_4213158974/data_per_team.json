@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71888,
+      "total_gold_spent": 67925,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 120705,
+      "total_damage_dealt_to_objectives": 88453,
+      "total_damage_taken": 139044,
+      "average_vision_score": 33,
+      "total_wards_placed": 85,
+      "average_creep_score": 139,
+      "average_champion_experience": 16218,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4213158974"
+    },
+    "200": {
+      "total_gold_earned": 71237,
+      "total_gold_spent": 64138,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 40,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 111690,
+      "total_damage_dealt_to_objectives": 39661,
+      "total_damage_taken": 150804,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 139,
+      "average_champion_experience": 17284,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4213158974"
+    }
+  }
+}

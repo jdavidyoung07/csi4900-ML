@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62619,
+      "total_gold_spent": 54285,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 80728,
+      "total_damage_dealt_to_objectives": 107673,
+      "total_damage_taken": 108072,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 132,
+      "average_champion_experience": 15311,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4270007803"
+    },
+    "200": {
+      "total_gold_earned": 47617,
+      "total_gold_spent": 52433,
+      "team_comp": [
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 69966,
+      "total_damage_dealt_to_objectives": 29668,
+      "total_damage_taken": 101396,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 122,
+      "average_champion_experience": 12058,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4270007803"
+    }
+  }
+}

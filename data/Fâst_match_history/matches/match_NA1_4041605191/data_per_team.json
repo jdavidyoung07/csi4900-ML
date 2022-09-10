@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 16,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 23256,
+      "total_gold_spent": 19125,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 21054,
+      "total_damage_dealt_to_objectives": 1568,
+      "total_damage_taken": 30812,
+      "average_vision_score": 8,
+      "total_wards_placed": 26,
+      "average_creep_score": 44,
+      "average_champion_experience": 5026,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4041605191"
+    },
+    "200": {
+      "total_gold_earned": 30598,
+      "total_gold_spent": 25935,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 23775,
+      "total_damage_dealt_to_objectives": 17730,
+      "total_damage_taken": 38767,
+      "average_vision_score": 11,
+      "total_wards_placed": 27,
+      "average_creep_score": 64,
+      "average_champion_experience": 6417,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4041605191"
+    }
+  }
+}

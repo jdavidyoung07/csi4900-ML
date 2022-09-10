@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31841,
+      "total_gold_spent": 29235,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 39500,
+      "total_damage_dealt_to_objectives": 16519,
+      "total_damage_taken": 67459,
+      "average_vision_score": 14,
+      "total_wards_placed": 42,
+      "average_creep_score": 74,
+      "average_champion_experience": 7330,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4363945651"
+    },
+    "200": {
+      "total_gold_earned": 47349,
+      "total_gold_spent": 36860,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 23,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 51638,
+      "total_damage_dealt_to_objectives": 82139,
+      "total_damage_taken": 58691,
+      "average_vision_score": 19,
+      "total_wards_placed": 42,
+      "average_creep_score": 90,
+      "average_champion_experience": 10121,
+      "dmg_carry": "Malphite",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4363945651"
+    }
+  }
+}

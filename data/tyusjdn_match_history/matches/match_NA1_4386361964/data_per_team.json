@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91398,
+      "total_gold_spent": 88080,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 250512,
+      "total_damage_dealt_to_objectives": 79208,
+      "total_damage_taken": 238699,
+      "average_vision_score": 47,
+      "total_wards_placed": 91,
+      "average_creep_score": 159,
+      "average_champion_experience": 22566,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4386361964"
+    },
+    "200": {
+      "total_gold_earned": 80911,
+      "total_gold_spent": 83435,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 193659,
+      "total_damage_dealt_to_objectives": 39822,
+      "total_damage_taken": 285419,
+      "average_vision_score": 49,
+      "total_wards_placed": 110,
+      "average_creep_score": 178,
+      "average_champion_experience": 19573,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4386361964"
+    }
+  }
+}

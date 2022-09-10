@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64822,
+      "total_gold_spent": 63140,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 112512,
+      "total_damage_dealt_to_objectives": 34679,
+      "total_damage_taken": 154982,
+      "average_vision_score": 27,
+      "total_wards_placed": 63,
+      "average_creep_score": 118,
+      "average_champion_experience": 15190,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4291979951"
+    },
+    "200": {
+      "total_gold_earned": 70821,
+      "total_gold_spent": 64960,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 48,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 131943,
+      "total_damage_dealt_to_objectives": 79413,
+      "total_damage_taken": 141747,
+      "average_vision_score": 43,
+      "total_wards_placed": 88,
+      "average_creep_score": 103,
+      "average_champion_experience": 15059,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4291979951"
+    }
+  }
+}

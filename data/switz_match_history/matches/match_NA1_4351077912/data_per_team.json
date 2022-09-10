@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48324,
+      "total_gold_spent": 45778,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 54227,
+      "total_damage_dealt_to_objectives": 29192,
+      "total_damage_taken": 150642,
+      "average_vision_score": 17,
+      "total_wards_placed": 49,
+      "average_creep_score": 111,
+      "average_champion_experience": 11200,
+      "dmg_carry": "Camille",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4351077912"
+    },
+    "200": {
+      "total_gold_earned": 60227,
+      "total_gold_spent": 50900,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 124432,
+      "total_damage_dealt_to_objectives": 55576,
+      "total_damage_taken": 87983,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 107,
+      "average_champion_experience": 13540,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Syndra",
+      "match_id": "NA1_4351077912"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65945,
+      "total_gold_spent": 60325,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 111719,
+      "total_damage_dealt_to_objectives": 56687,
+      "total_damage_taken": 111636,
+      "average_vision_score": 27,
+      "total_wards_placed": 46,
+      "average_creep_score": 117,
+      "average_champion_experience": 15701,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4056601552"
+    },
+    "200": {
+      "total_gold_earned": 64995,
+      "total_gold_spent": 59475,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 84490,
+      "total_damage_dealt_to_objectives": 71976,
+      "total_damage_taken": 135666,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 124,
+      "average_champion_experience": 15714,
+      "dmg_carry": "Kayle",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4056601552"
+    }
+  }
+}

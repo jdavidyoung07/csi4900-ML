@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60614,
+      "total_gold_spent": 57125,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 105919,
+      "total_damage_dealt_to_objectives": 49775,
+      "total_damage_taken": 115525,
+      "average_vision_score": 31,
+      "total_wards_placed": 74,
+      "average_creep_score": 116,
+      "average_champion_experience": 13450,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4309941749"
+    },
+    "200": {
+      "total_gold_earned": 67933,
+      "total_gold_spent": 60430,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 91608,
+      "total_damage_dealt_to_objectives": 76316,
+      "total_damage_taken": 133549,
+      "average_vision_score": 37,
+      "total_wards_placed": 81,
+      "average_creep_score": 118,
+      "average_champion_experience": 14541,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Ahri",
+      "match_id": "NA1_4309941749"
+    }
+  }
+}

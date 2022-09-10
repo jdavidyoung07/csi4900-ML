@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70645,
+      "total_gold_spent": 63725,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 111558,
+      "total_damage_dealt_to_objectives": 87310,
+      "total_damage_taken": 130664,
+      "average_vision_score": 26,
+      "total_wards_placed": 44,
+      "average_creep_score": 133,
+      "average_champion_experience": 17766,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4229286475"
+    },
+    "200": {
+      "total_gold_earned": 67969,
+      "total_gold_spent": 64708,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 105081,
+      "total_damage_dealt_to_objectives": 42189,
+      "total_damage_taken": 143822,
+      "average_vision_score": 34,
+      "total_wards_placed": 75,
+      "average_creep_score": 161,
+      "average_champion_experience": 15885,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4229286475"
+    }
+  }
+}

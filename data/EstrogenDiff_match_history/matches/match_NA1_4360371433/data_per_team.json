@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50800,
+      "total_gold_spent": 48900,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 67412,
+      "total_damage_dealt_to_objectives": 32682,
+      "total_damage_taken": 108405,
+      "average_vision_score": 32,
+      "total_wards_placed": 51,
+      "average_creep_score": 116,
+      "average_champion_experience": 12358,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4360371433"
+    },
+    "200": {
+      "total_gold_earned": 60439,
+      "total_gold_spent": 53500,
+      "team_comp": [
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 85435,
+      "total_damage_dealt_to_objectives": 95091,
+      "total_damage_taken": 96821,
+      "average_vision_score": 33,
+      "total_wards_placed": 70,
+      "average_creep_score": 130,
+      "average_champion_experience": 14370,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4360371433"
+    }
+  }
+}

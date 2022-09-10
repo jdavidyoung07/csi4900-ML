@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74301,
+      "total_gold_spent": 67700,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 52,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 183243,
+      "total_damage_dealt_to_objectives": 109400,
+      "total_damage_taken": 114540,
+      "average_vision_score": 32,
+      "total_wards_placed": 52,
+      "average_creep_score": 128,
+      "average_champion_experience": 16667,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4398210176"
+    },
+    "200": {
+      "total_gold_earned": 60672,
+      "total_gold_spent": 57968,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 88173,
+      "total_damage_dealt_to_objectives": 43457,
+      "total_damage_taken": 211952,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 140,
+      "average_champion_experience": 13911,
+      "dmg_carry": "Swain",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4398210176"
+    }
+  }
+}

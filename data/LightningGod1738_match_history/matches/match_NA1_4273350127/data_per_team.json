@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39281,
+      "total_gold_spent": 36625,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 52181,
+      "total_damage_dealt_to_objectives": 19525,
+      "total_damage_taken": 76212,
+      "average_vision_score": 12,
+      "total_wards_placed": 31,
+      "average_creep_score": 78,
+      "average_champion_experience": 8673,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4273350127"
+    },
+    "200": {
+      "total_gold_earned": 39293,
+      "total_gold_spent": 33635,
+      "team_comp": [
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 55433,
+      "total_damage_dealt_to_objectives": 46524,
+      "total_damage_taken": 74979,
+      "average_vision_score": 11,
+      "total_wards_placed": 28,
+      "average_creep_score": 66,
+      "average_champion_experience": 8820,
+      "dmg_carry": "Nocturne",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4273350127"
+    }
+  }
+}

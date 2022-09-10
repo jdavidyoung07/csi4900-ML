@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46623,
+      "total_gold_spent": 41875,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 46364,
+      "total_damage_dealt_to_objectives": 58981,
+      "total_damage_taken": 76232,
+      "average_vision_score": 13,
+      "total_wards_placed": 30,
+      "average_creep_score": 89,
+      "average_champion_experience": 9484,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4171609321"
+    },
+    "200": {
+      "total_gold_earned": 33552,
+      "total_gold_spent": 31135,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 50361,
+      "total_damage_dealt_to_objectives": 5392,
+      "total_damage_taken": 58640,
+      "average_vision_score": 15,
+      "total_wards_placed": 37,
+      "average_creep_score": 72,
+      "average_champion_experience": 8440,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4171609321"
+    }
+  }
+}

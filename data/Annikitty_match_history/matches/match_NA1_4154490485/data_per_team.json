@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78106,
+      "total_gold_spent": 76000,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 162958,
+      "total_damage_dealt_to_objectives": 43694,
+      "total_damage_taken": 164554,
+      "average_vision_score": 34,
+      "total_wards_placed": 83,
+      "average_creep_score": 167,
+      "average_champion_experience": 18678,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4154490485"
+    },
+    "200": {
+      "total_gold_earned": 85674,
+      "total_gold_spent": 80845,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 130603,
+      "total_damage_dealt_to_objectives": 137814,
+      "total_damage_taken": 213778,
+      "average_vision_score": 50,
+      "total_wards_placed": 76,
+      "average_creep_score": 168,
+      "average_champion_experience": 22101,
+      "dmg_carry": "Renekton",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4154490485"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56833,
+      "total_gold_spent": 52735,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 127193,
+      "total_damage_dealt_to_objectives": 56431,
+      "total_damage_taken": 140875,
+      "average_vision_score": 43,
+      "total_wards_placed": 96,
+      "average_creep_score": 130,
+      "average_champion_experience": 13284,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4418172922"
+    },
+    "200": {
+      "total_gold_earned": 67176,
+      "total_gold_spent": 60030,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 117344,
+      "total_damage_dealt_to_objectives": 99026,
+      "total_damage_taken": 168385,
+      "average_vision_score": 36,
+      "total_wards_placed": 70,
+      "average_creep_score": 143,
+      "average_champion_experience": 16089,
+      "dmg_carry": "Sion",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4418172922"
+    }
+  }
+}

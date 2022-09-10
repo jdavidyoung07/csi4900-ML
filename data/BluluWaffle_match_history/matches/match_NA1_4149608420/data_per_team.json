@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62614,
+      "total_gold_spent": 53000,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 52,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 99940,
+      "total_damage_dealt_to_objectives": 76055,
+      "total_damage_taken": 111958,
+      "average_vision_score": 11,
+      "total_wards_placed": 26,
+      "average_creep_score": 92,
+      "average_champion_experience": 13952,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4149608420"
+    },
+    "200": {
+      "total_gold_earned": 49585,
+      "total_gold_spent": 47150,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 70901,
+      "total_damage_dealt_to_objectives": 19357,
+      "total_damage_taken": 117647,
+      "average_vision_score": 14,
+      "total_wards_placed": 41,
+      "average_creep_score": 82,
+      "average_champion_experience": 10932,
+      "dmg_carry": "Draven",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4149608420"
+    }
+  }
+}

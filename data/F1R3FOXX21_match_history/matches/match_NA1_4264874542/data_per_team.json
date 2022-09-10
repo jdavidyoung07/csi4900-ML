@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76676,
+      "total_gold_spent": 73905,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 58,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 134791,
+      "total_damage_dealt_to_objectives": 65868,
+      "total_damage_taken": 180958,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 139,
+      "average_champion_experience": 17557,
+      "dmg_carry": "Draven",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4264874542"
+    },
+    "200": {
+      "total_gold_earned": 73165,
+      "total_gold_spent": 67730,
+      "team_comp": [
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 147182,
+      "total_damage_dealt_to_objectives": 72528,
+      "total_damage_taken": 163071,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 112,
+      "average_champion_experience": 17420,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4264874542"
+    }
+  }
+}

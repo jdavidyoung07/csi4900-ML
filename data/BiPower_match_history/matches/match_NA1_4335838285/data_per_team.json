@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64574,
+      "total_gold_spent": 60975,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 113559,
+      "total_damage_dealt_to_objectives": 38091,
+      "total_damage_taken": 134974,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 152,
+      "average_champion_experience": 14650,
+      "dmg_carry": "Draven",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4335838285"
+    },
+    "200": {
+      "total_gold_earned": 69066,
+      "total_gold_spent": 59000,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 105825,
+      "total_damage_dealt_to_objectives": 56795,
+      "total_damage_taken": 149289,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 136,
+      "average_champion_experience": 16702,
+      "dmg_carry": "Azir",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4335838285"
+    }
+  }
+}

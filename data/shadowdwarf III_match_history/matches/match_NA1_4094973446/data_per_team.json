@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55560,
+      "total_gold_spent": 51983,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 93410,
+      "total_damage_dealt_to_objectives": 12623,
+      "total_damage_taken": 146162,
+      "average_vision_score": 26,
+      "total_wards_placed": 45,
+      "average_creep_score": 120,
+      "average_champion_experience": 13418,
+      "dmg_carry": "Senna",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4094973446"
+    },
+    "200": {
+      "total_gold_earned": 64902,
+      "total_gold_spent": 54905,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 45,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 115623,
+      "total_damage_dealt_to_objectives": 72928,
+      "total_damage_taken": 128998,
+      "average_vision_score": 18,
+      "total_wards_placed": 57,
+      "average_creep_score": 98,
+      "average_champion_experience": 14722,
+      "dmg_carry": "Lux",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4094973446"
+    }
+  }
+}

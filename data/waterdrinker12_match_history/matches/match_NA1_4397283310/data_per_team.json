@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69914,
+      "total_gold_spent": 63050,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 121992,
+      "total_damage_dealt_to_objectives": 90810,
+      "total_damage_taken": 150421,
+      "average_vision_score": 30,
+      "total_wards_placed": 61,
+      "average_creep_score": 147,
+      "average_champion_experience": 17503,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4397283310"
+    },
+    "200": {
+      "total_gold_earned": 63193,
+      "total_gold_spent": 58260,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 110856,
+      "total_damage_dealt_to_objectives": 34733,
+      "total_damage_taken": 142802,
+      "average_vision_score": 36,
+      "total_wards_placed": 87,
+      "average_creep_score": 157,
+      "average_champion_experience": 15842,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4397283310"
+    }
+  }
+}

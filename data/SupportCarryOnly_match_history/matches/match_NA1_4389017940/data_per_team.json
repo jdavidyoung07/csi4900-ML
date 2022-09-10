@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64164,
+      "total_gold_spent": 61212,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 147595,
+      "total_damage_dealt_to_objectives": 70299,
+      "total_damage_taken": 154196,
+      "average_vision_score": 28,
+      "total_wards_placed": 45,
+      "average_creep_score": 126,
+      "average_champion_experience": 15419,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4389017940"
+    },
+    "200": {
+      "total_gold_earned": 68733,
+      "total_gold_spent": 63695,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 126025,
+      "total_damage_dealt_to_objectives": 51611,
+      "total_damage_taken": 179864,
+      "average_vision_score": 19,
+      "total_wards_placed": 44,
+      "average_creep_score": 140,
+      "average_champion_experience": 16078,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4389017940"
+    }
+  }
+}

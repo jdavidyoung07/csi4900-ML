@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 27,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50050,
+      "total_gold_spent": 48760,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 77317,
+      "total_damage_dealt_to_objectives": 22011,
+      "total_damage_taken": 119172,
+      "average_vision_score": 18,
+      "total_wards_placed": 51,
+      "average_creep_score": 106,
+      "average_champion_experience": 11628,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4048471998"
+    },
+    "200": {
+      "total_gold_earned": 58546,
+      "total_gold_spent": 52750,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 99374,
+      "total_damage_dealt_to_objectives": 64917,
+      "total_damage_taken": 107254,
+      "average_vision_score": 19,
+      "total_wards_placed": 30,
+      "average_creep_score": 95,
+      "average_champion_experience": 12904,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4048471998"
+    }
+  }
+}

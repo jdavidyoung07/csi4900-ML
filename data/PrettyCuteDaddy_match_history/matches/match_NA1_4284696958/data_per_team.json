@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60058,
+      "total_gold_spent": 53500,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 73812,
+      "total_damage_dealt_to_objectives": 60387,
+      "total_damage_taken": 111952,
+      "average_vision_score": 23,
+      "total_wards_placed": 46,
+      "average_creep_score": 115,
+      "average_champion_experience": 13022,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4284696958"
+    },
+    "200": {
+      "total_gold_earned": 52619,
+      "total_gold_spent": 49050,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 82383,
+      "total_damage_dealt_to_objectives": 31200,
+      "total_damage_taken": 96997,
+      "average_vision_score": 22,
+      "total_wards_placed": 44,
+      "average_creep_score": 108,
+      "average_champion_experience": 11367,
+      "dmg_carry": "Annie",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4284696958"
+    }
+  }
+}

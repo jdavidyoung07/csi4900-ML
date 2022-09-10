@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 21,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38603,
+      "total_gold_spent": 35605,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 47955,
+      "total_damage_dealt_to_objectives": 10533,
+      "total_damage_taken": 70931,
+      "average_vision_score": 15,
+      "total_wards_placed": 36,
+      "average_creep_score": 90,
+      "average_champion_experience": 8408,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4046788576"
+    },
+    "200": {
+      "total_gold_earned": 45436,
+      "total_gold_spent": 39225,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 60799,
+      "total_damage_dealt_to_objectives": 55366,
+      "total_damage_taken": 73022,
+      "average_vision_score": 15,
+      "total_wards_placed": 39,
+      "average_creep_score": 80,
+      "average_champion_experience": 9647,
+      "dmg_carry": "Akali",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4046788576"
+    }
+  }
+}

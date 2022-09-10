@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62859,
+      "total_gold_spent": 52050,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 80057,
+      "total_damage_dealt_to_objectives": 60232,
+      "total_damage_taken": 109566,
+      "average_vision_score": 28,
+      "total_wards_placed": 74,
+      "average_creep_score": 113,
+      "average_champion_experience": 14381,
+      "dmg_carry": "Ahri",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4171485634"
+    },
+    "200": {
+      "total_gold_earned": 53273,
+      "total_gold_spent": 49825,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 79383,
+      "total_damage_dealt_to_objectives": 16081,
+      "total_damage_taken": 99560,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 126,
+      "average_champion_experience": 12511,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4171485634"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 39,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78394,
+      "total_gold_spent": 70620,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 41,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 195041,
+      "total_damage_dealt_to_objectives": 88895,
+      "total_damage_taken": 179059,
+      "average_vision_score": 39,
+      "total_wards_placed": 76,
+      "average_creep_score": 133,
+      "average_champion_experience": 18057,
+      "dmg_carry": "Brand",
+      "obj_carry": "Viego",
+      "match_id": "NA1_3988615656"
+    },
+    "200": {
+      "total_gold_earned": 77666,
+      "total_gold_spent": 80070,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 48,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 142706,
+      "total_damage_dealt_to_objectives": 62846,
+      "total_damage_taken": 232679,
+      "average_vision_score": 38,
+      "total_wards_placed": 96,
+      "average_creep_score": 144,
+      "average_champion_experience": 18558,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_3988615656"
+    }
+  }
+}

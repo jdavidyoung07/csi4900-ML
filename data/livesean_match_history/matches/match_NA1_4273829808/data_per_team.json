@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46008,
+      "total_gold_spent": 42635,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 67751,
+      "total_damage_dealt_to_objectives": 16770,
+      "total_damage_taken": 97682,
+      "average_vision_score": 19,
+      "total_wards_placed": 50,
+      "average_creep_score": 122,
+      "average_champion_experience": 11663,
+      "dmg_carry": "Lux",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4273829808"
+    },
+    "200": {
+      "total_gold_earned": 64521,
+      "total_gold_spent": 57555,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 79235,
+      "total_damage_dealt_to_objectives": 103914,
+      "total_damage_taken": 107976,
+      "average_vision_score": 28,
+      "total_wards_placed": 45,
+      "average_creep_score": 114,
+      "average_champion_experience": 14837,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4273829808"
+    }
+  }
+}

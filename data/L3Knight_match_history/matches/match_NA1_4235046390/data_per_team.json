@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68150,
+      "total_gold_spent": 63275,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 111205,
+      "total_damage_dealt_to_objectives": 77838,
+      "total_damage_taken": 141027,
+      "average_vision_score": 39,
+      "total_wards_placed": 68,
+      "average_creep_score": 139,
+      "average_champion_experience": 15894,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4235046390"
+    },
+    "200": {
+      "total_gold_earned": 73863,
+      "total_gold_spent": 63530,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 106940,
+      "total_damage_dealt_to_objectives": 81465,
+      "total_damage_taken": 147344,
+      "average_vision_score": 35,
+      "total_wards_placed": 88,
+      "average_creep_score": 139,
+      "average_champion_experience": 17600,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4235046390"
+    }
+  }
+}

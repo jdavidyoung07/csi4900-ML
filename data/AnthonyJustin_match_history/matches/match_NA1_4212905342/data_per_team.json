@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35595,
+      "total_gold_spent": 32810,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 33630,
+      "total_damage_dealt_to_objectives": 17883,
+      "total_damage_taken": 72294,
+      "average_vision_score": 13,
+      "total_wards_placed": 32,
+      "average_creep_score": 94,
+      "average_champion_experience": 8312,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4212905342"
+    },
+    "200": {
+      "total_gold_earned": 46737,
+      "total_gold_spent": 39100,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 55229,
+      "total_damage_dealt_to_objectives": 67073,
+      "total_damage_taken": 54632,
+      "average_vision_score": 16,
+      "total_wards_placed": 41,
+      "average_creep_score": 89,
+      "average_champion_experience": 10759,
+      "dmg_carry": "Malphite",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4212905342"
+    }
+  }
+}

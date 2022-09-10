@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78087,
+      "total_gold_spent": 71500,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 53,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 141751,
+      "total_damage_dealt_to_objectives": 113227,
+      "total_damage_taken": 152844,
+      "average_vision_score": 26,
+      "total_wards_placed": 52,
+      "average_creep_score": 124,
+      "average_champion_experience": 18839,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4285889802"
+    },
+    "200": {
+      "total_gold_earned": 65516,
+      "total_gold_spent": 61000,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 110321,
+      "total_damage_dealt_to_objectives": 24089,
+      "total_damage_taken": 168182,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 129,
+      "average_champion_experience": 15225,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4285889802"
+    }
+  }
+}

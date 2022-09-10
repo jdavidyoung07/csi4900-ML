@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73547,
+      "total_gold_spent": 73075,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 134896,
+      "total_damage_dealt_to_objectives": 109012,
+      "total_damage_taken": 185088,
+      "average_vision_score": 32,
+      "total_wards_placed": 75,
+      "average_creep_score": 150,
+      "average_champion_experience": 17884,
+      "dmg_carry": "Sett",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4423004508"
+    },
+    "200": {
+      "total_gold_earned": 77487,
+      "total_gold_spent": 69705,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 154689,
+      "total_damage_dealt_to_objectives": 63419,
+      "total_damage_taken": 166872,
+      "average_vision_score": 39,
+      "total_wards_placed": 86,
+      "average_creep_score": 142,
+      "average_champion_experience": 18947,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4423004508"
+    }
+  }
+}

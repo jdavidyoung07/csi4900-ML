@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64028,
+      "total_gold_spent": 58625,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 115003,
+      "total_damage_dealt_to_objectives": 64358,
+      "total_damage_taken": 122878,
+      "average_vision_score": 13,
+      "total_wards_placed": 28,
+      "average_creep_score": 98,
+      "average_champion_experience": 13612,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4250434708"
+    },
+    "200": {
+      "total_gold_earned": 57710,
+      "total_gold_spent": 55100,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 93803,
+      "total_damage_dealt_to_objectives": 35177,
+      "total_damage_taken": 139519,
+      "average_vision_score": 12,
+      "total_wards_placed": 37,
+      "average_creep_score": 104,
+      "average_champion_experience": 12711,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4250434708"
+    }
+  }
+}

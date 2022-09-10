@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91767,
+      "total_gold_spent": 87200,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 209017,
+      "total_damage_dealt_to_objectives": 53690,
+      "total_damage_taken": 248564,
+      "average_vision_score": 41,
+      "total_wards_placed": 77,
+      "average_creep_score": 186,
+      "average_champion_experience": 23645,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4079080633"
+    },
+    "200": {
+      "total_gold_earned": 95644,
+      "total_gold_spent": 87725,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 4,
+      "total_kills": 56,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 206027,
+      "total_damage_dealt_to_objectives": 111158,
+      "total_damage_taken": 251267,
+      "average_vision_score": 57,
+      "total_wards_placed": 108,
+      "average_creep_score": 157,
+      "average_champion_experience": 24006,
+      "dmg_carry": "Annie",
+      "obj_carry": "Evelynn",
+      "match_id": "NA1_4079080633"
+    }
+  }
+}

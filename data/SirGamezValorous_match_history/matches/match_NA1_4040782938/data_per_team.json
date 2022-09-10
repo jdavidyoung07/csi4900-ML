@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63492,
+      "total_gold_spent": 58460,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 117677,
+      "total_damage_dealt_to_objectives": 75259,
+      "total_damage_taken": 125848,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 97,
+      "average_champion_experience": 14320,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4040782938"
+    },
+    "200": {
+      "total_gold_earned": 50943,
+      "total_gold_spent": 49325,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 85731,
+      "total_damage_dealt_to_objectives": 5331,
+      "total_damage_taken": 139367,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 105,
+      "average_champion_experience": 12541,
+      "dmg_carry": "Draven",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4040782938"
+    }
+  }
+}

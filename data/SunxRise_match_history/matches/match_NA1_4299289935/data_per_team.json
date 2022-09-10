@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84464,
+      "total_gold_spent": 80965,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 130174,
+      "total_damage_dealt_to_objectives": 78709,
+      "total_damage_taken": 205005,
+      "average_vision_score": 34,
+      "total_wards_placed": 77,
+      "average_creep_score": 172,
+      "average_champion_experience": 22044,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4299289935"
+    },
+    "200": {
+      "total_gold_earned": 87642,
+      "total_gold_spent": 78325,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 3,
+      "total_kills": 52,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 175476,
+      "total_damage_dealt_to_objectives": 103350,
+      "total_damage_taken": 177035,
+      "average_vision_score": 47,
+      "total_wards_placed": 68,
+      "average_creep_score": 155,
+      "average_champion_experience": 21928,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4299289935"
+    }
+  }
+}

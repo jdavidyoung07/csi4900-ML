@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39402,
+      "total_gold_spent": 31075,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 49153,
+      "total_damage_dealt_to_objectives": 33836,
+      "total_damage_taken": 47084,
+      "average_vision_score": 10,
+      "total_wards_placed": 24,
+      "average_creep_score": 72,
+      "average_champion_experience": 8699,
+      "dmg_carry": "Ekko",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4036883101"
+    },
+    "200": {
+      "total_gold_earned": 27315,
+      "total_gold_spent": 23350,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 26925,
+      "total_damage_dealt_to_objectives": 11756,
+      "total_damage_taken": 66518,
+      "average_vision_score": 12,
+      "total_wards_placed": 34,
+      "average_creep_score": 64,
+      "average_champion_experience": 6669,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4036883101"
+    }
+  }
+}

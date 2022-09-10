@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78740,
+      "total_gold_spent": 72168,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 168937,
+      "total_damage_dealt_to_objectives": 85357,
+      "total_damage_taken": 197386,
+      "average_vision_score": 25,
+      "total_wards_placed": 47,
+      "average_creep_score": 170,
+      "average_champion_experience": 18514,
+      "dmg_carry": "Corki",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4429126608"
+    },
+    "200": {
+      "total_gold_earned": 75661,
+      "total_gold_spent": 72915,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 155061,
+      "total_damage_dealt_to_objectives": 85920,
+      "total_damage_taken": 201295,
+      "average_vision_score": 39,
+      "total_wards_placed": 64,
+      "average_creep_score": 156,
+      "average_champion_experience": 18697,
+      "dmg_carry": "Yone",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4429126608"
+    }
+  }
+}

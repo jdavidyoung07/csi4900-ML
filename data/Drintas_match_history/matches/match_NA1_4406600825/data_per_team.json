@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48503,
+      "total_gold_spent": 47075,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 58569,
+      "total_damage_dealt_to_objectives": 35922,
+      "total_damage_taken": 120831,
+      "average_vision_score": 19,
+      "total_wards_placed": 53,
+      "average_creep_score": 125,
+      "average_champion_experience": 10946,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4406600825"
+    },
+    "200": {
+      "total_gold_earned": 57527,
+      "total_gold_spent": 52025,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 98598,
+      "total_damage_dealt_to_objectives": 93193,
+      "total_damage_taken": 93404,
+      "average_vision_score": 26,
+      "total_wards_placed": 47,
+      "average_creep_score": 119,
+      "average_champion_experience": 14100,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4406600825"
+    }
+  }
+}

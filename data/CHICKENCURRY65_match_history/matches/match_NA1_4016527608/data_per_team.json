@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53397,
+      "total_gold_spent": 50025,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 92961,
+      "total_damage_dealt_to_objectives": 35474,
+      "total_damage_taken": 142848,
+      "average_vision_score": 23,
+      "total_wards_placed": 47,
+      "average_creep_score": 114,
+      "average_champion_experience": 12510,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4016527608"
+    },
+    "200": {
+      "total_gold_earned": 65633,
+      "total_gold_spent": 58825,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 120827,
+      "total_damage_dealt_to_objectives": 86531,
+      "total_damage_taken": 126173,
+      "average_vision_score": 28,
+      "total_wards_placed": 58,
+      "average_creep_score": 127,
+      "average_champion_experience": 14955,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4016527608"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61596,
+      "total_gold_spent": 59710,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 155005,
+      "total_damage_dealt_to_objectives": 51641,
+      "total_damage_taken": 189140,
+      "average_vision_score": 30,
+      "total_wards_placed": 50,
+      "average_creep_score": 124,
+      "average_champion_experience": 14618,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4396300146"
+    },
+    "200": {
+      "total_gold_earned": 77435,
+      "total_gold_spent": 67550,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 165333,
+      "total_damage_dealt_to_objectives": 74596,
+      "total_damage_taken": 195996,
+      "average_vision_score": 29,
+      "total_wards_placed": 73,
+      "average_creep_score": 120,
+      "average_champion_experience": 18284,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4396300146"
+    }
+  }
+}

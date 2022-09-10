@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78475,
+      "total_gold_spent": 75375,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 150405,
+      "total_damage_dealt_to_objectives": 49969,
+      "total_damage_taken": 211301,
+      "average_vision_score": 38,
+      "total_wards_placed": 77,
+      "average_creep_score": 152,
+      "average_champion_experience": 18707,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4281928782"
+    },
+    "200": {
+      "total_gold_earned": 85680,
+      "total_gold_spent": 73075,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 58,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 181298,
+      "total_damage_dealt_to_objectives": 109058,
+      "total_damage_taken": 195334,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 134,
+      "average_champion_experience": 21868,
+      "dmg_carry": "Swain",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4281928782"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33463,
+      "total_gold_spent": 29995,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 43180,
+      "total_damage_dealt_to_objectives": 12545,
+      "total_damage_taken": 70910,
+      "average_vision_score": 13,
+      "total_wards_placed": 41,
+      "average_creep_score": 86,
+      "average_champion_experience": 8236,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4396723189"
+    },
+    "200": {
+      "total_gold_earned": 44168,
+      "total_gold_spent": 36870,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 21,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 59174,
+      "total_damage_dealt_to_objectives": 67271,
+      "total_damage_taken": 75859,
+      "average_vision_score": 13,
+      "total_wards_placed": 22,
+      "average_creep_score": 94,
+      "average_champion_experience": 10260,
+      "dmg_carry": "Nilah",
+      "obj_carry": "Nilah",
+      "match_id": "NA1_4396723189"
+    }
+  }
+}

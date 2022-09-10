@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58440,
+      "total_gold_spent": 51375,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 98951,
+      "total_damage_dealt_to_objectives": 73545,
+      "total_damage_taken": 110599,
+      "average_vision_score": 28,
+      "total_wards_placed": 50,
+      "average_creep_score": 123,
+      "average_champion_experience": 13870,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4348322599"
+    },
+    "200": {
+      "total_gold_earned": 52118,
+      "total_gold_spent": 49255,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 86630,
+      "total_damage_dealt_to_objectives": 31310,
+      "total_damage_taken": 125270,
+      "average_vision_score": 23,
+      "total_wards_placed": 66,
+      "average_creep_score": 109,
+      "average_champion_experience": 12193,
+      "dmg_carry": "Vex",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4348322599"
+    }
+  }
+}

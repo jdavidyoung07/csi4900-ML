@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60498,
+      "total_gold_spent": 57320,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 110841,
+      "total_damage_dealt_to_objectives": 27560,
+      "total_damage_taken": 116096,
+      "average_vision_score": 25,
+      "total_wards_placed": 68,
+      "average_creep_score": 121,
+      "average_champion_experience": 13386,
+      "dmg_carry": "Diana",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4297642410"
+    },
+    "200": {
+      "total_gold_earned": 63722,
+      "total_gold_spent": 60133,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 47,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 96849,
+      "total_damage_dealt_to_objectives": 85622,
+      "total_damage_taken": 144038,
+      "average_vision_score": 18,
+      "total_wards_placed": 45,
+      "average_creep_score": 103,
+      "average_champion_experience": 14201,
+      "dmg_carry": "Ornn",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4297642410"
+    }
+  }
+}

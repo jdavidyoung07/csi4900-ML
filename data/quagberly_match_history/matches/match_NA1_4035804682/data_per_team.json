@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 27,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46100,
+      "total_gold_spent": 43050,
+      "team_comp": [
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 76617,
+      "total_damage_dealt_to_objectives": 49835,
+      "total_damage_taken": 98650,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 81,
+      "average_champion_experience": 10095,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4035804682"
+    },
+    "200": {
+      "total_gold_earned": 57889,
+      "total_gold_spent": 50575,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 77159,
+      "total_damage_dealt_to_objectives": 53809,
+      "total_damage_taken": 104692,
+      "average_vision_score": 15,
+      "total_wards_placed": 43,
+      "average_creep_score": 102,
+      "average_champion_experience": 11982,
+      "dmg_carry": "Yone",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4035804682"
+    }
+  }
+}

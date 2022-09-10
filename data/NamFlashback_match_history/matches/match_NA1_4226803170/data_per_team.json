@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67933,
+      "total_gold_spent": 63335,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 125819,
+      "total_damage_dealt_to_objectives": 48551,
+      "total_damage_taken": 168484,
+      "average_vision_score": 30,
+      "total_wards_placed": 73,
+      "average_creep_score": 137,
+      "average_champion_experience": 15953,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4226803170"
+    },
+    "200": {
+      "total_gold_earned": 72477,
+      "total_gold_spent": 65840,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 138293,
+      "total_damage_dealt_to_objectives": 105871,
+      "total_damage_taken": 159603,
+      "average_vision_score": 33,
+      "total_wards_placed": 59,
+      "average_creep_score": 136,
+      "average_champion_experience": 16247,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4226803170"
+    }
+  }
+}

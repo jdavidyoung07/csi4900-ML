@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65582,
+      "total_gold_spent": 61725,
+      "team_comp": [
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 124973,
+      "total_damage_dealt_to_objectives": 57314,
+      "total_damage_taken": 130263,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 108,
+      "average_champion_experience": 14816,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4250898532"
+    },
+    "200": {
+      "total_gold_earned": 65519,
+      "total_gold_spent": 60900,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 103862,
+      "total_damage_dealt_to_objectives": 62125,
+      "total_damage_taken": 160275,
+      "average_vision_score": 22,
+      "total_wards_placed": 61,
+      "average_creep_score": 137,
+      "average_champion_experience": 16584,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4250898532"
+    }
+  }
+}

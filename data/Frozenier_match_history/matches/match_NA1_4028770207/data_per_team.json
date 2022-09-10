@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49212,
+      "total_gold_spent": 49103,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 65727,
+      "total_damage_dealt_to_objectives": 27881,
+      "total_damage_taken": 123019,
+      "average_vision_score": 25,
+      "total_wards_placed": 53,
+      "average_creep_score": 127,
+      "average_champion_experience": 11879,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4028770207"
+    },
+    "200": {
+      "total_gold_earned": 62086,
+      "total_gold_spent": 52618,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 92472,
+      "total_damage_dealt_to_objectives": 57553,
+      "total_damage_taken": 90072,
+      "average_vision_score": 27,
+      "total_wards_placed": 56,
+      "average_creep_score": 121,
+      "average_champion_experience": 14769,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4028770207"
+    }
+  }
+}

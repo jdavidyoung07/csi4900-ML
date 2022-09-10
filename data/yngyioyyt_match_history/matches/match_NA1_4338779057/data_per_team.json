@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60913,
+      "total_gold_spent": 50195,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 108303,
+      "total_damage_dealt_to_objectives": 69921,
+      "total_damage_taken": 105072,
+      "average_vision_score": 20,
+      "total_wards_placed": 36,
+      "average_creep_score": 114,
+      "average_champion_experience": 14912,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4338779057"
+    },
+    "200": {
+      "total_gold_earned": 51036,
+      "total_gold_spent": 49335,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 81561,
+      "total_damage_dealt_to_objectives": 34194,
+      "total_damage_taken": 143682,
+      "average_vision_score": 21,
+      "total_wards_placed": 45,
+      "average_creep_score": 112,
+      "average_champion_experience": 13091,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4338779057"
+    }
+  }
+}

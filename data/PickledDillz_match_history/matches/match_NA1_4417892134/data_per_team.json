@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56547,
+      "total_gold_spent": 53610,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 105270,
+      "total_damage_dealt_to_objectives": 66436,
+      "total_damage_taken": 112206,
+      "average_vision_score": 22,
+      "total_wards_placed": 58,
+      "average_creep_score": 113,
+      "average_champion_experience": 12450,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4417892134"
+    },
+    "200": {
+      "total_gold_earned": 58873,
+      "total_gold_spent": 50385,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 79711,
+      "total_damage_dealt_to_objectives": 79568,
+      "total_damage_taken": 129821,
+      "average_vision_score": 28,
+      "total_wards_placed": 51,
+      "average_creep_score": 114,
+      "average_champion_experience": 14341,
+      "dmg_carry": "Riven",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4417892134"
+    }
+  }
+}

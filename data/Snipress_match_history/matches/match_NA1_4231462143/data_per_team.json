@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55630,
+      "total_gold_spent": 46825,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 75336,
+      "total_damage_dealt_to_objectives": 57008,
+      "total_damage_taken": 76734,
+      "average_vision_score": 24,
+      "total_wards_placed": 57,
+      "average_creep_score": 122,
+      "average_champion_experience": 12560,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4231462143"
+    },
+    "200": {
+      "total_gold_earned": 44091,
+      "total_gold_spent": 48330,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 46733,
+      "total_damage_dealt_to_objectives": 23264,
+      "total_damage_taken": 90976,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 112,
+      "average_champion_experience": 9955,
+      "dmg_carry": "Lux",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4231462143"
+    }
+  }
+}

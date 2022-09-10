@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42136,
+      "total_gold_spent": 39775,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 54544,
+      "total_damage_dealt_to_objectives": 28911,
+      "total_damage_taken": 83168,
+      "average_vision_score": 19,
+      "total_wards_placed": 49,
+      "average_creep_score": 92,
+      "average_champion_experience": 9722,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4232603163"
+    },
+    "200": {
+      "total_gold_earned": 45945,
+      "total_gold_spent": 41325,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 70067,
+      "total_damage_dealt_to_objectives": 49093,
+      "total_damage_taken": 78732,
+      "average_vision_score": 17,
+      "total_wards_placed": 40,
+      "average_creep_score": 86,
+      "average_champion_experience": 10338,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4232603163"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53068,
+      "total_gold_spent": 50850,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 94331,
+      "total_damage_dealt_to_objectives": 41727,
+      "total_damage_taken": 105696,
+      "average_vision_score": 27,
+      "total_wards_placed": 57,
+      "average_creep_score": 126,
+      "average_champion_experience": 13027,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4062498747"
+    },
+    "200": {
+      "total_gold_earned": 54983,
+      "total_gold_spent": 49065,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 72357,
+      "total_damage_dealt_to_objectives": 47190,
+      "total_damage_taken": 118988,
+      "average_vision_score": 26,
+      "total_wards_placed": 49,
+      "average_creep_score": 116,
+      "average_champion_experience": 14404,
+      "dmg_carry": "Azir",
+      "obj_carry": "Azir",
+      "match_id": "NA1_4062498747"
+    }
+  }
+}

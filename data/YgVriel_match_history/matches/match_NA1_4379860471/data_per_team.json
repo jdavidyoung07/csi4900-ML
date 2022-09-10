@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51129,
+      "total_gold_spent": 47600,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 95976,
+      "total_damage_dealt_to_objectives": 30656,
+      "total_damage_taken": 103661,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 102,
+      "average_champion_experience": 11721,
+      "dmg_carry": "Swain",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4379860471"
+    },
+    "200": {
+      "total_gold_earned": 56765,
+      "total_gold_spent": 50725,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 83137,
+      "total_damage_dealt_to_objectives": 35691,
+      "total_damage_taken": 123453,
+      "average_vision_score": 21,
+      "total_wards_placed": 64,
+      "average_creep_score": 109,
+      "average_champion_experience": 12281,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4379860471"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 37,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64967,
+      "total_gold_spent": 62033,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 130672,
+      "total_damage_dealt_to_objectives": 47273,
+      "total_damage_taken": 156854,
+      "average_vision_score": 41,
+      "total_wards_placed": 98,
+      "average_creep_score": 146,
+      "average_champion_experience": 15010,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Ryze",
+      "match_id": "NA1_4040946912"
+    },
+    "200": {
+      "total_gold_earned": 73079,
+      "total_gold_spent": 68150,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 124808,
+      "total_damage_dealt_to_objectives": 60524,
+      "total_damage_taken": 165647,
+      "average_vision_score": 41,
+      "total_wards_placed": 77,
+      "average_creep_score": 146,
+      "average_champion_experience": 18099,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4040946912"
+    }
+  }
+}

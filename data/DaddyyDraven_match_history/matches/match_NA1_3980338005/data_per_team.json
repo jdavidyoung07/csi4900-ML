@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 21,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33290,
+      "total_gold_spent": 27150,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 37218,
+      "total_damage_dealt_to_objectives": 29044,
+      "total_damage_taken": 43984,
+      "average_vision_score": 13,
+      "total_wards_placed": 28,
+      "average_creep_score": 66,
+      "average_champion_experience": 7531,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Brand",
+      "match_id": "NA1_3980338005"
+    },
+    "200": {
+      "total_gold_earned": 27571,
+      "total_gold_spent": 24135,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 23536,
+      "total_damage_dealt_to_objectives": 8829,
+      "total_damage_taken": 49679,
+      "average_vision_score": 8,
+      "total_wards_placed": 22,
+      "average_creep_score": 69,
+      "average_champion_experience": 6675,
+      "dmg_carry": "Lux",
+      "obj_carry": "Garen",
+      "match_id": "NA1_3980338005"
+    }
+  }
+}

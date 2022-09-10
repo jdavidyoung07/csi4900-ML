@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68527,
+      "total_gold_spent": 64290,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 113784,
+      "total_damage_dealt_to_objectives": 68856,
+      "total_damage_taken": 158148,
+      "average_vision_score": 36,
+      "total_wards_placed": 74,
+      "average_creep_score": 144,
+      "average_champion_experience": 16720,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4178867042"
+    },
+    "200": {
+      "total_gold_earned": 73301,
+      "total_gold_spent": 70008,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 126942,
+      "total_damage_dealt_to_objectives": 80151,
+      "total_damage_taken": 145474,
+      "average_vision_score": 29,
+      "total_wards_placed": 58,
+      "average_creep_score": 133,
+      "average_champion_experience": 17477,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4178867042"
+    }
+  }
+}

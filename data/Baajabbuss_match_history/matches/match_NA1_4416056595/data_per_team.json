@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 32636,
+      "total_gold_spent": 30000,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 44290,
+      "total_damage_dealt_to_objectives": 17383,
+      "total_damage_taken": 63068,
+      "average_vision_score": 13,
+      "total_wards_placed": 30,
+      "average_creep_score": 78,
+      "average_champion_experience": 7806,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4416056595"
+    },
+    "200": {
+      "total_gold_earned": 43080,
+      "total_gold_spent": 35675,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 48065,
+      "total_damage_dealt_to_objectives": 44866,
+      "total_damage_taken": 66293,
+      "average_vision_score": 23,
+      "total_wards_placed": 38,
+      "average_creep_score": 87,
+      "average_champion_experience": 9045,
+      "dmg_carry": "Zoe",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4416056595"
+    }
+  }
+}

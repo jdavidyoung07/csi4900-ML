@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85939,
+      "total_gold_spent": 81530,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 217038,
+      "total_damage_dealt_to_objectives": 60626,
+      "total_damage_taken": 222369,
+      "average_vision_score": 41,
+      "total_wards_placed": 81,
+      "average_creep_score": 192,
+      "average_champion_experience": 21975,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4381101150"
+    },
+    "200": {
+      "total_gold_earned": 88717,
+      "total_gold_spent": 89925,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 180259,
+      "total_damage_dealt_to_objectives": 83640,
+      "total_damage_taken": 272753,
+      "average_vision_score": 37,
+      "total_wards_placed": 70,
+      "average_creep_score": 177,
+      "average_champion_experience": 22003,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4381101150"
+    }
+  }
+}

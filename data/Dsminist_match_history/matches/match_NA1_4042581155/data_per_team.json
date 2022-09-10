@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 38,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76091,
+      "total_gold_spent": 69425,
+      "team_comp": [
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 145574,
+      "total_damage_dealt_to_objectives": 69183,
+      "total_damage_taken": 173828,
+      "average_vision_score": 44,
+      "total_wards_placed": 82,
+      "average_creep_score": 147,
+      "average_champion_experience": 19369,
+      "dmg_carry": "Brand",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4042581155"
+    },
+    "200": {
+      "total_gold_earned": 75595,
+      "total_gold_spent": 79335,
+      "team_comp": [
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 48,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 135221,
+      "total_damage_dealt_to_objectives": 67726,
+      "total_damage_taken": 177901,
+      "average_vision_score": 34,
+      "total_wards_placed": 75,
+      "average_creep_score": 147,
+      "average_champion_experience": 19020,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Lux",
+      "match_id": "NA1_4042581155"
+    }
+  }
+}

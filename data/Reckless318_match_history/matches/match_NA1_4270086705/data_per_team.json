@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67873,
+      "total_gold_spent": 61348,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 120427,
+      "total_damage_dealt_to_objectives": 55145,
+      "total_damage_taken": 195127,
+      "average_vision_score": 21,
+      "total_wards_placed": 58,
+      "average_creep_score": 146,
+      "average_champion_experience": 15804,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4270086705"
+    },
+    "200": {
+      "total_gold_earned": 63023,
+      "total_gold_spent": 61375,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 160585,
+      "total_damage_dealt_to_objectives": 57215,
+      "total_damage_taken": 141102,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 131,
+      "average_champion_experience": 14952,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4270086705"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 28525,
+      "total_gold_spent": 25710,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 31354,
+      "total_damage_dealt_to_objectives": 3134,
+      "total_damage_taken": 61005,
+      "average_vision_score": 9,
+      "total_wards_placed": 26,
+      "average_creep_score": 69,
+      "average_champion_experience": 6484,
+      "dmg_carry": "Samira",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4412272216"
+    },
+    "200": {
+      "total_gold_earned": 45779,
+      "total_gold_spent": 37915,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 50521,
+      "total_damage_dealt_to_objectives": 66724,
+      "total_damage_taken": 48478,
+      "average_vision_score": 13,
+      "total_wards_placed": 26,
+      "average_creep_score": 89,
+      "average_champion_experience": 8689,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4412272216"
+    }
+  }
+}

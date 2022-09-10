@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67085,
+      "total_gold_spent": 61850,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 123365,
+      "total_damage_dealt_to_objectives": 67336,
+      "total_damage_taken": 115427,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 116,
+      "average_champion_experience": 15469,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4172833177"
+    },
+    "200": {
+      "total_gold_earned": 56258,
+      "total_gold_spent": 56540,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 86344,
+      "total_damage_dealt_to_objectives": 27375,
+      "total_damage_taken": 149929,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 126,
+      "average_champion_experience": 13475,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Evelynn",
+      "match_id": "NA1_4172833177"
+    }
+  }
+}

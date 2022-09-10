@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64150,
+      "total_gold_spent": 57288,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 115737,
+      "total_damage_dealt_to_objectives": 88725,
+      "total_damage_taken": 130606,
+      "average_vision_score": 31,
+      "total_wards_placed": 52,
+      "average_creep_score": 121,
+      "average_champion_experience": 14618,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4426211596"
+    },
+    "200": {
+      "total_gold_earned": 50789,
+      "total_gold_spent": 48740,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 94715,
+      "total_damage_dealt_to_objectives": 28018,
+      "total_damage_taken": 138945,
+      "average_vision_score": 32,
+      "total_wards_placed": 70,
+      "average_creep_score": 101,
+      "average_champion_experience": 11498,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4426211596"
+    }
+  }
+}

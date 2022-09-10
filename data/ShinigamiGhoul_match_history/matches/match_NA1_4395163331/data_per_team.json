@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49580,
+      "total_gold_spent": 47885,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 69898,
+      "total_damage_dealt_to_objectives": 41614,
+      "total_damage_taken": 130069,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 120,
+      "average_champion_experience": 11104,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4395163331"
+    },
+    "200": {
+      "total_gold_earned": 58711,
+      "total_gold_spent": 47875,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 98513,
+      "total_damage_dealt_to_objectives": 68591,
+      "total_damage_taken": 97585,
+      "average_vision_score": 29,
+      "total_wards_placed": 54,
+      "average_creep_score": 112,
+      "average_champion_experience": 14304,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4395163331"
+    }
+  }
+}

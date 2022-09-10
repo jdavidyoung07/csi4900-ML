@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67153,
+      "total_gold_spent": 62908,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 151478,
+      "total_damage_dealt_to_objectives": 29240,
+      "total_damage_taken": 173647,
+      "average_vision_score": 35,
+      "total_wards_placed": 76,
+      "average_creep_score": 129,
+      "average_champion_experience": 15281,
+      "dmg_carry": "Lux",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4376793683"
+    },
+    "200": {
+      "total_gold_earned": 72611,
+      "total_gold_spent": 66680,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 147180,
+      "total_damage_dealt_to_objectives": 107210,
+      "total_damage_taken": 183426,
+      "average_vision_score": 35,
+      "total_wards_placed": 78,
+      "average_creep_score": 127,
+      "average_champion_experience": 16732,
+      "dmg_carry": "Graves",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4376793683"
+    }
+  }
+}

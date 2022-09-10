@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48716,
+      "total_gold_spent": 47185,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 83700,
+      "total_damage_dealt_to_objectives": 34685,
+      "total_damage_taken": 89032,
+      "average_vision_score": 26,
+      "total_wards_placed": 52,
+      "average_creep_score": 88,
+      "average_champion_experience": 10114,
+      "dmg_carry": "Lux",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4429701009"
+    },
+    "200": {
+      "total_gold_earned": 52166,
+      "total_gold_spent": 46790,
+      "team_comp": [
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 75391,
+      "total_damage_dealt_to_objectives": 63485,
+      "total_damage_taken": 103251,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 100,
+      "average_champion_experience": 11060,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4429701009"
+    }
+  }
+}

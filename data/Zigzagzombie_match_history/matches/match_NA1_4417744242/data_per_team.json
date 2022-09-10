@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64210,
+      "total_gold_spent": 59750,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 131246,
+      "total_damage_dealt_to_objectives": 60610,
+      "total_damage_taken": 138071,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 135,
+      "average_champion_experience": 16156,
+      "dmg_carry": "Lux",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4417744242"
+    },
+    "200": {
+      "total_gold_earned": 69326,
+      "total_gold_spent": 65300,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 113646,
+      "total_damage_dealt_to_objectives": 101277,
+      "total_damage_taken": 168332,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 123,
+      "average_champion_experience": 16220,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4417744242"
+    }
+  }
+}

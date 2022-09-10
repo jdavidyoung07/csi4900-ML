@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62875,
+      "total_gold_spent": 57977,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 95487,
+      "total_damage_dealt_to_objectives": 48423,
+      "total_damage_taken": 146578,
+      "average_vision_score": 30,
+      "total_wards_placed": 75,
+      "average_creep_score": 129,
+      "average_champion_experience": 15154,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4378796534"
+    },
+    "200": {
+      "total_gold_earned": 74932,
+      "total_gold_spent": 68161,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 40,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 129670,
+      "total_damage_dealt_to_objectives": 119905,
+      "total_damage_taken": 133501,
+      "average_vision_score": 30,
+      "total_wards_placed": 84,
+      "average_creep_score": 151,
+      "average_champion_experience": 19007,
+      "dmg_carry": "Darius",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4378796534"
+    }
+  }
+}

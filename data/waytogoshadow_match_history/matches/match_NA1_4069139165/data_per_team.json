@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70220,
+      "total_gold_spent": 66460,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 162733,
+      "total_damage_dealt_to_objectives": 44132,
+      "total_damage_taken": 167619,
+      "average_vision_score": 30,
+      "total_wards_placed": 73,
+      "average_creep_score": 116,
+      "average_champion_experience": 17846,
+      "dmg_carry": "Graves",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4069139165"
+    },
+    "200": {
+      "total_gold_earned": 76391,
+      "total_gold_spent": 70825,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 54,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 146164,
+      "total_damage_dealt_to_objectives": 98695,
+      "total_damage_taken": 212161,
+      "average_vision_score": 30,
+      "total_wards_placed": 66,
+      "average_creep_score": 117,
+      "average_champion_experience": 18922,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4069139165"
+    }
+  }
+}

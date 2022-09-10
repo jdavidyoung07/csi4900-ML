@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81361,
+      "total_gold_spent": 69550,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 134434,
+      "total_damage_dealt_to_objectives": 126871,
+      "total_damage_taken": 139517,
+      "average_vision_score": 39,
+      "total_wards_placed": 70,
+      "average_creep_score": 148,
+      "average_champion_experience": 20572,
+      "dmg_carry": "Talon",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4181766057"
+    },
+    "200": {
+      "total_gold_earned": 78528,
+      "total_gold_spent": 77125,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 107459,
+      "total_damage_dealt_to_objectives": 26434,
+      "total_damage_taken": 157180,
+      "average_vision_score": 39,
+      "total_wards_placed": 74,
+      "average_creep_score": 171,
+      "average_champion_experience": 17952,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4181766057"
+    }
+  }
+}

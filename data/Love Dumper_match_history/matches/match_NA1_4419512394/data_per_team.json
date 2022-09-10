@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51367,
+      "total_gold_spent": 48333,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 69213,
+      "total_damage_dealt_to_objectives": 29499,
+      "total_damage_taken": 119233,
+      "average_vision_score": 18,
+      "total_wards_placed": 52,
+      "average_creep_score": 116,
+      "average_champion_experience": 11528,
+      "dmg_carry": "Draven",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_4419512394"
+    },
+    "200": {
+      "total_gold_earned": 60242,
+      "total_gold_spent": 54850,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 41,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 98988,
+      "total_damage_dealt_to_objectives": 83474,
+      "total_damage_taken": 92941,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 107,
+      "average_champion_experience": 13424,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4419512394"
+    }
+  }
+}

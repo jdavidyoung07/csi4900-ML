@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 34193,
+      "total_gold_spent": 31260,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 59471,
+      "total_damage_dealt_to_objectives": 17143,
+      "total_damage_taken": 71980,
+      "average_vision_score": 15,
+      "total_wards_placed": 37,
+      "average_creep_score": 83,
+      "average_champion_experience": 8587,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4416175532"
+    },
+    "200": {
+      "total_gold_earned": 41391,
+      "total_gold_spent": 34800,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 49826,
+      "total_damage_dealt_to_objectives": 53338,
+      "total_damage_taken": 84010,
+      "average_vision_score": 15,
+      "total_wards_placed": 31,
+      "average_creep_score": 86,
+      "average_champion_experience": 9822,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4416175532"
+    }
+  }
+}

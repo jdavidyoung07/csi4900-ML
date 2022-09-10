@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69099,
+      "total_gold_spent": 62650,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 125943,
+      "total_damage_dealt_to_objectives": 98780,
+      "total_damage_taken": 130884,
+      "average_vision_score": 38,
+      "total_wards_placed": 75,
+      "average_creep_score": 136,
+      "average_champion_experience": 18840,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4224838244"
+    },
+    "200": {
+      "total_gold_earned": 72067,
+      "total_gold_spent": 67060,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 100573,
+      "total_damage_dealt_to_objectives": 43411,
+      "total_damage_taken": 159287,
+      "average_vision_score": 39,
+      "total_wards_placed": 77,
+      "average_creep_score": 156,
+      "average_champion_experience": 18587,
+      "dmg_carry": "Lux",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4224838244"
+    }
+  }
+}

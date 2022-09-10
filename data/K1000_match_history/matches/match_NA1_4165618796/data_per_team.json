@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37936,
+      "total_gold_spent": 36335,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 42120,
+      "total_damage_dealt_to_objectives": 17512,
+      "total_damage_taken": 81719,
+      "average_vision_score": 16,
+      "total_wards_placed": 37,
+      "average_creep_score": 97,
+      "average_champion_experience": 9600,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4165618796"
+    },
+    "200": {
+      "total_gold_earned": 51607,
+      "total_gold_spent": 43910,
+      "team_comp": [
+        {
+          "champName": "Leona",
+          "champId": 89
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 28,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 61620,
+      "total_damage_dealt_to_objectives": 59597,
+      "total_damage_taken": 74293,
+      "average_vision_score": 18,
+      "total_wards_placed": 42,
+      "average_creep_score": 92,
+      "average_champion_experience": 12064,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4165618796"
+    }
+  }
+}

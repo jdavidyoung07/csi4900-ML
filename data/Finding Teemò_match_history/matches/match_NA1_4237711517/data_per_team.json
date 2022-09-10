@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64173,
+      "total_gold_spent": 62583,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 137461,
+      "total_damage_dealt_to_objectives": 22603,
+      "total_damage_taken": 161424,
+      "average_vision_score": 32,
+      "total_wards_placed": 76,
+      "average_creep_score": 141,
+      "average_champion_experience": 16012,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4237711517"
+    },
+    "200": {
+      "total_gold_earned": 80140,
+      "total_gold_spent": 70925,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 135249,
+      "total_damage_dealt_to_objectives": 108150,
+      "total_damage_taken": 172231,
+      "average_vision_score": 32,
+      "total_wards_placed": 74,
+      "average_creep_score": 140,
+      "average_champion_experience": 19841,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4237711517"
+    }
+  }
+}

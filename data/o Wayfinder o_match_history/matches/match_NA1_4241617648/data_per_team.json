@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42005,
+      "total_gold_spent": 39375,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 69577,
+      "total_damage_dealt_to_objectives": 3421,
+      "total_damage_taken": 79692,
+      "average_vision_score": 23,
+      "total_wards_placed": 58,
+      "average_creep_score": 95,
+      "average_champion_experience": 10458,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4241617648"
+    },
+    "200": {
+      "total_gold_earned": 54718,
+      "total_gold_spent": 48275,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 63292,
+      "total_damage_dealt_to_objectives": 70746,
+      "total_damage_taken": 98293,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 105,
+      "average_champion_experience": 12215,
+      "dmg_carry": "AurelionSol",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4241617648"
+    }
+  }
+}

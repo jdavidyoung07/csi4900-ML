@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42148,
+      "total_gold_spent": 39860,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 70656,
+      "total_damage_dealt_to_objectives": 9783,
+      "total_damage_taken": 120769,
+      "average_vision_score": 13,
+      "total_wards_placed": 31,
+      "average_creep_score": 84,
+      "average_champion_experience": 8948,
+      "dmg_carry": "Warwick",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4426612786"
+    },
+    "200": {
+      "total_gold_earned": 56638,
+      "total_gold_spent": 48550,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 53,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 100125,
+      "total_damage_dealt_to_objectives": 63305,
+      "total_damage_taken": 105024,
+      "average_vision_score": 12,
+      "total_wards_placed": 24,
+      "average_creep_score": 83,
+      "average_champion_experience": 11738,
+      "dmg_carry": "Samira",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4426612786"
+    }
+  }
+}

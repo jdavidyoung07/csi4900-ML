@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58256,
+      "total_gold_spent": 58050,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 79193,
+      "total_damage_dealt_to_objectives": 43878,
+      "total_damage_taken": 143189,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 111,
+      "average_champion_experience": 12977,
+      "dmg_carry": "Samira",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4247882039"
+    },
+    "200": {
+      "total_gold_earned": 67797,
+      "total_gold_spent": 60700,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 116859,
+      "total_damage_dealt_to_objectives": 83079,
+      "total_damage_taken": 115810,
+      "average_vision_score": 27,
+      "total_wards_placed": 50,
+      "average_creep_score": 106,
+      "average_champion_experience": 15857,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4247882039"
+    }
+  }
+}

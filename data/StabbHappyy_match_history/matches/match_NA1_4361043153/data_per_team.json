@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64499,
+      "total_gold_spent": 62683,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 143782,
+      "total_damage_dealt_to_objectives": 38795,
+      "total_damage_taken": 155704,
+      "average_vision_score": 30,
+      "total_wards_placed": 61,
+      "average_creep_score": 147,
+      "average_champion_experience": 16311,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4361043153"
+    },
+    "200": {
+      "total_gold_earned": 73047,
+      "total_gold_spent": 66425,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 28,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 123670,
+      "total_damage_dealt_to_objectives": 93093,
+      "total_damage_taken": 185835,
+      "average_vision_score": 39,
+      "total_wards_placed": 70,
+      "average_creep_score": 158,
+      "average_champion_experience": 17818,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4361043153"
+    }
+  }
+}

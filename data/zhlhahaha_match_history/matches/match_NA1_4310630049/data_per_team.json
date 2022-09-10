@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49527,
+      "total_gold_spent": 44850,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 76457,
+      "total_damage_dealt_to_objectives": 41016,
+      "total_damage_taken": 63781,
+      "average_vision_score": 15,
+      "total_wards_placed": 30,
+      "average_creep_score": 97,
+      "average_champion_experience": 10706,
+      "dmg_carry": "Zed",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4310630049"
+    },
+    "200": {
+      "total_gold_earned": 38746,
+      "total_gold_spent": 35950,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 46641,
+      "total_damage_dealt_to_objectives": 27992,
+      "total_damage_taken": 93846,
+      "average_vision_score": 18,
+      "total_wards_placed": 48,
+      "average_creep_score": 86,
+      "average_champion_experience": 9078,
+      "dmg_carry": "Brand",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4310630049"
+    }
+  }
+}

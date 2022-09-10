@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63191,
+      "total_gold_spent": 59175,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 81359,
+      "total_damage_dealt_to_objectives": 55375,
+      "total_damage_taken": 168686,
+      "average_vision_score": 32,
+      "total_wards_placed": 55,
+      "average_creep_score": 127,
+      "average_champion_experience": 13861,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4419372085"
+    },
+    "200": {
+      "total_gold_earned": 70470,
+      "total_gold_spent": 65183,
+      "team_comp": [
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 134005,
+      "total_damage_dealt_to_objectives": 79502,
+      "total_damage_taken": 112611,
+      "average_vision_score": 24,
+      "total_wards_placed": 66,
+      "average_creep_score": 105,
+      "average_champion_experience": 16358,
+      "dmg_carry": "Lux",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4419372085"
+    }
+  }
+}

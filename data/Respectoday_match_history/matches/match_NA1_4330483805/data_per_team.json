@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54037,
+      "total_gold_spent": 50975,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 90674,
+      "total_damage_dealt_to_objectives": 18469,
+      "total_damage_taken": 142260,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 136,
+      "average_champion_experience": 13667,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4330483805"
+    },
+    "200": {
+      "total_gold_earned": 62353,
+      "total_gold_spent": 53270,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 30,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 118157,
+      "total_damage_dealt_to_objectives": 84545,
+      "total_damage_taken": 129901,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 127,
+      "average_champion_experience": 15175,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4330483805"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57654,
+      "total_gold_spent": 55830,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 95561,
+      "total_damage_dealt_to_objectives": 35905,
+      "total_damage_taken": 165032,
+      "average_vision_score": 27,
+      "total_wards_placed": 65,
+      "average_creep_score": 123,
+      "average_champion_experience": 13760,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4040439569"
+    },
+    "200": {
+      "total_gold_earned": 70462,
+      "total_gold_spent": 63910,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 142318,
+      "total_damage_dealt_to_objectives": 88348,
+      "total_damage_taken": 124625,
+      "average_vision_score": 36,
+      "total_wards_placed": 53,
+      "average_creep_score": 136,
+      "average_champion_experience": 16709,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4040439569"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55574,
+      "total_gold_spent": 52533,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 79064,
+      "total_damage_dealt_to_objectives": 40381,
+      "total_damage_taken": 122982,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 135,
+      "average_champion_experience": 13482,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4104533182"
+    },
+    "200": {
+      "total_gold_earned": 66591,
+      "total_gold_spent": 59783,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 98104,
+      "total_damage_dealt_to_objectives": 72119,
+      "total_damage_taken": 106092,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 134,
+      "average_champion_experience": 16530,
+      "dmg_carry": "Vi",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4104533182"
+    }
+  }
+}

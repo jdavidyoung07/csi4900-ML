@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58536,
+      "total_gold_spent": 58235,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 102378,
+      "total_damage_dealt_to_objectives": 38193,
+      "total_damage_taken": 112969,
+      "average_vision_score": 18,
+      "total_wards_placed": 39,
+      "average_creep_score": 119,
+      "average_champion_experience": 12606,
+      "dmg_carry": "Diana",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4136659806"
+    },
+    "200": {
+      "total_gold_earned": 65871,
+      "total_gold_spent": 56110,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 96237,
+      "total_damage_dealt_to_objectives": 69829,
+      "total_damage_taken": 135299,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 113,
+      "average_champion_experience": 15260,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4136659806"
+    }
+  }
+}

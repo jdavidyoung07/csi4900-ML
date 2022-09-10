@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63928,
+      "total_gold_spent": 59825,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 101157,
+      "total_damage_dealt_to_objectives": 52919,
+      "total_damage_taken": 160533,
+      "average_vision_score": 40,
+      "total_wards_placed": 80,
+      "average_creep_score": 127,
+      "average_champion_experience": 13775,
+      "dmg_carry": "Brand",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4180412410"
+    },
+    "200": {
+      "total_gold_earned": 74024,
+      "total_gold_spent": 70370,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 133991,
+      "total_damage_dealt_to_objectives": 64748,
+      "total_damage_taken": 141019,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 122,
+      "average_champion_experience": 16697,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4180412410"
+    }
+  }
+}

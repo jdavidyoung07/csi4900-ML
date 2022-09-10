@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74835,
+      "total_gold_spent": 64550,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 56,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 149224,
+      "total_damage_dealt_to_objectives": 56241,
+      "total_damage_taken": 171537,
+      "average_vision_score": 33,
+      "total_wards_placed": 95,
+      "average_creep_score": 103,
+      "average_champion_experience": 18174,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4098079241"
+    },
+    "200": {
+      "total_gold_earned": 75920,
+      "total_gold_spent": 73780,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 143481,
+      "total_damage_dealt_to_objectives": 69196,
+      "total_damage_taken": 184045,
+      "average_vision_score": 43,
+      "total_wards_placed": 71,
+      "average_creep_score": 111,
+      "average_champion_experience": 16965,
+      "dmg_carry": "Talon",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4098079241"
+    }
+  }
+}

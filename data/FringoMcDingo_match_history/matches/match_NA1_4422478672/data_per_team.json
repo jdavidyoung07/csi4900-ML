@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37324,
+      "total_gold_spent": 34483,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 41059,
+      "total_damage_dealt_to_objectives": 13406,
+      "total_damage_taken": 75628,
+      "average_vision_score": 15,
+      "total_wards_placed": 45,
+      "average_creep_score": 104,
+      "average_champion_experience": 8560,
+      "dmg_carry": "Darius",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4422478672"
+    },
+    "200": {
+      "total_gold_earned": 45008,
+      "total_gold_spent": 42225,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 57953,
+      "total_damage_dealt_to_objectives": 60276,
+      "total_damage_taken": 56886,
+      "average_vision_score": 27,
+      "total_wards_placed": 58,
+      "average_creep_score": 93,
+      "average_champion_experience": 10677,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Nilah",
+      "match_id": "NA1_4422478672"
+    }
+  }
+}

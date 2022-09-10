@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61679,
+      "total_gold_spent": 60488,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 97560,
+      "total_damage_dealt_to_objectives": 31203,
+      "total_damage_taken": 122621,
+      "average_vision_score": 33,
+      "total_wards_placed": 79,
+      "average_creep_score": 151,
+      "average_champion_experience": 15829,
+      "dmg_carry": "Darius",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4383958077"
+    },
+    "200": {
+      "total_gold_earned": 70312,
+      "total_gold_spent": 64825,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 92729,
+      "total_damage_dealt_to_objectives": 99479,
+      "total_damage_taken": 123031,
+      "average_vision_score": 31,
+      "total_wards_placed": 44,
+      "average_creep_score": 142,
+      "average_champion_experience": 16890,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4383958077"
+    }
+  }
+}

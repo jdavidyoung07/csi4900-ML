@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45938,
+      "total_gold_spent": 43010,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 65415,
+      "total_damage_dealt_to_objectives": 12425,
+      "total_damage_taken": 94177,
+      "average_vision_score": 23,
+      "total_wards_placed": 39,
+      "average_creep_score": 108,
+      "average_champion_experience": 11053,
+      "dmg_carry": "Vex",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4344944557"
+    },
+    "200": {
+      "total_gold_earned": 57252,
+      "total_gold_spent": 51360,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 74516,
+      "total_damage_dealt_to_objectives": 93262,
+      "total_damage_taken": 104650,
+      "average_vision_score": 23,
+      "total_wards_placed": 55,
+      "average_creep_score": 105,
+      "average_champion_experience": 13195,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Brand",
+      "match_id": "NA1_4344944557"
+    }
+  }
+}

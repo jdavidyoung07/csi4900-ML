@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55575,
+      "total_gold_spent": 53193,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 114791,
+      "total_damage_dealt_to_objectives": 49815,
+      "total_damage_taken": 141447,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 101,
+      "average_champion_experience": 11782,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4324474725"
+    },
+    "200": {
+      "total_gold_earned": 64062,
+      "total_gold_spent": 55335,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 123837,
+      "total_damage_dealt_to_objectives": 74879,
+      "total_damage_taken": 149908,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 104,
+      "average_champion_experience": 14548,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4324474725"
+    }
+  }
+}

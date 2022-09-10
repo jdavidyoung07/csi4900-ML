@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50660,
+      "total_gold_spent": 49013,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 88158,
+      "total_damage_dealt_to_objectives": 26805,
+      "total_damage_taken": 139049,
+      "average_vision_score": 15,
+      "total_wards_placed": 33,
+      "average_creep_score": 121,
+      "average_champion_experience": 11928,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4395221124"
+    },
+    "200": {
+      "total_gold_earned": 61112,
+      "total_gold_spent": 54725,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 120874,
+      "total_damage_dealt_to_objectives": 93406,
+      "total_damage_taken": 127038,
+      "average_vision_score": 28,
+      "total_wards_placed": 58,
+      "average_creep_score": 107,
+      "average_champion_experience": 14053,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4395221124"
+    }
+  }
+}

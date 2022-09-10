@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47276,
+      "total_gold_spent": 44350,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 66652,
+      "total_damage_dealt_to_objectives": 33370,
+      "total_damage_taken": 104328,
+      "average_vision_score": 26,
+      "total_wards_placed": 62,
+      "average_creep_score": 102,
+      "average_champion_experience": 10626,
+      "dmg_carry": "Brand",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_3956487342"
+    },
+    "200": {
+      "total_gold_earned": 61175,
+      "total_gold_spent": 50385,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 86302,
+      "total_damage_dealt_to_objectives": 65514,
+      "total_damage_taken": 96740,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 125,
+      "average_champion_experience": 13978,
+      "dmg_carry": "Riven",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_3956487342"
+    }
+  }
+}

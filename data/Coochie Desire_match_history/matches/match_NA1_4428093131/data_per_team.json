@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 101281,
+      "total_gold_spent": 97350,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        }
+      ],
+      "total_baron_kills": 4,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 54,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 184695,
+      "total_damage_dealt_to_objectives": 193573,
+      "total_damage_taken": 268623,
+      "average_vision_score": 48,
+      "total_wards_placed": 81,
+      "average_creep_score": 175,
+      "average_champion_experience": 26416,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4428093131"
+    },
+    "200": {
+      "total_gold_earned": 92741,
+      "total_gold_spent": 88525,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 227681,
+      "total_damage_dealt_to_objectives": 56576,
+      "total_damage_taken": 215824,
+      "average_vision_score": 38,
+      "total_wards_placed": 84,
+      "average_creep_score": 185,
+      "average_champion_experience": 21668,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4428093131"
+    }
+  }
+}

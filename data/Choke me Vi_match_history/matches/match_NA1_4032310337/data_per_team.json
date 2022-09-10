@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51343,
+      "total_gold_spent": 48950,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 88720,
+      "total_damage_dealt_to_objectives": 9952,
+      "total_damage_taken": 109358,
+      "average_vision_score": 15,
+      "total_wards_placed": 37,
+      "average_creep_score": 117,
+      "average_champion_experience": 12669,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4032310337"
+    },
+    "200": {
+      "total_gold_earned": 58230,
+      "total_gold_spent": 53905,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 46,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 86073,
+      "total_damage_dealt_to_objectives": 89512,
+      "total_damage_taken": 124866,
+      "average_vision_score": 20,
+      "total_wards_placed": 33,
+      "average_creep_score": 94,
+      "average_champion_experience": 13888,
+      "dmg_carry": "Akali",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4032310337"
+    }
+  }
+}

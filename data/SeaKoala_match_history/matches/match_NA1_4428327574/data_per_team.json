@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78785,
+      "total_gold_spent": 71233,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 167500,
+      "total_damage_dealt_to_objectives": 117196,
+      "total_damage_taken": 189606,
+      "average_vision_score": 31,
+      "total_wards_placed": 68,
+      "average_creep_score": 148,
+      "average_champion_experience": 19262,
+      "dmg_carry": "Samira",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4428327574"
+    },
+    "200": {
+      "total_gold_earned": 70453,
+      "total_gold_spent": 66525,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 143486,
+      "total_damage_dealt_to_objectives": 57718,
+      "total_damage_taken": 195038,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 126,
+      "average_champion_experience": 16339,
+      "dmg_carry": "Udyr",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4428327574"
+    }
+  }
+}

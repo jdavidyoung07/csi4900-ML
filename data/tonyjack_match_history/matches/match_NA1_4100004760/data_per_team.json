@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68407,
+      "total_gold_spent": 65050,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 158457,
+      "total_damage_dealt_to_objectives": 57446,
+      "total_damage_taken": 173281,
+      "average_vision_score": 34,
+      "total_wards_placed": 76,
+      "average_creep_score": 154,
+      "average_champion_experience": 18092,
+      "dmg_carry": "Graves",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4100004760"
+    },
+    "200": {
+      "total_gold_earned": 76773,
+      "total_gold_spent": 71370,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 155384,
+      "total_damage_dealt_to_objectives": 96308,
+      "total_damage_taken": 206971,
+      "average_vision_score": 32,
+      "total_wards_placed": 57,
+      "average_creep_score": 140,
+      "average_champion_experience": 18763,
+      "dmg_carry": "Akali",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4100004760"
+    }
+  }
+}

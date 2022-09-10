@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80990,
+      "total_gold_spent": 77118,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 160974,
+      "total_damage_dealt_to_objectives": 49402,
+      "total_damage_taken": 171820,
+      "average_vision_score": 48,
+      "total_wards_placed": 94,
+      "average_creep_score": 145,
+      "average_champion_experience": 17525,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4302064358"
+    },
+    "200": {
+      "total_gold_earned": 79551,
+      "total_gold_spent": 71925,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 139352,
+      "total_damage_dealt_to_objectives": 84770,
+      "total_damage_taken": 192263,
+      "average_vision_score": 36,
+      "total_wards_placed": 77,
+      "average_creep_score": 143,
+      "average_champion_experience": 18978,
+      "dmg_carry": "Ornn",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4302064358"
+    }
+  }
+}

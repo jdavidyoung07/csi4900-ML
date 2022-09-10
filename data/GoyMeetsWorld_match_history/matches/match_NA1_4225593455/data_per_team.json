@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72725,
+      "total_gold_spent": 70400,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 124943,
+      "total_damage_dealt_to_objectives": 48337,
+      "total_damage_taken": 160360,
+      "average_vision_score": 35,
+      "total_wards_placed": 63,
+      "average_creep_score": 179,
+      "average_champion_experience": 18392,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4225593455"
+    },
+    "200": {
+      "total_gold_earned": 80656,
+      "total_gold_spent": 72050,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 121082,
+      "total_damage_dealt_to_objectives": 94485,
+      "total_damage_taken": 159660,
+      "average_vision_score": 39,
+      "total_wards_placed": 79,
+      "average_creep_score": 159,
+      "average_champion_experience": 20286,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4225593455"
+    }
+  }
+}

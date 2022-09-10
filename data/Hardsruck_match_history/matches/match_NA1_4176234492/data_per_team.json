@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59452,
+      "total_gold_spent": 49000,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 87386,
+      "total_damage_dealt_to_objectives": 68587,
+      "total_damage_taken": 95503,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 111,
+      "average_champion_experience": 14629,
+      "dmg_carry": "Zed",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4176234492"
+    },
+    "200": {
+      "total_gold_earned": 47683,
+      "total_gold_spent": 50775,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 64793,
+      "total_damage_dealt_to_objectives": 24411,
+      "total_damage_taken": 108125,
+      "average_vision_score": 18,
+      "total_wards_placed": 44,
+      "average_creep_score": 103,
+      "average_champion_experience": 11000,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4176234492"
+    }
+  }
+}

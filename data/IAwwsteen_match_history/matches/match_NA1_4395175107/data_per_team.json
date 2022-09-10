@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53285,
+      "total_gold_spent": 51875,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 14,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 71404,
+      "total_damage_dealt_to_objectives": 27264,
+      "total_damage_taken": 132304,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 139,
+      "average_champion_experience": 12531,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4395175107"
+    },
+    "200": {
+      "total_gold_earned": 63140,
+      "total_gold_spent": 52595,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 110650,
+      "total_damage_dealt_to_objectives": 90960,
+      "total_damage_taken": 90610,
+      "average_vision_score": 35,
+      "total_wards_placed": 61,
+      "average_creep_score": 124,
+      "average_champion_experience": 15624,
+      "dmg_carry": "Akali",
+      "obj_carry": "Aphelios",
+      "match_id": "NA1_4395175107"
+    }
+  }
+}

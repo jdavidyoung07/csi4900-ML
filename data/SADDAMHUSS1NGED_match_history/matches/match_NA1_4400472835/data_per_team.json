@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62135,
+      "total_gold_spent": 59225,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 112353,
+      "total_damage_dealt_to_objectives": 60556,
+      "total_damage_taken": 129066,
+      "average_vision_score": 24,
+      "total_wards_placed": 62,
+      "average_creep_score": 123,
+      "average_champion_experience": 13822,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4400472835"
+    },
+    "200": {
+      "total_gold_earned": 66023,
+      "total_gold_spent": 59175,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 102207,
+      "total_damage_dealt_to_objectives": 80620,
+      "total_damage_taken": 142479,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 130,
+      "average_champion_experience": 16495,
+      "dmg_carry": "Annie",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4400472835"
+    }
+  }
+}

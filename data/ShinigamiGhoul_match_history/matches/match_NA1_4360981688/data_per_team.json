@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38278,
+      "total_gold_spent": 38420,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 42452,
+      "total_damage_dealt_to_objectives": 29094,
+      "total_damage_taken": 98385,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 98,
+      "average_champion_experience": 8749,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4360981688"
+    },
+    "200": {
+      "total_gold_earned": 54323,
+      "total_gold_spent": 46250,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 28,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 77349,
+      "total_damage_dealt_to_objectives": 68826,
+      "total_damage_taken": 75391,
+      "average_vision_score": 13,
+      "total_wards_placed": 35,
+      "average_creep_score": 101,
+      "average_champion_experience": 11589,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4360981688"
+    }
+  }
+}

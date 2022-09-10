@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51797,
+      "total_gold_spent": 50353,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 23,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 75714,
+      "total_damage_dealt_to_objectives": 43390,
+      "total_damage_taken": 95024,
+      "average_vision_score": 22,
+      "total_wards_placed": 43,
+      "average_creep_score": 103,
+      "average_champion_experience": 11022,
+      "dmg_carry": "Lux",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4195370140"
+    },
+    "200": {
+      "total_gold_earned": 60445,
+      "total_gold_spent": 53158,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 74691,
+      "total_damage_dealt_to_objectives": 67402,
+      "total_damage_taken": 108368,
+      "average_vision_score": 22,
+      "total_wards_placed": 41,
+      "average_creep_score": 119,
+      "average_champion_experience": 13190,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4195370140"
+    }
+  }
+}

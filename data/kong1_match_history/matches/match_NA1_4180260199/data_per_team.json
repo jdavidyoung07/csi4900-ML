@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70803,
+      "total_gold_spent": 67010,
+      "team_comp": [
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 111308,
+      "total_damage_dealt_to_objectives": 101648,
+      "total_damage_taken": 111309,
+      "average_vision_score": 36,
+      "total_wards_placed": 57,
+      "average_creep_score": 156,
+      "average_champion_experience": 17204,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4180260199"
+    },
+    "200": {
+      "total_gold_earned": 60966,
+      "total_gold_spent": 62575,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 74921,
+      "total_damage_dealt_to_objectives": 18164,
+      "total_damage_taken": 136339,
+      "average_vision_score": 26,
+      "total_wards_placed": 63,
+      "average_creep_score": 163,
+      "average_champion_experience": 15752,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4180260199"
+    }
+  }
+}

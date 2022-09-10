@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90738,
+      "total_gold_spent": 84175,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 178104,
+      "total_damage_dealt_to_objectives": 46657,
+      "total_damage_taken": 212589,
+      "average_vision_score": 45,
+      "total_wards_placed": 84,
+      "average_creep_score": 189,
+      "average_champion_experience": 23090,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4261965478"
+    },
+    "200": {
+      "total_gold_earned": 84618,
+      "total_gold_spent": 85615,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 176187,
+      "total_damage_dealt_to_objectives": 93775,
+      "total_damage_taken": 220279,
+      "average_vision_score": 50,
+      "total_wards_placed": 105,
+      "average_creep_score": 142,
+      "average_champion_experience": 21102,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4261965478"
+    }
+  }
+}

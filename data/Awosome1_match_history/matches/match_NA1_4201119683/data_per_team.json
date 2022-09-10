@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60900,
+      "total_gold_spent": 59440,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 106394,
+      "total_damage_dealt_to_objectives": 79934,
+      "total_damage_taken": 100994,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 122,
+      "average_champion_experience": 15611,
+      "dmg_carry": "Vex",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4201119683"
+    },
+    "200": {
+      "total_gold_earned": 52265,
+      "total_gold_spent": 50435,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 69160,
+      "total_damage_dealt_to_objectives": 21104,
+      "total_damage_taken": 125220,
+      "average_vision_score": 21,
+      "total_wards_placed": 58,
+      "average_creep_score": 112,
+      "average_champion_experience": 13302,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4201119683"
+    }
+  }
+}

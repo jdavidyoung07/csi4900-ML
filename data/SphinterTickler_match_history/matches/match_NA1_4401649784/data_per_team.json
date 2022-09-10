@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54788,
+      "total_gold_spent": 53000,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 105324,
+      "total_damage_dealt_to_objectives": 56516,
+      "total_damage_taken": 123186,
+      "average_vision_score": 30,
+      "total_wards_placed": 75,
+      "average_creep_score": 109,
+      "average_champion_experience": 12458,
+      "dmg_carry": "Lux",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4401649784"
+    },
+    "200": {
+      "total_gold_earned": 59930,
+      "total_gold_spent": 53450,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 96378,
+      "total_damage_dealt_to_objectives": 70111,
+      "total_damage_taken": 147394,
+      "average_vision_score": 26,
+      "total_wards_placed": 56,
+      "average_creep_score": 116,
+      "average_champion_experience": 14239,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4401649784"
+    }
+  }
+}

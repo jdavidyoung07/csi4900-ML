@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70056,
+      "total_gold_spent": 69885,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 175699,
+      "total_damage_dealt_to_objectives": 64715,
+      "total_damage_taken": 170319,
+      "average_vision_score": 38,
+      "total_wards_placed": 68,
+      "average_creep_score": 130,
+      "average_champion_experience": 16731,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4303311312"
+    },
+    "200": {
+      "total_gold_earned": 78992,
+      "total_gold_spent": 71275,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 146924,
+      "total_damage_dealt_to_objectives": 89964,
+      "total_damage_taken": 217589,
+      "average_vision_score": 39,
+      "total_wards_placed": 92,
+      "average_creep_score": 155,
+      "average_champion_experience": 18357,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4303311312"
+    }
+  }
+}

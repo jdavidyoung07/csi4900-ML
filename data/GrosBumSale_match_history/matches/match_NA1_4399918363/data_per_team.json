@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65000,
+      "total_gold_spent": 61810,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 121469,
+      "total_damage_dealt_to_objectives": 58639,
+      "total_damage_taken": 157296,
+      "average_vision_score": 32,
+      "total_wards_placed": 65,
+      "average_creep_score": 102,
+      "average_champion_experience": 15025,
+      "dmg_carry": "Akali",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4399918363"
+    },
+    "200": {
+      "total_gold_earned": 67688,
+      "total_gold_spent": 60868,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 125940,
+      "total_damage_dealt_to_objectives": 88141,
+      "total_damage_taken": 151632,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 114,
+      "average_champion_experience": 16888,
+      "dmg_carry": "JarvanIV",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4399918363"
+    }
+  }
+}

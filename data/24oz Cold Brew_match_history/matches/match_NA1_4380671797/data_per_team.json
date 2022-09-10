@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75554,
+      "total_gold_spent": 72890,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 142134,
+      "total_damage_dealt_to_objectives": 46552,
+      "total_damage_taken": 169163,
+      "average_vision_score": 32,
+      "total_wards_placed": 72,
+      "average_creep_score": 154,
+      "average_champion_experience": 20073,
+      "dmg_carry": "Jax",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4380671797"
+    },
+    "200": {
+      "total_gold_earned": 79084,
+      "total_gold_spent": 69575,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 6,
+      "total_kills": 46,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 141346,
+      "total_damage_dealt_to_objectives": 116576,
+      "total_damage_taken": 177968,
+      "average_vision_score": 24,
+      "total_wards_placed": 63,
+      "average_creep_score": 128,
+      "average_champion_experience": 18108,
+      "dmg_carry": "Draven",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4380671797"
+    }
+  }
+}

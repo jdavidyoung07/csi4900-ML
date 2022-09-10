@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77867,
+      "total_gold_spent": 72600,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 138793,
+      "total_damage_dealt_to_objectives": 64320,
+      "total_damage_taken": 153835,
+      "average_vision_score": 33,
+      "total_wards_placed": 64,
+      "average_creep_score": 174,
+      "average_champion_experience": 17194,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4244828698"
+    },
+    "200": {
+      "total_gold_earned": 83357,
+      "total_gold_spent": 79855,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 112886,
+      "total_damage_dealt_to_objectives": 105125,
+      "total_damage_taken": 167246,
+      "average_vision_score": 32,
+      "total_wards_placed": 59,
+      "average_creep_score": 164,
+      "average_champion_experience": 21315,
+      "dmg_carry": "Vi",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4244828698"
+    }
+  }
+}

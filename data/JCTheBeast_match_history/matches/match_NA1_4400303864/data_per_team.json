@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60267,
+      "total_gold_spent": 58768,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 100113,
+      "total_damage_dealt_to_objectives": 45770,
+      "total_damage_taken": 146949,
+      "average_vision_score": 20,
+      "total_wards_placed": 52,
+      "average_creep_score": 100,
+      "average_champion_experience": 13704,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4400303864"
+    },
+    "200": {
+      "total_gold_earned": 65657,
+      "total_gold_spent": 58450,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 39,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 117505,
+      "total_damage_dealt_to_objectives": 105364,
+      "total_damage_taken": 133338,
+      "average_vision_score": 26,
+      "total_wards_placed": 53,
+      "average_creep_score": 105,
+      "average_champion_experience": 14259,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4400303864"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55699,
+      "total_gold_spent": 53708,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 92894,
+      "total_damage_dealt_to_objectives": 31439,
+      "total_damage_taken": 123837,
+      "average_vision_score": 28,
+      "total_wards_placed": 67,
+      "average_creep_score": 111,
+      "average_champion_experience": 12495,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4150829285"
+    },
+    "200": {
+      "total_gold_earned": 62122,
+      "total_gold_spent": 54450,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 97011,
+      "total_damage_dealt_to_objectives": 76674,
+      "total_damage_taken": 128311,
+      "average_vision_score": 19,
+      "total_wards_placed": 35,
+      "average_creep_score": 125,
+      "average_champion_experience": 14467,
+      "dmg_carry": "Fiora",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4150829285"
+    }
+  }
+}

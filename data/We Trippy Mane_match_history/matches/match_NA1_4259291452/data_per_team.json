@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55289,
+      "total_gold_spent": 52208,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 98390,
+      "total_damage_dealt_to_objectives": 40645,
+      "total_damage_taken": 114053,
+      "average_vision_score": 26,
+      "total_wards_placed": 47,
+      "average_creep_score": 103,
+      "average_champion_experience": 12282,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4259291452"
+    },
+    "200": {
+      "total_gold_earned": 57989,
+      "total_gold_spent": 51385,
+      "team_comp": [
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 93052,
+      "total_damage_dealt_to_objectives": 58010,
+      "total_damage_taken": 123528,
+      "average_vision_score": 23,
+      "total_wards_placed": 64,
+      "average_creep_score": 103,
+      "average_champion_experience": 12696,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_4259291452"
+    }
+  }
+}

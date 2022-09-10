@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45365,
+      "total_gold_spent": 42750,
+      "team_comp": [
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 60347,
+      "total_damage_dealt_to_objectives": 34343,
+      "total_damage_taken": 103594,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 93,
+      "average_champion_experience": 9828,
+      "dmg_carry": "Viego",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4040642959"
+    },
+    "200": {
+      "total_gold_earned": 49461,
+      "total_gold_spent": 44450,
+      "team_comp": [
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 76476,
+      "total_damage_dealt_to_objectives": 60581,
+      "total_damage_taken": 82610,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 77,
+      "average_champion_experience": 11159,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4040642959"
+    }
+  }
+}

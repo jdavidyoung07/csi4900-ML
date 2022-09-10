@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63472,
+      "total_gold_spent": 60420,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 125539,
+      "total_damage_dealt_to_objectives": 57922,
+      "total_damage_taken": 154574,
+      "average_vision_score": 32,
+      "total_wards_placed": 61,
+      "average_creep_score": 120,
+      "average_champion_experience": 14386,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4229348563"
+    },
+    "200": {
+      "total_gold_earned": 68696,
+      "total_gold_spent": 62968,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 121550,
+      "total_damage_dealt_to_objectives": 65484,
+      "total_damage_taken": 156758,
+      "average_vision_score": 34,
+      "total_wards_placed": 73,
+      "average_creep_score": 114,
+      "average_champion_experience": 15840,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4229348563"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 41,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80010,
+      "total_gold_spent": 73545,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 56,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 209265,
+      "total_damage_dealt_to_objectives": 77211,
+      "total_damage_taken": 223915,
+      "average_vision_score": 36,
+      "total_wards_placed": 79,
+      "average_creep_score": 133,
+      "average_champion_experience": 18217,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4050479279"
+    },
+    "200": {
+      "total_gold_earned": 86001,
+      "total_gold_spent": 75280,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 58,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 179954,
+      "total_damage_dealt_to_objectives": 91044,
+      "total_damage_taken": 245577,
+      "average_vision_score": 29,
+      "total_wards_placed": 68,
+      "average_creep_score": 134,
+      "average_champion_experience": 21537,
+      "dmg_carry": "Kayn",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4050479279"
+    }
+  }
+}

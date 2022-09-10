@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46409,
+      "total_gold_spent": 44830,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 69823,
+      "total_damage_dealt_to_objectives": 20447,
+      "total_damage_taken": 125831,
+      "average_vision_score": 25,
+      "total_wards_placed": 51,
+      "average_creep_score": 112,
+      "average_champion_experience": 11584,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4413664954"
+    },
+    "200": {
+      "total_gold_earned": 62222,
+      "total_gold_spent": 53560,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 37,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 105294,
+      "total_damage_dealt_to_objectives": 92413,
+      "total_damage_taken": 105239,
+      "average_vision_score": 21,
+      "total_wards_placed": 42,
+      "average_creep_score": 111,
+      "average_champion_experience": 14300,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4413664954"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90386,
+      "total_gold_spent": 90245,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 235082,
+      "total_damage_dealt_to_objectives": 42996,
+      "total_damage_taken": 240297,
+      "average_vision_score": 37,
+      "total_wards_placed": 84,
+      "average_creep_score": 204,
+      "average_champion_experience": 23394,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4425235462"
+    },
+    "200": {
+      "total_gold_earned": 91989,
+      "total_gold_spent": 79365,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 8,
+      "total_kills": 47,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 189523,
+      "total_damage_dealt_to_objectives": 157364,
+      "total_damage_taken": 283963,
+      "average_vision_score": 46,
+      "total_wards_placed": 99,
+      "average_creep_score": 165,
+      "average_champion_experience": 22757,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4425235462"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 34,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58428,
+      "total_gold_spent": 56250,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 107171,
+      "total_damage_dealt_to_objectives": 20589,
+      "total_damage_taken": 161613,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 120,
+      "average_champion_experience": 15135,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_3999385999"
+    },
+    "200": {
+      "total_gold_earned": 63524,
+      "total_gold_spent": 54900,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 39,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 130770,
+      "total_damage_dealt_to_objectives": 76563,
+      "total_damage_taken": 158735,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 112,
+      "average_champion_experience": 14735,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_3999385999"
+    }
+  }
+}

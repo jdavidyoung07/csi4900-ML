@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58750,
+      "total_gold_spent": 55600,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 93634,
+      "total_damage_dealt_to_objectives": 63186,
+      "total_damage_taken": 115786,
+      "average_vision_score": 24,
+      "total_wards_placed": 52,
+      "average_creep_score": 109,
+      "average_champion_experience": 13550,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4306178776"
+    },
+    "200": {
+      "total_gold_earned": 62536,
+      "total_gold_spent": 55125,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 86483,
+      "total_damage_dealt_to_objectives": 61198,
+      "total_damage_taken": 123024,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 119,
+      "average_champion_experience": 13460,
+      "dmg_carry": "Sion",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4306178776"
+    }
+  }
+}

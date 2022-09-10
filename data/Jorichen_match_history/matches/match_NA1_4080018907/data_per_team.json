@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45476,
+      "total_gold_spent": 41760,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 74944,
+      "total_damage_dealt_to_objectives": 23883,
+      "total_damage_taken": 96801,
+      "average_vision_score": 17,
+      "total_wards_placed": 51,
+      "average_creep_score": 110,
+      "average_champion_experience": 11182,
+      "dmg_carry": "Azir",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4080018907"
+    },
+    "200": {
+      "total_gold_earned": 56638,
+      "total_gold_spent": 47375,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 75188,
+      "total_damage_dealt_to_objectives": 90476,
+      "total_damage_taken": 96638,
+      "average_vision_score": 27,
+      "total_wards_placed": 50,
+      "average_creep_score": 116,
+      "average_champion_experience": 12856,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4080018907"
+    }
+  }
+}

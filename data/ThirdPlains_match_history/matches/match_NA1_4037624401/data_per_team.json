@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66351,
+      "total_gold_spent": 60210,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 103450,
+      "total_damage_dealt_to_objectives": 79794,
+      "total_damage_taken": 156257,
+      "average_vision_score": 27,
+      "total_wards_placed": 54,
+      "average_creep_score": 108,
+      "average_champion_experience": 15266,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4037624401"
+    },
+    "200": {
+      "total_gold_earned": 61917,
+      "total_gold_spent": 60625,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 124516,
+      "total_damage_dealt_to_objectives": 51967,
+      "total_damage_taken": 126852,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 104,
+      "average_champion_experience": 13720,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4037624401"
+    }
+  }
+}

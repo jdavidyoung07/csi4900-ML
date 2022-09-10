@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72744,
+      "total_gold_spent": 70720,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 49,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 171048,
+      "total_damage_dealt_to_objectives": 89706,
+      "total_damage_taken": 198401,
+      "average_vision_score": 38,
+      "total_wards_placed": 55,
+      "average_creep_score": 116,
+      "average_champion_experience": 15555,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4407306074"
+    },
+    "200": {
+      "total_gold_earned": 75146,
+      "total_gold_spent": 64975,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 161741,
+      "total_damage_dealt_to_objectives": 65221,
+      "total_damage_taken": 210842,
+      "average_vision_score": 32,
+      "total_wards_placed": 65,
+      "average_creep_score": 135,
+      "average_champion_experience": 19183,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4407306074"
+    }
+  }
+}

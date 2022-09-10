@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42589,
+      "total_gold_spent": 39860,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 60979,
+      "total_damage_dealt_to_objectives": 32311,
+      "total_damage_taken": 115370,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 92,
+      "average_champion_experience": 10043,
+      "dmg_carry": "Kennen",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4038768321"
+    },
+    "200": {
+      "total_gold_earned": 55546,
+      "total_gold_spent": 42880,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 86830,
+      "total_damage_dealt_to_objectives": 51858,
+      "total_damage_taken": 88911,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 101,
+      "average_champion_experience": 13218,
+      "dmg_carry": "Lux",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4038768321"
+    }
+  }
+}

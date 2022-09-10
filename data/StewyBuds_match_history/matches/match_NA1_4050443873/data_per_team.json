@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 24,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35548,
+      "total_gold_spent": 32630,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 39938,
+      "total_damage_dealt_to_objectives": 20985,
+      "total_damage_taken": 92916,
+      "average_vision_score": 17,
+      "total_wards_placed": 38,
+      "average_creep_score": 84,
+      "average_champion_experience": 8615,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4050443873"
+    },
+    "200": {
+      "total_gold_earned": 49323,
+      "total_gold_spent": 41695,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 25,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 72844,
+      "total_damage_dealt_to_objectives": 53325,
+      "total_damage_taken": 63318,
+      "average_vision_score": 21,
+      "total_wards_placed": 45,
+      "average_creep_score": 96,
+      "average_champion_experience": 11188,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4050443873"
+    }
+  }
+}

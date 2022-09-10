@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60350,
+      "total_gold_spent": 52385,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 20,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 82496,
+      "total_damage_dealt_to_objectives": 115331,
+      "total_damage_taken": 109093,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 139,
+      "average_champion_experience": 15061,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4402514730"
+    },
+    "200": {
+      "total_gold_earned": 47437,
+      "total_gold_spent": 45925,
+      "team_comp": [
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 70795,
+      "total_damage_dealt_to_objectives": 23467,
+      "total_damage_taken": 103846,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 128,
+      "average_champion_experience": 12668,
+      "dmg_carry": "Lux",
+      "obj_carry": "Maokai",
+      "match_id": "NA1_4402514730"
+    }
+  }
+}

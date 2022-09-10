@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47048,
+      "total_gold_spent": 44575,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 78795,
+      "total_damage_dealt_to_objectives": 27772,
+      "total_damage_taken": 126785,
+      "average_vision_score": 19,
+      "total_wards_placed": 36,
+      "average_creep_score": 114,
+      "average_champion_experience": 11169,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4384985558"
+    },
+    "200": {
+      "total_gold_earned": 60898,
+      "total_gold_spent": 55375,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 103806,
+      "total_damage_dealt_to_objectives": 71565,
+      "total_damage_taken": 112557,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 94,
+      "average_champion_experience": 14004,
+      "dmg_carry": "Senna",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4384985558"
+    }
+  }
+}

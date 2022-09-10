@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68781,
+      "total_gold_spent": 63895,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 126384,
+      "total_damage_dealt_to_objectives": 53832,
+      "total_damage_taken": 176503,
+      "average_vision_score": 25,
+      "total_wards_placed": 44,
+      "average_creep_score": 112,
+      "average_champion_experience": 15452,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4391483969"
+    },
+    "200": {
+      "total_gold_earned": 70523,
+      "total_gold_spent": 65493,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 150720,
+      "total_damage_dealt_to_objectives": 73964,
+      "total_damage_taken": 153162,
+      "average_vision_score": 33,
+      "total_wards_placed": 62,
+      "average_creep_score": 110,
+      "average_champion_experience": 15697,
+      "dmg_carry": "Vex",
+      "obj_carry": "Gragas",
+      "match_id": "NA1_4391483969"
+    }
+  }
+}

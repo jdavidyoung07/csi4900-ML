@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62165,
+      "total_gold_spent": 57333,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 18,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 94370,
+      "total_damage_dealt_to_objectives": 45170,
+      "total_damage_taken": 118138,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 147,
+      "average_champion_experience": 14084,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4364791785"
+    },
+    "200": {
+      "total_gold_earned": 68654,
+      "total_gold_spent": 63150,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 88416,
+      "total_damage_dealt_to_objectives": 94768,
+      "total_damage_taken": 130968,
+      "average_vision_score": 44,
+      "total_wards_placed": 81,
+      "average_creep_score": 145,
+      "average_champion_experience": 16737,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4364791785"
+    }
+  }
+}

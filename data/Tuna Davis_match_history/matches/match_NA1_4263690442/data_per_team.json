@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76226,
+      "total_gold_spent": 71400,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 121035,
+      "total_damage_dealt_to_objectives": 51526,
+      "total_damage_taken": 183891,
+      "average_vision_score": 30,
+      "total_wards_placed": 78,
+      "average_creep_score": 106,
+      "average_champion_experience": 16804,
+      "dmg_carry": "Pyke",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4263690442"
+    },
+    "200": {
+      "total_gold_earned": 70117,
+      "total_gold_spent": 62260,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 151119,
+      "total_damage_dealt_to_objectives": 63335,
+      "total_damage_taken": 149016,
+      "average_vision_score": 36,
+      "total_wards_placed": 79,
+      "average_creep_score": 125,
+      "average_champion_experience": 18025,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4263690442"
+    }
+  }
+}

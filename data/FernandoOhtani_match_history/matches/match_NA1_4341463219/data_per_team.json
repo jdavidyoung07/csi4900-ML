@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38382,
+      "total_gold_spent": 33503,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 59327,
+      "total_damage_dealt_to_objectives": 11191,
+      "total_damage_taken": 75348,
+      "average_vision_score": 11,
+      "total_wards_placed": 21,
+      "average_creep_score": 86,
+      "average_champion_experience": 8981,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4341463219"
+    },
+    "200": {
+      "total_gold_earned": 46743,
+      "total_gold_spent": 40660,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 22,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 63521,
+      "total_damage_dealt_to_objectives": 55020,
+      "total_damage_taken": 87739,
+      "average_vision_score": 16,
+      "total_wards_placed": 42,
+      "average_creep_score": 95,
+      "average_champion_experience": 10431,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Ryze",
+      "match_id": "NA1_4341463219"
+    }
+  }
+}

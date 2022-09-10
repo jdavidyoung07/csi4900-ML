@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68675,
+      "total_gold_spent": 66685,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 129791,
+      "total_damage_dealt_to_objectives": 79445,
+      "total_damage_taken": 152419,
+      "average_vision_score": 28,
+      "total_wards_placed": 69,
+      "average_creep_score": 128,
+      "average_champion_experience": 15551,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4351409484"
+    },
+    "200": {
+      "total_gold_earned": 65424,
+      "total_gold_spent": 60970,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 112314,
+      "total_damage_dealt_to_objectives": 45988,
+      "total_damage_taken": 155849,
+      "average_vision_score": 32,
+      "total_wards_placed": 72,
+      "average_creep_score": 139,
+      "average_champion_experience": 15409,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Gragas",
+      "match_id": "NA1_4351409484"
+    }
+  }
+}

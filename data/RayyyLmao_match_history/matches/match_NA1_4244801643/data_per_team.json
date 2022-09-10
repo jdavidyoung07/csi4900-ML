@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42498,
+      "total_gold_spent": 40360,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 61693,
+      "total_damage_dealt_to_objectives": 23870,
+      "total_damage_taken": 73376,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 102,
+      "average_champion_experience": 10527,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4244801643"
+    },
+    "200": {
+      "total_gold_earned": 50367,
+      "total_gold_spent": 43450,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 58238,
+      "total_damage_dealt_to_objectives": 54557,
+      "total_damage_taken": 88692,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 111,
+      "average_champion_experience": 12695,
+      "dmg_carry": "Viktor",
+      "obj_carry": "RekSai",
+      "match_id": "NA1_4244801643"
+    }
+  }
+}

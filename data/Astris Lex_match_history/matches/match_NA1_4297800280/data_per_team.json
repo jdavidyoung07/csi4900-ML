@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64308,
+      "total_gold_spent": 61760,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 133208,
+      "total_damage_dealt_to_objectives": 21511,
+      "total_damage_taken": 132576,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 128,
+      "average_champion_experience": 14300,
+      "dmg_carry": "Lux",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4297800280"
+    },
+    "200": {
+      "total_gold_earned": 71907,
+      "total_gold_spent": 64300,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 112561,
+      "total_damage_dealt_to_objectives": 86159,
+      "total_damage_taken": 175816,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 118,
+      "average_champion_experience": 17732,
+      "dmg_carry": "Volibear",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4297800280"
+    }
+  }
+}

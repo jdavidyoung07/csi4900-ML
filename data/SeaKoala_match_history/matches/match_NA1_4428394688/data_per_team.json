@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31680,
+      "total_gold_spent": 28500,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 36305,
+      "total_damage_dealt_to_objectives": 23927,
+      "total_damage_taken": 67745,
+      "average_vision_score": 12,
+      "total_wards_placed": 37,
+      "average_creep_score": 83,
+      "average_champion_experience": 7665,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4428394688"
+    },
+    "200": {
+      "total_gold_earned": 39600,
+      "total_gold_spent": 36680,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 50518,
+      "total_damage_dealt_to_objectives": 49428,
+      "total_damage_taken": 55537,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 81,
+      "average_champion_experience": 9323,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4428394688"
+    }
+  }
+}

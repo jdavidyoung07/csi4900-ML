@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54244,
+      "total_gold_spent": 51895,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 12,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 68124,
+      "total_damage_dealt_to_objectives": 45180,
+      "total_damage_taken": 112463,
+      "average_vision_score": 27,
+      "total_wards_placed": 60,
+      "average_creep_score": 142,
+      "average_champion_experience": 12338,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4274133344"
+    },
+    "200": {
+      "total_gold_earned": 61312,
+      "total_gold_spent": 53590,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 85196,
+      "total_damage_dealt_to_objectives": 83110,
+      "total_damage_taken": 92770,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 135,
+      "average_champion_experience": 15048,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Veigar",
+      "match_id": "NA1_4274133344"
+    }
+  }
+}

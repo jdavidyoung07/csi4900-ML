@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47321,
+      "total_gold_spent": 44750,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 70018,
+      "total_damage_dealt_to_objectives": 37089,
+      "total_damage_taken": 123456,
+      "average_vision_score": 21,
+      "total_wards_placed": 51,
+      "average_creep_score": 107,
+      "average_champion_experience": 10794,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4379002979"
+    },
+    "200": {
+      "total_gold_earned": 58577,
+      "total_gold_spent": 52350,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 100533,
+      "total_damage_dealt_to_objectives": 59179,
+      "total_damage_taken": 97757,
+      "average_vision_score": 25,
+      "total_wards_placed": 59,
+      "average_creep_score": 106,
+      "average_champion_experience": 13724,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4379002979"
+    }
+  }
+}

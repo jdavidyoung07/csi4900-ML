@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42112,
+      "total_gold_spent": 35175,
+      "team_comp": [
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 4,
+      "total_damage_dealt_to_champions": 70814,
+      "total_damage_dealt_to_objectives": 41798,
+      "total_damage_taken": 55697,
+      "average_vision_score": 11,
+      "total_wards_placed": 33,
+      "average_creep_score": 83,
+      "average_champion_experience": 9085,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4040152090"
+    },
+    "200": {
+      "total_gold_earned": 25854,
+      "total_gold_spent": 23018,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 4,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 33578,
+      "total_damage_dealt_to_objectives": 6973,
+      "total_damage_taken": 77780,
+      "average_vision_score": 12,
+      "total_wards_placed": 22,
+      "average_creep_score": 62,
+      "average_champion_experience": 6549,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4040152090"
+    }
+  }
+}

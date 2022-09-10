@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59891,
+      "total_gold_spent": 58530,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 112101,
+      "total_damage_dealt_to_objectives": 62354,
+      "total_damage_taken": 127765,
+      "average_vision_score": 22,
+      "total_wards_placed": 53,
+      "average_creep_score": 102,
+      "average_champion_experience": 13573,
+      "dmg_carry": "Yone",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4007751689"
+    },
+    "200": {
+      "total_gold_earned": 63592,
+      "total_gold_spent": 53210,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 103249,
+      "total_damage_dealt_to_objectives": 53312,
+      "total_damage_taken": 144986,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 108,
+      "average_champion_experience": 13867,
+      "dmg_carry": "Singed",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4007751689"
+    }
+  }
+}

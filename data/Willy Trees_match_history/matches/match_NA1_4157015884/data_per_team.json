@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67984,
+      "total_gold_spent": 66654,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 110233,
+      "total_damage_dealt_to_objectives": 76875,
+      "total_damage_taken": 170604,
+      "average_vision_score": 33,
+      "total_wards_placed": 70,
+      "average_creep_score": 119,
+      "average_champion_experience": 15900,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4157015884"
+    },
+    "200": {
+      "total_gold_earned": 66813,
+      "total_gold_spent": 57150,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 142495,
+      "total_damage_dealt_to_objectives": 59277,
+      "total_damage_taken": 137485,
+      "average_vision_score": 34,
+      "total_wards_placed": 65,
+      "average_creep_score": 115,
+      "average_champion_experience": 16215,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4157015884"
+    }
+  }
+}

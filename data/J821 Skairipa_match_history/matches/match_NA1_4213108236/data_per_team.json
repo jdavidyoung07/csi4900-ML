@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75049,
+      "total_gold_spent": 70050,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 122493,
+      "total_damage_dealt_to_objectives": 26679,
+      "total_damage_taken": 167417,
+      "average_vision_score": 30,
+      "total_wards_placed": 69,
+      "average_creep_score": 152,
+      "average_champion_experience": 19451,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4213108236"
+    },
+    "200": {
+      "total_gold_earned": 81409,
+      "total_gold_spent": 75675,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 42,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 134889,
+      "total_damage_dealt_to_objectives": 133984,
+      "total_damage_taken": 161586,
+      "average_vision_score": 35,
+      "total_wards_placed": 62,
+      "average_creep_score": 135,
+      "average_champion_experience": 19097,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4213108236"
+    }
+  }
+}

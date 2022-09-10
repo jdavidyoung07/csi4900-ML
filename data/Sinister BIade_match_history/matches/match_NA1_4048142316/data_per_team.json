@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 33,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61703,
+      "total_gold_spent": 56350,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 84448,
+      "total_damage_dealt_to_objectives": 46397,
+      "total_damage_taken": 151125,
+      "average_vision_score": 27,
+      "total_wards_placed": 62,
+      "average_creep_score": 133,
+      "average_champion_experience": 14622,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4048142316"
+    },
+    "200": {
+      "total_gold_earned": 72243,
+      "total_gold_spent": 65575,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 44,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 118981,
+      "total_damage_dealt_to_objectives": 83118,
+      "total_damage_taken": 120976,
+      "average_vision_score": 30,
+      "total_wards_placed": 67,
+      "average_creep_score": 128,
+      "average_champion_experience": 17261,
+      "dmg_carry": "Jhin",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4048142316"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67094,
+      "total_gold_spent": 58570,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 120710,
+      "total_damage_dealt_to_objectives": 40594,
+      "total_damage_taken": 163957,
+      "average_vision_score": 24,
+      "total_wards_placed": 67,
+      "average_creep_score": 144,
+      "average_champion_experience": 17187,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4371229988"
+    },
+    "200": {
+      "total_gold_earned": 72986,
+      "total_gold_spent": 71720,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 132446,
+      "total_damage_dealt_to_objectives": 64224,
+      "total_damage_taken": 161240,
+      "average_vision_score": 17,
+      "total_wards_placed": 49,
+      "average_creep_score": 131,
+      "average_champion_experience": 17183,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4371229988"
+    }
+  }
+}

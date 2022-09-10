@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 27,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41070,
+      "total_gold_spent": 37350,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 69734,
+      "total_damage_dealt_to_objectives": 30121,
+      "total_damage_taken": 94534,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 94,
+      "average_champion_experience": 9805,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4003494439"
+    },
+    "200": {
+      "total_gold_earned": 51394,
+      "total_gold_spent": 40025,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 74363,
+      "total_damage_dealt_to_objectives": 54510,
+      "total_damage_taken": 96697,
+      "average_vision_score": 25,
+      "total_wards_placed": 47,
+      "average_creep_score": 90,
+      "average_champion_experience": 12025,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4003494439"
+    }
+  }
+}

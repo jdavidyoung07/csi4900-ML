@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 45,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71927,
+      "total_gold_spent": 67825,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 154271,
+      "total_damage_dealt_to_objectives": 52431,
+      "total_damage_taken": 189331,
+      "average_vision_score": 30,
+      "total_wards_placed": 72,
+      "average_creep_score": 124,
+      "average_champion_experience": 17077,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4031254872"
+    },
+    "200": {
+      "total_gold_earned": 79418,
+      "total_gold_spent": 72175,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 153665,
+      "total_damage_dealt_to_objectives": 93878,
+      "total_damage_taken": 197103,
+      "average_vision_score": 27,
+      "total_wards_placed": 51,
+      "average_creep_score": 139,
+      "average_champion_experience": 19801,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4031254872"
+    }
+  }
+}

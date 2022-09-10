@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59748,
+      "total_gold_spent": 56210,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 92560,
+      "total_damage_dealt_to_objectives": 42387,
+      "total_damage_taken": 148756,
+      "average_vision_score": 30,
+      "total_wards_placed": 52,
+      "average_creep_score": 98,
+      "average_champion_experience": 13159,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4260443570"
+    },
+    "200": {
+      "total_gold_earned": 70364,
+      "total_gold_spent": 63790,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 56,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 128000,
+      "total_damage_dealt_to_objectives": 80607,
+      "total_damage_taken": 123316,
+      "average_vision_score": 30,
+      "total_wards_placed": 68,
+      "average_creep_score": 110,
+      "average_champion_experience": 16566,
+      "dmg_carry": "Annie",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4260443570"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78618,
+      "total_gold_spent": 76903,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 166325,
+      "total_damage_dealt_to_objectives": 51585,
+      "total_damage_taken": 188856,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 142,
+      "average_champion_experience": 18279,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4309550852"
+    },
+    "200": {
+      "total_gold_earned": 83351,
+      "total_gold_spent": 79175,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 51,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 159375,
+      "total_damage_dealt_to_objectives": 67803,
+      "total_damage_taken": 202228,
+      "average_vision_score": 36,
+      "total_wards_placed": 88,
+      "average_creep_score": 140,
+      "average_champion_experience": 20838,
+      "dmg_carry": "Jax",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4309550852"
+    }
+  }
+}

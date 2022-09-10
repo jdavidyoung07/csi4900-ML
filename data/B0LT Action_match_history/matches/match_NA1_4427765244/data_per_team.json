@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55507,
+      "total_gold_spent": 53175,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 90551,
+      "total_damage_dealt_to_objectives": 26884,
+      "total_damage_taken": 149429,
+      "average_vision_score": 23,
+      "total_wards_placed": 47,
+      "average_creep_score": 144,
+      "average_champion_experience": 14950,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4427765244"
+    },
+    "200": {
+      "total_gold_earned": 68795,
+      "total_gold_spent": 63145,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 42,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 114996,
+      "total_damage_dealt_to_objectives": 103275,
+      "total_damage_taken": 146338,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 119,
+      "average_champion_experience": 16622,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4427765244"
+    }
+  }
+}

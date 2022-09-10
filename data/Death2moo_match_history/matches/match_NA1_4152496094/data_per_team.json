@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54564,
+      "total_gold_spent": 53300,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 81683,
+      "total_damage_dealt_to_objectives": 38367,
+      "total_damage_taken": 108819,
+      "average_vision_score": 27,
+      "total_wards_placed": 60,
+      "average_creep_score": 99,
+      "average_champion_experience": 12125,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4152496094"
+    },
+    "200": {
+      "total_gold_earned": 56993,
+      "total_gold_spent": 49850,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 83629,
+      "total_damage_dealt_to_objectives": 64213,
+      "total_damage_taken": 110818,
+      "average_vision_score": 19,
+      "total_wards_placed": 42,
+      "average_creep_score": 109,
+      "average_champion_experience": 13374,
+      "dmg_carry": "Diana",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4152496094"
+    }
+  }
+}

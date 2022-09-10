@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80411,
+      "total_gold_spent": 74668,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 167749,
+      "total_damage_dealt_to_objectives": 90323,
+      "total_damage_taken": 184229,
+      "average_vision_score": 48,
+      "total_wards_placed": 118,
+      "average_creep_score": 161,
+      "average_champion_experience": 18149,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4329144965"
+    },
+    "200": {
+      "total_gold_earned": 85272,
+      "total_gold_spent": 75440,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 155067,
+      "total_damage_dealt_to_objectives": 129077,
+      "total_damage_taken": 202574,
+      "average_vision_score": 36,
+      "total_wards_placed": 74,
+      "average_creep_score": 157,
+      "average_champion_experience": 19736,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4329144965"
+    }
+  }
+}

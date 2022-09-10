@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39932,
+      "total_gold_spent": 38275,
+      "team_comp": [
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 46405,
+      "total_damage_dealt_to_objectives": 12545,
+      "total_damage_taken": 85862,
+      "average_vision_score": 18,
+      "total_wards_placed": 32,
+      "average_creep_score": 113,
+      "average_champion_experience": 9760,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4033026327"
+    },
+    "200": {
+      "total_gold_earned": 54154,
+      "total_gold_spent": 44900,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 70219,
+      "total_damage_dealt_to_objectives": 60874,
+      "total_damage_taken": 83945,
+      "average_vision_score": 23,
+      "total_wards_placed": 50,
+      "average_creep_score": 113,
+      "average_champion_experience": 12582,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4033026327"
+    }
+  }
+}

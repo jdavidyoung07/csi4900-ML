@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40001,
+      "total_gold_spent": 34125,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 48573,
+      "total_damage_dealt_to_objectives": 53086,
+      "total_damage_taken": 58967,
+      "average_vision_score": 12,
+      "total_wards_placed": 27,
+      "average_creep_score": 85,
+      "average_champion_experience": 9064,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4368291690"
+    },
+    "200": {
+      "total_gold_earned": 28852,
+      "total_gold_spent": 25138,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 38246,
+      "total_damage_dealt_to_objectives": 4051,
+      "total_damage_taken": 61389,
+      "average_vision_score": 12,
+      "total_wards_placed": 36,
+      "average_creep_score": 75,
+      "average_champion_experience": 7410,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4368291690"
+    }
+  }
+}

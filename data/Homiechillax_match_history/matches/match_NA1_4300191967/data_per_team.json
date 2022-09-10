@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69190,
+      "total_gold_spent": 58383,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 133660,
+      "total_damage_dealt_to_objectives": 64993,
+      "total_damage_taken": 106684,
+      "average_vision_score": 31,
+      "total_wards_placed": 68,
+      "average_creep_score": 117,
+      "average_champion_experience": 17376,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4300191967"
+    },
+    "200": {
+      "total_gold_earned": 63241,
+      "total_gold_spent": 61863,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 87146,
+      "total_damage_dealt_to_objectives": 48944,
+      "total_damage_taken": 168155,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 130,
+      "average_champion_experience": 14265,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4300191967"
+    }
+  }
+}

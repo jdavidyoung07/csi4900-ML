@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52800,
+      "total_gold_spent": 51625,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 80259,
+      "total_damage_dealt_to_objectives": 14018,
+      "total_damage_taken": 157293,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 104,
+      "average_champion_experience": 11807,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4320362003"
+    },
+    "200": {
+      "total_gold_earned": 65387,
+      "total_gold_spent": 56943,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 132516,
+      "total_damage_dealt_to_objectives": 88364,
+      "total_damage_taken": 105683,
+      "average_vision_score": 28,
+      "total_wards_placed": 65,
+      "average_creep_score": 101,
+      "average_champion_experience": 14978,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4320362003"
+    }
+  }
+}

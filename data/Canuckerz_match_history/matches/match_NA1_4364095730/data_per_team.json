@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 99799,
+      "total_gold_spent": 88800,
+      "team_comp": [
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 5,
+      "total_kills": 45,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 215550,
+      "total_damage_dealt_to_objectives": 167580,
+      "total_damage_taken": 278450,
+      "average_vision_score": 67,
+      "total_wards_placed": 150,
+      "average_creep_score": 177,
+      "average_champion_experience": 25011,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4364095730"
+    },
+    "200": {
+      "total_gold_earned": 98670,
+      "total_gold_spent": 92775,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 60,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 237060,
+      "total_damage_dealt_to_objectives": 72455,
+      "total_damage_taken": 252373,
+      "average_vision_score": 63,
+      "total_wards_placed": 91,
+      "average_creep_score": 191,
+      "average_champion_experience": 24618,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4364095730"
+    }
+  }
+}

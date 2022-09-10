@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78967,
+      "total_gold_spent": 78520,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 240608,
+      "total_damage_dealt_to_objectives": 78557,
+      "total_damage_taken": 170253,
+      "average_vision_score": 31,
+      "total_wards_placed": 75,
+      "average_creep_score": 120,
+      "average_champion_experience": 18444,
+      "dmg_carry": "Graves",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4079262292"
+    },
+    "200": {
+      "total_gold_earned": 79824,
+      "total_gold_spent": 73095,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 140921,
+      "total_damage_dealt_to_objectives": 73734,
+      "total_damage_taken": 277625,
+      "average_vision_score": 38,
+      "total_wards_placed": 85,
+      "average_creep_score": 126,
+      "average_champion_experience": 19637,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4079262292"
+    }
+  }
+}

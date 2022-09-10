@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66315,
+      "total_gold_spent": 58015,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 109628,
+      "total_damage_dealt_to_objectives": 62596,
+      "total_damage_taken": 107862,
+      "average_vision_score": 30,
+      "total_wards_placed": 69,
+      "average_creep_score": 128,
+      "average_champion_experience": 16143,
+      "dmg_carry": "Akali",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4182402937"
+    },
+    "200": {
+      "total_gold_earned": 60872,
+      "total_gold_spent": 55825,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 82771,
+      "total_damage_dealt_to_objectives": 63425,
+      "total_damage_taken": 140897,
+      "average_vision_score": 29,
+      "total_wards_placed": 65,
+      "average_creep_score": 125,
+      "average_champion_experience": 14603,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4182402937"
+    }
+  }
+}

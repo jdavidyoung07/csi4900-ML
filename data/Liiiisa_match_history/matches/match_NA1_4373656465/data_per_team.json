@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62331,
+      "total_gold_spent": 53358,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 88318,
+      "total_damage_dealt_to_objectives": 88653,
+      "total_damage_taken": 106881,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 121,
+      "average_champion_experience": 13624,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4373656465"
+    },
+    "200": {
+      "total_gold_earned": 44470,
+      "total_gold_spent": 41060,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 67759,
+      "total_damage_dealt_to_objectives": 12205,
+      "total_damage_taken": 104358,
+      "average_vision_score": 18,
+      "total_wards_placed": 52,
+      "average_creep_score": 90,
+      "average_champion_experience": 10072,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4373656465"
+    }
+  }
+}

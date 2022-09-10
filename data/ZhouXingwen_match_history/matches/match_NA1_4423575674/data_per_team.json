@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47186,
+      "total_gold_spent": 45510,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 75912,
+      "total_damage_dealt_to_objectives": 29067,
+      "total_damage_taken": 122722,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 135,
+      "average_champion_experience": 11761,
+      "dmg_carry": "Yone",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4423575674"
+    },
+    "200": {
+      "total_gold_earned": 64135,
+      "total_gold_spent": 59275,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 43,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 93656,
+      "total_damage_dealt_to_objectives": 86648,
+      "total_damage_taken": 103695,
+      "average_vision_score": 22,
+      "total_wards_placed": 50,
+      "average_creep_score": 119,
+      "average_champion_experience": 15872,
+      "dmg_carry": "Talon",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4423575674"
+    }
+  }
+}

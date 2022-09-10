@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39764,
+      "total_gold_spent": 35558,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 47151,
+      "total_damage_dealt_to_objectives": 11228,
+      "total_damage_taken": 84054,
+      "average_vision_score": 15,
+      "total_wards_placed": 44,
+      "average_creep_score": 89,
+      "average_champion_experience": 9072,
+      "dmg_carry": "Lux",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4046351090"
+    },
+    "200": {
+      "total_gold_earned": 51868,
+      "total_gold_spent": 46115,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 68898,
+      "total_damage_dealt_to_objectives": 77236,
+      "total_damage_taken": 83822,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 102,
+      "average_champion_experience": 11341,
+      "dmg_carry": "Zed",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4046351090"
+    }
+  }
+}

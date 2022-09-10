@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55660,
+      "total_gold_spent": 53300,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 109673,
+      "total_damage_dealt_to_objectives": 49146,
+      "total_damage_taken": 130834,
+      "average_vision_score": 23,
+      "total_wards_placed": 48,
+      "average_creep_score": 96,
+      "average_champion_experience": 11822,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4341871210"
+    },
+    "200": {
+      "total_gold_earned": 56622,
+      "total_gold_spent": 51290,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 96117,
+      "total_damage_dealt_to_objectives": 32257,
+      "total_damage_taken": 136201,
+      "average_vision_score": 20,
+      "total_wards_placed": 40,
+      "average_creep_score": 103,
+      "average_champion_experience": 12761,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4341871210"
+    }
+  }
+}

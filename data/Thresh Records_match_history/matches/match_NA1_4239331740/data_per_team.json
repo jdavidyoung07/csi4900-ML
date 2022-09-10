@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51439,
+      "total_gold_spent": 48625,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 80411,
+      "total_damage_dealt_to_objectives": 20671,
+      "total_damage_taken": 128177,
+      "average_vision_score": 26,
+      "total_wards_placed": 50,
+      "average_creep_score": 97,
+      "average_champion_experience": 12487,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4239331740"
+    },
+    "200": {
+      "total_gold_earned": 64357,
+      "total_gold_spent": 59600,
+      "team_comp": [
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 107593,
+      "total_damage_dealt_to_objectives": 77785,
+      "total_damage_taken": 114220,
+      "average_vision_score": 24,
+      "total_wards_placed": 46,
+      "average_creep_score": 115,
+      "average_champion_experience": 14965,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4239331740"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51422,
+      "total_gold_spent": 48785,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 60058,
+      "total_damage_dealt_to_objectives": 35852,
+      "total_damage_taken": 110597,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 121,
+      "average_champion_experience": 11738,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4037753358"
+    },
+    "200": {
+      "total_gold_earned": 61722,
+      "total_gold_spent": 55103,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 89238,
+      "total_damage_dealt_to_objectives": 94704,
+      "total_damage_taken": 81436,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 119,
+      "average_champion_experience": 14635,
+      "dmg_carry": "Shaco",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4037753358"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45999,
+      "total_gold_spent": 44525,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 80658,
+      "total_damage_dealt_to_objectives": 21262,
+      "total_damage_taken": 94671,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 109,
+      "average_champion_experience": 11660,
+      "dmg_carry": "Annie",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4032568842"
+    },
+    "200": {
+      "total_gold_earned": 57064,
+      "total_gold_spent": 49235,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 22,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 77686,
+      "total_damage_dealt_to_objectives": 69860,
+      "total_damage_taken": 123828,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 127,
+      "average_champion_experience": 14002,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4032568842"
+    }
+  }
+}

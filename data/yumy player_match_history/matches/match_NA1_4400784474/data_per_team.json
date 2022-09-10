@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54182,
+      "total_gold_spent": 51985,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 75434,
+      "total_damage_dealt_to_objectives": 19885,
+      "total_damage_taken": 146639,
+      "average_vision_score": 12,
+      "total_wards_placed": 28,
+      "average_creep_score": 119,
+      "average_champion_experience": 12564,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4400784474"
+    },
+    "200": {
+      "total_gold_earned": 66995,
+      "total_gold_spent": 60470,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 114532,
+      "total_damage_dealt_to_objectives": 91897,
+      "total_damage_taken": 113069,
+      "average_vision_score": 34,
+      "total_wards_placed": 69,
+      "average_creep_score": 119,
+      "average_champion_experience": 15539,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Azir",
+      "match_id": "NA1_4400784474"
+    }
+  }
+}

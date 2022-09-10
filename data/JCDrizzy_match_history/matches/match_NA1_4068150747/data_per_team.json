@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79036,
+      "total_gold_spent": 70350,
+      "team_comp": [
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 150112,
+      "total_damage_dealt_to_objectives": 102051,
+      "total_damage_taken": 148987,
+      "average_vision_score": 29,
+      "total_wards_placed": 56,
+      "average_creep_score": 119,
+      "average_champion_experience": 19410,
+      "dmg_carry": "Kennen",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4068150747"
+    },
+    "200": {
+      "total_gold_earned": 66608,
+      "total_gold_spent": 60185,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 112140,
+      "total_damage_dealt_to_objectives": 12186,
+      "total_damage_taken": 172040,
+      "average_vision_score": 24,
+      "total_wards_placed": 55,
+      "average_creep_score": 127,
+      "average_champion_experience": 17161,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4068150747"
+    }
+  }
+}

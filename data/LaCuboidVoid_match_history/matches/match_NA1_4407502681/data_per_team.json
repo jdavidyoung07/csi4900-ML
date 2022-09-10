@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60298,
+      "total_gold_spent": 54585,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 94853,
+      "total_damage_dealt_to_objectives": 65638,
+      "total_damage_taken": 128509,
+      "average_vision_score": 29,
+      "total_wards_placed": 73,
+      "average_creep_score": 116,
+      "average_champion_experience": 14830,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4407502681"
+    },
+    "200": {
+      "total_gold_earned": 51207,
+      "total_gold_spent": 47335,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 97342,
+      "total_damage_dealt_to_objectives": 28203,
+      "total_damage_taken": 123961,
+      "average_vision_score": 23,
+      "total_wards_placed": 50,
+      "average_creep_score": 114,
+      "average_champion_experience": 11800,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4407502681"
+    }
+  }
+}

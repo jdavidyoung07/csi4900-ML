@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85274,
+      "total_gold_spent": 74710,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 54,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 167698,
+      "total_damage_dealt_to_objectives": 91130,
+      "total_damage_taken": 190097,
+      "average_vision_score": 41,
+      "total_wards_placed": 81,
+      "average_creep_score": 152,
+      "average_champion_experience": 20805,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4423123742"
+    },
+    "200": {
+      "total_gold_earned": 78834,
+      "total_gold_spent": 72450,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 40,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 149699,
+      "total_damage_dealt_to_objectives": 68752,
+      "total_damage_taken": 198097,
+      "average_vision_score": 42,
+      "total_wards_placed": 93,
+      "average_creep_score": 150,
+      "average_champion_experience": 17494,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4423123742"
+    }
+  }
+}

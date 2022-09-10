@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80538,
+      "total_gold_spent": 78853,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 205322,
+      "total_damage_dealt_to_objectives": 66021,
+      "total_damage_taken": 209824,
+      "average_vision_score": 42,
+      "total_wards_placed": 98,
+      "average_creep_score": 162,
+      "average_champion_experience": 19118,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4342477495"
+    },
+    "200": {
+      "total_gold_earned": 93244,
+      "total_gold_spent": 83825,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 166674,
+      "total_damage_dealt_to_objectives": 92363,
+      "total_damage_taken": 239928,
+      "average_vision_score": 28,
+      "total_wards_placed": 53,
+      "average_creep_score": 192,
+      "average_champion_experience": 24584,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4342477495"
+    }
+  }
+}

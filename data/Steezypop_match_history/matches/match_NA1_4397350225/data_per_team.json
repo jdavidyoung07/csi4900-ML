@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60367,
+      "total_gold_spent": 55403,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 123656,
+      "total_damage_dealt_to_objectives": 25733,
+      "total_damage_taken": 184665,
+      "average_vision_score": 31,
+      "total_wards_placed": 69,
+      "average_creep_score": 113,
+      "average_champion_experience": 14668,
+      "dmg_carry": "Zac",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4397350225"
+    },
+    "200": {
+      "total_gold_earned": 81051,
+      "total_gold_spent": 75000,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 162549,
+      "total_damage_dealt_to_objectives": 123689,
+      "total_damage_taken": 156555,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 120,
+      "average_champion_experience": 19023,
+      "dmg_carry": "Jax",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4397350225"
+    }
+  }
+}

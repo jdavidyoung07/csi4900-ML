@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60860,
+      "total_gold_spent": 60055,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 105861,
+      "total_damage_dealt_to_objectives": 46516,
+      "total_damage_taken": 122860,
+      "average_vision_score": 25,
+      "total_wards_placed": 45,
+      "average_creep_score": 110,
+      "average_champion_experience": 13598,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4205441136"
+    },
+    "200": {
+      "total_gold_earned": 66199,
+      "total_gold_spent": 58210,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 100657,
+      "total_damage_dealt_to_objectives": 83157,
+      "total_damage_taken": 136773,
+      "average_vision_score": 20,
+      "total_wards_placed": 43,
+      "average_creep_score": 88,
+      "average_champion_experience": 15248,
+      "dmg_carry": "Volibear",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4205441136"
+    }
+  }
+}

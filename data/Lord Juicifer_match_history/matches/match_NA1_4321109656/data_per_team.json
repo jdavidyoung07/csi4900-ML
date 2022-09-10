@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47616,
+      "total_gold_spent": 44610,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 90122,
+      "total_damage_dealt_to_objectives": 13818,
+      "total_damage_taken": 121334,
+      "average_vision_score": 28,
+      "total_wards_placed": 49,
+      "average_creep_score": 87,
+      "average_champion_experience": 9610,
+      "dmg_carry": "Viego",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4321109656"
+    },
+    "200": {
+      "total_gold_earned": 58418,
+      "total_gold_spent": 49233,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 99510,
+      "total_damage_dealt_to_objectives": 63237,
+      "total_damage_taken": 108303,
+      "average_vision_score": 26,
+      "total_wards_placed": 67,
+      "average_creep_score": 82,
+      "average_champion_experience": 12719,
+      "dmg_carry": "Camille",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4321109656"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65260,
+      "total_gold_spent": 61405,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 134598,
+      "total_damage_dealt_to_objectives": 52103,
+      "total_damage_taken": 139462,
+      "average_vision_score": 32,
+      "total_wards_placed": 74,
+      "average_creep_score": 142,
+      "average_champion_experience": 15437,
+      "dmg_carry": "Graves",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4427330406"
+    },
+    "200": {
+      "total_gold_earned": 64648,
+      "total_gold_spent": 62260,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 116615,
+      "total_damage_dealt_to_objectives": 74284,
+      "total_damage_taken": 162562,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 129,
+      "average_champion_experience": 15088,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4427330406"
+    }
+  }
+}

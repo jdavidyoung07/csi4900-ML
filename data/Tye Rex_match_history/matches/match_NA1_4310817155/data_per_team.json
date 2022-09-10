@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70426,
+      "total_gold_spent": 60595,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 118669,
+      "total_damage_dealt_to_objectives": 60228,
+      "total_damage_taken": 125866,
+      "average_vision_score": 37,
+      "total_wards_placed": 80,
+      "average_creep_score": 145,
+      "average_champion_experience": 17034,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4310817155"
+    },
+    "200": {
+      "total_gold_earned": 67894,
+      "total_gold_spent": 63525,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 101390,
+      "total_damage_dealt_to_objectives": 82726,
+      "total_damage_taken": 157032,
+      "average_vision_score": 42,
+      "total_wards_placed": 81,
+      "average_creep_score": 130,
+      "average_champion_experience": 15474,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4310817155"
+    }
+  }
+}

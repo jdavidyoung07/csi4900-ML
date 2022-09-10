@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62707,
+      "total_gold_spent": 57721,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 144653,
+      "total_damage_dealt_to_objectives": 42419,
+      "total_damage_taken": 135478,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 131,
+      "average_champion_experience": 14900,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4302899756"
+    },
+    "200": {
+      "total_gold_earned": 70557,
+      "total_gold_spent": 64093,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 35,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 103378,
+      "total_damage_dealt_to_objectives": 106045,
+      "total_damage_taken": 184395,
+      "average_vision_score": 29,
+      "total_wards_placed": 53,
+      "average_creep_score": 130,
+      "average_champion_experience": 16235,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4302899756"
+    }
+  }
+}

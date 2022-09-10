@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87401,
+      "total_gold_spent": 81995,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 52,
+      "total_deaths": 65,
+      "total_damage_dealt_to_champions": 269222,
+      "total_damage_dealt_to_objectives": 74052,
+      "total_damage_taken": 225252,
+      "average_vision_score": 31,
+      "total_wards_placed": 60,
+      "average_creep_score": 159,
+      "average_champion_experience": 19721,
+      "dmg_carry": "Diana",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4153150077"
+    },
+    "200": {
+      "total_gold_earned": 90077,
+      "total_gold_spent": 83880,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 65,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 179316,
+      "total_damage_dealt_to_objectives": 115413,
+      "total_damage_taken": 292489,
+      "average_vision_score": 24,
+      "total_wards_placed": 64,
+      "average_creep_score": 126,
+      "average_champion_experience": 21288,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4153150077"
+    }
+  }
+}

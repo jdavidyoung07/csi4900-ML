@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85334,
+      "total_gold_spent": 81685,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 202850,
+      "total_damage_dealt_to_objectives": 78950,
+      "total_damage_taken": 212754,
+      "average_vision_score": 51,
+      "total_wards_placed": 112,
+      "average_creep_score": 176,
+      "average_champion_experience": 20548,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4421431393"
+    },
+    "200": {
+      "total_gold_earned": 91061,
+      "total_gold_spent": 85280,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 54,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 173510,
+      "total_damage_dealt_to_objectives": 104051,
+      "total_damage_taken": 233173,
+      "average_vision_score": 44,
+      "total_wards_placed": 88,
+      "average_creep_score": 173,
+      "average_champion_experience": 22651,
+      "dmg_carry": "Vex",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4421431393"
+    }
+  }
+}

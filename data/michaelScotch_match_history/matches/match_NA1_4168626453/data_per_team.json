@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48277,
+      "total_gold_spent": 44740,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 69462,
+      "total_damage_dealt_to_objectives": 10194,
+      "total_damage_taken": 92903,
+      "average_vision_score": 26,
+      "total_wards_placed": 56,
+      "average_creep_score": 111,
+      "average_champion_experience": 11916,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4168626453"
+    },
+    "200": {
+      "total_gold_earned": 60669,
+      "total_gold_spent": 55450,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 69385,
+      "total_damage_dealt_to_objectives": 87460,
+      "total_damage_taken": 90876,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 120,
+      "average_champion_experience": 15027,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4168626453"
+    }
+  }
+}

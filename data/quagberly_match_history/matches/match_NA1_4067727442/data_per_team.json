@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69324,
+      "total_gold_spent": 64073,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 37,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 132711,
+      "total_damage_dealt_to_objectives": 94736,
+      "total_damage_taken": 138178,
+      "average_vision_score": 32,
+      "total_wards_placed": 58,
+      "average_creep_score": 124,
+      "average_champion_experience": 16747,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4067727442"
+    },
+    "200": {
+      "total_gold_earned": 59132,
+      "total_gold_spent": 56690,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 106302,
+      "total_damage_dealt_to_objectives": 42240,
+      "total_damage_taken": 162318,
+      "average_vision_score": 26,
+      "total_wards_placed": 77,
+      "average_creep_score": 140,
+      "average_champion_experience": 15098,
+      "dmg_carry": "Diana",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4067727442"
+    }
+  }
+}

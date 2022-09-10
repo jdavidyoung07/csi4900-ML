@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39630,
+      "total_gold_spent": 34660,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 53445,
+      "total_damage_dealt_to_objectives": 13774,
+      "total_damage_taken": 65180,
+      "average_vision_score": 22,
+      "total_wards_placed": 53,
+      "average_creep_score": 99,
+      "average_champion_experience": 9495,
+      "dmg_carry": "Twitch",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4365733756"
+    },
+    "200": {
+      "total_gold_earned": 45199,
+      "total_gold_spent": 41060,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 51880,
+      "total_damage_dealt_to_objectives": 56309,
+      "total_damage_taken": 78175,
+      "average_vision_score": 22,
+      "total_wards_placed": 47,
+      "average_creep_score": 101,
+      "average_champion_experience": 10598,
+      "dmg_carry": "Renekton",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4365733756"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67340,
+      "total_gold_spent": 62725,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 118214,
+      "total_damage_dealt_to_objectives": 76246,
+      "total_damage_taken": 162385,
+      "average_vision_score": 29,
+      "total_wards_placed": 55,
+      "average_creep_score": 152,
+      "average_champion_experience": 16572,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4335025864"
+    },
+    "200": {
+      "total_gold_earned": 70750,
+      "total_gold_spent": 64193,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 117767,
+      "total_damage_dealt_to_objectives": 59057,
+      "total_damage_taken": 148281,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 144,
+      "average_champion_experience": 17895,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4335025864"
+    }
+  }
+}

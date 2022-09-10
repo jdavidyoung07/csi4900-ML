@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46134,
+      "total_gold_spent": 44135,
+      "team_comp": [
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 75388,
+      "total_damage_dealt_to_objectives": 44896,
+      "total_damage_taken": 84643,
+      "average_vision_score": 17,
+      "total_wards_placed": 46,
+      "average_creep_score": 92,
+      "average_champion_experience": 10218,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4244427880"
+    },
+    "200": {
+      "total_gold_earned": 49517,
+      "total_gold_spent": 44000,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 66899,
+      "total_damage_dealt_to_objectives": 34134,
+      "total_damage_taken": 104842,
+      "average_vision_score": 23,
+      "total_wards_placed": 57,
+      "average_creep_score": 98,
+      "average_champion_experience": 11180,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4244427880"
+    }
+  }
+}

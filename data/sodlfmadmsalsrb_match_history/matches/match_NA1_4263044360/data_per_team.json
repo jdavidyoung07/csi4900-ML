@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90816,
+      "total_gold_spent": 81958,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 65,
+      "total_damage_dealt_to_champions": 145432,
+      "total_damage_dealt_to_objectives": 81791,
+      "total_damage_taken": 224461,
+      "average_vision_score": 41,
+      "total_wards_placed": 88,
+      "average_creep_score": 145,
+      "average_champion_experience": 21697,
+      "dmg_carry": "Swain",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4263044360"
+    },
+    "200": {
+      "total_gold_earned": 87993,
+      "total_gold_spent": 80950,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 65,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 189152,
+      "total_damage_dealt_to_objectives": 109802,
+      "total_damage_taken": 175758,
+      "average_vision_score": 52,
+      "total_wards_placed": 115,
+      "average_creep_score": 130,
+      "average_champion_experience": 18761,
+      "dmg_carry": "Kennen",
+      "obj_carry": "Kennen",
+      "match_id": "NA1_4263044360"
+    }
+  }
+}

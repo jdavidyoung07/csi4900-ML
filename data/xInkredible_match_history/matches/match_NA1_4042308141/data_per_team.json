@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 37,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66905,
+      "total_gold_spent": 63325,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 121995,
+      "total_damage_dealt_to_objectives": 49840,
+      "total_damage_taken": 167079,
+      "average_vision_score": 37,
+      "total_wards_placed": 72,
+      "average_creep_score": 139,
+      "average_champion_experience": 15435,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4042308141"
+    },
+    "200": {
+      "total_gold_earned": 72972,
+      "total_gold_spent": 66490,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 129445,
+      "total_damage_dealt_to_objectives": 80898,
+      "total_damage_taken": 149688,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 148,
+      "average_champion_experience": 17477,
+      "dmg_carry": "Neeko",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4042308141"
+    }
+  }
+}

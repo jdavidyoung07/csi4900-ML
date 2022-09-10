@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 32114,
+      "total_gold_spent": 29810,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 4,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 44894,
+      "total_damage_dealt_to_objectives": 9795,
+      "total_damage_taken": 51481,
+      "average_vision_score": 13,
+      "total_wards_placed": 39,
+      "average_creep_score": 92,
+      "average_champion_experience": 8009,
+      "dmg_carry": "Lux",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4388823641"
+    },
+    "200": {
+      "total_gold_earned": 44309,
+      "total_gold_spent": 41810,
+      "team_comp": [
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 18,
+      "total_deaths": 4,
+      "total_damage_dealt_to_champions": 40534,
+      "total_damage_dealt_to_objectives": 58440,
+      "total_damage_taken": 73042,
+      "average_vision_score": 15,
+      "total_wards_placed": 32,
+      "average_creep_score": 104,
+      "average_champion_experience": 9817,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4388823641"
+    }
+  }
+}

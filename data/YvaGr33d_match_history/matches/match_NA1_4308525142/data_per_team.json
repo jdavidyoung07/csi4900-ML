@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40170,
+      "total_gold_spent": 36100,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 51887,
+      "total_damage_dealt_to_objectives": 13628,
+      "total_damage_taken": 107463,
+      "average_vision_score": 14,
+      "total_wards_placed": 34,
+      "average_creep_score": 82,
+      "average_champion_experience": 9650,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4308525142"
+    },
+    "200": {
+      "total_gold_earned": 57506,
+      "total_gold_spent": 48185,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 90916,
+      "total_damage_dealt_to_objectives": 52638,
+      "total_damage_taken": 81389,
+      "average_vision_score": 12,
+      "total_wards_placed": 27,
+      "average_creep_score": 96,
+      "average_champion_experience": 12353,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4308525142"
+    }
+  }
+}

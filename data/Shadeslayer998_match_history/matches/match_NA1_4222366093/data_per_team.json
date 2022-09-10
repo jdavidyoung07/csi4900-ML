@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59649,
+      "total_gold_spent": 55385,
+      "team_comp": [
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 106626,
+      "total_damage_dealt_to_objectives": 41093,
+      "total_damage_taken": 161163,
+      "average_vision_score": 28,
+      "total_wards_placed": 54,
+      "average_creep_score": 100,
+      "average_champion_experience": 12326,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4222366093"
+    },
+    "200": {
+      "total_gold_earned": 65512,
+      "total_gold_spent": 59683,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 134709,
+      "total_damage_dealt_to_objectives": 57693,
+      "total_damage_taken": 137190,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 107,
+      "average_champion_experience": 14168,
+      "dmg_carry": "Senna",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4222366093"
+    }
+  }
+}

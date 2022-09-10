@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69956,
+      "total_gold_spent": 67675,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 173241,
+      "total_damage_dealt_to_objectives": 69361,
+      "total_damage_taken": 182502,
+      "average_vision_score": 33,
+      "total_wards_placed": 78,
+      "average_creep_score": 125,
+      "average_champion_experience": 15828,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4080457799"
+    },
+    "200": {
+      "total_gold_earned": 75327,
+      "total_gold_spent": 68650,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ornn",
+          "champId": 516
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 157788,
+      "total_damage_dealt_to_objectives": 79374,
+      "total_damage_taken": 207982,
+      "average_vision_score": 38,
+      "total_wards_placed": 75,
+      "average_creep_score": 133,
+      "average_champion_experience": 17968,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4080457799"
+    }
+  }
+}

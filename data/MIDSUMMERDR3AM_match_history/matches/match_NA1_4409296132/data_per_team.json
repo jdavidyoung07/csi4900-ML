@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42234,
+      "total_gold_spent": 40620,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 67581,
+      "total_damage_dealt_to_objectives": 38761,
+      "total_damage_taken": 107624,
+      "average_vision_score": 23,
+      "total_wards_placed": 40,
+      "average_creep_score": 108,
+      "average_champion_experience": 10210,
+      "dmg_carry": "TahmKench",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4409296132"
+    },
+    "200": {
+      "total_gold_earned": 53412,
+      "total_gold_spent": 45325,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 92249,
+      "total_damage_dealt_to_objectives": 70135,
+      "total_damage_taken": 103752,
+      "average_vision_score": 21,
+      "total_wards_placed": 59,
+      "average_creep_score": 114,
+      "average_champion_experience": 12732,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4409296132"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67060,
+      "total_gold_spent": 62960,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 128409,
+      "total_damage_dealt_to_objectives": 33020,
+      "total_damage_taken": 127671,
+      "average_vision_score": 38,
+      "total_wards_placed": 83,
+      "average_creep_score": 131,
+      "average_champion_experience": 15422,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4251369860"
+    },
+    "200": {
+      "total_gold_earned": 69657,
+      "total_gold_spent": 61685,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 111366,
+      "total_damage_dealt_to_objectives": 83213,
+      "total_damage_taken": 170121,
+      "average_vision_score": 34,
+      "total_wards_placed": 76,
+      "average_creep_score": 128,
+      "average_champion_experience": 15923,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4251369860"
+    }
+  }
+}

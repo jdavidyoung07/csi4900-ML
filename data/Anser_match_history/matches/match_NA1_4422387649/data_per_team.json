@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56006,
+      "total_gold_spent": 50325,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 75401,
+      "total_damage_dealt_to_objectives": 87340,
+      "total_damage_taken": 89682,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 118,
+      "average_champion_experience": 12941,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4422387649"
+    },
+    "200": {
+      "total_gold_earned": 48007,
+      "total_gold_spent": 43575,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 67944,
+      "total_damage_dealt_to_objectives": 20349,
+      "total_damage_taken": 101505,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 123,
+      "average_champion_experience": 11055,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4422387649"
+    }
+  }
+}

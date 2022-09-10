@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 10,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 12665,
+      "total_gold_spent": 9060,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 2,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 7958,
+      "total_damage_dealt_to_objectives": 580,
+      "total_damage_taken": 16269,
+      "average_vision_score": 4,
+      "total_wards_placed": 10,
+      "average_creep_score": 32,
+      "average_champion_experience": 3112,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Garen",
+      "match_id": "NA1_3960596556"
+    },
+    "200": {
+      "total_gold_earned": 17217,
+      "total_gold_spent": 13275,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 2,
+      "total_damage_dealt_to_champions": 11301,
+      "total_damage_dealt_to_objectives": 5390,
+      "total_damage_taken": 16823,
+      "average_vision_score": 4,
+      "total_wards_placed": 10,
+      "average_creep_score": 43,
+      "average_champion_experience": 3879,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_3960596556"
+    }
+  }
+}

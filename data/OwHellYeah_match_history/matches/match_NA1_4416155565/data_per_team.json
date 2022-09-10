@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33602,
+      "total_gold_spent": 31525,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 44068,
+      "total_damage_dealt_to_objectives": 27402,
+      "total_damage_taken": 79626,
+      "average_vision_score": 14,
+      "total_wards_placed": 32,
+      "average_creep_score": 84,
+      "average_champion_experience": 7735,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4416155565"
+    },
+    "200": {
+      "total_gold_earned": 44619,
+      "total_gold_spent": 38783,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 65640,
+      "total_damage_dealt_to_objectives": 45256,
+      "total_damage_taken": 73067,
+      "average_vision_score": 18,
+      "total_wards_placed": 34,
+      "average_creep_score": 83,
+      "average_champion_experience": 9674,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4416155565"
+    }
+  }
+}

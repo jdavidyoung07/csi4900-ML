@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58377,
+      "total_gold_spent": 56005,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 95321,
+      "total_damage_dealt_to_objectives": 48293,
+      "total_damage_taken": 154383,
+      "average_vision_score": 20,
+      "total_wards_placed": 55,
+      "average_creep_score": 113,
+      "average_champion_experience": 14107,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4419006333"
+    },
+    "200": {
+      "total_gold_earned": 61725,
+      "total_gold_spent": 53680,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 129614,
+      "total_damage_dealt_to_objectives": 80140,
+      "total_damage_taken": 124188,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 127,
+      "average_champion_experience": 14928,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4419006333"
+    }
+  }
+}

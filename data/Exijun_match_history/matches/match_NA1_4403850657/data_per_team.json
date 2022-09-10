@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47318,
+      "total_gold_spent": 45550,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 83038,
+      "total_damage_dealt_to_objectives": 37615,
+      "total_damage_taken": 108415,
+      "average_vision_score": 24,
+      "total_wards_placed": 52,
+      "average_creep_score": 126,
+      "average_champion_experience": 12088,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4403850657"
+    },
+    "200": {
+      "total_gold_earned": 59945,
+      "total_gold_spent": 53360,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 80272,
+      "total_damage_dealt_to_objectives": 61093,
+      "total_damage_taken": 111362,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 136,
+      "average_champion_experience": 14936,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4403850657"
+    }
+  }
+}

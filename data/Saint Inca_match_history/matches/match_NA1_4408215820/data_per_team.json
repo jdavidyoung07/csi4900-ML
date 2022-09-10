@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43140,
+      "total_gold_spent": 38710,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 63090,
+      "total_damage_dealt_to_objectives": 47459,
+      "total_damage_taken": 117373,
+      "average_vision_score": 22,
+      "total_wards_placed": 57,
+      "average_creep_score": 109,
+      "average_champion_experience": 10899,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4408215820"
+    },
+    "200": {
+      "total_gold_earned": 58548,
+      "total_gold_spent": 54035,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 90736,
+      "total_damage_dealt_to_objectives": 49048,
+      "total_damage_taken": 89634,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 109,
+      "average_champion_experience": 13300,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4408215820"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52404,
+      "total_gold_spent": 48735,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 79558,
+      "total_damage_dealt_to_objectives": 29865,
+      "total_damage_taken": 92808,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 125,
+      "average_champion_experience": 12073,
+      "dmg_carry": "Corki",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4238896028"
+    },
+    "200": {
+      "total_gold_earned": 60632,
+      "total_gold_spent": 51160,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 73075,
+      "total_damage_dealt_to_objectives": 67200,
+      "total_damage_taken": 109211,
+      "average_vision_score": 34,
+      "total_wards_placed": 65,
+      "average_creep_score": 115,
+      "average_champion_experience": 14432,
+      "dmg_carry": "Akali",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4238896028"
+    }
+  }
+}

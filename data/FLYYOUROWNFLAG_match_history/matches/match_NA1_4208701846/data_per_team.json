@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58906,
+      "total_gold_spent": 55485,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 85811,
+      "total_damage_dealt_to_objectives": 35282,
+      "total_damage_taken": 132456,
+      "average_vision_score": 24,
+      "total_wards_placed": 57,
+      "average_creep_score": 125,
+      "average_champion_experience": 14051,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4208701846"
+    },
+    "200": {
+      "total_gold_earned": 66390,
+      "total_gold_spent": 59583,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 49,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 110981,
+      "total_damage_dealt_to_objectives": 69031,
+      "total_damage_taken": 121094,
+      "average_vision_score": 23,
+      "total_wards_placed": 48,
+      "average_creep_score": 102,
+      "average_champion_experience": 15409,
+      "dmg_carry": "Senna",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4208701846"
+    }
+  }
+}

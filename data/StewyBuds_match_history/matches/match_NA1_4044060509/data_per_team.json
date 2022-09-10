@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 40,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69534,
+      "total_gold_spent": 66400,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ornn",
+          "champId": 516
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 134059,
+      "total_damage_dealt_to_objectives": 50842,
+      "total_damage_taken": 147071,
+      "average_vision_score": 35,
+      "total_wards_placed": 68,
+      "average_creep_score": 165,
+      "average_champion_experience": 17188,
+      "dmg_carry": "Orianna",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4044060509"
+    },
+    "200": {
+      "total_gold_earned": 74948,
+      "total_gold_spent": 68190,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 34,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 116875,
+      "total_damage_dealt_to_objectives": 84761,
+      "total_damage_taken": 173537,
+      "average_vision_score": 31,
+      "total_wards_placed": 71,
+      "average_creep_score": 159,
+      "average_champion_experience": 19042,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4044060509"
+    }
+  }
+}

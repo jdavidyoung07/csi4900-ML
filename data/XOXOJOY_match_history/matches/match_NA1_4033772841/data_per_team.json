@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70880,
+      "total_gold_spent": 62960,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 151083,
+      "total_damage_dealt_to_objectives": 75203,
+      "total_damage_taken": 162940,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 114,
+      "average_champion_experience": 16412,
+      "dmg_carry": "Brand",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4033772841"
+    },
+    "200": {
+      "total_gold_earned": 66223,
+      "total_gold_spent": 63610,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 130029,
+      "total_damage_dealt_to_objectives": 56061,
+      "total_damage_taken": 186641,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 107,
+      "average_champion_experience": 15588,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4033772841"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50924,
+      "total_gold_spent": 48620,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 72847,
+      "total_damage_dealt_to_objectives": 29469,
+      "total_damage_taken": 100731,
+      "average_vision_score": 17,
+      "total_wards_placed": 44,
+      "average_creep_score": 123,
+      "average_champion_experience": 12147,
+      "dmg_carry": "Yone",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4270545234"
+    },
+    "200": {
+      "total_gold_earned": 59921,
+      "total_gold_spent": 54450,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 38,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 71136,
+      "total_damage_dealt_to_objectives": 76324,
+      "total_damage_taken": 106767,
+      "average_vision_score": 19,
+      "total_wards_placed": 29,
+      "average_creep_score": 107,
+      "average_champion_experience": 14045,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4270545234"
+    }
+  }
+}

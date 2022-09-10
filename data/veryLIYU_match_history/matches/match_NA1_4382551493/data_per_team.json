@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44235,
+      "total_gold_spent": 41075,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 74151,
+      "total_damage_dealt_to_objectives": 18894,
+      "total_damage_taken": 106110,
+      "average_vision_score": 23,
+      "total_wards_placed": 46,
+      "average_creep_score": 90,
+      "average_champion_experience": 10202,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4382551493"
+    },
+    "200": {
+      "total_gold_earned": 58431,
+      "total_gold_spent": 52708,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 86829,
+      "total_damage_dealt_to_objectives": 72527,
+      "total_damage_taken": 108921,
+      "average_vision_score": 20,
+      "total_wards_placed": 52,
+      "average_creep_score": 104,
+      "average_champion_experience": 13438,
+      "dmg_carry": "AurelionSol",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4382551493"
+    }
+  }
+}

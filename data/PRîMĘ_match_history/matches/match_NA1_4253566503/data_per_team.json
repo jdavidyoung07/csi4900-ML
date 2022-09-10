@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40714,
+      "total_gold_spent": 36825,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 83935,
+      "total_damage_dealt_to_objectives": 20673,
+      "total_damage_taken": 95281,
+      "average_vision_score": 15,
+      "total_wards_placed": 39,
+      "average_creep_score": 94,
+      "average_champion_experience": 9080,
+      "dmg_carry": "Graves",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4253566503"
+    },
+    "200": {
+      "total_gold_earned": 50283,
+      "total_gold_spent": 45320,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 76797,
+      "total_damage_dealt_to_objectives": 73828,
+      "total_damage_taken": 119247,
+      "average_vision_score": 20,
+      "total_wards_placed": 43,
+      "average_creep_score": 84,
+      "average_champion_experience": 11037,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4253566503"
+    }
+  }
+}

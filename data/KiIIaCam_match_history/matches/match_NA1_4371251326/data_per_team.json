@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60722,
+      "total_gold_spent": 58600,
+      "team_comp": [
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 105372,
+      "total_damage_dealt_to_objectives": 21949,
+      "total_damage_taken": 132956,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 112,
+      "average_champion_experience": 14297,
+      "dmg_carry": "Brand",
+      "obj_carry": "Morgana",
+      "match_id": "NA1_4371251326"
+    },
+    "200": {
+      "total_gold_earned": 74051,
+      "total_gold_spent": 65058,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 108350,
+      "total_damage_dealt_to_objectives": 96464,
+      "total_damage_taken": 132910,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 132,
+      "average_champion_experience": 16897,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4371251326"
+    }
+  }
+}

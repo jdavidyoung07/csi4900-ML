@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 20500,
+      "total_gold_spent": 17025,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 19288,
+      "total_damage_dealt_to_objectives": 11407,
+      "total_damage_taken": 35503,
+      "average_vision_score": 5,
+      "total_wards_placed": 17,
+      "average_creep_score": 44,
+      "average_champion_experience": 4625,
+      "dmg_carry": "Shen",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4389010737"
+    },
+    "200": {
+      "total_gold_earned": 27467,
+      "total_gold_spent": 25235,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 25544,
+      "total_damage_dealt_to_objectives": 23447,
+      "total_damage_taken": 37649,
+      "average_vision_score": 10,
+      "total_wards_placed": 23,
+      "average_creep_score": 63,
+      "average_champion_experience": 6207,
+      "dmg_carry": "Volibear",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4389010737"
+    }
+  }
+}

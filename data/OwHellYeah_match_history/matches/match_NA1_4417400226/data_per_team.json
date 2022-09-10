@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83122,
+      "total_gold_spent": 73685,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 58,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 188545,
+      "total_damage_dealt_to_objectives": 118239,
+      "total_damage_taken": 227639,
+      "average_vision_score": 44,
+      "total_wards_placed": 74,
+      "average_creep_score": 150,
+      "average_champion_experience": 21538,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4417400226"
+    },
+    "200": {
+      "total_gold_earned": 78671,
+      "total_gold_spent": 79594,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 175121,
+      "total_damage_dealt_to_objectives": 55036,
+      "total_damage_taken": 235025,
+      "average_vision_score": 34,
+      "total_wards_placed": 78,
+      "average_creep_score": 139,
+      "average_champion_experience": 18051,
+      "dmg_carry": "Yone",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4417400226"
+    }
+  }
+}

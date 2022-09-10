@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52973,
+      "total_gold_spent": 49795,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 97146,
+      "total_damage_dealt_to_objectives": 15900,
+      "total_damage_taken": 133502,
+      "average_vision_score": 22,
+      "total_wards_placed": 43,
+      "average_creep_score": 112,
+      "average_champion_experience": 12813,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4187114617"
+    },
+    "200": {
+      "total_gold_earned": 62834,
+      "total_gold_spent": 58700,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 110628,
+      "total_damage_dealt_to_objectives": 77736,
+      "total_damage_taken": 126724,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 94,
+      "average_champion_experience": 13902,
+      "dmg_carry": "Swain",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4187114617"
+    }
+  }
+}

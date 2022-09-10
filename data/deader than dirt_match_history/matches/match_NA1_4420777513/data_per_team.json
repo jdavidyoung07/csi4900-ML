@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53255,
+      "total_gold_spent": 49600,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 81816,
+      "total_damage_dealt_to_objectives": 67874,
+      "total_damage_taken": 127091,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 107,
+      "average_champion_experience": 11425,
+      "dmg_carry": "Garen",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4420777513"
+    },
+    "200": {
+      "total_gold_earned": 58618,
+      "total_gold_spent": 49050,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 99078,
+      "total_damage_dealt_to_objectives": 39225,
+      "total_damage_taken": 109269,
+      "average_vision_score": 31,
+      "total_wards_placed": 60,
+      "average_creep_score": 111,
+      "average_champion_experience": 13774,
+      "dmg_carry": "Yone",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4420777513"
+    }
+  }
+}

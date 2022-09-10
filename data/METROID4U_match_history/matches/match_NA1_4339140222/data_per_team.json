@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 17185,
+      "total_gold_spent": 11075,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 2,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 13338,
+      "total_damage_dealt_to_objectives": 2231,
+      "total_damage_taken": 19882,
+      "average_vision_score": 4,
+      "total_wards_placed": 14,
+      "average_creep_score": 49,
+      "average_champion_experience": 4183,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4339140222"
+    },
+    "200": {
+      "total_gold_earned": 17319,
+      "total_gold_spent": 12300,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 2,
+      "total_damage_dealt_to_champions": 9885,
+      "total_damage_dealt_to_objectives": 8872,
+      "total_damage_taken": 22231,
+      "average_vision_score": 4,
+      "total_wards_placed": 15,
+      "average_creep_score": 45,
+      "average_champion_experience": 4182,
+      "dmg_carry": "Fiora",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4339140222"
+    }
+  }
+}

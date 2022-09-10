@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54280,
+      "total_gold_spent": 49000,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 84435,
+      "total_damage_dealt_to_objectives": 27779,
+      "total_damage_taken": 116322,
+      "average_vision_score": 23,
+      "total_wards_placed": 38,
+      "average_creep_score": 121,
+      "average_champion_experience": 12666,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4378112541"
+    },
+    "200": {
+      "total_gold_earned": 59097,
+      "total_gold_spent": 53825,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 101004,
+      "total_damage_dealt_to_objectives": 91792,
+      "total_damage_taken": 118217,
+      "average_vision_score": 23,
+      "total_wards_placed": 54,
+      "average_creep_score": 114,
+      "average_champion_experience": 12976,
+      "dmg_carry": "Sion",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4378112541"
+    }
+  }
+}

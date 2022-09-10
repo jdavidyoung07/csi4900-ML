@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65435,
+      "total_gold_spent": 59105,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 131646,
+      "total_damage_dealt_to_objectives": 92537,
+      "total_damage_taken": 110485,
+      "average_vision_score": 24,
+      "total_wards_placed": 44,
+      "average_creep_score": 122,
+      "average_champion_experience": 15785,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4388387832"
+    },
+    "200": {
+      "total_gold_earned": 51779,
+      "total_gold_spent": 49600,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 73894,
+      "total_damage_dealt_to_objectives": 22309,
+      "total_damage_taken": 150003,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 111,
+      "average_champion_experience": 12169,
+      "dmg_carry": "Lillia",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4388387832"
+    }
+  }
+}

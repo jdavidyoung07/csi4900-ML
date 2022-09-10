@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35365,
+      "total_gold_spent": 33485,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 53858,
+      "total_damage_dealt_to_objectives": 14867,
+      "total_damage_taken": 78013,
+      "average_vision_score": 13,
+      "total_wards_placed": 37,
+      "average_creep_score": 81,
+      "average_champion_experience": 8317,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4203685767"
+    },
+    "200": {
+      "total_gold_earned": 47538,
+      "total_gold_spent": 45175,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 61751,
+      "total_damage_dealt_to_objectives": 56312,
+      "total_damage_taken": 74303,
+      "average_vision_score": 21,
+      "total_wards_placed": 35,
+      "average_creep_score": 85,
+      "average_champion_experience": 10195,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4203685767"
+    }
+  }
+}

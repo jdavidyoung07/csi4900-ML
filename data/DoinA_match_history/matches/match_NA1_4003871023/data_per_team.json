@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70666,
+      "total_gold_spent": 64560,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 7,
+      "total_kills": 45,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 115955,
+      "total_damage_dealt_to_objectives": 105201,
+      "total_damage_taken": 134483,
+      "average_vision_score": 35,
+      "total_wards_placed": 68,
+      "average_creep_score": 129,
+      "average_champion_experience": 17212,
+      "dmg_carry": "Yone",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4003871023"
+    },
+    "200": {
+      "total_gold_earned": 64338,
+      "total_gold_spent": 59775,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 101184,
+      "total_damage_dealt_to_objectives": 34573,
+      "total_damage_taken": 140682,
+      "average_vision_score": 28,
+      "total_wards_placed": 68,
+      "average_creep_score": 163,
+      "average_champion_experience": 16977,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4003871023"
+    }
+  }
+}

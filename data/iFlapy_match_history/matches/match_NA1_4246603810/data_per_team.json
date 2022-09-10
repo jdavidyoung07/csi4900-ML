@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56586,
+      "total_gold_spent": 53255,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 71155,
+      "total_damage_dealt_to_objectives": 45629,
+      "total_damage_taken": 139717,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 128,
+      "average_champion_experience": 13048,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4246603810"
+    },
+    "200": {
+      "total_gold_earned": 66366,
+      "total_gold_spent": 59585,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 111994,
+      "total_damage_dealt_to_objectives": 93285,
+      "total_damage_taken": 102434,
+      "average_vision_score": 41,
+      "total_wards_placed": 83,
+      "average_creep_score": 123,
+      "average_champion_experience": 15964,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4246603810"
+    }
+  }
+}

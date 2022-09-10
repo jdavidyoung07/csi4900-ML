@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40839,
+      "total_gold_spent": 35068,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 48160,
+      "total_damage_dealt_to_objectives": 33719,
+      "total_damage_taken": 66999,
+      "average_vision_score": 16,
+      "total_wards_placed": 34,
+      "average_creep_score": 82,
+      "average_champion_experience": 8731,
+      "dmg_carry": "Camille",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4044700877"
+    },
+    "200": {
+      "total_gold_earned": 37679,
+      "total_gold_spent": 35725,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 43131,
+      "total_damage_dealt_to_objectives": 19567,
+      "total_damage_taken": 60461,
+      "average_vision_score": 17,
+      "total_wards_placed": 42,
+      "average_creep_score": 84,
+      "average_champion_experience": 8613,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4044700877"
+    }
+  }
+}

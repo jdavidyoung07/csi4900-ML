@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54031,
+      "total_gold_spent": 50050,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 95849,
+      "total_damage_dealt_to_objectives": 58840,
+      "total_damage_taken": 122062,
+      "average_vision_score": 31,
+      "total_wards_placed": 67,
+      "average_creep_score": 96,
+      "average_champion_experience": 11892,
+      "dmg_carry": "Brand",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4406769653"
+    },
+    "200": {
+      "total_gold_earned": 59937,
+      "total_gold_spent": 54460,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 97850,
+      "total_damage_dealt_to_objectives": 62973,
+      "total_damage_taken": 127550,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 107,
+      "average_champion_experience": 13252,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4406769653"
+    }
+  }
+}

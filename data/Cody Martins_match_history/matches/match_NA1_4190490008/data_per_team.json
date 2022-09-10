@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62197,
+      "total_gold_spent": 55040,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 108983,
+      "total_damage_dealt_to_objectives": 66325,
+      "total_damage_taken": 98344,
+      "average_vision_score": 26,
+      "total_wards_placed": 47,
+      "average_creep_score": 115,
+      "average_champion_experience": 14167,
+      "dmg_carry": "Senna",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4190490008"
+    },
+    "200": {
+      "total_gold_earned": 50644,
+      "total_gold_spent": 48258,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 69540,
+      "total_damage_dealt_to_objectives": 25297,
+      "total_damage_taken": 132300,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 107,
+      "average_champion_experience": 11777,
+      "dmg_carry": "Corki",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4190490008"
+    }
+  }
+}

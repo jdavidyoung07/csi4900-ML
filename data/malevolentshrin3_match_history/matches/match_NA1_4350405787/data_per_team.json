@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44026,
+      "total_gold_spent": 39750,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 68053,
+      "total_damage_dealt_to_objectives": 14853,
+      "total_damage_taken": 87899,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 89,
+      "average_champion_experience": 10350,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4350405787"
+    },
+    "200": {
+      "total_gold_earned": 53102,
+      "total_gold_spent": 48975,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 63597,
+      "total_damage_dealt_to_objectives": 59251,
+      "total_damage_taken": 91183,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 96,
+      "average_champion_experience": 10998,
+      "dmg_carry": "Samira",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4350405787"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63220,
+      "total_gold_spent": 61158,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 108032,
+      "total_damage_dealt_to_objectives": 35273,
+      "total_damage_taken": 134059,
+      "average_vision_score": 37,
+      "total_wards_placed": 98,
+      "average_creep_score": 113,
+      "average_champion_experience": 14797,
+      "dmg_carry": "Talon",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4061799545"
+    },
+    "200": {
+      "total_gold_earned": 70742,
+      "total_gold_spent": 61323,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 106601,
+      "total_damage_dealt_to_objectives": 82508,
+      "total_damage_taken": 137605,
+      "average_vision_score": 37,
+      "total_wards_placed": 52,
+      "average_creep_score": 121,
+      "average_champion_experience": 17415,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4061799545"
+    }
+  }
+}

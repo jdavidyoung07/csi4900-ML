@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65674,
+      "total_gold_spent": 62475,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 112037,
+      "total_damage_dealt_to_objectives": 44354,
+      "total_damage_taken": 139099,
+      "average_vision_score": 32,
+      "total_wards_placed": 64,
+      "average_creep_score": 158,
+      "average_champion_experience": 17306,
+      "dmg_carry": "Vex",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4188602498"
+    },
+    "200": {
+      "total_gold_earned": 73736,
+      "total_gold_spent": 67225,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 103775,
+      "total_damage_dealt_to_objectives": 101004,
+      "total_damage_taken": 158614,
+      "average_vision_score": 39,
+      "total_wards_placed": 89,
+      "average_creep_score": 153,
+      "average_champion_experience": 18722,
+      "dmg_carry": "Jax",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4188602498"
+    }
+  }
+}

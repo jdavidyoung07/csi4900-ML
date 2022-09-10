@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87022,
+      "total_gold_spent": 83138,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 180126,
+      "total_damage_dealt_to_objectives": 63618,
+      "total_damage_taken": 206488,
+      "average_vision_score": 38,
+      "total_wards_placed": 79,
+      "average_creep_score": 179,
+      "average_champion_experience": 22764,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4347355704"
+    },
+    "200": {
+      "total_gold_earned": 74947,
+      "total_gold_spent": 75005,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 145267,
+      "total_damage_dealt_to_objectives": 94582,
+      "total_damage_taken": 217821,
+      "average_vision_score": 34,
+      "total_wards_placed": 74,
+      "average_creep_score": 159,
+      "average_champion_experience": 17582,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4347355704"
+    }
+  }
+}

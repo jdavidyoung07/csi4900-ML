@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43603,
+      "total_gold_spent": 40900,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 68578,
+      "total_damage_dealt_to_objectives": 16506,
+      "total_damage_taken": 79236,
+      "average_vision_score": 26,
+      "total_wards_placed": 66,
+      "average_creep_score": 95,
+      "average_champion_experience": 10211,
+      "dmg_carry": "Brand",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4411237519"
+    },
+    "200": {
+      "total_gold_earned": 50624,
+      "total_gold_spent": 45435,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 63048,
+      "total_damage_dealt_to_objectives": 53968,
+      "total_damage_taken": 90058,
+      "average_vision_score": 30,
+      "total_wards_placed": 62,
+      "average_creep_score": 117,
+      "average_champion_experience": 11502,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4411237519"
+    }
+  }
+}

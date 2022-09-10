@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80794,
+      "total_gold_spent": 82190,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 8,
+      "total_kills": 29,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 123326,
+      "total_damage_dealt_to_objectives": 129250,
+      "total_damage_taken": 196956,
+      "average_vision_score": 32,
+      "total_wards_placed": 75,
+      "average_creep_score": 162,
+      "average_champion_experience": 19451,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4274009402"
+    },
+    "200": {
+      "total_gold_earned": 86819,
+      "total_gold_spent": 80205,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 161043,
+      "total_damage_dealt_to_objectives": 68480,
+      "total_damage_taken": 165564,
+      "average_vision_score": 28,
+      "total_wards_placed": 53,
+      "average_creep_score": 210,
+      "average_champion_experience": 23744,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4274009402"
+    }
+  }
+}

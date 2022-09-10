@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37998,
+      "total_gold_spent": 34775,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 38969,
+      "total_damage_dealt_to_objectives": 15097,
+      "total_damage_taken": 74780,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 111,
+      "average_champion_experience": 9940,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4231947592"
+    },
+    "200": {
+      "total_gold_earned": 51835,
+      "total_gold_spent": 46480,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 19,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 49446,
+      "total_damage_dealt_to_objectives": 78581,
+      "total_damage_taken": 71863,
+      "average_vision_score": 19,
+      "total_wards_placed": 38,
+      "average_creep_score": 114,
+      "average_champion_experience": 11989,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4231947592"
+    }
+  }
+}

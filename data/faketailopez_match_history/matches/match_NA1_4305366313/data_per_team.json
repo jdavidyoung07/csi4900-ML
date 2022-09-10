@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61225,
+      "total_gold_spent": 58125,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 86148,
+      "total_damage_dealt_to_objectives": 69008,
+      "total_damage_taken": 137098,
+      "average_vision_score": 26,
+      "total_wards_placed": 66,
+      "average_creep_score": 124,
+      "average_champion_experience": 15033,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4305366313"
+    },
+    "200": {
+      "total_gold_earned": 68654,
+      "total_gold_spent": 60000,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 105422,
+      "total_damage_dealt_to_objectives": 43767,
+      "total_damage_taken": 118989,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 140,
+      "average_champion_experience": 15601,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4305366313"
+    }
+  }
+}

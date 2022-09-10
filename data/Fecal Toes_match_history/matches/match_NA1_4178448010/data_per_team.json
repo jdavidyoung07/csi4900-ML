@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70393,
+      "total_gold_spent": 68535,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 146288,
+      "total_damage_dealt_to_objectives": 52691,
+      "total_damage_taken": 176646,
+      "average_vision_score": 31,
+      "total_wards_placed": 56,
+      "average_creep_score": 118,
+      "average_champion_experience": 16963,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4178448010"
+    },
+    "200": {
+      "total_gold_earned": 72575,
+      "total_gold_spent": 64780,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 139906,
+      "total_damage_dealt_to_objectives": 74033,
+      "total_damage_taken": 185833,
+      "average_vision_score": 41,
+      "total_wards_placed": 83,
+      "average_creep_score": 121,
+      "average_champion_experience": 16006,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4178448010"
+    }
+  }
+}

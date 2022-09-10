@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 113649,
+      "total_gold_spent": 104825,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 56,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 276347,
+      "total_damage_dealt_to_objectives": 104682,
+      "total_damage_taken": 310968,
+      "average_vision_score": 52,
+      "total_wards_placed": 100,
+      "average_creep_score": 237,
+      "average_champion_experience": 30862,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4365312869"
+    },
+    "200": {
+      "total_gold_earned": 102261,
+      "total_gold_spent": 120270,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 4,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 8,
+      "total_kills": 53,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 251304,
+      "total_damage_dealt_to_objectives": 159711,
+      "total_damage_taken": 343843,
+      "average_vision_score": 53,
+      "total_wards_placed": 111,
+      "average_creep_score": 167,
+      "average_champion_experience": 25922,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4365312869"
+    }
+  }
+}

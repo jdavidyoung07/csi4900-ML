@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63089,
+      "total_gold_spent": 56125,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 100322,
+      "total_damage_dealt_to_objectives": 92680,
+      "total_damage_taken": 134264,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 115,
+      "average_champion_experience": 15535,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4378974723"
+    },
+    "200": {
+      "total_gold_earned": 49923,
+      "total_gold_spent": 45633,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 104001,
+      "total_damage_dealt_to_objectives": 15932,
+      "total_damage_taken": 128219,
+      "average_vision_score": 19,
+      "total_wards_placed": 39,
+      "average_creep_score": 121,
+      "average_champion_experience": 12193,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4378974723"
+    }
+  }
+}

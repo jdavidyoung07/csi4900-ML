@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57085,
+      "total_gold_spent": 56300,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 107882,
+      "total_damage_dealt_to_objectives": 33224,
+      "total_damage_taken": 131409,
+      "average_vision_score": 31,
+      "total_wards_placed": 56,
+      "average_creep_score": 135,
+      "average_champion_experience": 12995,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4350595971"
+    },
+    "200": {
+      "total_gold_earned": 72702,
+      "total_gold_spent": 60675,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 112690,
+      "total_damage_dealt_to_objectives": 98586,
+      "total_damage_taken": 144943,
+      "average_vision_score": 25,
+      "total_wards_placed": 45,
+      "average_creep_score": 134,
+      "average_champion_experience": 17034,
+      "dmg_carry": "Lux",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4350595971"
+    }
+  }
+}

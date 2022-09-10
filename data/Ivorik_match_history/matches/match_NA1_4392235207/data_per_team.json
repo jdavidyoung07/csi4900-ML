@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50494,
+      "total_gold_spent": 53435,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 109952,
+      "total_damage_dealt_to_objectives": 34641,
+      "total_damage_taken": 143666,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 112,
+      "average_champion_experience": 11612,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4392235207"
+    },
+    "200": {
+      "total_gold_earned": 64758,
+      "total_gold_spent": 58525,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 118182,
+      "total_damage_dealt_to_objectives": 101241,
+      "total_damage_taken": 142403,
+      "average_vision_score": 25,
+      "total_wards_placed": 45,
+      "average_creep_score": 112,
+      "average_champion_experience": 15530,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4392235207"
+    }
+  }
+}

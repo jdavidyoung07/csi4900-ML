@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39889,
+      "total_gold_spent": 37535,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 47664,
+      "total_damage_dealt_to_objectives": 5847,
+      "total_damage_taken": 100786,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 105,
+      "average_champion_experience": 9880,
+      "dmg_carry": "Vex",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4100406316"
+    },
+    "200": {
+      "total_gold_earned": 54871,
+      "total_gold_spent": 47750,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 81627,
+      "total_damage_dealt_to_objectives": 82253,
+      "total_damage_taken": 70304,
+      "average_vision_score": 27,
+      "total_wards_placed": 50,
+      "average_creep_score": 116,
+      "average_champion_experience": 13284,
+      "dmg_carry": "Quinn",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4100406316"
+    }
+  }
+}

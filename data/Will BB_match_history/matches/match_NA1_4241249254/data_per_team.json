@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41390,
+      "total_gold_spent": 35925,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 19,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 65419,
+      "total_damage_dealt_to_objectives": 32224,
+      "total_damage_taken": 57364,
+      "average_vision_score": 19,
+      "total_wards_placed": 45,
+      "average_creep_score": 95,
+      "average_champion_experience": 9348,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4241249254"
+    },
+    "200": {
+      "total_gold_earned": 40454,
+      "total_gold_spent": 36858,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 15,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 41938,
+      "total_damage_dealt_to_objectives": 31156,
+      "total_damage_taken": 77708,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 87,
+      "average_champion_experience": 8522,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4241249254"
+    }
+  }
+}

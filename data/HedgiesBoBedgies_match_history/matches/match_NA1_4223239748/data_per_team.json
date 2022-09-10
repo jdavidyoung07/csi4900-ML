@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43550,
+      "total_gold_spent": 34605,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 66025,
+      "total_damage_dealt_to_objectives": 38793,
+      "total_damage_taken": 73653,
+      "average_vision_score": 14,
+      "total_wards_placed": 29,
+      "average_creep_score": 85,
+      "average_champion_experience": 9600,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4223239748"
+    },
+    "200": {
+      "total_gold_earned": 36030,
+      "total_gold_spent": 34625,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 49930,
+      "total_damage_dealt_to_objectives": 29865,
+      "total_damage_taken": 84599,
+      "average_vision_score": 9,
+      "total_wards_placed": 24,
+      "average_creep_score": 70,
+      "average_champion_experience": 8052,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4223239748"
+    }
+  }
+}

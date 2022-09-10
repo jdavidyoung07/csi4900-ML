@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75879,
+      "total_gold_spent": 69838,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 60,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 157736,
+      "total_damage_dealt_to_objectives": 80203,
+      "total_damage_taken": 153781,
+      "average_vision_score": 35,
+      "total_wards_placed": 76,
+      "average_creep_score": 133,
+      "average_champion_experience": 18308,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4324146361"
+    },
+    "200": {
+      "total_gold_earned": 69044,
+      "total_gold_spent": 64225,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 116521,
+      "total_damage_dealt_to_objectives": 44375,
+      "total_damage_taken": 189888,
+      "average_vision_score": 28,
+      "total_wards_placed": 70,
+      "average_creep_score": 136,
+      "average_champion_experience": 16363,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4324146361"
+    }
+  }
+}

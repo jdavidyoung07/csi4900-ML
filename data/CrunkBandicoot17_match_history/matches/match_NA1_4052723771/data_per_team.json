@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33913,
+      "total_gold_spent": 30600,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 52525,
+      "total_damage_dealt_to_objectives": 20531,
+      "total_damage_taken": 71679,
+      "average_vision_score": 17,
+      "total_wards_placed": 37,
+      "average_creep_score": 87,
+      "average_champion_experience": 8624,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4052723771"
+    },
+    "200": {
+      "total_gold_earned": 36702,
+      "total_gold_spent": 29275,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 51007,
+      "total_damage_dealt_to_objectives": 29026,
+      "total_damage_taken": 76304,
+      "average_vision_score": 14,
+      "total_wards_placed": 38,
+      "average_creep_score": 91,
+      "average_champion_experience": 9077,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4052723771"
+    }
+  }
+}

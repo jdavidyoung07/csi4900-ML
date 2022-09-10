@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49780,
+      "total_gold_spent": 41295,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 76907,
+      "total_damage_dealt_to_objectives": 61718,
+      "total_damage_taken": 72931,
+      "average_vision_score": 25,
+      "total_wards_placed": 46,
+      "average_creep_score": 103,
+      "average_champion_experience": 10833,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4333920307"
+    },
+    "200": {
+      "total_gold_earned": 31717,
+      "total_gold_spent": 30050,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 34287,
+      "total_damage_dealt_to_objectives": 1591,
+      "total_damage_taken": 87783,
+      "average_vision_score": 14,
+      "total_wards_placed": 50,
+      "average_creep_score": 81,
+      "average_champion_experience": 8223,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4333920307"
+    }
+  }
+}

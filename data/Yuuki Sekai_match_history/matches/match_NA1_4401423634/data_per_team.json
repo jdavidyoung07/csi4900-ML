@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56677,
+      "total_gold_spent": 52018,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 82203,
+      "total_damage_dealt_to_objectives": 64026,
+      "total_damage_taken": 113759,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 115,
+      "average_champion_experience": 13404,
+      "dmg_carry": "Gragas",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4401423634"
+    },
+    "200": {
+      "total_gold_earned": 50491,
+      "total_gold_spent": 48780,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 95490,
+      "total_damage_dealt_to_objectives": 44321,
+      "total_damage_taken": 106014,
+      "average_vision_score": 25,
+      "total_wards_placed": 66,
+      "average_creep_score": 110,
+      "average_champion_experience": 11285,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4401423634"
+    }
+  }
+}

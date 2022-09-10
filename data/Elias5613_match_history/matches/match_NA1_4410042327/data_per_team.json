@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87076,
+      "total_gold_spent": 78080,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 40,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 169612,
+      "total_damage_dealt_to_objectives": 107412,
+      "total_damage_taken": 198186,
+      "average_vision_score": 45,
+      "total_wards_placed": 90,
+      "average_creep_score": 171,
+      "average_champion_experience": 20860,
+      "dmg_carry": "Vex",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4410042327"
+    },
+    "200": {
+      "total_gold_earned": 79794,
+      "total_gold_spent": 73220,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 167436,
+      "total_damage_dealt_to_objectives": 52941,
+      "total_damage_taken": 206519,
+      "average_vision_score": 43,
+      "total_wards_placed": 96,
+      "average_creep_score": 192,
+      "average_champion_experience": 20860,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4410042327"
+    }
+  }
+}

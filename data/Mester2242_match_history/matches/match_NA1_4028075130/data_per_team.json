@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 21,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30958,
+      "total_gold_spent": 28345,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 35734,
+      "total_damage_dealt_to_objectives": 7326,
+      "total_damage_taken": 64456,
+      "average_vision_score": 19,
+      "total_wards_placed": 42,
+      "average_creep_score": 83,
+      "average_champion_experience": 7792,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4028075130"
+    },
+    "200": {
+      "total_gold_earned": 37170,
+      "total_gold_spent": 33535,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 46603,
+      "total_damage_dealt_to_objectives": 36897,
+      "total_damage_taken": 53083,
+      "average_vision_score": 12,
+      "total_wards_placed": 33,
+      "average_creep_score": 75,
+      "average_champion_experience": 8684,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4028075130"
+    }
+  }
+}

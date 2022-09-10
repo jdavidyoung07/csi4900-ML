@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58693,
+      "total_gold_spent": 52790,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 26,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 81323,
+      "total_damage_dealt_to_objectives": 90671,
+      "total_damage_taken": 99394,
+      "average_vision_score": 30,
+      "total_wards_placed": 74,
+      "average_creep_score": 110,
+      "average_champion_experience": 12687,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4421522915"
+    },
+    "200": {
+      "total_gold_earned": 50730,
+      "total_gold_spent": 49075,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 67383,
+      "total_damage_dealt_to_objectives": 22309,
+      "total_damage_taken": 110526,
+      "average_vision_score": 25,
+      "total_wards_placed": 45,
+      "average_creep_score": 121,
+      "average_champion_experience": 12296,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4421522915"
+    }
+  }
+}

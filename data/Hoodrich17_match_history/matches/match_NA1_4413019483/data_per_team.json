@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68426,
+      "total_gold_spent": 59500,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 38,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 119697,
+      "total_damage_dealt_to_objectives": 112426,
+      "total_damage_taken": 148804,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 129,
+      "average_champion_experience": 16143,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Elise",
+      "match_id": "NA1_4413019483"
+    },
+    "200": {
+      "total_gold_earned": 55338,
+      "total_gold_spent": 52050,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 13,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 107581,
+      "total_damage_dealt_to_objectives": 27931,
+      "total_damage_taken": 138141,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 127,
+      "average_champion_experience": 12759,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4413019483"
+    }
+  }
+}

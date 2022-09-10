@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56180,
+      "total_gold_spent": 52468,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 103344,
+      "total_damage_dealt_to_objectives": 44564,
+      "total_damage_taken": 116201,
+      "average_vision_score": 25,
+      "total_wards_placed": 52,
+      "average_creep_score": 106,
+      "average_champion_experience": 12216,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4377809513"
+    },
+    "200": {
+      "total_gold_earned": 61482,
+      "total_gold_spent": 56330,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 97428,
+      "total_damage_dealt_to_objectives": 57111,
+      "total_damage_taken": 123980,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 113,
+      "average_champion_experience": 13627,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4377809513"
+    }
+  }
+}

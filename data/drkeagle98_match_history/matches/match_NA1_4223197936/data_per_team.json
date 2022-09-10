@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66183,
+      "total_gold_spent": 54046,
+      "team_comp": [
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 102237,
+      "total_damage_dealt_to_objectives": 63841,
+      "total_damage_taken": 117329,
+      "average_vision_score": 19,
+      "total_wards_placed": 51,
+      "average_creep_score": 123,
+      "average_champion_experience": 15442,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4223197936"
+    },
+    "200": {
+      "total_gold_earned": 54069,
+      "total_gold_spent": 49550,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 100965,
+      "total_damage_dealt_to_objectives": 45093,
+      "total_damage_taken": 125731,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 87,
+      "average_champion_experience": 12173,
+      "dmg_carry": "Annie",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4223197936"
+    }
+  }
+}

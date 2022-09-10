@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49687,
+      "total_gold_spent": 47475,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 111147,
+      "total_damage_dealt_to_objectives": 29670,
+      "total_damage_taken": 128899,
+      "average_vision_score": 23,
+      "total_wards_placed": 57,
+      "average_creep_score": 124,
+      "average_champion_experience": 13073,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4390636103"
+    },
+    "200": {
+      "total_gold_earned": 62668,
+      "total_gold_spent": 54375,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 106427,
+      "total_damage_dealt_to_objectives": 110101,
+      "total_damage_taken": 150015,
+      "average_vision_score": 25,
+      "total_wards_placed": 43,
+      "average_creep_score": 114,
+      "average_champion_experience": 14887,
+      "dmg_carry": "Kled",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4390636103"
+    }
+  }
+}

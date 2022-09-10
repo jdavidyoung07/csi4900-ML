@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 23,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35615,
+      "total_gold_spent": 34940,
+      "team_comp": [
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 52147,
+      "total_damage_dealt_to_objectives": 15289,
+      "total_damage_taken": 79887,
+      "average_vision_score": 18,
+      "total_wards_placed": 46,
+      "average_creep_score": 60,
+      "average_champion_experience": 7945,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4041887610"
+    },
+    "200": {
+      "total_gold_earned": 51882,
+      "total_gold_spent": 46275,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 67147,
+      "total_damage_dealt_to_objectives": 46605,
+      "total_damage_taken": 81050,
+      "average_vision_score": 18,
+      "total_wards_placed": 34,
+      "average_creep_score": 92,
+      "average_champion_experience": 10389,
+      "dmg_carry": "Fiora",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4041887610"
+    }
+  }
+}

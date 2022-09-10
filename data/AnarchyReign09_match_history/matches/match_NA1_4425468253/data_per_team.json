@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64473,
+      "total_gold_spent": 62730,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 115561,
+      "total_damage_dealt_to_objectives": 105650,
+      "total_damage_taken": 128405,
+      "average_vision_score": 20,
+      "total_wards_placed": 36,
+      "average_creep_score": 122,
+      "average_champion_experience": 15297,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4425468253"
+    },
+    "200": {
+      "total_gold_earned": 50067,
+      "total_gold_spent": 47895,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 90780,
+      "total_damage_dealt_to_objectives": 20246,
+      "total_damage_taken": 138741,
+      "average_vision_score": 15,
+      "total_wards_placed": 40,
+      "average_creep_score": 128,
+      "average_champion_experience": 12490,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4425468253"
+    }
+  }
+}

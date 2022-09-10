@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49345,
+      "total_gold_spent": 39055,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 56454,
+      "total_damage_dealt_to_objectives": 60497,
+      "total_damage_taken": 59067,
+      "average_vision_score": 15,
+      "total_wards_placed": 28,
+      "average_creep_score": 98,
+      "average_champion_experience": 9945,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Annie",
+      "match_id": "NA1_4301406226"
+    },
+    "200": {
+      "total_gold_earned": 33031,
+      "total_gold_spent": 31415,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 38153,
+      "total_damage_dealt_to_objectives": 5292,
+      "total_damage_taken": 70688,
+      "average_vision_score": 13,
+      "total_wards_placed": 37,
+      "average_creep_score": 82,
+      "average_champion_experience": 8306,
+      "dmg_carry": "Vex",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4301406226"
+    }
+  }
+}

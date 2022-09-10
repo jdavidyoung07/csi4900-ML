@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 41,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76371,
+      "total_gold_spent": 83780,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 45,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 148982,
+      "total_damage_dealt_to_objectives": 107538,
+      "total_damage_taken": 201124,
+      "average_vision_score": 39,
+      "total_wards_placed": 87,
+      "average_creep_score": 114,
+      "average_champion_experience": 17350,
+      "dmg_carry": "Talon",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4024545324"
+    },
+    "200": {
+      "total_gold_earned": 81396,
+      "total_gold_spent": 71550,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 163902,
+      "total_damage_dealt_to_objectives": 59758,
+      "total_damage_taken": 182066,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 159,
+      "average_champion_experience": 21213,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4024545324"
+    }
+  }
+}

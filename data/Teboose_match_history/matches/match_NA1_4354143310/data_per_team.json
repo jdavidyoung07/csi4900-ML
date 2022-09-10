@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 92199,
+      "total_gold_spent": 106950,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 4,
+      "total_kills": 47,
+      "total_deaths": 68,
+      "total_damage_dealt_to_champions": 202084,
+      "total_damage_dealt_to_objectives": 110016,
+      "total_damage_taken": 279809,
+      "average_vision_score": 43,
+      "total_wards_placed": 99,
+      "average_creep_score": 151,
+      "average_champion_experience": 21698,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4354143310"
+    },
+    "200": {
+      "total_gold_earned": 104450,
+      "total_gold_spent": 104780,
+      "team_comp": [
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 68,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 228053,
+      "total_damage_dealt_to_objectives": 92339,
+      "total_damage_taken": 247185,
+      "average_vision_score": 51,
+      "total_wards_placed": 101,
+      "average_creep_score": 197,
+      "average_champion_experience": 26365,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Blitzcrank",
+      "match_id": "NA1_4354143310"
+    }
+  }
+}

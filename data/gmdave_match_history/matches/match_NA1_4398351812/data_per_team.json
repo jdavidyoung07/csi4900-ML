@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53613,
+      "total_gold_spent": 45758,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 91531,
+      "total_damage_dealt_to_objectives": 79898,
+      "total_damage_taken": 105221,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 107,
+      "average_champion_experience": 11791,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4398351812"
+    },
+    "200": {
+      "total_gold_earned": 48239,
+      "total_gold_spent": 46608,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 75282,
+      "total_damage_dealt_to_objectives": 34167,
+      "total_damage_taken": 114113,
+      "average_vision_score": 18,
+      "total_wards_placed": 41,
+      "average_creep_score": 113,
+      "average_champion_experience": 10310,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4398351812"
+    }
+  }
+}

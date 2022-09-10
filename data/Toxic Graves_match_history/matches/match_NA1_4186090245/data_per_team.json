@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53484,
+      "total_gold_spent": 50725,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 102481,
+      "total_damage_dealt_to_objectives": 31722,
+      "total_damage_taken": 143024,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 143,
+      "average_champion_experience": 12966,
+      "dmg_carry": "Akali",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4186090245"
+    },
+    "200": {
+      "total_gold_earned": 69336,
+      "total_gold_spent": 62630,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 115048,
+      "total_damage_dealt_to_objectives": 75283,
+      "total_damage_taken": 131379,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 114,
+      "average_champion_experience": 16718,
+      "dmg_carry": "Zac",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4186090245"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66711,
+      "total_gold_spent": 60475,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 108845,
+      "total_damage_dealt_to_objectives": 84597,
+      "total_damage_taken": 141218,
+      "average_vision_score": 28,
+      "total_wards_placed": 64,
+      "average_creep_score": 112,
+      "average_champion_experience": 15947,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4373412479"
+    },
+    "200": {
+      "total_gold_earned": 60056,
+      "total_gold_spent": 58488,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 108458,
+      "total_damage_dealt_to_objectives": 40315,
+      "total_damage_taken": 132147,
+      "average_vision_score": 31,
+      "total_wards_placed": 70,
+      "average_creep_score": 108,
+      "average_champion_experience": 13064,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4373412479"
+    }
+  }
+}

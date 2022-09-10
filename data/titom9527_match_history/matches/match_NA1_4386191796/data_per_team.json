@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64632,
+      "total_gold_spent": 60325,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 131875,
+      "total_damage_dealt_to_objectives": 49000,
+      "total_damage_taken": 158929,
+      "average_vision_score": 35,
+      "total_wards_placed": 83,
+      "average_creep_score": 140,
+      "average_champion_experience": 15990,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4386191796"
+    },
+    "200": {
+      "total_gold_earned": 70280,
+      "total_gold_spent": 66825,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 39,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 129373,
+      "total_damage_dealt_to_objectives": 77517,
+      "total_damage_taken": 170853,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 137,
+      "average_champion_experience": 17051,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4386191796"
+    }
+  }
+}

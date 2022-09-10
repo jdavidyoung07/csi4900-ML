@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51850,
+      "total_gold_spent": 51105,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 91606,
+      "total_damage_dealt_to_objectives": 35317,
+      "total_damage_taken": 103529,
+      "average_vision_score": 28,
+      "total_wards_placed": 68,
+      "average_creep_score": 95,
+      "average_champion_experience": 11527,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4197052625"
+    },
+    "200": {
+      "total_gold_earned": 59267,
+      "total_gold_spent": 55275,
+      "team_comp": [
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 79765,
+      "total_damage_dealt_to_objectives": 49252,
+      "total_damage_taken": 123696,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 101,
+      "average_champion_experience": 13414,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4197052625"
+    }
+  }
+}

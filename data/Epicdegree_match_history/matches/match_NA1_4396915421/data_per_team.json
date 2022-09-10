@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50767,
+      "total_gold_spent": 47395,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 100989,
+      "total_damage_dealt_to_objectives": 21055,
+      "total_damage_taken": 144441,
+      "average_vision_score": 16,
+      "total_wards_placed": 47,
+      "average_creep_score": 122,
+      "average_champion_experience": 12705,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4396915421"
+    },
+    "200": {
+      "total_gold_earned": 67044,
+      "total_gold_spent": 60965,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 116082,
+      "total_damage_dealt_to_objectives": 98839,
+      "total_damage_taken": 144416,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 130,
+      "average_champion_experience": 16220,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4396915421"
+    }
+  }
+}

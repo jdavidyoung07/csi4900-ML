@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73260,
+      "total_gold_spent": 70850,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 134313,
+      "total_damage_dealt_to_objectives": 72263,
+      "total_damage_taken": 166305,
+      "average_vision_score": 26,
+      "total_wards_placed": 62,
+      "average_creep_score": 139,
+      "average_champion_experience": 17068,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4423307330"
+    },
+    "200": {
+      "total_gold_earned": 71070,
+      "total_gold_spent": 64633,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 134084,
+      "total_damage_dealt_to_objectives": 79010,
+      "total_damage_taken": 165558,
+      "average_vision_score": 29,
+      "total_wards_placed": 65,
+      "average_creep_score": 145,
+      "average_champion_experience": 16191,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4423307330"
+    }
+  }
+}

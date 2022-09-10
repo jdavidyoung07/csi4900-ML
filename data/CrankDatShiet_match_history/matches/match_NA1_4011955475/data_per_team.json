@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 45,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90423,
+      "total_gold_spent": 80725,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 217665,
+      "total_damage_dealt_to_objectives": 76371,
+      "total_damage_taken": 268685,
+      "average_vision_score": 44,
+      "total_wards_placed": 86,
+      "average_creep_score": 158,
+      "average_champion_experience": 21661,
+      "dmg_carry": "Jhin",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4011955475"
+    },
+    "200": {
+      "total_gold_earned": 85571,
+      "total_gold_spent": 84400,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 229778,
+      "total_damage_dealt_to_objectives": 81627,
+      "total_damage_taken": 254435,
+      "average_vision_score": 46,
+      "total_wards_placed": 91,
+      "average_creep_score": 149,
+      "average_champion_experience": 18289,
+      "dmg_carry": "Anivia",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4011955475"
+    }
+  }
+}

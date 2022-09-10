@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 24,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35793,
+      "total_gold_spent": 33600,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 51831,
+      "total_damage_dealt_to_objectives": 11632,
+      "total_damage_taken": 75554,
+      "average_vision_score": 14,
+      "total_wards_placed": 42,
+      "average_creep_score": 80,
+      "average_champion_experience": 8725,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4060100022"
+    },
+    "200": {
+      "total_gold_earned": 47569,
+      "total_gold_spent": 40555,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 59761,
+      "total_damage_dealt_to_objectives": 54770,
+      "total_damage_taken": 74949,
+      "average_vision_score": 21,
+      "total_wards_placed": 44,
+      "average_creep_score": 86,
+      "average_champion_experience": 10491,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4060100022"
+    }
+  }
+}

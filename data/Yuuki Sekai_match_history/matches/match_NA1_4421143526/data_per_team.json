@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31667,
+      "total_gold_spent": 29000,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 32243,
+      "total_damage_dealt_to_objectives": 31848,
+      "total_damage_taken": 47275,
+      "average_vision_score": 7,
+      "total_wards_placed": 18,
+      "average_creep_score": 69,
+      "average_champion_experience": 6543,
+      "dmg_carry": "Malphite",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4421143526"
+    },
+    "200": {
+      "total_gold_earned": 25546,
+      "total_gold_spent": 20075,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 27908,
+      "total_damage_dealt_to_objectives": 4532,
+      "total_damage_taken": 45430,
+      "average_vision_score": 11,
+      "total_wards_placed": 29,
+      "average_creep_score": 53,
+      "average_champion_experience": 5870,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4421143526"
+    }
+  }
+}

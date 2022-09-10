@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 101588,
+      "total_gold_spent": 89695,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 227350,
+      "total_damage_dealt_to_objectives": 103327,
+      "total_damage_taken": 256019,
+      "average_vision_score": 41,
+      "total_wards_placed": 91,
+      "average_creep_score": 188,
+      "average_champion_experience": 26211,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4180853563"
+    },
+    "200": {
+      "total_gold_earned": 98555,
+      "total_gold_spent": 96010,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 51,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 215965,
+      "total_damage_dealt_to_objectives": 126961,
+      "total_damage_taken": 288039,
+      "average_vision_score": 61,
+      "total_wards_placed": 114,
+      "average_creep_score": 175,
+      "average_champion_experience": 24077,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4180853563"
+    }
+  }
+}

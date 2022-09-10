@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78977,
+      "total_gold_spent": 86665,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 141649,
+      "total_damage_dealt_to_objectives": 44048,
+      "total_damage_taken": 180753,
+      "average_vision_score": 38,
+      "total_wards_placed": 69,
+      "average_creep_score": 178,
+      "average_champion_experience": 18862,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4384222576"
+    },
+    "200": {
+      "total_gold_earned": 85412,
+      "total_gold_spent": 76625,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 45,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 147448,
+      "total_damage_dealt_to_objectives": 113141,
+      "total_damage_taken": 181244,
+      "average_vision_score": 36,
+      "total_wards_placed": 60,
+      "average_creep_score": 158,
+      "average_champion_experience": 20454,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4384222576"
+    }
+  }
+}

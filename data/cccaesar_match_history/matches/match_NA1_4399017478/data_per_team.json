@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39644,
+      "total_gold_spent": 38410,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 59995,
+      "total_damage_dealt_to_objectives": 13431,
+      "total_damage_taken": 91984,
+      "average_vision_score": 20,
+      "total_wards_placed": 38,
+      "average_creep_score": 79,
+      "average_champion_experience": 7847,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4399017478"
+    },
+    "200": {
+      "total_gold_earned": 45319,
+      "total_gold_spent": 39585,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 75533,
+      "total_damage_dealt_to_objectives": 52277,
+      "total_damage_taken": 76293,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 70,
+      "average_champion_experience": 9069,
+      "dmg_carry": "Akali",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4399017478"
+    }
+  }
+}

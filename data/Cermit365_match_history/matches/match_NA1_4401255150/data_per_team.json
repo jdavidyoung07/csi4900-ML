@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44900,
+      "total_gold_spent": 34810,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 23,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 54445,
+      "total_damage_dealt_to_objectives": 58702,
+      "total_damage_taken": 74215,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 88,
+      "average_champion_experience": 9797,
+      "dmg_carry": "Senna",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4401255150"
+    },
+    "200": {
+      "total_gold_earned": 31621,
+      "total_gold_spent": 29235,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 45518,
+      "total_damage_dealt_to_objectives": 22318,
+      "total_damage_taken": 67390,
+      "average_vision_score": 15,
+      "total_wards_placed": 42,
+      "average_creep_score": 71,
+      "average_champion_experience": 7277,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4401255150"
+    }
+  }
+}

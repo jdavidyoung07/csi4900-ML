@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58833,
+      "total_gold_spent": 54765,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 92229,
+      "total_damage_dealt_to_objectives": 22215,
+      "total_damage_taken": 110665,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 125,
+      "average_champion_experience": 14552,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4300326658"
+    },
+    "200": {
+      "total_gold_earned": 62961,
+      "total_gold_spent": 58058,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 87795,
+      "total_damage_dealt_to_objectives": 96405,
+      "total_damage_taken": 124362,
+      "average_vision_score": 31,
+      "total_wards_placed": 73,
+      "average_creep_score": 106,
+      "average_champion_experience": 15274,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4300326658"
+    }
+  }
+}

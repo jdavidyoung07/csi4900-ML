@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61135,
+      "total_gold_spent": 58500,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 116869,
+      "total_damage_dealt_to_objectives": 54446,
+      "total_damage_taken": 144936,
+      "average_vision_score": 32,
+      "total_wards_placed": 72,
+      "average_creep_score": 127,
+      "average_champion_experience": 14030,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4393659659"
+    },
+    "200": {
+      "total_gold_earned": 71169,
+      "total_gold_spent": 63450,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 106022,
+      "total_damage_dealt_to_objectives": 52509,
+      "total_damage_taken": 148086,
+      "average_vision_score": 36,
+      "total_wards_placed": 63,
+      "average_creep_score": 140,
+      "average_champion_experience": 16639,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4393659659"
+    }
+  }
+}

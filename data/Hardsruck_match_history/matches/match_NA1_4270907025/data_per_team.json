@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 16441,
+      "total_gold_spent": 12585,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 13607,
+      "total_damage_dealt_to_objectives": 2862,
+      "total_damage_taken": 20503,
+      "average_vision_score": 5,
+      "total_wards_placed": 15,
+      "average_creep_score": 25,
+      "average_champion_experience": 2688,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_4270907025"
+    },
+    "200": {
+      "total_gold_earned": 20653,
+      "total_gold_spent": 16250,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 13573,
+      "total_damage_dealt_to_objectives": 12573,
+      "total_damage_taken": 22316,
+      "average_vision_score": 5,
+      "total_wards_placed": 15,
+      "average_creep_score": 36,
+      "average_champion_experience": 3596,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4270907025"
+    }
+  }
+}

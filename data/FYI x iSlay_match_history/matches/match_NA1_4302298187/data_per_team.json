@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40620,
+      "total_gold_spent": 36850,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 35502,
+      "total_damage_dealt_to_objectives": 23959,
+      "total_damage_taken": 84473,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 95,
+      "average_champion_experience": 9070,
+      "dmg_carry": "Jhin",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4302298187"
+    },
+    "200": {
+      "total_gold_earned": 49908,
+      "total_gold_spent": 40995,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 67962,
+      "total_damage_dealt_to_objectives": 73385,
+      "total_damage_taken": 58129,
+      "average_vision_score": 17,
+      "total_wards_placed": 45,
+      "average_creep_score": 86,
+      "average_champion_experience": 11867,
+      "dmg_carry": "Annie",
+      "obj_carry": "Annie",
+      "match_id": "NA1_4302298187"
+    }
+  }
+}

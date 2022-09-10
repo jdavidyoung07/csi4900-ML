@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69446,
+      "total_gold_spent": 66380,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 133265,
+      "total_damage_dealt_to_objectives": 50924,
+      "total_damage_taken": 157077,
+      "average_vision_score": 30,
+      "total_wards_placed": 56,
+      "average_creep_score": 135,
+      "average_champion_experience": 16512,
+      "dmg_carry": "Vex",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4266542136"
+    },
+    "200": {
+      "total_gold_earned": 73925,
+      "total_gold_spent": 68160,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 132217,
+      "total_damage_dealt_to_objectives": 83376,
+      "total_damage_taken": 161014,
+      "average_vision_score": 40,
+      "total_wards_placed": 72,
+      "average_creep_score": 117,
+      "average_champion_experience": 17145,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4266542136"
+    }
+  }
+}

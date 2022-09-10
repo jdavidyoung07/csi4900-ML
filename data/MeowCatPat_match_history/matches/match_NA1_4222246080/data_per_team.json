@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70992,
+      "total_gold_spent": 70365,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 62,
+      "total_damage_dealt_to_champions": 121337,
+      "total_damage_dealt_to_objectives": 31638,
+      "total_damage_taken": 145712,
+      "average_vision_score": 29,
+      "total_wards_placed": 75,
+      "average_creep_score": 128,
+      "average_champion_experience": 15471,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4222246080"
+    },
+    "200": {
+      "total_gold_earned": 74055,
+      "total_gold_spent": 67450,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 62,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 124342,
+      "total_damage_dealt_to_objectives": 78223,
+      "total_damage_taken": 143161,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 116,
+      "average_champion_experience": 16316,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4222246080"
+    }
+  }
+}

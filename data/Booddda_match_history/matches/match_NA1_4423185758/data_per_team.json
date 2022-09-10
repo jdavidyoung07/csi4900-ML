@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73684,
+      "total_gold_spent": 66900,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 158467,
+      "total_damage_dealt_to_objectives": 135937,
+      "total_damage_taken": 167152,
+      "average_vision_score": 30,
+      "total_wards_placed": 79,
+      "average_creep_score": 124,
+      "average_champion_experience": 18258,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4423185758"
+    },
+    "200": {
+      "total_gold_earned": 66217,
+      "total_gold_spent": 63270,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 125423,
+      "total_damage_dealt_to_objectives": 36846,
+      "total_damage_taken": 186795,
+      "average_vision_score": 43,
+      "total_wards_placed": 71,
+      "average_creep_score": 127,
+      "average_champion_experience": 14979,
+      "dmg_carry": "Vex",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4423185758"
+    }
+  }
+}

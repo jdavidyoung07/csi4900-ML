@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63013,
+      "total_gold_spent": 59678,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 139344,
+      "total_damage_dealt_to_objectives": 56774,
+      "total_damage_taken": 141122,
+      "average_vision_score": 28,
+      "total_wards_placed": 62,
+      "average_creep_score": 140,
+      "average_champion_experience": 15209,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4420539266"
+    },
+    "200": {
+      "total_gold_earned": 66211,
+      "total_gold_spent": 60585,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 118110,
+      "total_damage_dealt_to_objectives": 73697,
+      "total_damage_taken": 172877,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 130,
+      "average_champion_experience": 16347,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4420539266"
+    }
+  }
+}

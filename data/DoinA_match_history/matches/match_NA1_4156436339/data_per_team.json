@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70549,
+      "total_gold_spent": 69375,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 134288,
+      "total_damage_dealt_to_objectives": 30376,
+      "total_damage_taken": 166921,
+      "average_vision_score": 32,
+      "total_wards_placed": 75,
+      "average_creep_score": 156,
+      "average_champion_experience": 17279,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4156436339"
+    },
+    "200": {
+      "total_gold_earned": 77408,
+      "total_gold_spent": 71835,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 52,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 139620,
+      "total_damage_dealt_to_objectives": 91181,
+      "total_damage_taken": 177274,
+      "average_vision_score": 28,
+      "total_wards_placed": 51,
+      "average_creep_score": 130,
+      "average_champion_experience": 18951,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4156436339"
+    }
+  }
+}

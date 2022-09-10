@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41958,
+      "total_gold_spent": 38460,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 54876,
+      "total_damage_dealt_to_objectives": 33968,
+      "total_damage_taken": 105826,
+      "average_vision_score": 19,
+      "total_wards_placed": 32,
+      "average_creep_score": 93,
+      "average_champion_experience": 9192,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4416159399"
+    },
+    "200": {
+      "total_gold_earned": 52552,
+      "total_gold_spent": 45075,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 87703,
+      "total_damage_dealt_to_objectives": 69587,
+      "total_damage_taken": 74871,
+      "average_vision_score": 18,
+      "total_wards_placed": 43,
+      "average_creep_score": 99,
+      "average_champion_experience": 11637,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4416159399"
+    }
+  }
+}

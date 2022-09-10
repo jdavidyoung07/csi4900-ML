@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60377,
+      "total_gold_spent": 57850,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 139190,
+      "total_damage_dealt_to_objectives": 31152,
+      "total_damage_taken": 167791,
+      "average_vision_score": 25,
+      "total_wards_placed": 53,
+      "average_creep_score": 116,
+      "average_champion_experience": 14031,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4365728361"
+    },
+    "200": {
+      "total_gold_earned": 72108,
+      "total_gold_spent": 65235,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 52,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 150488,
+      "total_damage_dealt_to_objectives": 95441,
+      "total_damage_taken": 173728,
+      "average_vision_score": 28,
+      "total_wards_placed": 64,
+      "average_creep_score": 103,
+      "average_champion_experience": 17152,
+      "dmg_carry": "Zed",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4365728361"
+    }
+  }
+}

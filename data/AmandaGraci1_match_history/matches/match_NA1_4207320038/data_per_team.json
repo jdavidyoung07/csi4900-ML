@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60250,
+      "total_gold_spent": 55163,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 90056,
+      "total_damage_dealt_to_objectives": 46126,
+      "total_damage_taken": 146234,
+      "average_vision_score": 41,
+      "total_wards_placed": 62,
+      "average_creep_score": 134,
+      "average_champion_experience": 13768,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Cassiopeia",
+      "match_id": "NA1_4207320038"
+    },
+    "200": {
+      "total_gold_earned": 68480,
+      "total_gold_spent": 64360,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 120464,
+      "total_damage_dealt_to_objectives": 65147,
+      "total_damage_taken": 125502,
+      "average_vision_score": 33,
+      "total_wards_placed": 70,
+      "average_creep_score": 127,
+      "average_champion_experience": 16375,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4207320038"
+    }
+  }
+}

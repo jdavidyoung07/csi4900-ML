@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 23538,
+      "total_gold_spent": 21075,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 4,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 21995,
+      "total_damage_dealt_to_objectives": 12995,
+      "total_damage_taken": 42451,
+      "average_vision_score": 9,
+      "total_wards_placed": 31,
+      "average_creep_score": 63,
+      "average_champion_experience": 5305,
+      "dmg_carry": "Corki",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4232606105"
+    },
+    "200": {
+      "total_gold_earned": 36075,
+      "total_gold_spent": 33150,
+      "team_comp": [
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 4,
+      "total_damage_dealt_to_champions": 30977,
+      "total_damage_dealt_to_objectives": 24766,
+      "total_damage_taken": 37274,
+      "average_vision_score": 14,
+      "total_wards_placed": 28,
+      "average_creep_score": 73,
+      "average_champion_experience": 6812,
+      "dmg_carry": "Draven",
+      "obj_carry": "Aphelios",
+      "match_id": "NA1_4232606105"
+    }
+  }
+}

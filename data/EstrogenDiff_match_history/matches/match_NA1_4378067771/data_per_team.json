@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 34405,
+      "total_gold_spent": 32615,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 49896,
+      "total_damage_dealt_to_objectives": 7022,
+      "total_damage_taken": 101978,
+      "average_vision_score": 15,
+      "total_wards_placed": 39,
+      "average_creep_score": 74,
+      "average_champion_experience": 7942,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4378067771"
+    },
+    "200": {
+      "total_gold_earned": 51640,
+      "total_gold_spent": 45175,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 33,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 87249,
+      "total_damage_dealt_to_objectives": 88067,
+      "total_damage_taken": 75758,
+      "average_vision_score": 17,
+      "total_wards_placed": 37,
+      "average_creep_score": 86,
+      "average_champion_experience": 11134,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4378067771"
+    }
+  }
+}

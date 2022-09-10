@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45299,
+      "total_gold_spent": 44920,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 85466,
+      "total_damage_dealt_to_objectives": 25640,
+      "total_damage_taken": 109499,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 114,
+      "average_champion_experience": 10791,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4174760567"
+    },
+    "200": {
+      "total_gold_earned": 58600,
+      "total_gold_spent": 49310,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 85841,
+      "total_damage_dealt_to_objectives": 81695,
+      "total_damage_taken": 127633,
+      "average_vision_score": 33,
+      "total_wards_placed": 66,
+      "average_creep_score": 101,
+      "average_champion_experience": 14317,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4174760567"
+    }
+  }
+}

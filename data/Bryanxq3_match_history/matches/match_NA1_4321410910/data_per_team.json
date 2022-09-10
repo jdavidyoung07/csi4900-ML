@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85736,
+      "total_gold_spent": 76830,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 53,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 180886,
+      "total_damage_dealt_to_objectives": 108698,
+      "total_damage_taken": 232079,
+      "average_vision_score": 43,
+      "total_wards_placed": 84,
+      "average_creep_score": 162,
+      "average_champion_experience": 20709,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4321410910"
+    },
+    "200": {
+      "total_gold_earned": 81185,
+      "total_gold_spent": 77810,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 176424,
+      "total_damage_dealt_to_objectives": 54458,
+      "total_damage_taken": 214318,
+      "average_vision_score": 31,
+      "total_wards_placed": 71,
+      "average_creep_score": 162,
+      "average_champion_experience": 18889,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4321410910"
+    }
+  }
+}

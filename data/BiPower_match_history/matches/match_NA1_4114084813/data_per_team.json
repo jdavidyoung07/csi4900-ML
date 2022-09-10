@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56975,
+      "total_gold_spent": 49588,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 85426,
+      "total_damage_dealt_to_objectives": 47088,
+      "total_damage_taken": 110241,
+      "average_vision_score": 19,
+      "total_wards_placed": 42,
+      "average_creep_score": 78,
+      "average_champion_experience": 12132,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4114084813"
+    },
+    "200": {
+      "total_gold_earned": 48814,
+      "total_gold_spent": 46550,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 87177,
+      "total_damage_dealt_to_objectives": 38583,
+      "total_damage_taken": 112182,
+      "average_vision_score": 21,
+      "total_wards_placed": 41,
+      "average_creep_score": 92,
+      "average_champion_experience": 9974,
+      "dmg_carry": "Draven",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4114084813"
+    }
+  }
+}

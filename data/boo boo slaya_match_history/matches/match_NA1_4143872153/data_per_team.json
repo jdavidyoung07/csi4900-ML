@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48770,
+      "total_gold_spent": 46270,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 73230,
+      "total_damage_dealt_to_objectives": 46707,
+      "total_damage_taken": 124143,
+      "average_vision_score": 26,
+      "total_wards_placed": 53,
+      "average_creep_score": 113,
+      "average_champion_experience": 11940,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4143872153"
+    },
+    "200": {
+      "total_gold_earned": 56841,
+      "total_gold_spent": 49218,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 93262,
+      "total_damage_dealt_to_objectives": 75597,
+      "total_damage_taken": 118995,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 113,
+      "average_champion_experience": 13525,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4143872153"
+    }
+  }
+}

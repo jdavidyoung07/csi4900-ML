@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56819,
+      "total_gold_spent": 55458,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 91395,
+      "total_damage_dealt_to_objectives": 51929,
+      "total_damage_taken": 115362,
+      "average_vision_score": 30,
+      "total_wards_placed": 54,
+      "average_creep_score": 130,
+      "average_champion_experience": 13722,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4235785213"
+    },
+    "200": {
+      "total_gold_earned": 64008,
+      "total_gold_spent": 57725,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 97545,
+      "total_damage_dealt_to_objectives": 79121,
+      "total_damage_taken": 119100,
+      "average_vision_score": 28,
+      "total_wards_placed": 65,
+      "average_creep_score": 127,
+      "average_champion_experience": 15833,
+      "dmg_carry": "Corki",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4235785213"
+    }
+  }
+}

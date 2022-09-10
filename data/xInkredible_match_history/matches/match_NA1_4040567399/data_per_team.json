@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66818,
+      "total_gold_spent": 64395,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 130199,
+      "total_damage_dealt_to_objectives": 39467,
+      "total_damage_taken": 160381,
+      "average_vision_score": 36,
+      "total_wards_placed": 76,
+      "average_creep_score": 134,
+      "average_champion_experience": 15398,
+      "dmg_carry": "Viego",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4040567399"
+    },
+    "200": {
+      "total_gold_earned": 72081,
+      "total_gold_spent": 61835,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 141350,
+      "total_damage_dealt_to_objectives": 91334,
+      "total_damage_taken": 175294,
+      "average_vision_score": 31,
+      "total_wards_placed": 74,
+      "average_creep_score": 127,
+      "average_champion_experience": 17424,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Taliyah",
+      "match_id": "NA1_4040567399"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35452,
+      "total_gold_spent": 32925,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 38392,
+      "total_damage_dealt_to_objectives": 21155,
+      "total_damage_taken": 72902,
+      "average_vision_score": 14,
+      "total_wards_placed": 36,
+      "average_creep_score": 92,
+      "average_champion_experience": 8024,
+      "dmg_carry": "Brand",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4050894415"
+    },
+    "200": {
+      "total_gold_earned": 47610,
+      "total_gold_spent": 40625,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 50386,
+      "total_damage_dealt_to_objectives": 63795,
+      "total_damage_taken": 69544,
+      "average_vision_score": 22,
+      "total_wards_placed": 32,
+      "average_creep_score": 91,
+      "average_champion_experience": 10186,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4050894415"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55863,
+      "total_gold_spent": 53530,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 105505,
+      "total_damage_dealt_to_objectives": 13004,
+      "total_damage_taken": 105603,
+      "average_vision_score": 36,
+      "total_wards_placed": 60,
+      "average_creep_score": 133,
+      "average_champion_experience": 12985,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4223793034"
+    },
+    "200": {
+      "total_gold_earned": 68211,
+      "total_gold_spent": 62125,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 98196,
+      "total_damage_dealt_to_objectives": 91534,
+      "total_damage_taken": 151359,
+      "average_vision_score": 37,
+      "total_wards_placed": 68,
+      "average_creep_score": 130,
+      "average_champion_experience": 15944,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4223793034"
+    }
+  }
+}

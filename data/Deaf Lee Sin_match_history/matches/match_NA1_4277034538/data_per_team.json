@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63594,
+      "total_gold_spent": 59775,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 109155,
+      "total_damage_dealt_to_objectives": 33193,
+      "total_damage_taken": 133671,
+      "average_vision_score": 34,
+      "total_wards_placed": 70,
+      "average_creep_score": 150,
+      "average_champion_experience": 16518,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4277034538"
+    },
+    "200": {
+      "total_gold_earned": 73334,
+      "total_gold_spent": 70210,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 107305,
+      "total_damage_dealt_to_objectives": 113923,
+      "total_damage_taken": 151251,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 144,
+      "average_champion_experience": 18608,
+      "dmg_carry": "Fiora",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4277034538"
+    }
+  }
+}

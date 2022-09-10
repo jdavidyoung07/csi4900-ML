@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 26651,
+      "total_gold_spent": 17875,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 4,
+      "total_damage_dealt_to_champions": 21939,
+      "total_damage_dealt_to_objectives": 34813,
+      "total_damage_taken": 22854,
+      "average_vision_score": 6,
+      "total_wards_placed": 19,
+      "average_creep_score": 50,
+      "average_champion_experience": 5001,
+      "dmg_carry": "Yone",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4309143216"
+    },
+    "200": {
+      "total_gold_earned": 18360,
+      "total_gold_spent": 15225,
+      "team_comp": [
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 4,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 14533,
+      "total_damage_dealt_to_objectives": 6497,
+      "total_damage_taken": 32101,
+      "average_vision_score": 3,
+      "total_wards_placed": 11,
+      "average_creep_score": 53,
+      "average_champion_experience": 4313,
+      "dmg_carry": "Swain",
+      "obj_carry": "Swain",
+      "match_id": "NA1_4309143216"
+    }
+  }
+}

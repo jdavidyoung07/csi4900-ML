@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43600,
+      "total_gold_spent": 40025,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 60110,
+      "total_damage_dealt_to_objectives": 23426,
+      "total_damage_taken": 98517,
+      "average_vision_score": 18,
+      "total_wards_placed": 35,
+      "average_creep_score": 91,
+      "average_champion_experience": 9974,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4305338099"
+    },
+    "200": {
+      "total_gold_earned": 49380,
+      "total_gold_spent": 44575,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 78295,
+      "total_damage_dealt_to_objectives": 54865,
+      "total_damage_taken": 82530,
+      "average_vision_score": 24,
+      "total_wards_placed": 59,
+      "average_creep_score": 85,
+      "average_champion_experience": 10956,
+      "dmg_carry": "Kled",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4305338099"
+    }
+  }
+}

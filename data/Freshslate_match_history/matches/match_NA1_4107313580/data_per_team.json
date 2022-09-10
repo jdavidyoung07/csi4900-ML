@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74153,
+      "total_gold_spent": 63745,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 108945,
+      "total_damage_dealt_to_objectives": 55277,
+      "total_damage_taken": 175526,
+      "average_vision_score": 28,
+      "total_wards_placed": 67,
+      "average_creep_score": 139,
+      "average_champion_experience": 17952,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4107313580"
+    },
+    "200": {
+      "total_gold_earned": 68054,
+      "total_gold_spent": 66908,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 140562,
+      "total_damage_dealt_to_objectives": 59157,
+      "total_damage_taken": 143004,
+      "average_vision_score": 34,
+      "total_wards_placed": 78,
+      "average_creep_score": 139,
+      "average_champion_experience": 16883,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4107313580"
+    }
+  }
+}

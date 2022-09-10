@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 42,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 95672,
+      "total_gold_spent": 89515,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 62,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 203742,
+      "total_damage_dealt_to_objectives": 156547,
+      "total_damage_taken": 229402,
+      "average_vision_score": 40,
+      "total_wards_placed": 59,
+      "average_creep_score": 160,
+      "average_champion_experience": 24585,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4052761027"
+    },
+    "200": {
+      "total_gold_earned": 88911,
+      "total_gold_spent": 86800,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 56,
+      "total_deaths": 62,
+      "total_damage_dealt_to_champions": 173658,
+      "total_damage_dealt_to_objectives": 57462,
+      "total_damage_taken": 230722,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 171,
+      "average_champion_experience": 21785,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4052761027"
+    }
+  }
+}

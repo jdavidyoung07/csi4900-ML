@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56350,
+      "total_gold_spent": 50010,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 106513,
+      "total_damage_dealt_to_objectives": 37942,
+      "total_damage_taken": 124313,
+      "average_vision_score": 27,
+      "total_wards_placed": 69,
+      "average_creep_score": 141,
+      "average_champion_experience": 13963,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4201785439"
+    },
+    "200": {
+      "total_gold_earned": 66103,
+      "total_gold_spent": 55670,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 97690,
+      "total_damage_dealt_to_objectives": 73921,
+      "total_damage_taken": 137017,
+      "average_vision_score": 34,
+      "total_wards_placed": 71,
+      "average_creep_score": 138,
+      "average_champion_experience": 16003,
+      "dmg_carry": "Lux",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4201785439"
+    }
+  }
+}

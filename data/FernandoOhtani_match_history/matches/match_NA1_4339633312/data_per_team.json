@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57125,
+      "total_gold_spent": 53200,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 99941,
+      "total_damage_dealt_to_objectives": 26637,
+      "total_damage_taken": 124053,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 137,
+      "average_champion_experience": 14278,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4339633312"
+    },
+    "200": {
+      "total_gold_earned": 64529,
+      "total_gold_spent": 60333,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 99863,
+      "total_damage_dealt_to_objectives": 90353,
+      "total_damage_taken": 129268,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 125,
+      "average_champion_experience": 14730,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4339633312"
+    }
+  }
+}

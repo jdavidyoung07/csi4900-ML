@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65006,
+      "total_gold_spent": 56300,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 100395,
+      "total_damage_dealt_to_objectives": 68934,
+      "total_damage_taken": 101676,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 129,
+      "average_champion_experience": 15481,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4362355990"
+    },
+    "200": {
+      "total_gold_earned": 57419,
+      "total_gold_spent": 53625,
+      "team_comp": [
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 77484,
+      "total_damage_dealt_to_objectives": 54446,
+      "total_damage_taken": 124906,
+      "average_vision_score": 30,
+      "total_wards_placed": 65,
+      "average_creep_score": 117,
+      "average_champion_experience": 13056,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4362355990"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51719,
+      "total_gold_spent": 42415,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 71428,
+      "total_damage_dealt_to_objectives": 62931,
+      "total_damage_taken": 89148,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 91,
+      "average_champion_experience": 11273,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4229366326"
+    },
+    "200": {
+      "total_gold_earned": 44842,
+      "total_gold_spent": 42740,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 66927,
+      "total_damage_dealt_to_objectives": 22116,
+      "total_damage_taken": 93056,
+      "average_vision_score": 17,
+      "total_wards_placed": 40,
+      "average_creep_score": 99,
+      "average_champion_experience": 9570,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4229366326"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77396,
+      "total_gold_spent": 72675,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 167766,
+      "total_damage_dealt_to_objectives": 71903,
+      "total_damage_taken": 192637,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 131,
+      "average_champion_experience": 17236,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4405393421"
+    },
+    "200": {
+      "total_gold_earned": 75744,
+      "total_gold_spent": 67725,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 159626,
+      "total_damage_dealt_to_objectives": 84219,
+      "total_damage_taken": 201020,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 138,
+      "average_champion_experience": 19191,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4405393421"
+    }
+  }
+}

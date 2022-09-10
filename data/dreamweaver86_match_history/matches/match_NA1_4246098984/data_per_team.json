@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53922,
+      "total_gold_spent": 51555,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 117597,
+      "total_damage_dealt_to_objectives": 33811,
+      "total_damage_taken": 137934,
+      "average_vision_score": 17,
+      "total_wards_placed": 39,
+      "average_creep_score": 98,
+      "average_champion_experience": 12286,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4246098984"
+    },
+    "200": {
+      "total_gold_earned": 66029,
+      "total_gold_spent": 56550,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 114169,
+      "total_damage_dealt_to_objectives": 48553,
+      "total_damage_taken": 154512,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 110,
+      "average_champion_experience": 14899,
+      "dmg_carry": "Senna",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4246098984"
+    }
+  }
+}

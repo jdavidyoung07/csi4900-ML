@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49888,
+      "total_gold_spent": 46903,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 85333,
+      "total_damage_dealt_to_objectives": 28754,
+      "total_damage_taken": 101167,
+      "average_vision_score": 17,
+      "total_wards_placed": 40,
+      "average_creep_score": 115,
+      "average_champion_experience": 11547,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4310842870"
+    },
+    "200": {
+      "total_gold_earned": 60487,
+      "total_gold_spent": 56185,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 83814,
+      "total_damage_dealt_to_objectives": 77628,
+      "total_damage_taken": 122355,
+      "average_vision_score": 19,
+      "total_wards_placed": 32,
+      "average_creep_score": 112,
+      "average_champion_experience": 13865,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4310842870"
+    }
+  }
+}

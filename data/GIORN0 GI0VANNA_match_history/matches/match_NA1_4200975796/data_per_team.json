@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75950,
+      "total_gold_spent": 73700,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 22,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 130203,
+      "total_damage_dealt_to_objectives": 92208,
+      "total_damage_taken": 210643,
+      "average_vision_score": 43,
+      "total_wards_placed": 83,
+      "average_creep_score": 157,
+      "average_champion_experience": 18431,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4200975796"
+    },
+    "200": {
+      "total_gold_earned": 84154,
+      "total_gold_spent": 76610,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 183257,
+      "total_damage_dealt_to_objectives": 87264,
+      "total_damage_taken": 167122,
+      "average_vision_score": 36,
+      "total_wards_placed": 66,
+      "average_creep_score": 171,
+      "average_champion_experience": 22348,
+      "dmg_carry": "Corki",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4200975796"
+    }
+  }
+}

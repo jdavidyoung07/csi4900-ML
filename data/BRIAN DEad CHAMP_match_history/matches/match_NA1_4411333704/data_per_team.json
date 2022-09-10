@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68688,
+      "total_gold_spent": 64575,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 160875,
+      "total_damage_dealt_to_objectives": 51205,
+      "total_damage_taken": 172868,
+      "average_vision_score": 30,
+      "total_wards_placed": 52,
+      "average_creep_score": 143,
+      "average_champion_experience": 16125,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4411333704"
+    },
+    "200": {
+      "total_gold_earned": 69326,
+      "total_gold_spent": 61925,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 142964,
+      "total_damage_dealt_to_objectives": 79989,
+      "total_damage_taken": 194659,
+      "average_vision_score": 31,
+      "total_wards_placed": 72,
+      "average_creep_score": 118,
+      "average_champion_experience": 16326,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4411333704"
+    }
+  }
+}

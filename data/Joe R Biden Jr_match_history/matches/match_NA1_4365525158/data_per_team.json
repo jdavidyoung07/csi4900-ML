@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 34739,
+      "total_gold_spent": 33455,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 48135,
+      "total_damage_dealt_to_objectives": 15103,
+      "total_damage_taken": 83975,
+      "average_vision_score": 15,
+      "total_wards_placed": 33,
+      "average_creep_score": 90,
+      "average_champion_experience": 8186,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4365525158"
+    },
+    "200": {
+      "total_gold_earned": 44425,
+      "total_gold_spent": 38600,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 64363,
+      "total_damage_dealt_to_objectives": 68307,
+      "total_damage_taken": 79513,
+      "average_vision_score": 14,
+      "total_wards_placed": 24,
+      "average_creep_score": 90,
+      "average_champion_experience": 10604,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Taric",
+      "match_id": "NA1_4365525158"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 36383,
+      "total_gold_spent": 34150,
+      "team_comp": [
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 50610,
+      "total_damage_dealt_to_objectives": 19669,
+      "total_damage_taken": 81008,
+      "average_vision_score": 12,
+      "total_wards_placed": 29,
+      "average_creep_score": 92,
+      "average_champion_experience": 8472,
+      "dmg_carry": "Varus",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4072027692"
+    },
+    "200": {
+      "total_gold_earned": 49924,
+      "total_gold_spent": 42895,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 64848,
+      "total_damage_dealt_to_objectives": 67572,
+      "total_damage_taken": 73432,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 86,
+      "average_champion_experience": 11100,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4072027692"
+    }
+  }
+}

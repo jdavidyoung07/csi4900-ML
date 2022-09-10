@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40876,
+      "total_gold_spent": 38690,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 62189,
+      "total_damage_dealt_to_objectives": 24113,
+      "total_damage_taken": 93330,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 93,
+      "average_champion_experience": 8480,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4424037393"
+    },
+    "200": {
+      "total_gold_earned": 53285,
+      "total_gold_spent": 43960,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 77447,
+      "total_damage_dealt_to_objectives": 75107,
+      "total_damage_taken": 92393,
+      "average_vision_score": 16,
+      "total_wards_placed": 37,
+      "average_creep_score": 101,
+      "average_champion_experience": 11892,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4424037393"
+    }
+  }
+}

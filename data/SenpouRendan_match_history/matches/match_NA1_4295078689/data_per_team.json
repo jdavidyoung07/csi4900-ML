@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60250,
+      "total_gold_spent": 57235,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 81958,
+      "total_damage_dealt_to_objectives": 59501,
+      "total_damage_taken": 120122,
+      "average_vision_score": 30,
+      "total_wards_placed": 70,
+      "average_creep_score": 135,
+      "average_champion_experience": 14520,
+      "dmg_carry": "Vayne",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4295078689"
+    },
+    "200": {
+      "total_gold_earned": 69086,
+      "total_gold_spent": 62025,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 87627,
+      "total_damage_dealt_to_objectives": 70331,
+      "total_damage_taken": 112436,
+      "average_vision_score": 35,
+      "total_wards_placed": 48,
+      "average_creep_score": 143,
+      "average_champion_experience": 16648,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4295078689"
+    }
+  }
+}

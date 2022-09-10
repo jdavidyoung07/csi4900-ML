@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69460,
+      "total_gold_spent": 66053,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 183034,
+      "total_damage_dealt_to_objectives": 38770,
+      "total_damage_taken": 162130,
+      "average_vision_score": 27,
+      "total_wards_placed": 63,
+      "average_creep_score": 135,
+      "average_champion_experience": 17222,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4392456706"
+    },
+    "200": {
+      "total_gold_earned": 70638,
+      "total_gold_spent": 65183,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 129069,
+      "total_damage_dealt_to_objectives": 117269,
+      "total_damage_taken": 230249,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 136,
+      "average_champion_experience": 16786,
+      "dmg_carry": "Sion",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4392456706"
+    }
+  }
+}

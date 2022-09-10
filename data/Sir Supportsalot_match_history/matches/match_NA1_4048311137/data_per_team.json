@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48536,
+      "total_gold_spent": 45535,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 87116,
+      "total_damage_dealt_to_objectives": 22918,
+      "total_damage_taken": 100797,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 122,
+      "average_champion_experience": 11882,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4048311137"
+    },
+    "200": {
+      "total_gold_earned": 58296,
+      "total_gold_spent": 54615,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 81828,
+      "total_damage_dealt_to_objectives": 77053,
+      "total_damage_taken": 120836,
+      "average_vision_score": 26,
+      "total_wards_placed": 56,
+      "average_creep_score": 105,
+      "average_champion_experience": 13648,
+      "dmg_carry": "Kled",
+      "obj_carry": "Morgana",
+      "match_id": "NA1_4048311137"
+    }
+  }
+}

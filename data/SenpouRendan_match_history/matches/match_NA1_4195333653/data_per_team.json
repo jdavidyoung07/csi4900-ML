@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56076,
+      "total_gold_spent": 44885,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 24,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 72420,
+      "total_damage_dealt_to_objectives": 66512,
+      "total_damage_taken": 76161,
+      "average_vision_score": 16,
+      "total_wards_placed": 39,
+      "average_creep_score": 127,
+      "average_champion_experience": 13508,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4195333653"
+    },
+    "200": {
+      "total_gold_earned": 40667,
+      "total_gold_spent": 37350,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 46275,
+      "total_damage_dealt_to_objectives": 19637,
+      "total_damage_taken": 97637,
+      "average_vision_score": 18,
+      "total_wards_placed": 37,
+      "average_creep_score": 101,
+      "average_champion_experience": 9877,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4195333653"
+    }
+  }
+}

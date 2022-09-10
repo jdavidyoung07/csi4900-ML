@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72797,
+      "total_gold_spent": 65500,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 118552,
+      "total_damage_dealt_to_objectives": 62534,
+      "total_damage_taken": 161781,
+      "average_vision_score": 28,
+      "total_wards_placed": 74,
+      "average_creep_score": 136,
+      "average_champion_experience": 16669,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4388009101"
+    },
+    "200": {
+      "total_gold_earned": 65927,
+      "total_gold_spent": 62358,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 131150,
+      "total_damage_dealt_to_objectives": 77655,
+      "total_damage_taken": 152373,
+      "average_vision_score": 43,
+      "total_wards_placed": 81,
+      "average_creep_score": 134,
+      "average_champion_experience": 15219,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4388009101"
+    }
+  }
+}

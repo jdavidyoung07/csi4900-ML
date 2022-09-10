@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84637,
+      "total_gold_spent": 85555,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 188305,
+      "total_damage_dealt_to_objectives": 83602,
+      "total_damage_taken": 196672,
+      "average_vision_score": 48,
+      "total_wards_placed": 79,
+      "average_creep_score": 153,
+      "average_champion_experience": 20311,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4400489963"
+    },
+    "200": {
+      "total_gold_earned": 86342,
+      "total_gold_spent": 78158,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 163288,
+      "total_damage_dealt_to_objectives": 112598,
+      "total_damage_taken": 235367,
+      "average_vision_score": 47,
+      "total_wards_placed": 77,
+      "average_creep_score": 152,
+      "average_champion_experience": 22382,
+      "dmg_carry": "Darius",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4400489963"
+    }
+  }
+}

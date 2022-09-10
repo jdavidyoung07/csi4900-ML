@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58084,
+      "total_gold_spent": 54680,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 96182,
+      "total_damage_dealt_to_objectives": 42455,
+      "total_damage_taken": 134496,
+      "average_vision_score": 28,
+      "total_wards_placed": 71,
+      "average_creep_score": 127,
+      "average_champion_experience": 13002,
+      "dmg_carry": "Brand",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4393822101"
+    },
+    "200": {
+      "total_gold_earned": 65913,
+      "total_gold_spent": 60700,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 114941,
+      "total_damage_dealt_to_objectives": 82579,
+      "total_damage_taken": 120392,
+      "average_vision_score": 25,
+      "total_wards_placed": 40,
+      "average_creep_score": 125,
+      "average_champion_experience": 15943,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4393822101"
+    }
+  }
+}

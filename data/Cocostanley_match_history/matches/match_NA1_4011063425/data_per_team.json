@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 37,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64463,
+      "total_gold_spent": 63375,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 87128,
+      "total_damage_dealt_to_objectives": 55455,
+      "total_damage_taken": 146299,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 129,
+      "average_champion_experience": 14891,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4011063425"
+    },
+    "200": {
+      "total_gold_earned": 69897,
+      "total_gold_spent": 61600,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 116568,
+      "total_damage_dealt_to_objectives": 68862,
+      "total_damage_taken": 119360,
+      "average_vision_score": 30,
+      "total_wards_placed": 55,
+      "average_creep_score": 137,
+      "average_champion_experience": 18604,
+      "dmg_carry": "Zed",
+      "obj_carry": "Brand",
+      "match_id": "NA1_4011063425"
+    }
+  }
+}

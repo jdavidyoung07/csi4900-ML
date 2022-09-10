@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78695,
+      "total_gold_spent": 75050,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 141110,
+      "total_damage_dealt_to_objectives": 58024,
+      "total_damage_taken": 165337,
+      "average_vision_score": 34,
+      "total_wards_placed": 91,
+      "average_creep_score": 160,
+      "average_champion_experience": 17907,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4384179398"
+    },
+    "200": {
+      "total_gold_earned": 80421,
+      "total_gold_spent": 71475,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 39,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 140123,
+      "total_damage_dealt_to_objectives": 93045,
+      "total_damage_taken": 183178,
+      "average_vision_score": 37,
+      "total_wards_placed": 68,
+      "average_creep_score": 147,
+      "average_champion_experience": 19137,
+      "dmg_carry": "Yone",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4384179398"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37767,
+      "total_gold_spent": 25385,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 20,
+      "total_deaths": 1,
+      "total_damage_dealt_to_champions": 45580,
+      "total_damage_dealt_to_objectives": 45808,
+      "total_damage_taken": 46152,
+      "average_vision_score": 7,
+      "total_wards_placed": 17,
+      "average_creep_score": 78,
+      "average_champion_experience": 7992,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4399382187"
+    },
+    "200": {
+      "total_gold_earned": 23531,
+      "total_gold_spent": 21475,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 1,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 22921,
+      "total_damage_dealt_to_objectives": 5505,
+      "total_damage_taken": 58115,
+      "average_vision_score": 12,
+      "total_wards_placed": 27,
+      "average_creep_score": 64,
+      "average_champion_experience": 5776,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4399382187"
+    }
+  }
+}

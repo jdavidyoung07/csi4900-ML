@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39500,
+      "total_gold_spent": 36225,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 45873,
+      "total_damage_dealt_to_objectives": 44985,
+      "total_damage_taken": 49871,
+      "average_vision_score": 15,
+      "total_wards_placed": 38,
+      "average_creep_score": 82,
+      "average_champion_experience": 8637,
+      "dmg_carry": "Vex",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4183722594"
+    },
+    "200": {
+      "total_gold_earned": 29224,
+      "total_gold_spent": 25525,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 29995,
+      "total_damage_dealt_to_objectives": 11858,
+      "total_damage_taken": 60152,
+      "average_vision_score": 16,
+      "total_wards_placed": 44,
+      "average_creep_score": 59,
+      "average_champion_experience": 6898,
+      "dmg_carry": "XinZhao",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4183722594"
+    }
+  }
+}

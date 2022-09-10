@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50377,
+      "total_gold_spent": 46941,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 76569,
+      "total_damage_dealt_to_objectives": 20830,
+      "total_damage_taken": 123589,
+      "average_vision_score": 30,
+      "total_wards_placed": 56,
+      "average_creep_score": 103,
+      "average_champion_experience": 11441,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4287377282"
+    },
+    "200": {
+      "total_gold_earned": 60491,
+      "total_gold_spent": 54550,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 100669,
+      "total_damage_dealt_to_objectives": 78272,
+      "total_damage_taken": 100335,
+      "average_vision_score": 30,
+      "total_wards_placed": 62,
+      "average_creep_score": 108,
+      "average_champion_experience": 13750,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4287377282"
+    }
+  }
+}

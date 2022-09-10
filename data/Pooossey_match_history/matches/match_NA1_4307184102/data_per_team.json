@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 86387,
+      "total_gold_spent": 77935,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 59,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 145764,
+      "total_damage_dealt_to_objectives": 106180,
+      "total_damage_taken": 181303,
+      "average_vision_score": 30,
+      "total_wards_placed": 78,
+      "average_creep_score": 130,
+      "average_champion_experience": 21275,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4307184102"
+    },
+    "200": {
+      "total_gold_earned": 72943,
+      "total_gold_spent": 70080,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 132678,
+      "total_damage_dealt_to_objectives": 43508,
+      "total_damage_taken": 164660,
+      "average_vision_score": 29,
+      "total_wards_placed": 58,
+      "average_creep_score": 137,
+      "average_champion_experience": 17092,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4307184102"
+    }
+  }
+}

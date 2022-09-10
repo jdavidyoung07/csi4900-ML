@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73276,
+      "total_gold_spent": 66350,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 154445,
+      "total_damage_dealt_to_objectives": 68808,
+      "total_damage_taken": 154333,
+      "average_vision_score": 35,
+      "total_wards_placed": 66,
+      "average_creep_score": 147,
+      "average_champion_experience": 17396,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4354913640"
+    },
+    "200": {
+      "total_gold_earned": 65480,
+      "total_gold_spent": 63285,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 130872,
+      "total_damage_dealt_to_objectives": 34625,
+      "total_damage_taken": 192734,
+      "average_vision_score": 32,
+      "total_wards_placed": 68,
+      "average_creep_score": 138,
+      "average_champion_experience": 15904,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4354913640"
+    }
+  }
+}

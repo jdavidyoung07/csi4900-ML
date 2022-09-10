@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44246,
+      "total_gold_spent": 38625,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 62709,
+      "total_damage_dealt_to_objectives": 65854,
+      "total_damage_taken": 77465,
+      "average_vision_score": 16,
+      "total_wards_placed": 35,
+      "average_creep_score": 82,
+      "average_champion_experience": 9151,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4418939811"
+    },
+    "200": {
+      "total_gold_earned": 35065,
+      "total_gold_spent": 32375,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 53495,
+      "total_damage_dealt_to_objectives": 16037,
+      "total_damage_taken": 82980,
+      "average_vision_score": 15,
+      "total_wards_placed": 37,
+      "average_creep_score": 72,
+      "average_champion_experience": 7387,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4418939811"
+    }
+  }
+}

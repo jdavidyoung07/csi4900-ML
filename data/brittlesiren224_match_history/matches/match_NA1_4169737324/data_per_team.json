@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50229,
+      "total_gold_spent": 40785,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 61091,
+      "total_damage_dealt_to_objectives": 54369,
+      "total_damage_taken": 72645,
+      "average_vision_score": 22,
+      "total_wards_placed": 41,
+      "average_creep_score": 98,
+      "average_champion_experience": 10892,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4169737324"
+    },
+    "200": {
+      "total_gold_earned": 35122,
+      "total_gold_spent": 33288,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 44767,
+      "total_damage_dealt_to_objectives": 16984,
+      "total_damage_taken": 78366,
+      "average_vision_score": 19,
+      "total_wards_placed": 47,
+      "average_creep_score": 82,
+      "average_champion_experience": 7869,
+      "dmg_carry": "Lux",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4169737324"
+    }
+  }
+}

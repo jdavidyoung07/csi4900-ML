@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79435,
+      "total_gold_spent": 71325,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 61,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 185912,
+      "total_damage_dealt_to_objectives": 92616,
+      "total_damage_taken": 217611,
+      "average_vision_score": 39,
+      "total_wards_placed": 77,
+      "average_creep_score": 127,
+      "average_champion_experience": 18653,
+      "dmg_carry": "Vex",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4385076758"
+    },
+    "200": {
+      "total_gold_earned": 81262,
+      "total_gold_spent": 78305,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 21,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 166701,
+      "total_damage_dealt_to_objectives": 69048,
+      "total_damage_taken": 229710,
+      "average_vision_score": 27,
+      "total_wards_placed": 51,
+      "average_creep_score": 165,
+      "average_champion_experience": 18279,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4385076758"
+    }
+  }
+}

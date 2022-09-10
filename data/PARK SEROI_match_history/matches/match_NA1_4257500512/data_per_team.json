@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55776,
+      "total_gold_spent": 53850,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 103508,
+      "total_damage_dealt_to_objectives": 35132,
+      "total_damage_taken": 114476,
+      "average_vision_score": 26,
+      "total_wards_placed": 44,
+      "average_creep_score": 114,
+      "average_champion_experience": 13186,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4257500512"
+    },
+    "200": {
+      "total_gold_earned": 63712,
+      "total_gold_spent": 52213,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 94701,
+      "total_damage_dealt_to_objectives": 79117,
+      "total_damage_taken": 136246,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 110,
+      "average_champion_experience": 15244,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4257500512"
+    }
+  }
+}

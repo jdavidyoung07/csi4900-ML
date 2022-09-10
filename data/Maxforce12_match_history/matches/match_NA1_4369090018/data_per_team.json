@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71567,
+      "total_gold_spent": 63050,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 116846,
+      "total_damage_dealt_to_objectives": 73293,
+      "total_damage_taken": 136115,
+      "average_vision_score": 37,
+      "total_wards_placed": 73,
+      "average_creep_score": 115,
+      "average_champion_experience": 16639,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4369090018"
+    },
+    "200": {
+      "total_gold_earned": 64121,
+      "total_gold_spent": 61560,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 103728,
+      "total_damage_dealt_to_objectives": 72348,
+      "total_damage_taken": 149337,
+      "average_vision_score": 38,
+      "total_wards_placed": 81,
+      "average_creep_score": 151,
+      "average_champion_experience": 15420,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Xayah",
+      "match_id": "NA1_4369090018"
+    }
+  }
+}

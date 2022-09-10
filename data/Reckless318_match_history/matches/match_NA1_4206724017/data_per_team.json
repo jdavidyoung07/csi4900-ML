@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53135,
+      "total_gold_spent": 48570,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 79998,
+      "total_damage_dealt_to_objectives": 57446,
+      "total_damage_taken": 83179,
+      "average_vision_score": 19,
+      "total_wards_placed": 45,
+      "average_creep_score": 95,
+      "average_champion_experience": 12191,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4206724017"
+    },
+    "200": {
+      "total_gold_earned": 43523,
+      "total_gold_spent": 41583,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 56286,
+      "total_damage_dealt_to_objectives": 17220,
+      "total_damage_taken": 99808,
+      "average_vision_score": 15,
+      "total_wards_placed": 40,
+      "average_creep_score": 105,
+      "average_champion_experience": 9639,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4206724017"
+    }
+  }
+}

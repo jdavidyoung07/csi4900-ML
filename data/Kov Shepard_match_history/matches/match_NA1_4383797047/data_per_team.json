@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67105,
+      "total_gold_spent": 60183,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 165761,
+      "total_damage_dealt_to_objectives": 56260,
+      "total_damage_taken": 186651,
+      "average_vision_score": 32,
+      "total_wards_placed": 70,
+      "average_creep_score": 134,
+      "average_champion_experience": 16306,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4383797047"
+    },
+    "200": {
+      "total_gold_earned": 78975,
+      "total_gold_spent": 71535,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 155827,
+      "total_damage_dealt_to_objectives": 112320,
+      "total_damage_taken": 223372,
+      "average_vision_score": 32,
+      "total_wards_placed": 68,
+      "average_creep_score": 143,
+      "average_champion_experience": 20291,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4383797047"
+    }
+  }
+}

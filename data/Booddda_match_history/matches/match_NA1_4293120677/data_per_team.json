@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78102,
+      "total_gold_spent": 66320,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 164445,
+      "total_damage_dealt_to_objectives": 97655,
+      "total_damage_taken": 157433,
+      "average_vision_score": 37,
+      "total_wards_placed": 75,
+      "average_creep_score": 133,
+      "average_champion_experience": 17667,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4293120677"
+    },
+    "200": {
+      "total_gold_earned": 75331,
+      "total_gold_spent": 71780,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 121280,
+      "total_damage_dealt_to_objectives": 35872,
+      "total_damage_taken": 191176,
+      "average_vision_score": 37,
+      "total_wards_placed": 73,
+      "average_creep_score": 98,
+      "average_champion_experience": 15956,
+      "dmg_carry": "Ekko",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4293120677"
+    }
+  }
+}

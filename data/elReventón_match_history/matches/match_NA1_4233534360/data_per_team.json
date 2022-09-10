@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69609,
+      "total_gold_spent": 65510,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 139136,
+      "total_damage_dealt_to_objectives": 44360,
+      "total_damage_taken": 141305,
+      "average_vision_score": 24,
+      "total_wards_placed": 49,
+      "average_creep_score": 129,
+      "average_champion_experience": 15503,
+      "dmg_carry": "Senna",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4233534360"
+    },
+    "200": {
+      "total_gold_earned": 72954,
+      "total_gold_spent": 67280,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 110126,
+      "total_damage_dealt_to_objectives": 73124,
+      "total_damage_taken": 170850,
+      "average_vision_score": 29,
+      "total_wards_placed": 51,
+      "average_creep_score": 128,
+      "average_champion_experience": 16315,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4233534360"
+    }
+  }
+}

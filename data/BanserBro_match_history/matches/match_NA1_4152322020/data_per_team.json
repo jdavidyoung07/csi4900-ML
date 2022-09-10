@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78360,
+      "total_gold_spent": 74193,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 119277,
+      "total_damage_dealt_to_objectives": 92589,
+      "total_damage_taken": 188411,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 146,
+      "average_champion_experience": 18783,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4152322020"
+    },
+    "200": {
+      "total_gold_earned": 79688,
+      "total_gold_spent": 72925,
+      "team_comp": [
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 50,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 158205,
+      "total_damage_dealt_to_objectives": 69018,
+      "total_damage_taken": 158566,
+      "average_vision_score": 44,
+      "total_wards_placed": 75,
+      "average_creep_score": 131,
+      "average_champion_experience": 19223,
+      "dmg_carry": "Vex",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4152322020"
+    }
+  }
+}

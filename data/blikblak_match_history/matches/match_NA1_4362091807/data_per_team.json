@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85854,
+      "total_gold_spent": 85315,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 40,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 173280,
+      "total_damage_dealt_to_objectives": 111115,
+      "total_damage_taken": 245212,
+      "average_vision_score": 48,
+      "total_wards_placed": 100,
+      "average_creep_score": 169,
+      "average_champion_experience": 20358,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4362091807"
+    },
+    "200": {
+      "total_gold_earned": 94956,
+      "total_gold_spent": 84483,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 209020,
+      "total_damage_dealt_to_objectives": 100857,
+      "total_damage_taken": 218011,
+      "average_vision_score": 38,
+      "total_wards_placed": 86,
+      "average_creep_score": 181,
+      "average_champion_experience": 24868,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4362091807"
+    }
+  }
+}

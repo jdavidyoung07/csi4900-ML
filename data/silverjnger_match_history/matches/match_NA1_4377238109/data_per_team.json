@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72580,
+      "total_gold_spent": 68685,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 170992,
+      "total_damage_dealt_to_objectives": 60155,
+      "total_damage_taken": 186404,
+      "average_vision_score": 31,
+      "total_wards_placed": 60,
+      "average_creep_score": 135,
+      "average_champion_experience": 17553,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4377238109"
+    },
+    "200": {
+      "total_gold_earned": 74645,
+      "total_gold_spent": 64325,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 152098,
+      "total_damage_dealt_to_objectives": 95104,
+      "total_damage_taken": 208169,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 146,
+      "average_champion_experience": 17796,
+      "dmg_carry": "Swain",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4377238109"
+    }
+  }
+}

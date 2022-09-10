@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46853,
+      "total_gold_spent": 44210,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 66819,
+      "total_damage_dealt_to_objectives": 18555,
+      "total_damage_taken": 104192,
+      "average_vision_score": 23,
+      "total_wards_placed": 55,
+      "average_creep_score": 84,
+      "average_champion_experience": 9854,
+      "dmg_carry": "Lux",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4066932414"
+    },
+    "200": {
+      "total_gold_earned": 57577,
+      "total_gold_spent": 50775,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 86040,
+      "total_damage_dealt_to_objectives": 71070,
+      "total_damage_taken": 106628,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 102,
+      "average_champion_experience": 11762,
+      "dmg_carry": "Samira",
+      "obj_carry": "Vex",
+      "match_id": "NA1_4066932414"
+    }
+  }
+}

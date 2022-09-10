@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43838,
+      "total_gold_spent": 45570,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 63434,
+      "total_damage_dealt_to_objectives": 14414,
+      "total_damage_taken": 133998,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 97,
+      "average_champion_experience": 10582,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4295761770"
+    },
+    "200": {
+      "total_gold_earned": 65364,
+      "total_gold_spent": 60750,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 112818,
+      "total_damage_dealt_to_objectives": 60929,
+      "total_damage_taken": 95178,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 108,
+      "average_champion_experience": 14244,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4295761770"
+    }
+  }
+}

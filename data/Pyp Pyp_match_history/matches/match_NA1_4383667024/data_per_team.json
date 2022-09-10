@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59580,
+      "total_gold_spent": 58200,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 83713,
+      "total_damage_dealt_to_objectives": 38144,
+      "total_damage_taken": 150543,
+      "average_vision_score": 32,
+      "total_wards_placed": 49,
+      "average_creep_score": 131,
+      "average_champion_experience": 14240,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4383667024"
+    },
+    "200": {
+      "total_gold_earned": 65086,
+      "total_gold_spent": 56305,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 128677,
+      "total_damage_dealt_to_objectives": 66886,
+      "total_damage_taken": 108855,
+      "average_vision_score": 32,
+      "total_wards_placed": 79,
+      "average_creep_score": 123,
+      "average_champion_experience": 15431,
+      "dmg_carry": "Lux",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4383667024"
+    }
+  }
+}

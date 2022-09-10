@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30517,
+      "total_gold_spent": 28125,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 37970,
+      "total_damage_dealt_to_objectives": 11626,
+      "total_damage_taken": 59203,
+      "average_vision_score": 15,
+      "total_wards_placed": 35,
+      "average_creep_score": 74,
+      "average_champion_experience": 6798,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Sett",
+      "match_id": "NA1_3999523286"
+    },
+    "200": {
+      "total_gold_earned": 35896,
+      "total_gold_spent": 30750,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 45074,
+      "total_damage_dealt_to_objectives": 26055,
+      "total_damage_taken": 58394,
+      "average_vision_score": 12,
+      "total_wards_placed": 35,
+      "average_creep_score": 71,
+      "average_champion_experience": 8103,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_3999523286"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60775,
+      "total_gold_spent": 58550,
+      "team_comp": [
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 105089,
+      "total_damage_dealt_to_objectives": 70953,
+      "total_damage_taken": 117417,
+      "average_vision_score": 30,
+      "total_wards_placed": 70,
+      "average_creep_score": 103,
+      "average_champion_experience": 12918,
+      "dmg_carry": "Jinx",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4296428306"
+    },
+    "200": {
+      "total_gold_earned": 62870,
+      "total_gold_spent": 55400,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 93401,
+      "total_damage_dealt_to_objectives": 37485,
+      "total_damage_taken": 134094,
+      "average_vision_score": 25,
+      "total_wards_placed": 60,
+      "average_creep_score": 98,
+      "average_champion_experience": 13951,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4296428306"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59671,
+      "total_gold_spent": 58060,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 83190,
+      "total_damage_dealt_to_objectives": 52571,
+      "total_damage_taken": 162664,
+      "average_vision_score": 34,
+      "total_wards_placed": 70,
+      "average_creep_score": 148,
+      "average_champion_experience": 13996,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4409899879"
+    },
+    "200": {
+      "total_gold_earned": 70757,
+      "total_gold_spent": 67790,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 130962,
+      "total_damage_dealt_to_objectives": 92537,
+      "total_damage_taken": 114601,
+      "average_vision_score": 31,
+      "total_wards_placed": 61,
+      "average_creep_score": 147,
+      "average_champion_experience": 17350,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4409899879"
+    }
+  }
+}

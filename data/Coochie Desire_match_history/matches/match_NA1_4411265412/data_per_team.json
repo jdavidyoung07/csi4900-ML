@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55440,
+      "total_gold_spent": 53045,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 107832,
+      "total_damage_dealt_to_objectives": 44506,
+      "total_damage_taken": 162636,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 132,
+      "average_champion_experience": 13799,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4411265412"
+    },
+    "200": {
+      "total_gold_earned": 65790,
+      "total_gold_spent": 60328,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 127574,
+      "total_damage_dealt_to_objectives": 95860,
+      "total_damage_taken": 136387,
+      "average_vision_score": 30,
+      "total_wards_placed": 66,
+      "average_creep_score": 152,
+      "average_champion_experience": 16406,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4411265412"
+    }
+  }
+}

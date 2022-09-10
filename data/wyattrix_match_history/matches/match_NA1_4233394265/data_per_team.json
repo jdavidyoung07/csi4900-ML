@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77422,
+      "total_gold_spent": 70005,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 37,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 156281,
+      "total_damage_dealt_to_objectives": 92186,
+      "total_damage_taken": 172686,
+      "average_vision_score": 46,
+      "total_wards_placed": 90,
+      "average_creep_score": 128,
+      "average_champion_experience": 16901,
+      "dmg_carry": "Senna",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4233394265"
+    },
+    "200": {
+      "total_gold_earned": 69558,
+      "total_gold_spent": 67358,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 126133,
+      "total_damage_dealt_to_objectives": 30254,
+      "total_damage_taken": 181307,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 150,
+      "average_champion_experience": 18220,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4233394265"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43889,
+      "total_gold_spent": 41460,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 60432,
+      "total_damage_dealt_to_objectives": 33390,
+      "total_damage_taken": 113234,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 127,
+      "average_champion_experience": 10793,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4426337238"
+    },
+    "200": {
+      "total_gold_earned": 64791,
+      "total_gold_spent": 55500,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 95588,
+      "total_damage_dealt_to_objectives": 102764,
+      "total_damage_taken": 93443,
+      "average_vision_score": 24,
+      "total_wards_placed": 46,
+      "average_creep_score": 130,
+      "average_champion_experience": 14440,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4426337238"
+    }
+  }
+}

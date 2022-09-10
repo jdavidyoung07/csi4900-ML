@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48628,
+      "total_gold_spent": 45350,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 71608,
+      "total_damage_dealt_to_objectives": 37221,
+      "total_damage_taken": 71623,
+      "average_vision_score": 23,
+      "total_wards_placed": 54,
+      "average_creep_score": 78,
+      "average_champion_experience": 11156,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4408659150"
+    },
+    "200": {
+      "total_gold_earned": 43881,
+      "total_gold_spent": 39050,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 49431,
+      "total_damage_dealt_to_objectives": 42439,
+      "total_damage_taken": 90026,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 87,
+      "average_champion_experience": 9386,
+      "dmg_carry": "Poppy",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4408659150"
+    }
+  }
+}

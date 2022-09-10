@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 37,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75775,
+      "total_gold_spent": 73135,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 167773,
+      "total_damage_dealt_to_objectives": 66198,
+      "total_damage_taken": 158660,
+      "average_vision_score": 25,
+      "total_wards_placed": 61,
+      "average_creep_score": 119,
+      "average_champion_experience": 16535,
+      "dmg_carry": "Lux",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4032919814"
+    },
+    "200": {
+      "total_gold_earned": 71386,
+      "total_gold_spent": 62263,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 130665,
+      "total_damage_dealt_to_objectives": 77934,
+      "total_damage_taken": 211146,
+      "average_vision_score": 30,
+      "total_wards_placed": 66,
+      "average_creep_score": 119,
+      "average_champion_experience": 17435,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4032919814"
+    }
+  }
+}

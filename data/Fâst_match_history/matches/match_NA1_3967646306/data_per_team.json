@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38296,
+      "total_gold_spent": 30395,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 54298,
+      "total_damage_dealt_to_objectives": 35191,
+      "total_damage_taken": 54071,
+      "average_vision_score": 14,
+      "total_wards_placed": 32,
+      "average_creep_score": 70,
+      "average_champion_experience": 8930,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_3967646306"
+    },
+    "200": {
+      "total_gold_earned": 28888,
+      "total_gold_spent": 27510,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 32928,
+      "total_damage_dealt_to_objectives": 12811,
+      "total_damage_taken": 60300,
+      "average_vision_score": 16,
+      "total_wards_placed": 38,
+      "average_creep_score": 74,
+      "average_champion_experience": 7141,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Ivern",
+      "match_id": "NA1_3967646306"
+    }
+  }
+}

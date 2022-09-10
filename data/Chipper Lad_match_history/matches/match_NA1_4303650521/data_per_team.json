@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57121,
+      "total_gold_spent": 51955,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 122636,
+      "total_damage_dealt_to_objectives": 13563,
+      "total_damage_taken": 119096,
+      "average_vision_score": 15,
+      "total_wards_placed": 43,
+      "average_creep_score": 121,
+      "average_champion_experience": 13793,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4303650521"
+    },
+    "200": {
+      "total_gold_earned": 74082,
+      "total_gold_spent": 71075,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 55,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 92363,
+      "total_damage_dealt_to_objectives": 96912,
+      "total_damage_taken": 165100,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 106,
+      "average_champion_experience": 16350,
+      "dmg_carry": "Talon",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4303650521"
+    }
+  }
+}

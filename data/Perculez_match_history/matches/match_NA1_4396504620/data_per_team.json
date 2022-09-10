@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68689,
+      "total_gold_spent": 61630,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 143335,
+      "total_damage_dealt_to_objectives": 79424,
+      "total_damage_taken": 127605,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 102,
+      "average_champion_experience": 16313,
+      "dmg_carry": "Lux",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4396504620"
+    },
+    "200": {
+      "total_gold_earned": 66000,
+      "total_gold_spent": 62250,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 104661,
+      "total_damage_dealt_to_objectives": 49260,
+      "total_damage_taken": 172293,
+      "average_vision_score": 24,
+      "total_wards_placed": 55,
+      "average_creep_score": 118,
+      "average_champion_experience": 14657,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4396504620"
+    }
+  }
+}

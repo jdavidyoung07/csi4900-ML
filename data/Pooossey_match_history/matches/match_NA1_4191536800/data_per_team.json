@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46161,
+      "total_gold_spent": 44380,
+      "team_comp": [
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 65303,
+      "total_damage_dealt_to_objectives": 31503,
+      "total_damage_taken": 109780,
+      "average_vision_score": 23,
+      "total_wards_placed": 58,
+      "average_creep_score": 112,
+      "average_champion_experience": 11851,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4191536800"
+    },
+    "200": {
+      "total_gold_earned": 54783,
+      "total_gold_spent": 47075,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 89164,
+      "total_damage_dealt_to_objectives": 72524,
+      "total_damage_taken": 92865,
+      "average_vision_score": 28,
+      "total_wards_placed": 59,
+      "average_creep_score": 112,
+      "average_champion_experience": 14094,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4191536800"
+    }
+  }
+}

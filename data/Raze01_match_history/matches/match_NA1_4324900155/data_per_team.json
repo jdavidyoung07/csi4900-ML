@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79266,
+      "total_gold_spent": 69608,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 168034,
+      "total_damage_dealt_to_objectives": 94150,
+      "total_damage_taken": 166927,
+      "average_vision_score": 34,
+      "total_wards_placed": 75,
+      "average_creep_score": 166,
+      "average_champion_experience": 20048,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4324900155"
+    },
+    "200": {
+      "total_gold_earned": 69343,
+      "total_gold_spent": 66285,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 34,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 130123,
+      "total_damage_dealt_to_objectives": 62595,
+      "total_damage_taken": 201524,
+      "average_vision_score": 37,
+      "total_wards_placed": 73,
+      "average_creep_score": 136,
+      "average_champion_experience": 16458,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4324900155"
+    }
+  }
+}

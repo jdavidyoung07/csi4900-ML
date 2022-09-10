@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50722,
+      "total_gold_spent": 48225,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 95194,
+      "total_damage_dealt_to_objectives": 59886,
+      "total_damage_taken": 110388,
+      "average_vision_score": 23,
+      "total_wards_placed": 44,
+      "average_creep_score": 113,
+      "average_champion_experience": 11731,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4389131435"
+    },
+    "200": {
+      "total_gold_earned": 60087,
+      "total_gold_spent": 52275,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 86611,
+      "total_damage_dealt_to_objectives": 78964,
+      "total_damage_taken": 130362,
+      "average_vision_score": 20,
+      "total_wards_placed": 46,
+      "average_creep_score": 115,
+      "average_champion_experience": 13552,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4389131435"
+    }
+  }
+}

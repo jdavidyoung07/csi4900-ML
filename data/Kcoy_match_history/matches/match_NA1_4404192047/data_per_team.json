@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56644,
+      "total_gold_spent": 55683,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 99088,
+      "total_damage_dealt_to_objectives": 35777,
+      "total_damage_taken": 159313,
+      "average_vision_score": 26,
+      "total_wards_placed": 58,
+      "average_creep_score": 129,
+      "average_champion_experience": 14050,
+      "dmg_carry": "Jax",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4404192047"
+    },
+    "200": {
+      "total_gold_earned": 69168,
+      "total_gold_spent": 61060,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 126389,
+      "total_damage_dealt_to_objectives": 118525,
+      "total_damage_taken": 136977,
+      "average_vision_score": 24,
+      "total_wards_placed": 43,
+      "average_creep_score": 124,
+      "average_champion_experience": 17420,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Anivia",
+      "match_id": "NA1_4404192047"
+    }
+  }
+}

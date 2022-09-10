@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53086,
+      "total_gold_spent": 46950,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 90044,
+      "total_damage_dealt_to_objectives": 28381,
+      "total_damage_taken": 118248,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 121,
+      "average_champion_experience": 12883,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4376303951"
+    },
+    "200": {
+      "total_gold_earned": 59472,
+      "total_gold_spent": 55100,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 92515,
+      "total_damage_dealt_to_objectives": 70570,
+      "total_damage_taken": 116264,
+      "average_vision_score": 25,
+      "total_wards_placed": 57,
+      "average_creep_score": 121,
+      "average_champion_experience": 14185,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4376303951"
+    }
+  }
+}

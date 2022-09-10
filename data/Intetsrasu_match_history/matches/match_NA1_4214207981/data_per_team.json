@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40338,
+      "total_gold_spent": 38400,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 50722,
+      "total_damage_dealt_to_objectives": 31058,
+      "total_damage_taken": 97996,
+      "average_vision_score": 22,
+      "total_wards_placed": 50,
+      "average_creep_score": 82,
+      "average_champion_experience": 10317,
+      "dmg_carry": "Vex",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4214207981"
+    },
+    "200": {
+      "total_gold_earned": 52374,
+      "total_gold_spent": 43500,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 79717,
+      "total_damage_dealt_to_objectives": 63660,
+      "total_damage_taken": 72665,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 85,
+      "average_champion_experience": 12780,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Zyra",
+      "match_id": "NA1_4214207981"
+    }
+  }
+}

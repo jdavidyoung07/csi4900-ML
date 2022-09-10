@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71344,
+      "total_gold_spent": 66005,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 116713,
+      "total_damage_dealt_to_objectives": 65388,
+      "total_damage_taken": 164571,
+      "average_vision_score": 34,
+      "total_wards_placed": 68,
+      "average_creep_score": 160,
+      "average_champion_experience": 17299,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4164485845"
+    },
+    "200": {
+      "total_gold_earned": 73678,
+      "total_gold_spent": 66800,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 116310,
+      "total_damage_dealt_to_objectives": 81679,
+      "total_damage_taken": 144474,
+      "average_vision_score": 36,
+      "total_wards_placed": 84,
+      "average_creep_score": 140,
+      "average_champion_experience": 17548,
+      "dmg_carry": "Garen",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4164485845"
+    }
+  }
+}

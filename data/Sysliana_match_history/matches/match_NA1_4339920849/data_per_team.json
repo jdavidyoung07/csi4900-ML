@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66180,
+      "total_gold_spent": 64775,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 121898,
+      "total_damage_dealt_to_objectives": 57852,
+      "total_damage_taken": 139652,
+      "average_vision_score": 33,
+      "total_wards_placed": 58,
+      "average_creep_score": 121,
+      "average_champion_experience": 14638,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4339920849"
+    },
+    "200": {
+      "total_gold_earned": 68367,
+      "total_gold_spent": 59545,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 111727,
+      "total_damage_dealt_to_objectives": 84452,
+      "total_damage_taken": 160223,
+      "average_vision_score": 34,
+      "total_wards_placed": 70,
+      "average_creep_score": 145,
+      "average_champion_experience": 17560,
+      "dmg_carry": "Yone",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4339920849"
+    }
+  }
+}

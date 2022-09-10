@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68931,
+      "total_gold_spent": 61355,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 128537,
+      "total_damage_dealt_to_objectives": 69604,
+      "total_damage_taken": 129302,
+      "average_vision_score": 33,
+      "total_wards_placed": 97,
+      "average_creep_score": 126,
+      "average_champion_experience": 16810,
+      "dmg_carry": "Brand",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4091523026"
+    },
+    "200": {
+      "total_gold_earned": 63591,
+      "total_gold_spent": 61275,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 97869,
+      "total_damage_dealt_to_objectives": 81431,
+      "total_damage_taken": 158527,
+      "average_vision_score": 38,
+      "total_wards_placed": 54,
+      "average_creep_score": 124,
+      "average_champion_experience": 13893,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4091523026"
+    }
+  }
+}

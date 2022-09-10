@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61790,
+      "total_gold_spent": 60155,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 107658,
+      "total_damage_dealt_to_objectives": 64332,
+      "total_damage_taken": 163664,
+      "average_vision_score": 29,
+      "total_wards_placed": 70,
+      "average_creep_score": 125,
+      "average_champion_experience": 13076,
+      "dmg_carry": "Warwick",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4342319333"
+    },
+    "200": {
+      "total_gold_earned": 70052,
+      "total_gold_spent": 62325,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 129135,
+      "total_damage_dealt_to_objectives": 55394,
+      "total_damage_taken": 133031,
+      "average_vision_score": 27,
+      "total_wards_placed": 53,
+      "average_creep_score": 129,
+      "average_champion_experience": 15906,
+      "dmg_carry": "Samira",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4342319333"
+    }
+  }
+}

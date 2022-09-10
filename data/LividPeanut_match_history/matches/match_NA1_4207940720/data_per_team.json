@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93269,
+      "total_gold_spent": 93045,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 178533,
+      "total_damage_dealt_to_objectives": 79429,
+      "total_damage_taken": 164326,
+      "average_vision_score": 53,
+      "total_wards_placed": 103,
+      "average_creep_score": 180,
+      "average_champion_experience": 22512,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4207940720"
+    },
+    "200": {
+      "total_gold_earned": 95847,
+      "total_gold_spent": 81075,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 60,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 136186,
+      "total_damage_dealt_to_objectives": 162106,
+      "total_damage_taken": 226990,
+      "average_vision_score": 60,
+      "total_wards_placed": 98,
+      "average_creep_score": 161,
+      "average_champion_experience": 24415,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4207940720"
+    }
+  }
+}

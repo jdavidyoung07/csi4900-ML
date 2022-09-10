@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74795,
+      "total_gold_spent": 64110,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 140650,
+      "total_damage_dealt_to_objectives": 86357,
+      "total_damage_taken": 136120,
+      "average_vision_score": 40,
+      "total_wards_placed": 88,
+      "average_creep_score": 147,
+      "average_champion_experience": 17658,
+      "dmg_carry": "Corki",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4360267539"
+    },
+    "200": {
+      "total_gold_earned": 64154,
+      "total_gold_spent": 60725,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 94218,
+      "total_damage_dealt_to_objectives": 51062,
+      "total_damage_taken": 162329,
+      "average_vision_score": 41,
+      "total_wards_placed": 73,
+      "average_creep_score": 127,
+      "average_champion_experience": 15789,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4360267539"
+    }
+  }
+}

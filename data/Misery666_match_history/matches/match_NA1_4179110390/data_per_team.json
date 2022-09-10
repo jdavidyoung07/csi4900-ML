@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72329,
+      "total_gold_spent": 67940,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 166660,
+      "total_damage_dealt_to_objectives": 67619,
+      "total_damage_taken": 187540,
+      "average_vision_score": 32,
+      "total_wards_placed": 60,
+      "average_creep_score": 139,
+      "average_champion_experience": 16710,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4179110390"
+    },
+    "200": {
+      "total_gold_earned": 75864,
+      "total_gold_spent": 70885,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 153116,
+      "total_damage_dealt_to_objectives": 56059,
+      "total_damage_taken": 198378,
+      "average_vision_score": 41,
+      "total_wards_placed": 73,
+      "average_creep_score": 145,
+      "average_champion_experience": 17922,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4179110390"
+    }
+  }
+}

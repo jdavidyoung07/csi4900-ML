@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 43,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79200,
+      "total_gold_spent": 75425,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 137736,
+      "total_damage_dealt_to_objectives": 40575,
+      "total_damage_taken": 188324,
+      "average_vision_score": 27,
+      "total_wards_placed": 74,
+      "average_creep_score": 165,
+      "average_champion_experience": 20113,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4049741359"
+    },
+    "200": {
+      "total_gold_earned": 91368,
+      "total_gold_spent": 80135,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 5,
+      "total_kills": 60,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 161580,
+      "total_damage_dealt_to_objectives": 118932,
+      "total_damage_taken": 163587,
+      "average_vision_score": 52,
+      "total_wards_placed": 54,
+      "average_creep_score": 153,
+      "average_champion_experience": 22248,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4049741359"
+    }
+  }
+}

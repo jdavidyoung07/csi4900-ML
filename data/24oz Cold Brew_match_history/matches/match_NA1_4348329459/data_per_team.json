@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66721,
+      "total_gold_spent": 58455,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 106080,
+      "total_damage_dealt_to_objectives": 61809,
+      "total_damage_taken": 131136,
+      "average_vision_score": 25,
+      "total_wards_placed": 64,
+      "average_creep_score": 127,
+      "average_champion_experience": 14908,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4348329459"
+    },
+    "200": {
+      "total_gold_earned": 60620,
+      "total_gold_spent": 60450,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 104959,
+      "total_damage_dealt_to_objectives": 53762,
+      "total_damage_taken": 133705,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 112,
+      "average_champion_experience": 13560,
+      "dmg_carry": "Jax",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4348329459"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72572,
+      "total_gold_spent": 66235,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 173516,
+      "total_damage_dealt_to_objectives": 56700,
+      "total_damage_taken": 168671,
+      "average_vision_score": 33,
+      "total_wards_placed": 72,
+      "average_creep_score": 153,
+      "average_champion_experience": 17303,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4413915254"
+    },
+    "200": {
+      "total_gold_earned": 80509,
+      "total_gold_spent": 69825,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 146055,
+      "total_damage_dealt_to_objectives": 95015,
+      "total_damage_taken": 214707,
+      "average_vision_score": 36,
+      "total_wards_placed": 57,
+      "average_creep_score": 137,
+      "average_champion_experience": 17731,
+      "dmg_carry": "AurelionSol",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4413915254"
+    }
+  }
+}

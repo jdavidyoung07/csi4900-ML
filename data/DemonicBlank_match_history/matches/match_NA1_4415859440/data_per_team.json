@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57861,
+      "total_gold_spent": 52675,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 101883,
+      "total_damage_dealt_to_objectives": 62005,
+      "total_damage_taken": 117824,
+      "average_vision_score": 28,
+      "total_wards_placed": 69,
+      "average_creep_score": 121,
+      "average_champion_experience": 13875,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4415859440"
+    },
+    "200": {
+      "total_gold_earned": 60610,
+      "total_gold_spent": 57893,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 91595,
+      "total_damage_dealt_to_objectives": 61041,
+      "total_damage_taken": 129571,
+      "average_vision_score": 35,
+      "total_wards_placed": 62,
+      "average_creep_score": 131,
+      "average_champion_experience": 13766,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4415859440"
+    }
+  }
+}

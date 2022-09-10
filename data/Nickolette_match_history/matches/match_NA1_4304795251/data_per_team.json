@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61797,
+      "total_gold_spent": 51550,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 23,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 91354,
+      "total_damage_dealt_to_objectives": 65687,
+      "total_damage_taken": 117807,
+      "average_vision_score": 34,
+      "total_wards_placed": 72,
+      "average_creep_score": 144,
+      "average_champion_experience": 13795,
+      "dmg_carry": "Zed",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4304795251"
+    },
+    "200": {
+      "total_gold_earned": 56926,
+      "total_gold_spent": 54245,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 87336,
+      "total_damage_dealt_to_objectives": 46078,
+      "total_damage_taken": 121884,
+      "average_vision_score": 36,
+      "total_wards_placed": 88,
+      "average_creep_score": 107,
+      "average_champion_experience": 12651,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4304795251"
+    }
+  }
+}

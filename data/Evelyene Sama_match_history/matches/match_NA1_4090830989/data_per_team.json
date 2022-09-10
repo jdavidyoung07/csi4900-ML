@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61685,
+      "total_gold_spent": 59375,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 109980,
+      "total_damage_dealt_to_objectives": 40515,
+      "total_damage_taken": 135862,
+      "average_vision_score": 37,
+      "total_wards_placed": 85,
+      "average_creep_score": 104,
+      "average_champion_experience": 14494,
+      "dmg_carry": "Vex",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4090830989"
+    },
+    "200": {
+      "total_gold_earned": 69469,
+      "total_gold_spent": 63500,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 108950,
+      "total_damage_dealt_to_objectives": 48376,
+      "total_damage_taken": 140156,
+      "average_vision_score": 36,
+      "total_wards_placed": 65,
+      "average_creep_score": 125,
+      "average_champion_experience": 16261,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4090830989"
+    }
+  }
+}

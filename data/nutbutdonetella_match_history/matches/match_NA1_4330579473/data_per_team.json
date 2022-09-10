@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37880,
+      "total_gold_spent": 35885,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 45604,
+      "total_damage_dealt_to_objectives": 18388,
+      "total_damage_taken": 95859,
+      "average_vision_score": 16,
+      "total_wards_placed": 44,
+      "average_creep_score": 97,
+      "average_champion_experience": 8569,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4330579473"
+    },
+    "200": {
+      "total_gold_earned": 51147,
+      "total_gold_spent": 45008,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 76771,
+      "total_damage_dealt_to_objectives": 57613,
+      "total_damage_taken": 70517,
+      "average_vision_score": 20,
+      "total_wards_placed": 40,
+      "average_creep_score": 104,
+      "average_champion_experience": 11227,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4330579473"
+    }
+  }
+}

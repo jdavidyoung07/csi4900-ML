@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57484,
+      "total_gold_spent": 55210,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 85056,
+      "total_damage_dealt_to_objectives": 39973,
+      "total_damage_taken": 124420,
+      "average_vision_score": 37,
+      "total_wards_placed": 74,
+      "average_creep_score": 109,
+      "average_champion_experience": 12118,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4428120645"
+    },
+    "200": {
+      "total_gold_earned": 63747,
+      "total_gold_spent": 53868,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 101700,
+      "total_damage_dealt_to_objectives": 72132,
+      "total_damage_taken": 117901,
+      "average_vision_score": 22,
+      "total_wards_placed": 54,
+      "average_creep_score": 109,
+      "average_champion_experience": 14262,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4428120645"
+    }
+  }
+}

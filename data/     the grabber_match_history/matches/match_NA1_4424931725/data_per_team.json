@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81501,
+      "total_gold_spent": 77178,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 32,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 160406,
+      "total_damage_dealt_to_objectives": 158746,
+      "total_damage_taken": 179807,
+      "average_vision_score": 39,
+      "total_wards_placed": 78,
+      "average_creep_score": 157,
+      "average_champion_experience": 19795,
+      "dmg_carry": "Jax",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4424931725"
+    },
+    "200": {
+      "total_gold_earned": 83116,
+      "total_gold_spent": 73650,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 146262,
+      "total_damage_dealt_to_objectives": 48159,
+      "total_damage_taken": 198690,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 204,
+      "average_champion_experience": 21402,
+      "dmg_carry": "Annie",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4424931725"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53690,
+      "total_gold_spent": 50525,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 111961,
+      "total_damage_dealt_to_objectives": 24644,
+      "total_damage_taken": 125947,
+      "average_vision_score": 23,
+      "total_wards_placed": 47,
+      "average_creep_score": 97,
+      "average_champion_experience": 12229,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4072379640"
+    },
+    "200": {
+      "total_gold_earned": 65434,
+      "total_gold_spent": 56885,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 107514,
+      "total_damage_dealt_to_objectives": 81091,
+      "total_damage_taken": 146046,
+      "average_vision_score": 17,
+      "total_wards_placed": 40,
+      "average_creep_score": 116,
+      "average_champion_experience": 15484,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Evelynn",
+      "match_id": "NA1_4072379640"
+    }
+  }
+}

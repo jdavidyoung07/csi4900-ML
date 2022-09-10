@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43848,
+      "total_gold_spent": 39610,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 53851,
+      "total_damage_dealt_to_objectives": 21233,
+      "total_damage_taken": 125624,
+      "average_vision_score": 25,
+      "total_wards_placed": 65,
+      "average_creep_score": 118,
+      "average_champion_experience": 10578,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4044025704"
+    },
+    "200": {
+      "total_gold_earned": 59055,
+      "total_gold_spent": 52775,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 96660,
+      "total_damage_dealt_to_objectives": 67648,
+      "total_damage_taken": 89444,
+      "average_vision_score": 28,
+      "total_wards_placed": 57,
+      "average_creep_score": 103,
+      "average_champion_experience": 13539,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4044025704"
+    }
+  }
+}

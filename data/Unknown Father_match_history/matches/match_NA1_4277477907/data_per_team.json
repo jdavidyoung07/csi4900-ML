@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56532,
+      "total_gold_spent": 54685,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 83909,
+      "total_damage_dealt_to_objectives": 30926,
+      "total_damage_taken": 116580,
+      "average_vision_score": 26,
+      "total_wards_placed": 49,
+      "average_creep_score": 132,
+      "average_champion_experience": 13608,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4277477907"
+    },
+    "200": {
+      "total_gold_earned": 60221,
+      "total_gold_spent": 53745,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 38,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 82913,
+      "total_damage_dealt_to_objectives": 82347,
+      "total_damage_taken": 116897,
+      "average_vision_score": 22,
+      "total_wards_placed": 59,
+      "average_creep_score": 114,
+      "average_champion_experience": 14285,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4277477907"
+    }
+  }
+}

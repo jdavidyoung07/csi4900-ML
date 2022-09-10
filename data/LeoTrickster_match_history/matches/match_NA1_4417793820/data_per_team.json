@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35942,
+      "total_gold_spent": 33935,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 49731,
+      "total_damage_dealt_to_objectives": 9276,
+      "total_damage_taken": 77598,
+      "average_vision_score": 15,
+      "total_wards_placed": 39,
+      "average_creep_score": 102,
+      "average_champion_experience": 8210,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4417793820"
+    },
+    "200": {
+      "total_gold_earned": 52263,
+      "total_gold_spent": 48035,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 62895,
+      "total_damage_dealt_to_objectives": 87336,
+      "total_damage_taken": 77475,
+      "average_vision_score": 26,
+      "total_wards_placed": 51,
+      "average_creep_score": 99,
+      "average_champion_experience": 11166,
+      "dmg_carry": "Vex",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4417793820"
+    }
+  }
+}

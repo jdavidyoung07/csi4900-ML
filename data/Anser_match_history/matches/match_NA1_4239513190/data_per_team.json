@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60528,
+      "total_gold_spent": 55685,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 105677,
+      "total_damage_dealt_to_objectives": 47802,
+      "total_damage_taken": 136873,
+      "average_vision_score": 25,
+      "total_wards_placed": 45,
+      "average_creep_score": 121,
+      "average_champion_experience": 14085,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4239513190"
+    },
+    "200": {
+      "total_gold_earned": 60638,
+      "total_gold_spent": 56633,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 98901,
+      "total_damage_dealt_to_objectives": 59907,
+      "total_damage_taken": 133768,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 120,
+      "average_champion_experience": 14490,
+      "dmg_carry": "Hecarim",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4239513190"
+    }
+  }
+}

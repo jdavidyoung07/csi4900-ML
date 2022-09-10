@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50259,
+      "total_gold_spent": 48695,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 66816,
+      "total_damage_dealt_to_objectives": 41716,
+      "total_damage_taken": 111973,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 108,
+      "average_champion_experience": 10905,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4155665109"
+    },
+    "200": {
+      "total_gold_earned": 59082,
+      "total_gold_spent": 49375,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 85417,
+      "total_damage_dealt_to_objectives": 66072,
+      "total_damage_taken": 102605,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 120,
+      "average_champion_experience": 13841,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4155665109"
+    }
+  }
+}

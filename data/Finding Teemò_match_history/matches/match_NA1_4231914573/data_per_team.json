@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48568,
+      "total_gold_spent": 46900,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 83580,
+      "total_damage_dealt_to_objectives": 36939,
+      "total_damage_taken": 104354,
+      "average_vision_score": 27,
+      "total_wards_placed": 52,
+      "average_creep_score": 93,
+      "average_champion_experience": 10111,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4231914573"
+    },
+    "200": {
+      "total_gold_earned": 53074,
+      "total_gold_spent": 47085,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 84624,
+      "total_damage_dealt_to_objectives": 53937,
+      "total_damage_taken": 119863,
+      "average_vision_score": 15,
+      "total_wards_placed": 46,
+      "average_creep_score": 92,
+      "average_champion_experience": 11309,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4231914573"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81297,
+      "total_gold_spent": 74070,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 54,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 140996,
+      "total_damage_dealt_to_objectives": 103749,
+      "total_damage_taken": 158425,
+      "average_vision_score": 29,
+      "total_wards_placed": 44,
+      "average_creep_score": 158,
+      "average_champion_experience": 21317,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4081565293"
+    },
+    "200": {
+      "total_gold_earned": 69921,
+      "total_gold_spent": 65500,
+      "team_comp": [
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 118614,
+      "total_damage_dealt_to_objectives": 22639,
+      "total_damage_taken": 164204,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 155,
+      "average_champion_experience": 18094,
+      "dmg_carry": "Brand",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4081565293"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62014,
+      "total_gold_spent": 61760,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 119561,
+      "total_damage_dealt_to_objectives": 51192,
+      "total_damage_taken": 139109,
+      "average_vision_score": 30,
+      "total_wards_placed": 70,
+      "average_creep_score": 135,
+      "average_champion_experience": 14298,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4295310908"
+    },
+    "200": {
+      "total_gold_earned": 67381,
+      "total_gold_spent": 62775,
+      "team_comp": [
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 108404,
+      "total_damage_dealt_to_objectives": 80539,
+      "total_damage_taken": 145007,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 134,
+      "average_champion_experience": 15477,
+      "dmg_carry": "Zac",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4295310908"
+    }
+  }
+}

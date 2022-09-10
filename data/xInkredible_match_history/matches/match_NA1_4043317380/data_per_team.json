@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58010,
+      "total_gold_spent": 55035,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 93203,
+      "total_damage_dealt_to_objectives": 51629,
+      "total_damage_taken": 125718,
+      "average_vision_score": 28,
+      "total_wards_placed": 65,
+      "average_creep_score": 110,
+      "average_champion_experience": 13375,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4043317380"
+    },
+    "200": {
+      "total_gold_earned": 61676,
+      "total_gold_spent": 55325,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 96534,
+      "total_damage_dealt_to_objectives": 65509,
+      "total_damage_taken": 129069,
+      "average_vision_score": 27,
+      "total_wards_placed": 48,
+      "average_creep_score": 115,
+      "average_champion_experience": 14437,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4043317380"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 34196,
+      "total_gold_spent": 26360,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 14,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 44074,
+      "total_damage_dealt_to_objectives": 37218,
+      "total_damage_taken": 49993,
+      "average_vision_score": 13,
+      "total_wards_placed": 32,
+      "average_creep_score": 69,
+      "average_champion_experience": 7583,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4258348820"
+    },
+    "200": {
+      "total_gold_earned": 31768,
+      "total_gold_spent": 29350,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 32572,
+      "total_damage_dealt_to_objectives": 15137,
+      "total_damage_taken": 60361,
+      "average_vision_score": 11,
+      "total_wards_placed": 26,
+      "average_creep_score": 79,
+      "average_champion_experience": 7527,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4258348820"
+    }
+  }
+}

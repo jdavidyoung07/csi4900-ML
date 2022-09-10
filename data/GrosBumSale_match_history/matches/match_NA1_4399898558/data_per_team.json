@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62400,
+      "total_gold_spent": 60910,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 112333,
+      "total_damage_dealt_to_objectives": 73075,
+      "total_damage_taken": 163902,
+      "average_vision_score": 18,
+      "total_wards_placed": 50,
+      "average_creep_score": 115,
+      "average_champion_experience": 13518,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4399898558"
+    },
+    "200": {
+      "total_gold_earned": 65488,
+      "total_gold_spent": 56750,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 140016,
+      "total_damage_dealt_to_objectives": 67861,
+      "total_damage_taken": 145600,
+      "average_vision_score": 21,
+      "total_wards_placed": 39,
+      "average_creep_score": 107,
+      "average_champion_experience": 14217,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4399898558"
+    }
+  }
+}

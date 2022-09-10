@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62904,
+      "total_gold_spent": 59685,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 19,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 156000,
+      "total_damage_dealt_to_objectives": 45754,
+      "total_damage_taken": 171794,
+      "average_vision_score": 27,
+      "total_wards_placed": 62,
+      "average_creep_score": 144,
+      "average_champion_experience": 15077,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4383070442"
+    },
+    "200": {
+      "total_gold_earned": 74374,
+      "total_gold_spent": 61510,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 143256,
+      "total_damage_dealt_to_objectives": 87404,
+      "total_damage_taken": 187250,
+      "average_vision_score": 26,
+      "total_wards_placed": 44,
+      "average_creep_score": 153,
+      "average_champion_experience": 18807,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4383070442"
+    }
+  }
+}

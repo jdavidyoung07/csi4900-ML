@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 26908,
+      "total_gold_spent": 28680,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 33380,
+      "total_damage_dealt_to_objectives": 8803,
+      "total_damage_taken": 72474,
+      "average_vision_score": 8,
+      "total_wards_placed": 28,
+      "average_creep_score": 78,
+      "average_champion_experience": 6969,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4035294339"
+    },
+    "200": {
+      "total_gold_earned": 46286,
+      "total_gold_spent": 37960,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 59864,
+      "total_damage_dealt_to_objectives": 60158,
+      "total_damage_taken": 65853,
+      "average_vision_score": 14,
+      "total_wards_placed": 33,
+      "average_creep_score": 104,
+      "average_champion_experience": 10048,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4035294339"
+    }
+  }
+}

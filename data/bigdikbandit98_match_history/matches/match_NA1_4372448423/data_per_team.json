@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52932,
+      "total_gold_spent": 52000,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 125492,
+      "total_damage_dealt_to_objectives": 29486,
+      "total_damage_taken": 136558,
+      "average_vision_score": 26,
+      "total_wards_placed": 55,
+      "average_creep_score": 115,
+      "average_champion_experience": 12070,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4372448423"
+    },
+    "200": {
+      "total_gold_earned": 62698,
+      "total_gold_spent": 56140,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 112917,
+      "total_damage_dealt_to_objectives": 73227,
+      "total_damage_taken": 167096,
+      "average_vision_score": 24,
+      "total_wards_placed": 44,
+      "average_creep_score": 108,
+      "average_champion_experience": 13909,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4372448423"
+    }
+  }
+}

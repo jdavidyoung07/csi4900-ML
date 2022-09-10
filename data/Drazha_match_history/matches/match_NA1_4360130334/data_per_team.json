@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38400,
+      "total_gold_spent": 34658,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 52222,
+      "total_damage_dealt_to_objectives": 10385,
+      "total_damage_taken": 101711,
+      "average_vision_score": 14,
+      "total_wards_placed": 30,
+      "average_creep_score": 96,
+      "average_champion_experience": 9985,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4360130334"
+    },
+    "200": {
+      "total_gold_earned": 52822,
+      "total_gold_spent": 47775,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 26,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 79172,
+      "total_damage_dealt_to_objectives": 84001,
+      "total_damage_taken": 83186,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 110,
+      "average_champion_experience": 12653,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4360130334"
+    }
+  }
+}

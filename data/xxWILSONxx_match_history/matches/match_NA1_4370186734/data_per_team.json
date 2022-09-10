@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81359,
+      "total_gold_spent": 78075,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 149677,
+      "total_damage_dealt_to_objectives": 75589,
+      "total_damage_taken": 170192,
+      "average_vision_score": 51,
+      "total_wards_placed": 85,
+      "average_creep_score": 168,
+      "average_champion_experience": 19936,
+      "dmg_carry": "Senna",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4370186734"
+    },
+    "200": {
+      "total_gold_earned": 82170,
+      "total_gold_spent": 74960,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 148012,
+      "total_damage_dealt_to_objectives": 76048,
+      "total_damage_taken": 192710,
+      "average_vision_score": 61,
+      "total_wards_placed": 127,
+      "average_creep_score": 157,
+      "average_champion_experience": 20500,
+      "dmg_carry": "Galio",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4370186734"
+    }
+  }
+}

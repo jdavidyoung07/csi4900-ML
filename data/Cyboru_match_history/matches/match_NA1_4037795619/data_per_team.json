@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63566,
+      "total_gold_spent": 57625,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 53,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 113907,
+      "total_damage_dealt_to_objectives": 59532,
+      "total_damage_taken": 121164,
+      "average_vision_score": 20,
+      "total_wards_placed": 39,
+      "average_creep_score": 108,
+      "average_champion_experience": 15003,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4037795619"
+    },
+    "200": {
+      "total_gold_earned": 47887,
+      "total_gold_spent": 46950,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 93293,
+      "total_damage_dealt_to_objectives": 8039,
+      "total_damage_taken": 127502,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 97,
+      "average_champion_experience": 11180,
+      "dmg_carry": "Brand",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4037795619"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54321,
+      "total_gold_spent": 47075,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 86794,
+      "total_damage_dealt_to_objectives": 36544,
+      "total_damage_taken": 128990,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 82,
+      "average_champion_experience": 11921,
+      "dmg_carry": "Senna",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4316854053"
+    },
+    "200": {
+      "total_gold_earned": 63200,
+      "total_gold_spent": 56098,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 103077,
+      "total_damage_dealt_to_objectives": 59861,
+      "total_damage_taken": 113861,
+      "average_vision_score": 20,
+      "total_wards_placed": 52,
+      "average_creep_score": 106,
+      "average_champion_experience": 14430,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4316854053"
+    }
+  }
+}

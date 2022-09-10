@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80482,
+      "total_gold_spent": 71250,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 194519,
+      "total_damage_dealt_to_objectives": 66828,
+      "total_damage_taken": 218093,
+      "average_vision_score": 25,
+      "total_wards_placed": 74,
+      "average_creep_score": 169,
+      "average_champion_experience": 21146,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4418713765"
+    },
+    "200": {
+      "total_gold_earned": 75624,
+      "total_gold_spent": 72875,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 178365,
+      "total_damage_dealt_to_objectives": 166019,
+      "total_damage_taken": 232333,
+      "average_vision_score": 45,
+      "total_wards_placed": 85,
+      "average_creep_score": 133,
+      "average_champion_experience": 18067,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4418713765"
+    }
+  }
+}

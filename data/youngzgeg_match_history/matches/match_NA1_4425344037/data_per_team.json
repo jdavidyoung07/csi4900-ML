@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 32162,
+      "total_gold_spent": 25430,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 37206,
+      "total_damage_dealt_to_objectives": 17810,
+      "total_damage_taken": 36818,
+      "average_vision_score": 9,
+      "total_wards_placed": 25,
+      "average_creep_score": 74,
+      "average_champion_experience": 7036,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4425344037"
+    },
+    "200": {
+      "total_gold_earned": 26218,
+      "total_gold_spent": 23575,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 28356,
+      "total_damage_dealt_to_objectives": 19979,
+      "total_damage_taken": 53752,
+      "average_vision_score": 7,
+      "total_wards_placed": 16,
+      "average_creep_score": 69,
+      "average_champion_experience": 5502,
+      "dmg_carry": "Draven",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4425344037"
+    }
+  }
+}

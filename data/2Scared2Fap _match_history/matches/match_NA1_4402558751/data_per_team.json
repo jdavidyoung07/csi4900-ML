@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76932,
+      "total_gold_spent": 73305,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 181758,
+      "total_damage_dealt_to_objectives": 65386,
+      "total_damage_taken": 165866,
+      "average_vision_score": 38,
+      "total_wards_placed": 88,
+      "average_creep_score": 153,
+      "average_champion_experience": 17143,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4402558751"
+    },
+    "200": {
+      "total_gold_earned": 82933,
+      "total_gold_spent": 77665,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 138789,
+      "total_damage_dealt_to_objectives": 128336,
+      "total_damage_taken": 217430,
+      "average_vision_score": 43,
+      "total_wards_placed": 76,
+      "average_creep_score": 166,
+      "average_champion_experience": 20670,
+      "dmg_carry": "Talon",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4402558751"
+    }
+  }
+}

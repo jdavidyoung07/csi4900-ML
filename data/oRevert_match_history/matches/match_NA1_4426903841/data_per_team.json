@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75114,
+      "total_gold_spent": 67765,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 134765,
+      "total_damage_dealt_to_objectives": 101405,
+      "total_damage_taken": 201503,
+      "average_vision_score": 40,
+      "total_wards_placed": 76,
+      "average_creep_score": 141,
+      "average_champion_experience": 18125,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4426903841"
+    },
+    "200": {
+      "total_gold_earned": 71539,
+      "total_gold_spent": 69075,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 168130,
+      "total_damage_dealt_to_objectives": 41967,
+      "total_damage_taken": 169005,
+      "average_vision_score": 36,
+      "total_wards_placed": 78,
+      "average_creep_score": 136,
+      "average_champion_experience": 17059,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4426903841"
+    }
+  }
+}

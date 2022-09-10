@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55200,
+      "total_gold_spent": 53725,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 80805,
+      "total_damage_dealt_to_objectives": 70353,
+      "total_damage_taken": 132254,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 119,
+      "average_champion_experience": 13368,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4396550673"
+    },
+    "200": {
+      "total_gold_earned": 57293,
+      "total_gold_spent": 49350,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 104667,
+      "total_damage_dealt_to_objectives": 57940,
+      "total_damage_taken": 115733,
+      "average_vision_score": 24,
+      "total_wards_placed": 59,
+      "average_creep_score": 115,
+      "average_champion_experience": 13529,
+      "dmg_carry": "Hecarim",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4396550673"
+    }
+  }
+}

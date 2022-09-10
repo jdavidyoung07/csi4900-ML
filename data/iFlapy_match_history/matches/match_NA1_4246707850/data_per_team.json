@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56271,
+      "total_gold_spent": 55385,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 66068,
+      "total_damage_dealt_to_objectives": 36126,
+      "total_damage_taken": 103678,
+      "average_vision_score": 29,
+      "total_wards_placed": 43,
+      "average_creep_score": 108,
+      "average_champion_experience": 11715,
+      "dmg_carry": "Pyke",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4246707850"
+    },
+    "200": {
+      "total_gold_earned": 58853,
+      "total_gold_spent": 51225,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 84383,
+      "total_damage_dealt_to_objectives": 68443,
+      "total_damage_taken": 90085,
+      "average_vision_score": 22,
+      "total_wards_placed": 52,
+      "average_creep_score": 116,
+      "average_champion_experience": 12857,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4246707850"
+    }
+  }
+}

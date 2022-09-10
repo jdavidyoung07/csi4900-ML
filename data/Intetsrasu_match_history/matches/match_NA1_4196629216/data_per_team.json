@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77825,
+      "total_gold_spent": 72080,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 6,
+      "total_kills": 54,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 129230,
+      "total_damage_dealt_to_objectives": 97962,
+      "total_damage_taken": 166259,
+      "average_vision_score": 35,
+      "total_wards_placed": 62,
+      "average_creep_score": 125,
+      "average_champion_experience": 18849,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4196629216"
+    },
+    "200": {
+      "total_gold_earned": 70192,
+      "total_gold_spent": 66375,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 132120,
+      "total_damage_dealt_to_objectives": 27295,
+      "total_damage_taken": 159793,
+      "average_vision_score": 32,
+      "total_wards_placed": 79,
+      "average_creep_score": 147,
+      "average_champion_experience": 17310,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4196629216"
+    }
+  }
+}

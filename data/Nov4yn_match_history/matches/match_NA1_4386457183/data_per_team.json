@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54471,
+      "total_gold_spent": 51660,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 84323,
+      "total_damage_dealt_to_objectives": 6227,
+      "total_damage_taken": 133094,
+      "average_vision_score": 37,
+      "total_wards_placed": 68,
+      "average_creep_score": 150,
+      "average_champion_experience": 15062,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4386457183"
+    },
+    "200": {
+      "total_gold_earned": 69438,
+      "total_gold_spent": 62375,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 104207,
+      "total_damage_dealt_to_objectives": 109839,
+      "total_damage_taken": 138015,
+      "average_vision_score": 32,
+      "total_wards_placed": 53,
+      "average_creep_score": 147,
+      "average_champion_experience": 17136,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4386457183"
+    }
+  }
+}

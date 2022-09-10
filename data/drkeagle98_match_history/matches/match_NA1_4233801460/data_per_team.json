@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63751,
+      "total_gold_spent": 58525,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 95215,
+      "total_damage_dealt_to_objectives": 25978,
+      "total_damage_taken": 124128,
+      "average_vision_score": 39,
+      "total_wards_placed": 92,
+      "average_creep_score": 139,
+      "average_champion_experience": 14540,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4233801460"
+    },
+    "200": {
+      "total_gold_earned": 60364,
+      "total_gold_spent": 57025,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 92316,
+      "total_damage_dealt_to_objectives": 68236,
+      "total_damage_taken": 134978,
+      "average_vision_score": 28,
+      "total_wards_placed": 67,
+      "average_creep_score": 120,
+      "average_champion_experience": 13484,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4233801460"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75334,
+      "total_gold_spent": 69690,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 33,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 136069,
+      "total_damage_dealt_to_objectives": 77815,
+      "total_damage_taken": 185736,
+      "average_vision_score": 37,
+      "total_wards_placed": 69,
+      "average_creep_score": 160,
+      "average_champion_experience": 19280,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4098249268"
+    },
+    "200": {
+      "total_gold_earned": 74697,
+      "total_gold_spent": 89755,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 37,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 140069,
+      "total_damage_dealt_to_objectives": 81267,
+      "total_damage_taken": 167626,
+      "average_vision_score": 23,
+      "total_wards_placed": 43,
+      "average_creep_score": 157,
+      "average_champion_experience": 19771,
+      "dmg_carry": "Malphite",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4098249268"
+    }
+  }
+}

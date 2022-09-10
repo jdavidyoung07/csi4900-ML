@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58425,
+      "total_gold_spent": 55250,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 118222,
+      "total_damage_dealt_to_objectives": 11284,
+      "total_damage_taken": 131404,
+      "average_vision_score": 23,
+      "total_wards_placed": 58,
+      "average_creep_score": 130,
+      "average_champion_experience": 14543,
+      "dmg_carry": "Brand",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4419618657"
+    },
+    "200": {
+      "total_gold_earned": 70386,
+      "total_gold_spent": 64630,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 41,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 110638,
+      "total_damage_dealt_to_objectives": 113642,
+      "total_damage_taken": 158740,
+      "average_vision_score": 40,
+      "total_wards_placed": 69,
+      "average_creep_score": 130,
+      "average_champion_experience": 17038,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4419618657"
+    }
+  }
+}

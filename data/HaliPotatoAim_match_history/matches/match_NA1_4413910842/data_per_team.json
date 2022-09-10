@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59565,
+      "total_gold_spent": 56220,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 124551,
+      "total_damage_dealt_to_objectives": 14175,
+      "total_damage_taken": 150815,
+      "average_vision_score": 18,
+      "total_wards_placed": 31,
+      "average_creep_score": 125,
+      "average_champion_experience": 14640,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4413910842"
+    },
+    "200": {
+      "total_gold_earned": 72626,
+      "total_gold_spent": 65645,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 58,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 126050,
+      "total_damage_dealt_to_objectives": 109016,
+      "total_damage_taken": 161948,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 105,
+      "average_champion_experience": 16391,
+      "dmg_carry": "Riven",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4413910842"
+    }
+  }
+}

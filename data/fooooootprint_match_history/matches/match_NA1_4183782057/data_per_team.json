@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46768,
+      "total_gold_spent": 45320,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 61530,
+      "total_damage_dealt_to_objectives": 10971,
+      "total_damage_taken": 134830,
+      "average_vision_score": 10,
+      "total_wards_placed": 33,
+      "average_creep_score": 98,
+      "average_champion_experience": 11671,
+      "dmg_carry": "Akali",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4183782057"
+    },
+    "200": {
+      "total_gold_earned": 58586,
+      "total_gold_spent": 53775,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 41,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 105152,
+      "total_damage_dealt_to_objectives": 78490,
+      "total_damage_taken": 98355,
+      "average_vision_score": 20,
+      "total_wards_placed": 39,
+      "average_creep_score": 94,
+      "average_champion_experience": 12737,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4183782057"
+    }
+  }
+}

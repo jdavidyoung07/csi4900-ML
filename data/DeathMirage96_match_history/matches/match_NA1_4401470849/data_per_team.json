@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51636,
+      "total_gold_spent": 46690,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 84811,
+      "total_damage_dealt_to_objectives": 47346,
+      "total_damage_taken": 134327,
+      "average_vision_score": 33,
+      "total_wards_placed": 59,
+      "average_creep_score": 107,
+      "average_champion_experience": 11832,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4401470849"
+    },
+    "200": {
+      "total_gold_earned": 63674,
+      "total_gold_spent": 58383,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 114814,
+      "total_damage_dealt_to_objectives": 69739,
+      "total_damage_taken": 116348,
+      "average_vision_score": 27,
+      "total_wards_placed": 66,
+      "average_creep_score": 129,
+      "average_champion_experience": 14979,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4401470849"
+    }
+  }
+}

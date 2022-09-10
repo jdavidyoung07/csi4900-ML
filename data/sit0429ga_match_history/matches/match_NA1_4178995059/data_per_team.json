@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38758,
+      "total_gold_spent": 36070,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 64372,
+      "total_damage_dealt_to_objectives": 13990,
+      "total_damage_taken": 77883,
+      "average_vision_score": 23,
+      "total_wards_placed": 54,
+      "average_creep_score": 74,
+      "average_champion_experience": 8456,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4178995059"
+    },
+    "200": {
+      "total_gold_earned": 47660,
+      "total_gold_spent": 42050,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 63482,
+      "total_damage_dealt_to_objectives": 50034,
+      "total_damage_taken": 94987,
+      "average_vision_score": 17,
+      "total_wards_placed": 44,
+      "average_creep_score": 84,
+      "average_champion_experience": 9857,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4178995059"
+    }
+  }
+}

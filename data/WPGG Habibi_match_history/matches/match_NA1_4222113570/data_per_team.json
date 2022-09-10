@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 99332,
+      "total_gold_spent": 102130,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 6,
+      "total_kills": 41,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 146117,
+      "total_damage_dealt_to_objectives": 110315,
+      "total_damage_taken": 282611,
+      "average_vision_score": 64,
+      "total_wards_placed": 126,
+      "average_creep_score": 224,
+      "average_champion_experience": 26346,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4222113570"
+    },
+    "200": {
+      "total_gold_earned": 109990,
+      "total_gold_spent": 115020,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 242530,
+      "total_damage_dealt_to_objectives": 132656,
+      "total_damage_taken": 191902,
+      "average_vision_score": 45,
+      "total_wards_placed": 97,
+      "average_creep_score": 258,
+      "average_champion_experience": 29656,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4222113570"
+    }
+  }
+}

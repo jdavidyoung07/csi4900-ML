@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 92621,
+      "total_gold_spent": 88900,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 282646,
+      "total_damage_dealt_to_objectives": 101045,
+      "total_damage_taken": 236613,
+      "average_vision_score": 42,
+      "total_wards_placed": 89,
+      "average_creep_score": 181,
+      "average_champion_experience": 24046,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4419400526"
+    },
+    "200": {
+      "total_gold_earned": 88931,
+      "total_gold_spent": 81900,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 191973,
+      "total_damage_dealt_to_objectives": 134151,
+      "total_damage_taken": 338093,
+      "average_vision_score": 37,
+      "total_wards_placed": 47,
+      "average_creep_score": 179,
+      "average_champion_experience": 21702,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4419400526"
+    }
+  }
+}

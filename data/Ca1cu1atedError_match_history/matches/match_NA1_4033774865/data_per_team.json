@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 45,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 82086,
+      "total_gold_spent": 81073,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 56,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 188147,
+      "total_damage_dealt_to_objectives": 39534,
+      "total_damage_taken": 225646,
+      "average_vision_score": 42,
+      "total_wards_placed": 69,
+      "average_creep_score": 139,
+      "average_champion_experience": 20156,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4033774865"
+    },
+    "200": {
+      "total_gold_earned": 88745,
+      "total_gold_spent": 76900,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 60,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 194750,
+      "total_damage_dealt_to_objectives": 112755,
+      "total_damage_taken": 233137,
+      "average_vision_score": 35,
+      "total_wards_placed": 74,
+      "average_creep_score": 126,
+      "average_champion_experience": 23074,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4033774865"
+    }
+  }
+}

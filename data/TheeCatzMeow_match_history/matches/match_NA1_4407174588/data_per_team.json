@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69368,
+      "total_gold_spent": 65025,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 158866,
+      "total_damage_dealt_to_objectives": 47294,
+      "total_damage_taken": 193422,
+      "average_vision_score": 30,
+      "total_wards_placed": 55,
+      "average_creep_score": 149,
+      "average_champion_experience": 17469,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4407174588"
+    },
+    "200": {
+      "total_gold_earned": 75982,
+      "total_gold_spent": 70875,
+      "team_comp": [
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 55,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 156594,
+      "total_damage_dealt_to_objectives": 98040,
+      "total_damage_taken": 198946,
+      "average_vision_score": 32,
+      "total_wards_placed": 68,
+      "average_creep_score": 126,
+      "average_champion_experience": 18994,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4407174588"
+    }
+  }
+}

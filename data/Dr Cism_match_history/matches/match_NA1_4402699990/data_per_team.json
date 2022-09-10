@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80501,
+      "total_gold_spent": 78680,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 57,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 223055,
+      "total_damage_dealt_to_objectives": 93907,
+      "total_damage_taken": 231867,
+      "average_vision_score": 38,
+      "total_wards_placed": 76,
+      "average_creep_score": 140,
+      "average_champion_experience": 18405,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4402699990"
+    },
+    "200": {
+      "total_gold_earned": 85899,
+      "total_gold_spent": 80000,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 180889,
+      "total_damage_dealt_to_objectives": 86217,
+      "total_damage_taken": 255799,
+      "average_vision_score": 33,
+      "total_wards_placed": 76,
+      "average_creep_score": 152,
+      "average_champion_experience": 20843,
+      "dmg_carry": "Zac",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4402699990"
+    }
+  }
+}

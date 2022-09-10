@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70687,
+      "total_gold_spent": 67440,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 52,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 188346,
+      "total_damage_dealt_to_objectives": 17843,
+      "total_damage_taken": 183944,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 134,
+      "average_champion_experience": 17134,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4350431151"
+    },
+    "200": {
+      "total_gold_earned": 71647,
+      "total_gold_spent": 65783,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 151124,
+      "total_damage_dealt_to_objectives": 98038,
+      "total_damage_taken": 226941,
+      "average_vision_score": 22,
+      "total_wards_placed": 63,
+      "average_creep_score": 112,
+      "average_champion_experience": 16718,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4350431151"
+    }
+  }
+}

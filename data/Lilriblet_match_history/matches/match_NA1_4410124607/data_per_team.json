@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71980,
+      "total_gold_spent": 74260,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 140274,
+      "total_damage_dealt_to_objectives": 47655,
+      "total_damage_taken": 202537,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 101,
+      "average_champion_experience": 15753,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4410124607"
+    },
+    "200": {
+      "total_gold_earned": 73347,
+      "total_gold_spent": 62750,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 172780,
+      "total_damage_dealt_to_objectives": 100281,
+      "total_damage_taken": 181117,
+      "average_vision_score": 19,
+      "total_wards_placed": 49,
+      "average_creep_score": 129,
+      "average_champion_experience": 17030,
+      "dmg_carry": "Riven",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4410124607"
+    }
+  }
+}

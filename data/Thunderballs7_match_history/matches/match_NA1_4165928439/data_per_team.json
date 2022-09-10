@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76393,
+      "total_gold_spent": 70610,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 122837,
+      "total_damage_dealt_to_objectives": 49315,
+      "total_damage_taken": 153349,
+      "average_vision_score": 47,
+      "total_wards_placed": 83,
+      "average_creep_score": 175,
+      "average_champion_experience": 19101,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4165928439"
+    },
+    "200": {
+      "total_gold_earned": 74797,
+      "total_gold_spent": 69723,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 118400,
+      "total_damage_dealt_to_objectives": 99333,
+      "total_damage_taken": 165998,
+      "average_vision_score": 44,
+      "total_wards_placed": 90,
+      "average_creep_score": 157,
+      "average_champion_experience": 19263,
+      "dmg_carry": "Fiora",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4165928439"
+    }
+  }
+}

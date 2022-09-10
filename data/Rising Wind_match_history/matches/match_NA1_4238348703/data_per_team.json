@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65656,
+      "total_gold_spent": 59085,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 72103,
+      "total_damage_dealt_to_objectives": 78962,
+      "total_damage_taken": 102599,
+      "average_vision_score": 26,
+      "total_wards_placed": 64,
+      "average_creep_score": 140,
+      "average_champion_experience": 15588,
+      "dmg_carry": "Viego",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4238348703"
+    },
+    "200": {
+      "total_gold_earned": 58523,
+      "total_gold_spent": 54195,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 76331,
+      "total_damage_dealt_to_objectives": 52937,
+      "total_damage_taken": 100345,
+      "average_vision_score": 25,
+      "total_wards_placed": 59,
+      "average_creep_score": 134,
+      "average_champion_experience": 14205,
+      "dmg_carry": "RekSai",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4238348703"
+    }
+  }
+}

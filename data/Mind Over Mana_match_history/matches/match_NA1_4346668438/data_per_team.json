@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60249,
+      "total_gold_spent": 56270,
+      "team_comp": [
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 104743,
+      "total_damage_dealt_to_objectives": 71017,
+      "total_damage_taken": 120046,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 106,
+      "average_champion_experience": 14899,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4346668438"
+    },
+    "200": {
+      "total_gold_earned": 58466,
+      "total_gold_spent": 56400,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 90329,
+      "total_damage_dealt_to_objectives": 31863,
+      "total_damage_taken": 129553,
+      "average_vision_score": 24,
+      "total_wards_placed": 59,
+      "average_creep_score": 125,
+      "average_champion_experience": 13883,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4346668438"
+    }
+  }
+}

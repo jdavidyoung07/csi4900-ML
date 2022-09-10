@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75822,
+      "total_gold_spent": 73265,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 172008,
+      "total_damage_dealt_to_objectives": 78399,
+      "total_damage_taken": 221979,
+      "average_vision_score": 34,
+      "total_wards_placed": 96,
+      "average_creep_score": 138,
+      "average_champion_experience": 17077,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4371220917"
+    },
+    "200": {
+      "total_gold_earned": 78897,
+      "total_gold_spent": 69635,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 178524,
+      "total_damage_dealt_to_objectives": 88449,
+      "total_damage_taken": 212457,
+      "average_vision_score": 29,
+      "total_wards_placed": 75,
+      "average_creep_score": 141,
+      "average_champion_experience": 19011,
+      "dmg_carry": "Draven",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4371220917"
+    }
+  }
+}

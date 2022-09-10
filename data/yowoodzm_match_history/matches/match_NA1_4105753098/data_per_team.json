@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80642,
+      "total_gold_spent": 76170,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 50,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 149443,
+      "total_damage_dealt_to_objectives": 99013,
+      "total_damage_taken": 176086,
+      "average_vision_score": 38,
+      "total_wards_placed": 83,
+      "average_creep_score": 147,
+      "average_champion_experience": 19877,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4105753098"
+    },
+    "200": {
+      "total_gold_earned": 84840,
+      "total_gold_spent": 82000,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 134061,
+      "total_damage_dealt_to_objectives": 59185,
+      "total_damage_taken": 176445,
+      "average_vision_score": 39,
+      "total_wards_placed": 91,
+      "average_creep_score": 177,
+      "average_champion_experience": 21230,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4105753098"
+    }
+  }
+}

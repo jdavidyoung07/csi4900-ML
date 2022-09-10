@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48620,
+      "total_gold_spent": 45050,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 107668,
+      "total_damage_dealt_to_objectives": 26065,
+      "total_damage_taken": 92044,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 109,
+      "average_champion_experience": 12481,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4380568999"
+    },
+    "200": {
+      "total_gold_earned": 56154,
+      "total_gold_spent": 49583,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 78207,
+      "total_damage_dealt_to_objectives": 89158,
+      "total_damage_taken": 150738,
+      "average_vision_score": 19,
+      "total_wards_placed": 37,
+      "average_creep_score": 115,
+      "average_champion_experience": 12789,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4380568999"
+    }
+  }
+}

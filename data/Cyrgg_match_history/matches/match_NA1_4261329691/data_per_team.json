@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31470,
+      "total_gold_spent": 30960,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 37725,
+      "total_damage_dealt_to_objectives": 16476,
+      "total_damage_taken": 52746,
+      "average_vision_score": 15,
+      "total_wards_placed": 34,
+      "average_creep_score": 85,
+      "average_champion_experience": 8089,
+      "dmg_carry": "Vayne",
+      "obj_carry": "RekSai",
+      "match_id": "NA1_4261329691"
+    },
+    "200": {
+      "total_gold_earned": 46639,
+      "total_gold_spent": 37995,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 25,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 38667,
+      "total_damage_dealt_to_objectives": 56224,
+      "total_damage_taken": 58121,
+      "average_vision_score": 15,
+      "total_wards_placed": 38,
+      "average_creep_score": 98,
+      "average_champion_experience": 9975,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4261329691"
+    }
+  }
+}

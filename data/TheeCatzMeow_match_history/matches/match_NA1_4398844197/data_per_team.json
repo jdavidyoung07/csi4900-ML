@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 96543,
+      "total_gold_spent": 94975,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 76,
+      "total_deaths": 64,
+      "total_damage_dealt_to_champions": 262112,
+      "total_damage_dealt_to_objectives": 117989,
+      "total_damage_taken": 306304,
+      "average_vision_score": 47,
+      "total_wards_placed": 77,
+      "average_creep_score": 135,
+      "average_champion_experience": 22515,
+      "dmg_carry": "Diana",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4398844197"
+    },
+    "200": {
+      "total_gold_earned": 106108,
+      "total_gold_spent": 98930,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 64,
+      "total_deaths": 76,
+      "total_damage_dealt_to_champions": 258411,
+      "total_damage_dealt_to_objectives": 72467,
+      "total_damage_taken": 298295,
+      "average_vision_score": 41,
+      "total_wards_placed": 96,
+      "average_creep_score": 188,
+      "average_champion_experience": 27691,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4398844197"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41122,
+      "total_gold_spent": 38635,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 52268,
+      "total_damage_dealt_to_objectives": 11921,
+      "total_damage_taken": 91274,
+      "average_vision_score": 13,
+      "total_wards_placed": 37,
+      "average_creep_score": 90,
+      "average_champion_experience": 10178,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4228399367"
+    },
+    "200": {
+      "total_gold_earned": 50220,
+      "total_gold_spent": 45175,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 74821,
+      "total_damage_dealt_to_objectives": 51306,
+      "total_damage_taken": 70534,
+      "average_vision_score": 11,
+      "total_wards_placed": 23,
+      "average_creep_score": 87,
+      "average_champion_experience": 10531,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4228399367"
+    }
+  }
+}

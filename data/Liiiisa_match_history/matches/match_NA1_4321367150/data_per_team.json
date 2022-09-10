@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66069,
+      "total_gold_spent": 60515,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 142187,
+      "total_damage_dealt_to_objectives": 79048,
+      "total_damage_taken": 187788,
+      "average_vision_score": 32,
+      "total_wards_placed": 63,
+      "average_creep_score": 110,
+      "average_champion_experience": 15752,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4321367150"
+    },
+    "200": {
+      "total_gold_earned": 62871,
+      "total_gold_spent": 59260,
+      "team_comp": [
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 139834,
+      "total_damage_dealt_to_objectives": 24748,
+      "total_damage_taken": 174189,
+      "average_vision_score": 46,
+      "total_wards_placed": 91,
+      "average_creep_score": 111,
+      "average_champion_experience": 14820,
+      "dmg_carry": "Senna",
+      "obj_carry": "Soraka",
+      "match_id": "NA1_4321367150"
+    }
+  }
+}

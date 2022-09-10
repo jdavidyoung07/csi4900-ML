@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58815,
+      "total_gold_spent": 55785,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 102291,
+      "total_damage_dealt_to_objectives": 36544,
+      "total_damage_taken": 135257,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 131,
+      "average_champion_experience": 13217,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4006907082"
+    },
+    "200": {
+      "total_gold_earned": 64085,
+      "total_gold_spent": 53350,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 115774,
+      "total_damage_dealt_to_objectives": 77513,
+      "total_damage_taken": 142725,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 113,
+      "average_champion_experience": 15337,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Corki",
+      "match_id": "NA1_4006907082"
+    }
+  }
+}

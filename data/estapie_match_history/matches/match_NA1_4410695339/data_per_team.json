@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59326,
+      "total_gold_spent": 55040,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 21,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 92634,
+      "total_damage_dealt_to_objectives": 44462,
+      "total_damage_taken": 186565,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 150,
+      "average_champion_experience": 14532,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4410695339"
+    },
+    "200": {
+      "total_gold_earned": 73749,
+      "total_gold_spent": 66570,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 49,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 147009,
+      "total_damage_dealt_to_objectives": 95403,
+      "total_damage_taken": 135654,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 136,
+      "average_champion_experience": 18928,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4410695339"
+    }
+  }
+}

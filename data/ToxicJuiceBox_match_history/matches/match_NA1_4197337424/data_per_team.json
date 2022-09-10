@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 28220,
+      "total_gold_spent": 26835,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 34097,
+      "total_damage_dealt_to_objectives": 7652,
+      "total_damage_taken": 72812,
+      "average_vision_score": 13,
+      "total_wards_placed": 35,
+      "average_creep_score": 67,
+      "average_champion_experience": 6954,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4197337424"
+    },
+    "200": {
+      "total_gold_earned": 43359,
+      "total_gold_spent": 34118,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 59071,
+      "total_damage_dealt_to_objectives": 40714,
+      "total_damage_taken": 54676,
+      "average_vision_score": 17,
+      "total_wards_placed": 33,
+      "average_creep_score": 84,
+      "average_champion_experience": 9695,
+      "dmg_carry": "Diana",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4197337424"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68373,
+      "total_gold_spent": 65860,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 146919,
+      "total_damage_dealt_to_objectives": 58623,
+      "total_damage_taken": 168847,
+      "average_vision_score": 35,
+      "total_wards_placed": 80,
+      "average_creep_score": 146,
+      "average_champion_experience": 16719,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4392191115"
+    },
+    "200": {
+      "total_gold_earned": 72143,
+      "total_gold_spent": 66525,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 139006,
+      "total_damage_dealt_to_objectives": 103321,
+      "total_damage_taken": 167881,
+      "average_vision_score": 32,
+      "total_wards_placed": 64,
+      "average_creep_score": 130,
+      "average_champion_experience": 17529,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4392191115"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62484,
+      "total_gold_spent": 60685,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 151424,
+      "total_damage_dealt_to_objectives": 46889,
+      "total_damage_taken": 165497,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 98,
+      "average_champion_experience": 13951,
+      "dmg_carry": "Lux",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4212608140"
+    },
+    "200": {
+      "total_gold_earned": 73476,
+      "total_gold_spent": 62695,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 143488,
+      "total_damage_dealt_to_objectives": 80628,
+      "total_damage_taken": 192130,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 121,
+      "average_champion_experience": 17205,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4212608140"
+    }
+  }
+}

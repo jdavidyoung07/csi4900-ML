@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55997,
+      "total_gold_spent": 51258,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 83762,
+      "total_damage_dealt_to_objectives": 52805,
+      "total_damage_taken": 144062,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 120,
+      "average_champion_experience": 12500,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4232218143"
+    },
+    "200": {
+      "total_gold_earned": 62427,
+      "total_gold_spent": 57230,
+      "team_comp": [
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 112667,
+      "total_damage_dealt_to_objectives": 58972,
+      "total_damage_taken": 104729,
+      "average_vision_score": 24,
+      "total_wards_placed": 61,
+      "average_creep_score": 115,
+      "average_champion_experience": 14975,
+      "dmg_carry": "Lux",
+      "obj_carry": "Lissandra",
+      "match_id": "NA1_4232218143"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75913,
+      "total_gold_spent": 69483,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 51,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 155061,
+      "total_damage_dealt_to_objectives": 80495,
+      "total_damage_taken": 216026,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 126,
+      "average_champion_experience": 18504,
+      "dmg_carry": "Swain",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4255483041"
+    },
+    "200": {
+      "total_gold_earned": 66786,
+      "total_gold_spent": 65675,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 179303,
+      "total_damage_dealt_to_objectives": 47057,
+      "total_damage_taken": 182962,
+      "average_vision_score": 33,
+      "total_wards_placed": 78,
+      "average_creep_score": 119,
+      "average_champion_experience": 16111,
+      "dmg_carry": "Samira",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4255483041"
+    }
+  }
+}

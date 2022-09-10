@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50196,
+      "total_gold_spent": 47735,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 88786,
+      "total_damage_dealt_to_objectives": 31338,
+      "total_damage_taken": 101151,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 98,
+      "average_champion_experience": 11446,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4247866433"
+    },
+    "200": {
+      "total_gold_earned": 58525,
+      "total_gold_spent": 53100,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 38,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 77534,
+      "total_damage_dealt_to_objectives": 75478,
+      "total_damage_taken": 124552,
+      "average_vision_score": 22,
+      "total_wards_placed": 43,
+      "average_creep_score": 106,
+      "average_champion_experience": 13819,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Anivia",
+      "match_id": "NA1_4247866433"
+    }
+  }
+}

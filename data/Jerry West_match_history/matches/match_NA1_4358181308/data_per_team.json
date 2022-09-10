@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 88875,
+      "total_gold_spent": 74560,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 52,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 210279,
+      "total_damage_dealt_to_objectives": 74709,
+      "total_damage_taken": 216170,
+      "average_vision_score": 51,
+      "total_wards_placed": 127,
+      "average_creep_score": 169,
+      "average_champion_experience": 22470,
+      "dmg_carry": "Elise",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4358181308"
+    },
+    "200": {
+      "total_gold_earned": 80656,
+      "total_gold_spent": 79670,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 176696,
+      "total_damage_dealt_to_objectives": 86720,
+      "total_damage_taken": 247718,
+      "average_vision_score": 42,
+      "total_wards_placed": 88,
+      "average_creep_score": 152,
+      "average_champion_experience": 18593,
+      "dmg_carry": "Brand",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4358181308"
+    }
+  }
+}

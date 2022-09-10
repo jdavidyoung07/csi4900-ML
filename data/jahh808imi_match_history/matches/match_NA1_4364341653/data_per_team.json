@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50534,
+      "total_gold_spent": 48305,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 86267,
+      "total_damage_dealt_to_objectives": 14088,
+      "total_damage_taken": 124315,
+      "average_vision_score": 22,
+      "total_wards_placed": 56,
+      "average_creep_score": 105,
+      "average_champion_experience": 12337,
+      "dmg_carry": "Senna",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4364341653"
+    },
+    "200": {
+      "total_gold_earned": 58674,
+      "total_gold_spent": 53435,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 103177,
+      "total_damage_dealt_to_objectives": 60895,
+      "total_damage_taken": 113192,
+      "average_vision_score": 20,
+      "total_wards_placed": 45,
+      "average_creep_score": 104,
+      "average_champion_experience": 13563,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4364341653"
+    }
+  }
+}

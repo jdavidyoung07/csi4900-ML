@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75378,
+      "total_gold_spent": 78945,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 149481,
+      "total_damage_dealt_to_objectives": 55403,
+      "total_damage_taken": 196910,
+      "average_vision_score": 39,
+      "total_wards_placed": 88,
+      "average_creep_score": 165,
+      "average_champion_experience": 16742,
+      "dmg_carry": "Corki",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4174399412"
+    },
+    "200": {
+      "total_gold_earned": 82948,
+      "total_gold_spent": 68275,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 157433,
+      "total_damage_dealt_to_objectives": 87734,
+      "total_damage_taken": 190563,
+      "average_vision_score": 43,
+      "total_wards_placed": 106,
+      "average_creep_score": 156,
+      "average_champion_experience": 20896,
+      "dmg_carry": "Chogath",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4174399412"
+    }
+  }
+}

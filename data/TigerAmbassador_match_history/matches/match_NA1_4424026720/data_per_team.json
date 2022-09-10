@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67522,
+      "total_gold_spent": 58560,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 118160,
+      "total_damage_dealt_to_objectives": 92870,
+      "total_damage_taken": 127212,
+      "average_vision_score": 33,
+      "total_wards_placed": 60,
+      "average_creep_score": 119,
+      "average_champion_experience": 15588,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4424026720"
+    },
+    "200": {
+      "total_gold_earned": 59125,
+      "total_gold_spent": 56900,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 90679,
+      "total_damage_dealt_to_objectives": 41934,
+      "total_damage_taken": 144488,
+      "average_vision_score": 27,
+      "total_wards_placed": 70,
+      "average_creep_score": 108,
+      "average_champion_experience": 14071,
+      "dmg_carry": "Sivir",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4424026720"
+    }
+  }
+}

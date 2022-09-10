@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50630,
+      "total_gold_spent": 46208,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 81108,
+      "total_damage_dealt_to_objectives": 20725,
+      "total_damage_taken": 89966,
+      "average_vision_score": 28,
+      "total_wards_placed": 57,
+      "average_creep_score": 111,
+      "average_champion_experience": 11711,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4285854190"
+    },
+    "200": {
+      "total_gold_earned": 55237,
+      "total_gold_spent": 50910,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 70174,
+      "total_damage_dealt_to_objectives": 84963,
+      "total_damage_taken": 112672,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 101,
+      "average_champion_experience": 13167,
+      "dmg_carry": "Akali",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4285854190"
+    }
+  }
+}

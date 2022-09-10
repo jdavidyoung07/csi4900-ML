@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67498,
+      "total_gold_spent": 62160,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 36,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 115540,
+      "total_damage_dealt_to_objectives": 101087,
+      "total_damage_taken": 159182,
+      "average_vision_score": 21,
+      "total_wards_placed": 56,
+      "average_creep_score": 119,
+      "average_champion_experience": 16499,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4328540852"
+    },
+    "200": {
+      "total_gold_earned": 57210,
+      "total_gold_spent": 54625,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 102759,
+      "total_damage_dealt_to_objectives": 15783,
+      "total_damage_taken": 138557,
+      "average_vision_score": 22,
+      "total_wards_placed": 56,
+      "average_creep_score": 141,
+      "average_champion_experience": 14977,
+      "dmg_carry": "Brand",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4328540852"
+    }
+  }
+}

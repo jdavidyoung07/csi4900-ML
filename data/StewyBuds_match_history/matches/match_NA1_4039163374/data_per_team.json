@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35587,
+      "total_gold_spent": 31810,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 52178,
+      "total_damage_dealt_to_objectives": 9622,
+      "total_damage_taken": 64076,
+      "average_vision_score": 14,
+      "total_wards_placed": 36,
+      "average_creep_score": 80,
+      "average_champion_experience": 7147,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4039163374"
+    },
+    "200": {
+      "total_gold_earned": 41697,
+      "total_gold_spent": 34325,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 52012,
+      "total_damage_dealt_to_objectives": 38492,
+      "total_damage_taken": 73481,
+      "average_vision_score": 14,
+      "total_wards_placed": 33,
+      "average_creep_score": 91,
+      "average_champion_experience": 8666,
+      "dmg_carry": "Jhin",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4039163374"
+    }
+  }
+}

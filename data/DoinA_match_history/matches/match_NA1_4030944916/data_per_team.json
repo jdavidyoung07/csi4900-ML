@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58400,
+      "total_gold_spent": 57680,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 72271,
+      "total_damage_dealt_to_objectives": 20346,
+      "total_damage_taken": 159578,
+      "average_vision_score": 25,
+      "total_wards_placed": 67,
+      "average_creep_score": 137,
+      "average_champion_experience": 14487,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4030944916"
+    },
+    "200": {
+      "total_gold_earned": 68844,
+      "total_gold_spent": 59175,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 40,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 130391,
+      "total_damage_dealt_to_objectives": 83894,
+      "total_damage_taken": 108639,
+      "average_vision_score": 39,
+      "total_wards_placed": 78,
+      "average_creep_score": 124,
+      "average_champion_experience": 17270,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4030944916"
+    }
+  }
+}

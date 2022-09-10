@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77730,
+      "total_gold_spent": 77850,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 46,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 193452,
+      "total_damage_dealt_to_objectives": 75563,
+      "total_damage_taken": 188022,
+      "average_vision_score": 32,
+      "total_wards_placed": 62,
+      "average_creep_score": 146,
+      "average_champion_experience": 17902,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4384184215"
+    },
+    "200": {
+      "total_gold_earned": 78260,
+      "total_gold_spent": 79175,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 153845,
+      "total_damage_dealt_to_objectives": 56547,
+      "total_damage_taken": 242378,
+      "average_vision_score": 33,
+      "total_wards_placed": 76,
+      "average_creep_score": 159,
+      "average_champion_experience": 19351,
+      "dmg_carry": "Varus",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4384184215"
+    }
+  }
+}

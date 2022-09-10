@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71497,
+      "total_gold_spent": 63550,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 145181,
+      "total_damage_dealt_to_objectives": 60979,
+      "total_damage_taken": 152618,
+      "average_vision_score": 31,
+      "total_wards_placed": 62,
+      "average_creep_score": 129,
+      "average_champion_experience": 16836,
+      "dmg_carry": "Talon",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4305747120"
+    },
+    "200": {
+      "total_gold_earned": 65336,
+      "total_gold_spent": 63748,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 120881,
+      "total_damage_dealt_to_objectives": 63109,
+      "total_damage_taken": 169281,
+      "average_vision_score": 42,
+      "total_wards_placed": 103,
+      "average_creep_score": 128,
+      "average_champion_experience": 15500,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4305747120"
+    }
+  }
+}

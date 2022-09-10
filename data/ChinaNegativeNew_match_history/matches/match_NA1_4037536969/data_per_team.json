@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41933,
+      "total_gold_spent": 38850,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 53769,
+      "total_damage_dealt_to_objectives": 21409,
+      "total_damage_taken": 94048,
+      "average_vision_score": 16,
+      "total_wards_placed": 43,
+      "average_creep_score": 86,
+      "average_champion_experience": 10082,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4037536969"
+    },
+    "200": {
+      "total_gold_earned": 50509,
+      "total_gold_spent": 45385,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 70570,
+      "total_damage_dealt_to_objectives": 49574,
+      "total_damage_taken": 73707,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 94,
+      "average_champion_experience": 10885,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4037536969"
+    }
+  }
+}

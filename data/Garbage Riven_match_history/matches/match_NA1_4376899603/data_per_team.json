@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51574,
+      "total_gold_spent": 46925,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 92241,
+      "total_damage_dealt_to_objectives": 16562,
+      "total_damage_taken": 141226,
+      "average_vision_score": 24,
+      "total_wards_placed": 51,
+      "average_creep_score": 117,
+      "average_champion_experience": 12172,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4376899603"
+    },
+    "200": {
+      "total_gold_earned": 61036,
+      "total_gold_spent": 56025,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 105855,
+      "total_damage_dealt_to_objectives": 71618,
+      "total_damage_taken": 118211,
+      "average_vision_score": 15,
+      "total_wards_placed": 40,
+      "average_creep_score": 97,
+      "average_champion_experience": 15504,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4376899603"
+    }
+  }
+}

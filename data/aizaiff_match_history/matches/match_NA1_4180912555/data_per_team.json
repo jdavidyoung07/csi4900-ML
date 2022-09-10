@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66793,
+      "total_gold_spent": 64425,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 120418,
+      "total_damage_dealt_to_objectives": 49977,
+      "total_damage_taken": 130590,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 133,
+      "average_champion_experience": 15370,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4180912555"
+    },
+    "200": {
+      "total_gold_earned": 71861,
+      "total_gold_spent": 63775,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 111383,
+      "total_damage_dealt_to_objectives": 76037,
+      "total_damage_taken": 150756,
+      "average_vision_score": 37,
+      "total_wards_placed": 72,
+      "average_creep_score": 123,
+      "average_champion_experience": 16040,
+      "dmg_carry": "Senna",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4180912555"
+    }
+  }
+}

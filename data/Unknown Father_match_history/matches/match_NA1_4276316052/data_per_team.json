@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48182,
+      "total_gold_spent": 45350,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 71406,
+      "total_damage_dealt_to_objectives": 38558,
+      "total_damage_taken": 90621,
+      "average_vision_score": 27,
+      "total_wards_placed": 55,
+      "average_creep_score": 122,
+      "average_champion_experience": 10932,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4276316052"
+    },
+    "200": {
+      "total_gold_earned": 54856,
+      "total_gold_spent": 43900,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 70968,
+      "total_damage_dealt_to_objectives": 74236,
+      "total_damage_taken": 107117,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 115,
+      "average_champion_experience": 13112,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Maokai",
+      "match_id": "NA1_4276316052"
+    }
+  }
+}

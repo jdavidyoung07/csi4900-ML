@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51656,
+      "total_gold_spent": 50050,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 82387,
+      "total_damage_dealt_to_objectives": 30723,
+      "total_damage_taken": 103422,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 118,
+      "average_champion_experience": 12585,
+      "dmg_carry": "Akali",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4008782010"
+    },
+    "200": {
+      "total_gold_earned": 58658,
+      "total_gold_spent": 52675,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 82614,
+      "total_damage_dealt_to_objectives": 59494,
+      "total_damage_taken": 113021,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 123,
+      "average_champion_experience": 14180,
+      "dmg_carry": "Viego",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4008782010"
+    }
+  }
+}

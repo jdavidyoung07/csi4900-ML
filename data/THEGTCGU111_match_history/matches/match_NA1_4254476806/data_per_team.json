@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54016,
+      "total_gold_spent": 47775,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 74767,
+      "total_damage_dealt_to_objectives": 74269,
+      "total_damage_taken": 95802,
+      "average_vision_score": 21,
+      "total_wards_placed": 45,
+      "average_creep_score": 100,
+      "average_champion_experience": 12012,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4254476806"
+    },
+    "200": {
+      "total_gold_earned": 43589,
+      "total_gold_spent": 41660,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 67291,
+      "total_damage_dealt_to_objectives": 34542,
+      "total_damage_taken": 98176,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 92,
+      "average_champion_experience": 9983,
+      "dmg_carry": "Vex",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4254476806"
+    }
+  }
+}

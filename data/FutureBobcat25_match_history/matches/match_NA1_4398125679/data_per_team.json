@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 25068,
+      "total_gold_spent": 21225,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 38836,
+      "total_damage_dealt_to_objectives": 3005,
+      "total_damage_taken": 59032,
+      "average_vision_score": 11,
+      "total_wards_placed": 35,
+      "average_creep_score": 61,
+      "average_champion_experience": 5819,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4398125679"
+    },
+    "200": {
+      "total_gold_earned": 41721,
+      "total_gold_spent": 34550,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 48238,
+      "total_damage_dealt_to_objectives": 43784,
+      "total_damage_taken": 65176,
+      "average_vision_score": 17,
+      "total_wards_placed": 34,
+      "average_creep_score": 76,
+      "average_champion_experience": 8285,
+      "dmg_carry": "Varus",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4398125679"
+    }
+  }
+}

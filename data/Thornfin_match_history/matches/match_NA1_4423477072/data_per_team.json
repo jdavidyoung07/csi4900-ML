@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91218,
+      "total_gold_spent": 88350,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 180668,
+      "total_damage_dealt_to_objectives": 110083,
+      "total_damage_taken": 224987,
+      "average_vision_score": 44,
+      "total_wards_placed": 104,
+      "average_creep_score": 215,
+      "average_champion_experience": 24074,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4423477072"
+    },
+    "200": {
+      "total_gold_earned": 86397,
+      "total_gold_spent": 79395,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 8,
+      "total_kills": 30,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 165262,
+      "total_damage_dealt_to_objectives": 122559,
+      "total_damage_taken": 222908,
+      "average_vision_score": 43,
+      "total_wards_placed": 81,
+      "average_creep_score": 163,
+      "average_champion_experience": 20897,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4423477072"
+    }
+  }
+}

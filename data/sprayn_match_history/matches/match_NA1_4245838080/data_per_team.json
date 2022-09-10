@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63738,
+      "total_gold_spent": 55525,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 95482,
+      "total_damage_dealt_to_objectives": 83161,
+      "total_damage_taken": 111794,
+      "average_vision_score": 36,
+      "total_wards_placed": 61,
+      "average_creep_score": 112,
+      "average_champion_experience": 14923,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4245838080"
+    },
+    "200": {
+      "total_gold_earned": 59524,
+      "total_gold_spent": 56310,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 82014,
+      "total_damage_dealt_to_objectives": 43050,
+      "total_damage_taken": 129124,
+      "average_vision_score": 35,
+      "total_wards_placed": 55,
+      "average_creep_score": 125,
+      "average_champion_experience": 14045,
+      "dmg_carry": "Akali",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4245838080"
+    }
+  }
+}

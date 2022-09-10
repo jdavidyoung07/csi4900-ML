@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60827,
+      "total_gold_spent": 56135,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 128649,
+      "total_damage_dealt_to_objectives": 101664,
+      "total_damage_taken": 95858,
+      "average_vision_score": 20,
+      "total_wards_placed": 33,
+      "average_creep_score": 104,
+      "average_champion_experience": 14056,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4418771697"
+    },
+    "200": {
+      "total_gold_earned": 55351,
+      "total_gold_spent": 53240,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 74752,
+      "total_damage_dealt_to_objectives": 16802,
+      "total_damage_taken": 150825,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 117,
+      "average_champion_experience": 13662,
+      "dmg_carry": "Varus",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4418771697"
+    }
+  }
+}

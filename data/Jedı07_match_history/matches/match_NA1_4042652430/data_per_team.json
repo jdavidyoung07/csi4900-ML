@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 42,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78301,
+      "total_gold_spent": 72550,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 145024,
+      "total_damage_dealt_to_objectives": 72350,
+      "total_damage_taken": 192899,
+      "average_vision_score": 27,
+      "total_wards_placed": 56,
+      "average_creep_score": 141,
+      "average_champion_experience": 19142,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4042652430"
+    },
+    "200": {
+      "total_gold_earned": 75729,
+      "total_gold_spent": 69395,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 149284,
+      "total_damage_dealt_to_objectives": 80539,
+      "total_damage_taken": 174032,
+      "average_vision_score": 39,
+      "total_wards_placed": 72,
+      "average_creep_score": 139,
+      "average_champion_experience": 18182,
+      "dmg_carry": "Samira",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4042652430"
+    }
+  }
+}

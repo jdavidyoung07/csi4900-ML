@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46232,
+      "total_gold_spent": 34665,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 54626,
+      "total_damage_dealt_to_objectives": 69436,
+      "total_damage_taken": 67504,
+      "average_vision_score": 16,
+      "total_wards_placed": 33,
+      "average_creep_score": 93,
+      "average_champion_experience": 10514,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4397992019"
+    },
+    "200": {
+      "total_gold_earned": 33597,
+      "total_gold_spent": 32545,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 49307,
+      "total_damage_dealt_to_objectives": 11225,
+      "total_damage_taken": 71043,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 87,
+      "average_champion_experience": 8434,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4397992019"
+    }
+  }
+}

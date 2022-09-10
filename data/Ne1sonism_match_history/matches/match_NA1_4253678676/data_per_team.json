@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68696,
+      "total_gold_spent": 62600,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 139236,
+      "total_damage_dealt_to_objectives": 75320,
+      "total_damage_taken": 136172,
+      "average_vision_score": 34,
+      "total_wards_placed": 82,
+      "average_creep_score": 115,
+      "average_champion_experience": 16360,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4253678676"
+    },
+    "200": {
+      "total_gold_earned": 66409,
+      "total_gold_spent": 65123,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 107718,
+      "total_damage_dealt_to_objectives": 72266,
+      "total_damage_taken": 175524,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 123,
+      "average_champion_experience": 15402,
+      "dmg_carry": "Diana",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4253678676"
+    }
+  }
+}

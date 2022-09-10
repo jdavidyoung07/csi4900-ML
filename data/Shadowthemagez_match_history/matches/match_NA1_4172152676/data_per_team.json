@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 32905,
+      "total_gold_spent": 29985,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 32885,
+      "total_damage_dealt_to_objectives": 6860,
+      "total_damage_taken": 91153,
+      "average_vision_score": 15,
+      "total_wards_placed": 42,
+      "average_creep_score": 80,
+      "average_champion_experience": 8159,
+      "dmg_carry": "Swain",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4172152676"
+    },
+    "200": {
+      "total_gold_earned": 51286,
+      "total_gold_spent": 41095,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 76461,
+      "total_damage_dealt_to_objectives": 67733,
+      "total_damage_taken": 60488,
+      "average_vision_score": 15,
+      "total_wards_placed": 31,
+      "average_creep_score": 84,
+      "average_champion_experience": 11091,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4172152676"
+    }
+  }
+}

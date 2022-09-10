@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43369,
+      "total_gold_spent": 41685,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 75749,
+      "total_damage_dealt_to_objectives": 35836,
+      "total_damage_taken": 99320,
+      "average_vision_score": 18,
+      "total_wards_placed": 55,
+      "average_creep_score": 94,
+      "average_champion_experience": 9472,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4347415682"
+    },
+    "200": {
+      "total_gold_earned": 48241,
+      "total_gold_spent": 43118,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 77792,
+      "total_damage_dealt_to_objectives": 46050,
+      "total_damage_taken": 99167,
+      "average_vision_score": 21,
+      "total_wards_placed": 44,
+      "average_creep_score": 92,
+      "average_champion_experience": 10567,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4347415682"
+    }
+  }
+}

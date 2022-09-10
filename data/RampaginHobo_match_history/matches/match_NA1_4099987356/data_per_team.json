@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63148,
+      "total_gold_spent": 57935,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 106827,
+      "total_damage_dealt_to_objectives": 68672,
+      "total_damage_taken": 130248,
+      "average_vision_score": 27,
+      "total_wards_placed": 65,
+      "average_creep_score": 121,
+      "average_champion_experience": 14925,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4099987356"
+    },
+    "200": {
+      "total_gold_earned": 56715,
+      "total_gold_spent": 55710,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 90656,
+      "total_damage_dealt_to_objectives": 46372,
+      "total_damage_taken": 130562,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 115,
+      "average_champion_experience": 12345,
+      "dmg_carry": "Viktor",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4099987356"
+    }
+  }
+}

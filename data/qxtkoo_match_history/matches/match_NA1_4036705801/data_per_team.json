@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 26,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55627,
+      "total_gold_spent": 49060,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 65880,
+      "total_damage_dealt_to_objectives": 87360,
+      "total_damage_taken": 99697,
+      "average_vision_score": 23,
+      "total_wards_placed": 43,
+      "average_creep_score": 111,
+      "average_champion_experience": 12830,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4036705801"
+    },
+    "200": {
+      "total_gold_earned": 42839,
+      "total_gold_spent": 39810,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 60410,
+      "total_damage_dealt_to_objectives": 24200,
+      "total_damage_taken": 88588,
+      "average_vision_score": 17,
+      "total_wards_placed": 46,
+      "average_creep_score": 98,
+      "average_champion_experience": 9966,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4036705801"
+    }
+  }
+}

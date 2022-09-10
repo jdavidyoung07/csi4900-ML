@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59821,
+      "total_gold_spent": 50885,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 98178,
+      "total_damage_dealt_to_objectives": 57657,
+      "total_damage_taken": 93601,
+      "average_vision_score": 17,
+      "total_wards_placed": 33,
+      "average_creep_score": 122,
+      "average_champion_experience": 13568,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4235518989"
+    },
+    "200": {
+      "total_gold_earned": 58254,
+      "total_gold_spent": 55160,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 72995,
+      "total_damage_dealt_to_objectives": 45227,
+      "total_damage_taken": 128544,
+      "average_vision_score": 27,
+      "total_wards_placed": 57,
+      "average_creep_score": 118,
+      "average_champion_experience": 13882,
+      "dmg_carry": "Nocturne",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4235518989"
+    }
+  }
+}

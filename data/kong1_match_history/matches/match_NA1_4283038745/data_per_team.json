@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56185,
+      "total_gold_spent": 51755,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 87300,
+      "total_damage_dealt_to_objectives": 54848,
+      "total_damage_taken": 97031,
+      "average_vision_score": 15,
+      "total_wards_placed": 36,
+      "average_creep_score": 95,
+      "average_champion_experience": 11325,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4283038745"
+    },
+    "200": {
+      "total_gold_earned": 44666,
+      "total_gold_spent": 41095,
+      "team_comp": [
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 66385,
+      "total_damage_dealt_to_objectives": 15140,
+      "total_damage_taken": 104950,
+      "average_vision_score": 15,
+      "total_wards_placed": 40,
+      "average_creep_score": 85,
+      "average_champion_experience": 9916,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Veigar",
+      "match_id": "NA1_4283038745"
+    }
+  }
+}

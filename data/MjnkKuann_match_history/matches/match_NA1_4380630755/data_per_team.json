@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53590,
+      "total_gold_spent": 50500,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 21,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 83676,
+      "total_damage_dealt_to_objectives": 47206,
+      "total_damage_taken": 136953,
+      "average_vision_score": 24,
+      "total_wards_placed": 70,
+      "average_creep_score": 107,
+      "average_champion_experience": 12258,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4380630755"
+    },
+    "200": {
+      "total_gold_earned": 64741,
+      "total_gold_spent": 58625,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 106023,
+      "total_damage_dealt_to_objectives": 68047,
+      "total_damage_taken": 110683,
+      "average_vision_score": 29,
+      "total_wards_placed": 52,
+      "average_creep_score": 116,
+      "average_champion_experience": 15498,
+      "dmg_carry": "Draven",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4380630755"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78169,
+      "total_gold_spent": 85045,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Camille",
+          "champId": 164
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 145935,
+      "total_damage_dealt_to_objectives": 72265,
+      "total_damage_taken": 190625,
+      "average_vision_score": 37,
+      "total_wards_placed": 74,
+      "average_creep_score": 136,
+      "average_champion_experience": 17442,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4228773646"
+    },
+    "200": {
+      "total_gold_earned": 82469,
+      "total_gold_spent": 75748,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 55,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 159242,
+      "total_damage_dealt_to_objectives": 109768,
+      "total_damage_taken": 183386,
+      "average_vision_score": 49,
+      "total_wards_placed": 92,
+      "average_creep_score": 129,
+      "average_champion_experience": 20139,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Corki",
+      "match_id": "NA1_4228773646"
+    }
+  }
+}

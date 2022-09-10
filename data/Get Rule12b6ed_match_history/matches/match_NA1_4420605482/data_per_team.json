@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71051,
+      "total_gold_spent": 66095,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 53,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 144642,
+      "total_damage_dealt_to_objectives": 89333,
+      "total_damage_taken": 140139,
+      "average_vision_score": 35,
+      "total_wards_placed": 59,
+      "average_creep_score": 106,
+      "average_champion_experience": 15664,
+      "dmg_carry": "Senna",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4420605482"
+    },
+    "200": {
+      "total_gold_earned": 54659,
+      "total_gold_spent": 53595,
+      "team_comp": [
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 99494,
+      "total_damage_dealt_to_objectives": 21367,
+      "total_damage_taken": 165911,
+      "average_vision_score": 25,
+      "total_wards_placed": 63,
+      "average_creep_score": 112,
+      "average_champion_experience": 12387,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Nautilus",
+      "match_id": "NA1_4420605482"
+    }
+  }
+}

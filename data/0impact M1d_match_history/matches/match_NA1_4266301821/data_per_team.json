@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50101,
+      "total_gold_spent": 49425,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 69572,
+      "total_damage_dealt_to_objectives": 22583,
+      "total_damage_taken": 93924,
+      "average_vision_score": 17,
+      "total_wards_placed": 35,
+      "average_creep_score": 102,
+      "average_champion_experience": 11781,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4266301821"
+    },
+    "200": {
+      "total_gold_earned": 56700,
+      "total_gold_spent": 49710,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 73718,
+      "total_damage_dealt_to_objectives": 78058,
+      "total_damage_taken": 94051,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 99,
+      "average_champion_experience": 13076,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4266301821"
+    }
+  }
+}

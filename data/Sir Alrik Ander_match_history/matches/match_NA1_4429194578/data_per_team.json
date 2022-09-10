@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72949,
+      "total_gold_spent": 64900,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 156090,
+      "total_damage_dealt_to_objectives": 67456,
+      "total_damage_taken": 143733,
+      "average_vision_score": 26,
+      "total_wards_placed": 62,
+      "average_creep_score": 126,
+      "average_champion_experience": 16698,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4429194578"
+    },
+    "200": {
+      "total_gold_earned": 65095,
+      "total_gold_spent": 61880,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 96094,
+      "total_damage_dealt_to_objectives": 80350,
+      "total_damage_taken": 191494,
+      "average_vision_score": 35,
+      "total_wards_placed": 69,
+      "average_creep_score": 104,
+      "average_champion_experience": 14378,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4429194578"
+    }
+  }
+}

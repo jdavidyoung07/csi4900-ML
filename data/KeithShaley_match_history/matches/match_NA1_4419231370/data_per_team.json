@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62971,
+      "total_gold_spent": 56303,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 101905,
+      "total_damage_dealt_to_objectives": 60729,
+      "total_damage_taken": 113482,
+      "average_vision_score": 19,
+      "total_wards_placed": 48,
+      "average_creep_score": 118,
+      "average_champion_experience": 13793,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4419231370"
+    },
+    "200": {
+      "total_gold_earned": 53825,
+      "total_gold_spent": 52543,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 25,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 84607,
+      "total_damage_dealt_to_objectives": 57558,
+      "total_damage_taken": 131986,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 101,
+      "average_champion_experience": 10950,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4419231370"
+    }
+  }
+}

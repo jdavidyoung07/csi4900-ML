@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67265,
+      "total_gold_spent": 59800,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 106808,
+      "total_damage_dealt_to_objectives": 89783,
+      "total_damage_taken": 142273,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 146,
+      "average_champion_experience": 16540,
+      "dmg_carry": "Ornn",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4276713137"
+    },
+    "200": {
+      "total_gold_earned": 58352,
+      "total_gold_spent": 56355,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 109904,
+      "total_damage_dealt_to_objectives": 18855,
+      "total_damage_taken": 132955,
+      "average_vision_score": 29,
+      "total_wards_placed": 68,
+      "average_creep_score": 169,
+      "average_champion_experience": 15419,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4276713137"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65258,
+      "total_gold_spent": 62640,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 26,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 99568,
+      "total_damage_dealt_to_objectives": 66154,
+      "total_damage_taken": 132723,
+      "average_vision_score": 44,
+      "total_wards_placed": 79,
+      "average_creep_score": 128,
+      "average_champion_experience": 14934,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4184323798"
+    },
+    "200": {
+      "total_gold_earned": 71572,
+      "total_gold_spent": 62850,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 109329,
+      "total_damage_dealt_to_objectives": 68047,
+      "total_damage_taken": 146270,
+      "average_vision_score": 24,
+      "total_wards_placed": 57,
+      "average_creep_score": 133,
+      "average_champion_experience": 17831,
+      "dmg_carry": "Varus",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4184323798"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67350,
+      "total_gold_spent": 64800,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 48,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 124323,
+      "total_damage_dealt_to_objectives": 51656,
+      "total_damage_taken": 166607,
+      "average_vision_score": 43,
+      "total_wards_placed": 64,
+      "average_creep_score": 117,
+      "average_champion_experience": 14977,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4301117721"
+    },
+    "200": {
+      "total_gold_earned": 72725,
+      "total_gold_spent": 64475,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 134542,
+      "total_damage_dealt_to_objectives": 75291,
+      "total_damage_taken": 153965,
+      "average_vision_score": 27,
+      "total_wards_placed": 56,
+      "average_creep_score": 124,
+      "average_champion_experience": 16831,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4301117721"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 98301,
+      "total_gold_spent": 92440,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 63,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 209713,
+      "total_damage_dealt_to_objectives": 95639,
+      "total_damage_taken": 202879,
+      "average_vision_score": 42,
+      "total_wards_placed": 66,
+      "average_creep_score": 172,
+      "average_champion_experience": 24443,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4298258363"
+    },
+    "200": {
+      "total_gold_earned": 94488,
+      "total_gold_spent": 95720,
+      "team_comp": [
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 160540,
+      "total_damage_dealt_to_objectives": 86807,
+      "total_damage_taken": 240137,
+      "average_vision_score": 42,
+      "total_wards_placed": 113,
+      "average_creep_score": 183,
+      "average_champion_experience": 24299,
+      "dmg_carry": "Yone",
+      "obj_carry": "Aphelios",
+      "match_id": "NA1_4298258363"
+    }
+  }
+}

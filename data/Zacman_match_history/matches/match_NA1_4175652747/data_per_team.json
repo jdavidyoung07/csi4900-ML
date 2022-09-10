@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84333,
+      "total_gold_spent": 73785,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 47,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 163315,
+      "total_damage_dealt_to_objectives": 98031,
+      "total_damage_taken": 146585,
+      "average_vision_score": 49,
+      "total_wards_placed": 89,
+      "average_creep_score": 151,
+      "average_champion_experience": 20283,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4175652747"
+    },
+    "200": {
+      "total_gold_earned": 80705,
+      "total_gold_spent": 74640,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 117589,
+      "total_damage_dealt_to_objectives": 87534,
+      "total_damage_taken": 210083,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 164,
+      "average_champion_experience": 20528,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4175652747"
+    }
+  }
+}

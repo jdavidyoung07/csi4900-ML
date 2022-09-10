@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93888,
+      "total_gold_spent": 97113,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 182156,
+      "total_damage_dealt_to_objectives": 101060,
+      "total_damage_taken": 215955,
+      "average_vision_score": 56,
+      "total_wards_placed": 149,
+      "average_creep_score": 191,
+      "average_champion_experience": 23744,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4250988608"
+    },
+    "200": {
+      "total_gold_earned": 92615,
+      "total_gold_spent": 102060,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 173082,
+      "total_damage_dealt_to_objectives": 92854,
+      "total_damage_taken": 221855,
+      "average_vision_score": 67,
+      "total_wards_placed": 104,
+      "average_creep_score": 194,
+      "average_champion_experience": 22677,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4250988608"
+    }
+  }
+}

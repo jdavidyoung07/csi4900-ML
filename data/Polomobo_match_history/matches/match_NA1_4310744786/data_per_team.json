@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 89999,
+      "total_gold_spent": 88530,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 69,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 181529,
+      "total_damage_dealt_to_objectives": 86690,
+      "total_damage_taken": 186294,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 147,
+      "average_champion_experience": 23144,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4310744786"
+    },
+    "200": {
+      "total_gold_earned": 87319,
+      "total_gold_spent": 95607,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 53,
+      "total_deaths": 69,
+      "total_damage_dealt_to_champions": 141998,
+      "total_damage_dealt_to_objectives": 60246,
+      "total_damage_taken": 208974,
+      "average_vision_score": 35,
+      "total_wards_placed": 60,
+      "average_creep_score": 176,
+      "average_champion_experience": 22827,
+      "dmg_carry": "Jinx",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4310744786"
+    }
+  }
+}

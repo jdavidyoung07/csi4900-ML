@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62429,
+      "total_gold_spent": 60660,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 116886,
+      "total_damage_dealt_to_objectives": 83670,
+      "total_damage_taken": 172801,
+      "average_vision_score": 44,
+      "total_wards_placed": 90,
+      "average_creep_score": 127,
+      "average_champion_experience": 15303,
+      "dmg_carry": "Graves",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4075728847"
+    },
+    "200": {
+      "total_gold_earned": 74642,
+      "total_gold_spent": 66708,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 139517,
+      "total_damage_dealt_to_objectives": 70192,
+      "total_damage_taken": 151462,
+      "average_vision_score": 30,
+      "total_wards_placed": 75,
+      "average_creep_score": 147,
+      "average_champion_experience": 18564,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4075728847"
+    }
+  }
+}

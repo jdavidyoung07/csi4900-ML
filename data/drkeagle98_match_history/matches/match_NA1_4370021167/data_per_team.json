@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51704,
+      "total_gold_spent": 49075,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 72653,
+      "total_damage_dealt_to_objectives": 64980,
+      "total_damage_taken": 95071,
+      "average_vision_score": 17,
+      "total_wards_placed": 35,
+      "average_creep_score": 86,
+      "average_champion_experience": 11536,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4370021167"
+    },
+    "200": {
+      "total_gold_earned": 41232,
+      "total_gold_spent": 38150,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 68196,
+      "total_damage_dealt_to_objectives": 17242,
+      "total_damage_taken": 92101,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 91,
+      "average_champion_experience": 9522,
+      "dmg_carry": "Darius",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4370021167"
+    }
+  }
+}

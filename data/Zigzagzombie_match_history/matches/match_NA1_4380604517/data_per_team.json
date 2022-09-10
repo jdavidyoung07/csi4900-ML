@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62052,
+      "total_gold_spent": 57215,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 78412,
+      "total_damage_dealt_to_objectives": 41631,
+      "total_damage_taken": 136399,
+      "average_vision_score": 41,
+      "total_wards_placed": 99,
+      "average_creep_score": 140,
+      "average_champion_experience": 14944,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4380604517"
+    },
+    "200": {
+      "total_gold_earned": 70728,
+      "total_gold_spent": 63750,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 114985,
+      "total_damage_dealt_to_objectives": 79032,
+      "total_damage_taken": 103512,
+      "average_vision_score": 38,
+      "total_wards_placed": 87,
+      "average_creep_score": 151,
+      "average_champion_experience": 16046,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4380604517"
+    }
+  }
+}

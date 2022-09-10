@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 107468,
+      "total_gold_spent": 105725,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 68,
+      "total_deaths": 72,
+      "total_damage_dealt_to_champions": 271101,
+      "total_damage_dealt_to_objectives": 65700,
+      "total_damage_taken": 304405,
+      "average_vision_score": 42,
+      "total_wards_placed": 80,
+      "average_creep_score": 195,
+      "average_champion_experience": 28053,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4304555947"
+    },
+    "200": {
+      "total_gold_earned": 113951,
+      "total_gold_spent": 109443,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 72,
+      "total_deaths": 68,
+      "total_damage_dealt_to_champions": 256560,
+      "total_damage_dealt_to_objectives": 154106,
+      "total_damage_taken": 318135,
+      "average_vision_score": 41,
+      "total_wards_placed": 92,
+      "average_creep_score": 190,
+      "average_champion_experience": 30004,
+      "dmg_carry": "Swain",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4304555947"
+    }
+  }
+}

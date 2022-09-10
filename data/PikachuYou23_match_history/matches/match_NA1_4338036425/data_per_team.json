@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79381,
+      "total_gold_spent": 78500,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 151234,
+      "total_damage_dealt_to_objectives": 103342,
+      "total_damage_taken": 215059,
+      "average_vision_score": 41,
+      "total_wards_placed": 81,
+      "average_creep_score": 134,
+      "average_champion_experience": 19139,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4338036425"
+    },
+    "200": {
+      "total_gold_earned": 81369,
+      "total_gold_spent": 77955,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 171769,
+      "total_damage_dealt_to_objectives": 62211,
+      "total_damage_taken": 176186,
+      "average_vision_score": 40,
+      "total_wards_placed": 73,
+      "average_creep_score": 134,
+      "average_champion_experience": 18400,
+      "dmg_carry": "Lux",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4338036425"
+    }
+  }
+}

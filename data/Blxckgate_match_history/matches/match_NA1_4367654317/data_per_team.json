@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56648,
+      "total_gold_spent": 52555,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 84362,
+      "total_damage_dealt_to_objectives": 27540,
+      "total_damage_taken": 165561,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 111,
+      "average_champion_experience": 14485,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4367654317"
+    },
+    "200": {
+      "total_gold_earned": 66215,
+      "total_gold_spent": 60525,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 140495,
+      "total_damage_dealt_to_objectives": 88094,
+      "total_damage_taken": 122383,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 108,
+      "average_champion_experience": 16297,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Ahri",
+      "match_id": "NA1_4367654317"
+    }
+  }
+}

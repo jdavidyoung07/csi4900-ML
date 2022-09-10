@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55628,
+      "total_gold_spent": 51568,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 97038,
+      "total_damage_dealt_to_objectives": 55204,
+      "total_damage_taken": 122391,
+      "average_vision_score": 27,
+      "total_wards_placed": 58,
+      "average_creep_score": 109,
+      "average_champion_experience": 13128,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4035771854"
+    },
+    "200": {
+      "total_gold_earned": 58452,
+      "total_gold_spent": 53835,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 98831,
+      "total_damage_dealt_to_objectives": 70080,
+      "total_damage_taken": 122143,
+      "average_vision_score": 30,
+      "total_wards_placed": 47,
+      "average_creep_score": 128,
+      "average_champion_experience": 15552,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4035771854"
+    }
+  }
+}

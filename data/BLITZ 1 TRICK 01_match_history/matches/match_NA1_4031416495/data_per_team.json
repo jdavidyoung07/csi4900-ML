@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 49,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90506,
+      "total_gold_spent": 85100,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 6,
+      "total_kills": 70,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 307870,
+      "total_damage_dealt_to_objectives": 93548,
+      "total_damage_taken": 299568,
+      "average_vision_score": 52,
+      "total_wards_placed": 102,
+      "average_creep_score": 149,
+      "average_champion_experience": 23051,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4031416495"
+    },
+    "200": {
+      "total_gold_earned": 89889,
+      "total_gold_spent": 76713,
+      "team_comp": [
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 71,
+      "total_damage_dealt_to_champions": 251893,
+      "total_damage_dealt_to_objectives": 103940,
+      "total_damage_taken": 385781,
+      "average_vision_score": 29,
+      "total_wards_placed": 76,
+      "average_creep_score": 186,
+      "average_champion_experience": 23747,
+      "dmg_carry": "Brand",
+      "obj_carry": "Maokai",
+      "match_id": "NA1_4031416495"
+    }
+  }
+}

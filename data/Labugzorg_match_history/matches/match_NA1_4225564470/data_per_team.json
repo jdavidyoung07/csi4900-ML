@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53666,
+      "total_gold_spent": 49905,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 84203,
+      "total_damage_dealt_to_objectives": 60408,
+      "total_damage_taken": 85702,
+      "average_vision_score": 21,
+      "total_wards_placed": 38,
+      "average_creep_score": 91,
+      "average_champion_experience": 12125,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4225564470"
+    },
+    "200": {
+      "total_gold_earned": 43610,
+      "total_gold_spent": 41575,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 63190,
+      "total_damage_dealt_to_objectives": 8174,
+      "total_damage_taken": 100786,
+      "average_vision_score": 11,
+      "total_wards_placed": 28,
+      "average_creep_score": 105,
+      "average_champion_experience": 10537,
+      "dmg_carry": "Yone",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4225564470"
+    }
+  }
+}

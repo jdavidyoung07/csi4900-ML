@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59191,
+      "total_gold_spent": 59440,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 90817,
+      "total_damage_dealt_to_objectives": 47622,
+      "total_damage_taken": 101752,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 112,
+      "average_champion_experience": 13482,
+      "dmg_carry": "Shaco",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4248547637"
+    },
+    "200": {
+      "total_gold_earned": 62988,
+      "total_gold_spent": 53783,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 80879,
+      "total_damage_dealt_to_objectives": 53755,
+      "total_damage_taken": 114798,
+      "average_vision_score": 28,
+      "total_wards_placed": 65,
+      "average_creep_score": 133,
+      "average_champion_experience": 13364,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4248547637"
+    }
+  }
+}

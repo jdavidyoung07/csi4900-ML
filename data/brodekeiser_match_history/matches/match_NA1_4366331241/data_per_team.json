@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61683,
+      "total_gold_spent": 60500,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 124918,
+      "total_damage_dealt_to_objectives": 36041,
+      "total_damage_taken": 179239,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 135,
+      "average_champion_experience": 14319,
+      "dmg_carry": "Warwick",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4366331241"
+    },
+    "200": {
+      "total_gold_earned": 74689,
+      "total_gold_spent": 64890,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 155269,
+      "total_damage_dealt_to_objectives": 94374,
+      "total_damage_taken": 168936,
+      "average_vision_score": 28,
+      "total_wards_placed": 64,
+      "average_creep_score": 130,
+      "average_champion_experience": 16681,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4366331241"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73001,
+      "total_gold_spent": 68583,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 159768,
+      "total_damage_dealt_to_objectives": 56753,
+      "total_damage_taken": 154121,
+      "average_vision_score": 32,
+      "total_wards_placed": 60,
+      "average_creep_score": 157,
+      "average_champion_experience": 18003,
+      "dmg_carry": "Jax",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4355234072"
+    },
+    "200": {
+      "total_gold_earned": 71449,
+      "total_gold_spent": 64743,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 126662,
+      "total_damage_dealt_to_objectives": 120580,
+      "total_damage_taken": 198061,
+      "average_vision_score": 40,
+      "total_wards_placed": 66,
+      "average_creep_score": 139,
+      "average_champion_experience": 17129,
+      "dmg_carry": "Swain",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4355234072"
+    }
+  }
+}

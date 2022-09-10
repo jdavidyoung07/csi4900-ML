@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49154,
+      "total_gold_spent": 47135,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 83046,
+      "total_damage_dealt_to_objectives": 28986,
+      "total_damage_taken": 150481,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 79,
+      "average_champion_experience": 11747,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4416005001"
+    },
+    "200": {
+      "total_gold_earned": 61508,
+      "total_gold_spent": 53135,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 125919,
+      "total_damage_dealt_to_objectives": 78608,
+      "total_damage_taken": 117030,
+      "average_vision_score": 15,
+      "total_wards_placed": 32,
+      "average_creep_score": 100,
+      "average_champion_experience": 14274,
+      "dmg_carry": "Karthus",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4416005001"
+    }
+  }
+}

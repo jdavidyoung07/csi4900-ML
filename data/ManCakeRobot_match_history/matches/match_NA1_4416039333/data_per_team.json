@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75105,
+      "total_gold_spent": 69000,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 59,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 169345,
+      "total_damage_dealt_to_objectives": 94662,
+      "total_damage_taken": 205700,
+      "average_vision_score": 28,
+      "total_wards_placed": 46,
+      "average_creep_score": 117,
+      "average_champion_experience": 16991,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4416039333"
+    },
+    "200": {
+      "total_gold_earned": 70711,
+      "total_gold_spent": 68883,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 53,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 166834,
+      "total_damage_dealt_to_objectives": 57001,
+      "total_damage_taken": 194496,
+      "average_vision_score": 29,
+      "total_wards_placed": 71,
+      "average_creep_score": 101,
+      "average_champion_experience": 16115,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4416039333"
+    }
+  }
+}

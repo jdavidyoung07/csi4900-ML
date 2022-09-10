@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58236,
+      "total_gold_spent": 54710,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 64,
+      "total_damage_dealt_to_champions": 100557,
+      "total_damage_dealt_to_objectives": 32320,
+      "total_damage_taken": 164994,
+      "average_vision_score": 21,
+      "total_wards_placed": 54,
+      "average_creep_score": 142,
+      "average_champion_experience": 14411,
+      "dmg_carry": "Zed",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4416494083"
+    },
+    "200": {
+      "total_gold_earned": 74781,
+      "total_gold_spent": 66675,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 64,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 143836,
+      "total_damage_dealt_to_objectives": 110399,
+      "total_damage_taken": 142975,
+      "average_vision_score": 23,
+      "total_wards_placed": 39,
+      "average_creep_score": 128,
+      "average_champion_experience": 17467,
+      "dmg_carry": "Swain",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4416494083"
+    }
+  }
+}

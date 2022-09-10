@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 42,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77104,
+      "total_gold_spent": 69800,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 146435,
+      "total_damage_dealt_to_objectives": 19581,
+      "total_damage_taken": 178733,
+      "average_vision_score": 43,
+      "total_wards_placed": 91,
+      "average_creep_score": 148,
+      "average_champion_experience": 19188,
+      "dmg_carry": "Swain",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4035452819"
+    },
+    "200": {
+      "total_gold_earned": 84593,
+      "total_gold_spent": 85540,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 5,
+      "total_kills": 56,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 146255,
+      "total_damage_dealt_to_objectives": 123087,
+      "total_damage_taken": 190747,
+      "average_vision_score": 43,
+      "total_wards_placed": 83,
+      "average_creep_score": 141,
+      "average_champion_experience": 20449,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4035452819"
+    }
+  }
+}

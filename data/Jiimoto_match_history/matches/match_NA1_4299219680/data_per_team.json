@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62592,
+      "total_gold_spent": 53700,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 101554,
+      "total_damage_dealt_to_objectives": 59525,
+      "total_damage_taken": 114252,
+      "average_vision_score": 39,
+      "total_wards_placed": 78,
+      "average_creep_score": 130,
+      "average_champion_experience": 14786,
+      "dmg_carry": "Corki",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4299219680"
+    },
+    "200": {
+      "total_gold_earned": 56963,
+      "total_gold_spent": 53745,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 85171,
+      "total_damage_dealt_to_objectives": 56176,
+      "total_damage_taken": 125804,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 125,
+      "average_champion_experience": 13449,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4299219680"
+    }
+  }
+}

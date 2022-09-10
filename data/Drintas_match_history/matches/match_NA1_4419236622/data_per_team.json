@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 32370,
+      "total_gold_spent": 29810,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 54767,
+      "total_damage_dealt_to_objectives": 22020,
+      "total_damage_taken": 70629,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 63,
+      "average_champion_experience": 6709,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4419236622"
+    },
+    "200": {
+      "total_gold_earned": 38213,
+      "total_gold_spent": 29470,
+      "team_comp": [
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 52685,
+      "total_damage_dealt_to_objectives": 30440,
+      "total_damage_taken": 75174,
+      "average_vision_score": 11,
+      "total_wards_placed": 29,
+      "average_creep_score": 65,
+      "average_champion_experience": 7420,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4419236622"
+    }
+  }
+}

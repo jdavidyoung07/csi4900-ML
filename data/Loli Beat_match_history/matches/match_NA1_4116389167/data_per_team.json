@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68558,
+      "total_gold_spent": 63840,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 43,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 114188,
+      "total_damage_dealt_to_objectives": 116098,
+      "total_damage_taken": 146241,
+      "average_vision_score": 31,
+      "total_wards_placed": 58,
+      "average_creep_score": 106,
+      "average_champion_experience": 16395,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4116389167"
+    },
+    "200": {
+      "total_gold_earned": 63402,
+      "total_gold_spent": 60550,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 107599,
+      "total_damage_dealt_to_objectives": 13988,
+      "total_damage_taken": 143274,
+      "average_vision_score": 26,
+      "total_wards_placed": 67,
+      "average_creep_score": 139,
+      "average_champion_experience": 16379,
+      "dmg_carry": "Azir",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4116389167"
+    }
+  }
+}

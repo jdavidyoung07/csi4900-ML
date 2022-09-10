@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50301,
+      "total_gold_spent": 47760,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 82740,
+      "total_damage_dealt_to_objectives": 21064,
+      "total_damage_taken": 116954,
+      "average_vision_score": 17,
+      "total_wards_placed": 39,
+      "average_creep_score": 110,
+      "average_champion_experience": 11814,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4074114909"
+    },
+    "200": {
+      "total_gold_earned": 59327,
+      "total_gold_spent": 53470,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 39,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 95400,
+      "total_damage_dealt_to_objectives": 90931,
+      "total_damage_taken": 113496,
+      "average_vision_score": 24,
+      "total_wards_placed": 52,
+      "average_creep_score": 97,
+      "average_champion_experience": 13256,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4074114909"
+    }
+  }
+}

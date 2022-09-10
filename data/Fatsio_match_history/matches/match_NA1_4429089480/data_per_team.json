@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64070,
+      "total_gold_spent": 58225,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 114508,
+      "total_damage_dealt_to_objectives": 84267,
+      "total_damage_taken": 130766,
+      "average_vision_score": 26,
+      "total_wards_placed": 45,
+      "average_creep_score": 125,
+      "average_champion_experience": 14994,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4429089480"
+    },
+    "200": {
+      "total_gold_earned": 50009,
+      "total_gold_spent": 49765,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 95472,
+      "total_damage_dealt_to_objectives": 22040,
+      "total_damage_taken": 133140,
+      "average_vision_score": 26,
+      "total_wards_placed": 51,
+      "average_creep_score": 116,
+      "average_champion_experience": 11967,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4429089480"
+    }
+  }
+}

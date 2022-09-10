@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69758,
+      "total_gold_spent": 68083,
+      "team_comp": [
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 151070,
+      "total_damage_dealt_to_objectives": 53917,
+      "total_damage_taken": 161162,
+      "average_vision_score": 46,
+      "total_wards_placed": 85,
+      "average_creep_score": 148,
+      "average_champion_experience": 16886,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4198245838"
+    },
+    "200": {
+      "total_gold_earned": 74334,
+      "total_gold_spent": 65900,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 129557,
+      "total_damage_dealt_to_objectives": 82644,
+      "total_damage_taken": 187173,
+      "average_vision_score": 44,
+      "total_wards_placed": 77,
+      "average_creep_score": 139,
+      "average_champion_experience": 19045,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4198245838"
+    }
+  }
+}

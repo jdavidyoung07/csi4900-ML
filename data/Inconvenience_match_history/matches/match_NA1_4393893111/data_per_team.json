@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55631,
+      "total_gold_spent": 45620,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 87305,
+      "total_damage_dealt_to_objectives": 76265,
+      "total_damage_taken": 118534,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 104,
+      "average_champion_experience": 12565,
+      "dmg_carry": "Poppy",
+      "obj_carry": "Seraphine",
+      "match_id": "NA1_4393893111"
+    },
+    "200": {
+      "total_gold_earned": 48820,
+      "total_gold_spent": 46400,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 87237,
+      "total_damage_dealt_to_objectives": 39564,
+      "total_damage_taken": 111674,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 97,
+      "average_champion_experience": 9927,
+      "dmg_carry": "Shen",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4393893111"
+    }
+  }
+}

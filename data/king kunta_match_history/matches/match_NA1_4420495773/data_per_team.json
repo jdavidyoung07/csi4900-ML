@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62807,
+      "total_gold_spent": 60423,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 124466,
+      "total_damage_dealt_to_objectives": 51572,
+      "total_damage_taken": 183072,
+      "average_vision_score": 34,
+      "total_wards_placed": 71,
+      "average_creep_score": 146,
+      "average_champion_experience": 14908,
+      "dmg_carry": "Vex",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4420495773"
+    },
+    "200": {
+      "total_gold_earned": 71573,
+      "total_gold_spent": 63685,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 152301,
+      "total_damage_dealt_to_objectives": 130638,
+      "total_damage_taken": 159823,
+      "average_vision_score": 33,
+      "total_wards_placed": 65,
+      "average_creep_score": 133,
+      "average_champion_experience": 16985,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4420495773"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54085,
+      "total_gold_spent": 52155,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 65988,
+      "total_damage_dealt_to_objectives": 24050,
+      "total_damage_taken": 139951,
+      "average_vision_score": 18,
+      "total_wards_placed": 40,
+      "average_creep_score": 104,
+      "average_champion_experience": 11434,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4376636854"
+    },
+    "200": {
+      "total_gold_earned": 66157,
+      "total_gold_spent": 59260,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 118829,
+      "total_damage_dealt_to_objectives": 87542,
+      "total_damage_taken": 101942,
+      "average_vision_score": 22,
+      "total_wards_placed": 57,
+      "average_creep_score": 98,
+      "average_champion_experience": 14366,
+      "dmg_carry": "Draven",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4376636854"
+    }
+  }
+}

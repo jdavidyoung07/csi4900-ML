@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43326,
+      "total_gold_spent": 41668,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 61751,
+      "total_damage_dealt_to_objectives": 11585,
+      "total_damage_taken": 109625,
+      "average_vision_score": 20,
+      "total_wards_placed": 53,
+      "average_creep_score": 86,
+      "average_champion_experience": 9402,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4422462447"
+    },
+    "200": {
+      "total_gold_earned": 57121,
+      "total_gold_spent": 49250,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 46,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 94352,
+      "total_damage_dealt_to_objectives": 86893,
+      "total_damage_taken": 89589,
+      "average_vision_score": 22,
+      "total_wards_placed": 44,
+      "average_creep_score": 87,
+      "average_champion_experience": 11602,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4422462447"
+    }
+  }
+}

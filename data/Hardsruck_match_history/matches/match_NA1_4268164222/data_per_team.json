@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45386,
+      "total_gold_spent": 43835,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 51120,
+      "total_damage_dealt_to_objectives": 41056,
+      "total_damage_taken": 75662,
+      "average_vision_score": 19,
+      "total_wards_placed": 39,
+      "average_creep_score": 92,
+      "average_champion_experience": 10372,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4268164222"
+    },
+    "200": {
+      "total_gold_earned": 36277,
+      "total_gold_spent": 32675,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 55008,
+      "total_damage_dealt_to_objectives": 19229,
+      "total_damage_taken": 68539,
+      "average_vision_score": 15,
+      "total_wards_placed": 38,
+      "average_creep_score": 88,
+      "average_champion_experience": 9204,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4268164222"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 27352,
+      "total_gold_spent": 24205,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 39423,
+      "total_damage_dealt_to_objectives": 21546,
+      "total_damage_taken": 51151,
+      "average_vision_score": 17,
+      "total_wards_placed": 42,
+      "average_creep_score": 56,
+      "average_champion_experience": 5130,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4391229043"
+    },
+    "200": {
+      "total_gold_earned": 38258,
+      "total_gold_spent": 32050,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 38788,
+      "total_damage_dealt_to_objectives": 38213,
+      "total_damage_taken": 57220,
+      "average_vision_score": 9,
+      "total_wards_placed": 26,
+      "average_creep_score": 84,
+      "average_champion_experience": 7727,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4391229043"
+    }
+  }
+}

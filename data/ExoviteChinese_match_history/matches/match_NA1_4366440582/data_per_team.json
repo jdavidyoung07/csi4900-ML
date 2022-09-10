@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65058,
+      "total_gold_spent": 64410,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 170441,
+      "total_damage_dealt_to_objectives": 53327,
+      "total_damage_taken": 199012,
+      "average_vision_score": 32,
+      "total_wards_placed": 64,
+      "average_creep_score": 99,
+      "average_champion_experience": 12189,
+      "dmg_carry": "Swain",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4366440582"
+    },
+    "200": {
+      "total_gold_earned": 64369,
+      "total_gold_spent": 59035,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 165873,
+      "total_damage_dealt_to_objectives": 52276,
+      "total_damage_taken": 198813,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 107,
+      "average_champion_experience": 13417,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4366440582"
+    }
+  }
+}

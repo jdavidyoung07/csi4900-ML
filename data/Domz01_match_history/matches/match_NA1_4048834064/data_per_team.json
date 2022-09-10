@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47252,
+      "total_gold_spent": 44493,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 71808,
+      "total_damage_dealt_to_objectives": 19479,
+      "total_damage_taken": 108721,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 108,
+      "average_champion_experience": 11859,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4048834064"
+    },
+    "200": {
+      "total_gold_earned": 57520,
+      "total_gold_spent": 50110,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 81536,
+      "total_damage_dealt_to_objectives": 89343,
+      "total_damage_taken": 110335,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 102,
+      "average_champion_experience": 14114,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4048834064"
+    }
+  }
+}

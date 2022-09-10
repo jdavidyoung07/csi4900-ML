@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61929,
+      "total_gold_spent": 59488,
+      "team_comp": [
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 122117,
+      "total_damage_dealt_to_objectives": 46880,
+      "total_damage_taken": 124930,
+      "average_vision_score": 33,
+      "total_wards_placed": 67,
+      "average_creep_score": 166,
+      "average_champion_experience": 16011,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4377162480"
+    },
+    "200": {
+      "total_gold_earned": 72287,
+      "total_gold_spent": 68025,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 93886,
+      "total_damage_dealt_to_objectives": 80235,
+      "total_damage_taken": 152559,
+      "average_vision_score": 34,
+      "total_wards_placed": 88,
+      "average_creep_score": 157,
+      "average_champion_experience": 17925,
+      "dmg_carry": "Nilah",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4377162480"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51007,
+      "total_gold_spent": 43150,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 81744,
+      "total_damage_dealt_to_objectives": 59394,
+      "total_damage_taken": 101004,
+      "average_vision_score": 15,
+      "total_wards_placed": 38,
+      "average_creep_score": 95,
+      "average_champion_experience": 11371,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4199879013"
+    },
+    "200": {
+      "total_gold_earned": 49823,
+      "total_gold_spent": 46928,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 75971,
+      "total_damage_dealt_to_objectives": 39717,
+      "total_damage_taken": 104364,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 103,
+      "average_champion_experience": 11428,
+      "dmg_carry": "Azir",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4199879013"
+    }
+  }
+}

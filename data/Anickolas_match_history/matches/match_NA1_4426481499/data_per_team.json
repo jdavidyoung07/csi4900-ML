@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49251,
+      "total_gold_spent": 45895,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 57503,
+      "total_damage_dealt_to_objectives": 30466,
+      "total_damage_taken": 117214,
+      "average_vision_score": 22,
+      "total_wards_placed": 41,
+      "average_creep_score": 118,
+      "average_champion_experience": 11236,
+      "dmg_carry": "Darius",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4426481499"
+    },
+    "200": {
+      "total_gold_earned": 58915,
+      "total_gold_spent": 52375,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 93180,
+      "total_damage_dealt_to_objectives": 79341,
+      "total_damage_taken": 83627,
+      "average_vision_score": 21,
+      "total_wards_placed": 44,
+      "average_creep_score": 111,
+      "average_champion_experience": 13920,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4426481499"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38021,
+      "total_gold_spent": 34605,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 53276,
+      "total_damage_dealt_to_objectives": 17311,
+      "total_damage_taken": 81091,
+      "average_vision_score": 21,
+      "total_wards_placed": 50,
+      "average_creep_score": 99,
+      "average_champion_experience": 9574,
+      "dmg_carry": "Ashe",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4378539030"
+    },
+    "200": {
+      "total_gold_earned": 53853,
+      "total_gold_spent": 42725,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 58711,
+      "total_damage_dealt_to_objectives": 85740,
+      "total_damage_taken": 77698,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 111,
+      "average_champion_experience": 12117,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4378539030"
+    }
+  }
+}

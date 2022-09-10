@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60638,
+      "total_gold_spent": 57975,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 98060,
+      "total_damage_dealt_to_objectives": 46133,
+      "total_damage_taken": 167167,
+      "average_vision_score": 27,
+      "total_wards_placed": 67,
+      "average_creep_score": 136,
+      "average_champion_experience": 14222,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4406688294"
+    },
+    "200": {
+      "total_gold_earned": 70701,
+      "total_gold_spent": 65960,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 145528,
+      "total_damage_dealt_to_objectives": 97509,
+      "total_damage_taken": 151779,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 136,
+      "average_champion_experience": 16563,
+      "dmg_carry": "Akali",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4406688294"
+    }
+  }
+}

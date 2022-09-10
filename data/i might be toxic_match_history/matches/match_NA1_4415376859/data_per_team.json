@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56539,
+      "total_gold_spent": 53660,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 110401,
+      "total_damage_dealt_to_objectives": 46081,
+      "total_damage_taken": 142998,
+      "average_vision_score": 27,
+      "total_wards_placed": 66,
+      "average_creep_score": 128,
+      "average_champion_experience": 13997,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4415376859"
+    },
+    "200": {
+      "total_gold_earned": 70061,
+      "total_gold_spent": 64625,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 113728,
+      "total_damage_dealt_to_objectives": 115186,
+      "total_damage_taken": 145923,
+      "average_vision_score": 34,
+      "total_wards_placed": 64,
+      "average_creep_score": 106,
+      "average_champion_experience": 16762,
+      "dmg_carry": "Zed",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4415376859"
+    }
+  }
+}

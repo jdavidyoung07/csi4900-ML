@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65397,
+      "total_gold_spent": 63635,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 104748,
+      "total_damage_dealt_to_objectives": 41157,
+      "total_damage_taken": 151092,
+      "average_vision_score": 32,
+      "total_wards_placed": 75,
+      "average_creep_score": 158,
+      "average_champion_experience": 16650,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4401895086"
+    },
+    "200": {
+      "total_gold_earned": 73325,
+      "total_gold_spent": 65075,
+      "team_comp": [
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 121010,
+      "total_damage_dealt_to_objectives": 99658,
+      "total_damage_taken": 147724,
+      "average_vision_score": 37,
+      "total_wards_placed": 80,
+      "average_creep_score": 157,
+      "average_champion_experience": 18089,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4401895086"
+    }
+  }
+}

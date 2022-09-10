@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61955,
+      "total_gold_spent": 52550,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 96825,
+      "total_damage_dealt_to_objectives": 80170,
+      "total_damage_taken": 134768,
+      "average_vision_score": 27,
+      "total_wards_placed": 58,
+      "average_creep_score": 111,
+      "average_champion_experience": 13563,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4082213663"
+    },
+    "200": {
+      "total_gold_earned": 59373,
+      "total_gold_spent": 57950,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 101562,
+      "total_damage_dealt_to_objectives": 47060,
+      "total_damage_taken": 121540,
+      "average_vision_score": 31,
+      "total_wards_placed": 67,
+      "average_creep_score": 112,
+      "average_champion_experience": 13757,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4082213663"
+    }
+  }
+}

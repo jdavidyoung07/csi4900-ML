@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77333,
+      "total_gold_spent": 71405,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 144625,
+      "total_damage_dealt_to_objectives": 75385,
+      "total_damage_taken": 174991,
+      "average_vision_score": 36,
+      "total_wards_placed": 77,
+      "average_creep_score": 154,
+      "average_champion_experience": 19559,
+      "dmg_carry": "Brand",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4362577549"
+    },
+    "200": {
+      "total_gold_earned": 73527,
+      "total_gold_spent": 71750,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 144143,
+      "total_damage_dealt_to_objectives": 34980,
+      "total_damage_taken": 171670,
+      "average_vision_score": 37,
+      "total_wards_placed": 62,
+      "average_creep_score": 159,
+      "average_champion_experience": 18680,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4362577549"
+    }
+  }
+}

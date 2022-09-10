@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51001,
+      "total_gold_spent": 44400,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 78807,
+      "total_damage_dealt_to_objectives": 43428,
+      "total_damage_taken": 93449,
+      "average_vision_score": 21,
+      "total_wards_placed": 50,
+      "average_creep_score": 110,
+      "average_champion_experience": 11173,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4201601653"
+    },
+    "200": {
+      "total_gold_earned": 59521,
+      "total_gold_spent": 54395,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 70665,
+      "total_damage_dealt_to_objectives": 64653,
+      "total_damage_taken": 106721,
+      "average_vision_score": 24,
+      "total_wards_placed": 57,
+      "average_creep_score": 103,
+      "average_champion_experience": 14078,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4201601653"
+    }
+  }
+}

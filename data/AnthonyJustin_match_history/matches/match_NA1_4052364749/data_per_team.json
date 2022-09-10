@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 33,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69599,
+      "total_gold_spent": 69450,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 133761,
+      "total_damage_dealt_to_objectives": 33466,
+      "total_damage_taken": 150017,
+      "average_vision_score": 23,
+      "total_wards_placed": 48,
+      "average_creep_score": 124,
+      "average_champion_experience": 16193,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4052364749"
+    },
+    "200": {
+      "total_gold_earned": 66333,
+      "total_gold_spent": 63260,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 117276,
+      "total_damage_dealt_to_objectives": 61839,
+      "total_damage_taken": 160022,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 107,
+      "average_champion_experience": 15498,
+      "dmg_carry": "Gragas",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4052364749"
+    }
+  }
+}

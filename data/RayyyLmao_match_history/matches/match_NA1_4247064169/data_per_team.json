@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49540,
+      "total_gold_spent": 46310,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 79015,
+      "total_damage_dealt_to_objectives": 11157,
+      "total_damage_taken": 132988,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 101,
+      "average_champion_experience": 12169,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4247064169"
+    },
+    "200": {
+      "total_gold_earned": 64176,
+      "total_gold_spent": 55750,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 111180,
+      "total_damage_dealt_to_objectives": 87309,
+      "total_damage_taken": 105153,
+      "average_vision_score": 18,
+      "total_wards_placed": 45,
+      "average_creep_score": 100,
+      "average_champion_experience": 14404,
+      "dmg_carry": "Annie",
+      "obj_carry": "RekSai",
+      "match_id": "NA1_4247064169"
+    }
+  }
+}

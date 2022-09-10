@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63825,
+      "total_gold_spent": 60775,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 132792,
+      "total_damage_dealt_to_objectives": 33884,
+      "total_damage_taken": 156991,
+      "average_vision_score": 30,
+      "total_wards_placed": 67,
+      "average_creep_score": 135,
+      "average_champion_experience": 15109,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4410830258"
+    },
+    "200": {
+      "total_gold_earned": 74112,
+      "total_gold_spent": 67475,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 129959,
+      "total_damage_dealt_to_objectives": 100446,
+      "total_damage_taken": 165245,
+      "average_vision_score": 31,
+      "total_wards_placed": 61,
+      "average_creep_score": 114,
+      "average_champion_experience": 17669,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4410830258"
+    }
+  }
+}

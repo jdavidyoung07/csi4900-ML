@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57661,
+      "total_gold_spent": 49610,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 85775,
+      "total_damage_dealt_to_objectives": 75707,
+      "total_damage_taken": 93147,
+      "average_vision_score": 20,
+      "total_wards_placed": 45,
+      "average_creep_score": 101,
+      "average_champion_experience": 12858,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4327454165"
+    },
+    "200": {
+      "total_gold_earned": 45416,
+      "total_gold_spent": 41850,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 65335,
+      "total_damage_dealt_to_objectives": 23556,
+      "total_damage_taken": 109260,
+      "average_vision_score": 11,
+      "total_wards_placed": 34,
+      "average_creep_score": 106,
+      "average_champion_experience": 10627,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4327454165"
+    }
+  }
+}

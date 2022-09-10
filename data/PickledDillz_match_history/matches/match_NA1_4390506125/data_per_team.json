@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 5248,
+      "total_gold_spent": 3435,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 2,
+      "total_deaths": 1,
+      "total_damage_dealt_to_champions": 1874,
+      "total_damage_dealt_to_objectives": 0,
+      "total_damage_taken": 3648,
+      "average_vision_score": 0,
+      "total_wards_placed": 3,
+      "average_creep_score": 3,
+      "average_champion_experience": 458,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4390506125"
+    },
+    "200": {
+      "total_gold_earned": 4839,
+      "total_gold_spent": 3125,
+      "team_comp": [
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 1,
+      "total_deaths": 2,
+      "total_damage_dealt_to_champions": 1545,
+      "total_damage_dealt_to_objectives": 97,
+      "total_damage_taken": 4132,
+      "average_vision_score": 0,
+      "total_wards_placed": 1,
+      "average_creep_score": 7,
+      "average_champion_experience": 678,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4390506125"
+    }
+  }
+}

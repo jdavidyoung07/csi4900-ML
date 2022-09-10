@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45484,
+      "total_gold_spent": 39525,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 58310,
+      "total_damage_dealt_to_objectives": 50944,
+      "total_damage_taken": 81058,
+      "average_vision_score": 18,
+      "total_wards_placed": 37,
+      "average_creep_score": 86,
+      "average_champion_experience": 10319,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "Akshan",
+      "match_id": "NA1_4323511097"
+    },
+    "200": {
+      "total_gold_earned": 38573,
+      "total_gold_spent": 36550,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 57531,
+      "total_damage_dealt_to_objectives": 15406,
+      "total_damage_taken": 73850,
+      "average_vision_score": 16,
+      "total_wards_placed": 34,
+      "average_creep_score": 90,
+      "average_champion_experience": 8885,
+      "dmg_carry": "Varus",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4323511097"
+    }
+  }
+}

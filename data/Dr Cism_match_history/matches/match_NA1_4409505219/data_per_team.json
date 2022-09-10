@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41110,
+      "total_gold_spent": 39035,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 55422,
+      "total_damage_dealt_to_objectives": 32196,
+      "total_damage_taken": 89761,
+      "average_vision_score": 19,
+      "total_wards_placed": 51,
+      "average_creep_score": 89,
+      "average_champion_experience": 9847,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4409505219"
+    },
+    "200": {
+      "total_gold_earned": 50516,
+      "total_gold_spent": 42325,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 71158,
+      "total_damage_dealt_to_objectives": 57569,
+      "total_damage_taken": 79021,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 103,
+      "average_champion_experience": 12147,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4409505219"
+    }
+  }
+}

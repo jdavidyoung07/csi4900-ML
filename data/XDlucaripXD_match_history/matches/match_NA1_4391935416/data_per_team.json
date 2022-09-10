@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76362,
+      "total_gold_spent": 65825,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 145833,
+      "total_damage_dealt_to_objectives": 115435,
+      "total_damage_taken": 128314,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 125,
+      "average_champion_experience": 18084,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4391935416"
+    },
+    "200": {
+      "total_gold_earned": 61685,
+      "total_gold_spent": 62760,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 102224,
+      "total_damage_dealt_to_objectives": 59859,
+      "total_damage_taken": 173133,
+      "average_vision_score": 31,
+      "total_wards_placed": 70,
+      "average_creep_score": 126,
+      "average_champion_experience": 14148,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4391935416"
+    }
+  }
+}

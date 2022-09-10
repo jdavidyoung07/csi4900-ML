@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 26,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46140,
+      "total_gold_spent": 43275,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 74984,
+      "total_damage_dealt_to_objectives": 8473,
+      "total_damage_taken": 115731,
+      "average_vision_score": 13,
+      "total_wards_placed": 31,
+      "average_creep_score": 98,
+      "average_champion_experience": 11364,
+      "dmg_carry": "Nunu",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4019300858"
+    },
+    "200": {
+      "total_gold_earned": 59595,
+      "total_gold_spent": 54350,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 97118,
+      "total_damage_dealt_to_objectives": 85045,
+      "total_damage_taken": 112367,
+      "average_vision_score": 16,
+      "total_wards_placed": 33,
+      "average_creep_score": 79,
+      "average_champion_experience": 13241,
+      "dmg_carry": "Renekton",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4019300858"
+    }
+  }
+}

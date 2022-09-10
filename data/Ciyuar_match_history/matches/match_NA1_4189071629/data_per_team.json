@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68640,
+      "total_gold_spent": 56220,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 106385,
+      "total_damage_dealt_to_objectives": 89391,
+      "total_damage_taken": 115049,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 129,
+      "average_champion_experience": 16539,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Cassiopeia",
+      "match_id": "NA1_4189071629"
+    },
+    "200": {
+      "total_gold_earned": 59115,
+      "total_gold_spent": 56765,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 75721,
+      "total_damage_dealt_to_objectives": 36302,
+      "total_damage_taken": 129394,
+      "average_vision_score": 38,
+      "total_wards_placed": 93,
+      "average_creep_score": 109,
+      "average_champion_experience": 12150,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4189071629"
+    }
+  }
+}

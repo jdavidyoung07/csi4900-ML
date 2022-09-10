@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44090,
+      "total_gold_spent": 40553,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 60584,
+      "total_damage_dealt_to_objectives": 21445,
+      "total_damage_taken": 93787,
+      "average_vision_score": 14,
+      "total_wards_placed": 32,
+      "average_creep_score": 89,
+      "average_champion_experience": 11167,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4042546905"
+    },
+    "200": {
+      "total_gold_earned": 53925,
+      "total_gold_spent": 49350,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 70716,
+      "total_damage_dealt_to_objectives": 68334,
+      "total_damage_taken": 87702,
+      "average_vision_score": 17,
+      "total_wards_placed": 47,
+      "average_creep_score": 104,
+      "average_champion_experience": 12051,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Sona",
+      "match_id": "NA1_4042546905"
+    }
+  }
+}

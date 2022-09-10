@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 86458,
+      "total_gold_spent": 83325,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 46,
+      "total_deaths": 71,
+      "total_damage_dealt_to_champions": 175163,
+      "total_damage_dealt_to_objectives": 131663,
+      "total_damage_taken": 236654,
+      "average_vision_score": 35,
+      "total_wards_placed": 87,
+      "average_creep_score": 138,
+      "average_champion_experience": 19776,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4132707074"
+    },
+    "200": {
+      "total_gold_earned": 92693,
+      "total_gold_spent": 83325,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 71,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 193625,
+      "total_damage_dealt_to_objectives": 86815,
+      "total_damage_taken": 230132,
+      "average_vision_score": 34,
+      "total_wards_placed": 45,
+      "average_creep_score": 167,
+      "average_champion_experience": 24682,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4132707074"
+    }
+  }
+}

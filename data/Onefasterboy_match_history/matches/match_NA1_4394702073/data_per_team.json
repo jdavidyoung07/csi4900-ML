@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63319,
+      "total_gold_spent": 58725,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 108125,
+      "total_damage_dealt_to_objectives": 77956,
+      "total_damage_taken": 129352,
+      "average_vision_score": 32,
+      "total_wards_placed": 39,
+      "average_creep_score": 109,
+      "average_champion_experience": 14184,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4394702073"
+    },
+    "200": {
+      "total_gold_earned": 54208,
+      "total_gold_spent": 56100,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 97496,
+      "total_damage_dealt_to_objectives": 27915,
+      "total_damage_taken": 138406,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 117,
+      "average_champion_experience": 12900,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4394702073"
+    }
+  }
+}

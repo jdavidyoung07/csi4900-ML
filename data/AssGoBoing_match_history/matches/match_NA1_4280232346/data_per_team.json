@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40013,
+      "total_gold_spent": 38085,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 58136,
+      "total_damage_dealt_to_objectives": 4221,
+      "total_damage_taken": 92193,
+      "average_vision_score": 17,
+      "total_wards_placed": 45,
+      "average_creep_score": 95,
+      "average_champion_experience": 10011,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4280232346"
+    },
+    "200": {
+      "total_gold_earned": 55664,
+      "total_gold_spent": 45570,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 72277,
+      "total_damage_dealt_to_objectives": 60786,
+      "total_damage_taken": 91409,
+      "average_vision_score": 15,
+      "total_wards_placed": 37,
+      "average_creep_score": 105,
+      "average_champion_experience": 12567,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4280232346"
+    }
+  }
+}

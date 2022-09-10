@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71830,
+      "total_gold_spent": 67800,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 82659,
+      "total_damage_dealt_to_objectives": 94314,
+      "total_damage_taken": 155708,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 145,
+      "average_champion_experience": 18761,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4213340868"
+    },
+    "200": {
+      "total_gold_earned": 74481,
+      "total_gold_spent": 66385,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 116264,
+      "total_damage_dealt_to_objectives": 60866,
+      "total_damage_taken": 121099,
+      "average_vision_score": 35,
+      "total_wards_placed": 70,
+      "average_creep_score": 151,
+      "average_champion_experience": 18950,
+      "dmg_carry": "Teemo",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4213340868"
+    }
+  }
+}

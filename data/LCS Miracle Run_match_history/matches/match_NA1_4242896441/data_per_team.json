@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75115,
+      "total_gold_spent": 69660,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 118395,
+      "total_damage_dealt_to_objectives": 98766,
+      "total_damage_taken": 144228,
+      "average_vision_score": 35,
+      "total_wards_placed": 73,
+      "average_creep_score": 138,
+      "average_champion_experience": 17619,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4242896441"
+    },
+    "200": {
+      "total_gold_earned": 68489,
+      "total_gold_spent": 65350,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 112354,
+      "total_damage_dealt_to_objectives": 54445,
+      "total_damage_taken": 152959,
+      "average_vision_score": 36,
+      "total_wards_placed": 71,
+      "average_creep_score": 154,
+      "average_champion_experience": 15660,
+      "dmg_carry": "Senna",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4242896441"
+    }
+  }
+}

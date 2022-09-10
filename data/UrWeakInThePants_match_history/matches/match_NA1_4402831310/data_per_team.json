@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93032,
+      "total_gold_spent": 91468,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 219036,
+      "total_damage_dealt_to_objectives": 117171,
+      "total_damage_taken": 264970,
+      "average_vision_score": 23,
+      "total_wards_placed": 53,
+      "average_creep_score": 182,
+      "average_champion_experience": 23661,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4402831310"
+    },
+    "200": {
+      "total_gold_earned": 100128,
+      "total_gold_spent": 92180,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 63,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 213353,
+      "total_damage_dealt_to_objectives": 107188,
+      "total_damage_taken": 247972,
+      "average_vision_score": 35,
+      "total_wards_placed": 82,
+      "average_creep_score": 172,
+      "average_champion_experience": 25062,
+      "dmg_carry": "Senna",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4402831310"
+    }
+  }
+}

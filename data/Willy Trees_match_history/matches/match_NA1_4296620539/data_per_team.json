@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84393,
+      "total_gold_spent": 80555,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 61,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 154045,
+      "total_damage_dealt_to_objectives": 85019,
+      "total_damage_taken": 200233,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 144,
+      "average_champion_experience": 20710,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Rammus",
+      "match_id": "NA1_4296620539"
+    },
+    "200": {
+      "total_gold_earned": 83105,
+      "total_gold_spent": 79005,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 158647,
+      "total_damage_dealt_to_objectives": 72781,
+      "total_damage_taken": 188856,
+      "average_vision_score": 39,
+      "total_wards_placed": 78,
+      "average_creep_score": 145,
+      "average_champion_experience": 20712,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4296620539"
+    }
+  }
+}

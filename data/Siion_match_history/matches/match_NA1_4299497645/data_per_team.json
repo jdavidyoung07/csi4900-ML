@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51843,
+      "total_gold_spent": 48325,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 90290,
+      "total_damage_dealt_to_objectives": 38263,
+      "total_damage_taken": 114446,
+      "average_vision_score": 28,
+      "total_wards_placed": 64,
+      "average_creep_score": 121,
+      "average_champion_experience": 12102,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4299497645"
+    },
+    "200": {
+      "total_gold_earned": 62927,
+      "total_gold_spent": 58250,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 87563,
+      "total_damage_dealt_to_objectives": 80025,
+      "total_damage_taken": 117670,
+      "average_vision_score": 29,
+      "total_wards_placed": 51,
+      "average_creep_score": 113,
+      "average_champion_experience": 14494,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4299497645"
+    }
+  }
+}

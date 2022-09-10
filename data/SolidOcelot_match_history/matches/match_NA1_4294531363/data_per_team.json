@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45502,
+      "total_gold_spent": 43125,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 65900,
+      "total_damage_dealt_to_objectives": 20918,
+      "total_damage_taken": 98668,
+      "average_vision_score": 19,
+      "total_wards_placed": 50,
+      "average_creep_score": 94,
+      "average_champion_experience": 10956,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4294531363"
+    },
+    "200": {
+      "total_gold_earned": 52419,
+      "total_gold_spent": 43750,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 79025,
+      "total_damage_dealt_to_objectives": 44318,
+      "total_damage_taken": 94707,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 109,
+      "average_champion_experience": 12353,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4294531363"
+    }
+  }
+}

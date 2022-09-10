@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50018,
+      "total_gold_spent": 48525,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 86711,
+      "total_damage_dealt_to_objectives": 32154,
+      "total_damage_taken": 129059,
+      "average_vision_score": 19,
+      "total_wards_placed": 52,
+      "average_creep_score": 110,
+      "average_champion_experience": 11455,
+      "dmg_carry": "Akali",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4397524691"
+    },
+    "200": {
+      "total_gold_earned": 60442,
+      "total_gold_spent": 51983,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 102552,
+      "total_damage_dealt_to_objectives": 97093,
+      "total_damage_taken": 112574,
+      "average_vision_score": 23,
+      "total_wards_placed": 55,
+      "average_creep_score": 106,
+      "average_champion_experience": 13579,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4397524691"
+    }
+  }
+}

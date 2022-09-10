@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58929,
+      "total_gold_spent": 56455,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 91648,
+      "total_damage_dealt_to_objectives": 72872,
+      "total_damage_taken": 146688,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 127,
+      "average_champion_experience": 14399,
+      "dmg_carry": "Swain",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4423138874"
+    },
+    "200": {
+      "total_gold_earned": 64416,
+      "total_gold_spent": 57610,
+      "team_comp": [
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 117990,
+      "total_damage_dealt_to_objectives": 72978,
+      "total_damage_taken": 114647,
+      "average_vision_score": 27,
+      "total_wards_placed": 53,
+      "average_creep_score": 131,
+      "average_champion_experience": 14900,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4423138874"
+    }
+  }
+}

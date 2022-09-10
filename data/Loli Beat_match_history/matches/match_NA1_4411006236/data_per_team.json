@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41975,
+      "total_gold_spent": 41115,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 60770,
+      "total_damage_dealt_to_objectives": 37836,
+      "total_damage_taken": 85051,
+      "average_vision_score": 27,
+      "total_wards_placed": 60,
+      "average_creep_score": 100,
+      "average_champion_experience": 9341,
+      "dmg_carry": "Varus",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4411006236"
+    },
+    "200": {
+      "total_gold_earned": 51049,
+      "total_gold_spent": 45435,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 68077,
+      "total_damage_dealt_to_objectives": 66441,
+      "total_damage_taken": 80365,
+      "average_vision_score": 18,
+      "total_wards_placed": 46,
+      "average_creep_score": 95,
+      "average_champion_experience": 11594,
+      "dmg_carry": "Elise",
+      "obj_carry": "Zyra",
+      "match_id": "NA1_4411006236"
+    }
+  }
+}

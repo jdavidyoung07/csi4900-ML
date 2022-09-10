@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63055,
+      "total_gold_spent": 57685,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 84766,
+      "total_damage_dealt_to_objectives": 83361,
+      "total_damage_taken": 125119,
+      "average_vision_score": 29,
+      "total_wards_placed": 48,
+      "average_creep_score": 135,
+      "average_champion_experience": 15623,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "LA1_1265917215"
+    },
+    "200": {
+      "total_gold_earned": 56062,
+      "total_gold_spent": 52680,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 92350,
+      "total_damage_dealt_to_objectives": 31443,
+      "total_damage_taken": 111579,
+      "average_vision_score": 43,
+      "total_wards_placed": 64,
+      "average_creep_score": 128,
+      "average_champion_experience": 13534,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Teemo",
+      "match_id": "LA1_1265917215"
+    }
+  }
+}

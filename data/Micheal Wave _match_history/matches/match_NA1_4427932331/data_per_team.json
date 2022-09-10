@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59504,
+      "total_gold_spent": 56875,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 96741,
+      "total_damage_dealt_to_objectives": 58261,
+      "total_damage_taken": 131036,
+      "average_vision_score": 30,
+      "total_wards_placed": 61,
+      "average_creep_score": 133,
+      "average_champion_experience": 13352,
+      "dmg_carry": "Viego",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4427932331"
+    },
+    "200": {
+      "total_gold_earned": 68661,
+      "total_gold_spent": 63195,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 103815,
+      "total_damage_dealt_to_objectives": 64635,
+      "total_damage_taken": 117247,
+      "average_vision_score": 27,
+      "total_wards_placed": 72,
+      "average_creep_score": 131,
+      "average_champion_experience": 16143,
+      "dmg_carry": "Zac",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4427932331"
+    }
+  }
+}

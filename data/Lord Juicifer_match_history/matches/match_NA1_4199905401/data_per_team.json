@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83168,
+      "total_gold_spent": 73275,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 149708,
+      "total_damage_dealt_to_objectives": 105405,
+      "total_damage_taken": 177429,
+      "average_vision_score": 37,
+      "total_wards_placed": 73,
+      "average_creep_score": 135,
+      "average_champion_experience": 20608,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4199905401"
+    },
+    "200": {
+      "total_gold_earned": 75304,
+      "total_gold_spent": 69125,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 135814,
+      "total_damage_dealt_to_objectives": 56861,
+      "total_damage_taken": 175468,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 139,
+      "average_champion_experience": 17862,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4199905401"
+    }
+  }
+}

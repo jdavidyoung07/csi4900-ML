@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67120,
+      "total_gold_spent": 62258,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 145135,
+      "total_damage_dealt_to_objectives": 29090,
+      "total_damage_taken": 143453,
+      "average_vision_score": 31,
+      "total_wards_placed": 81,
+      "average_creep_score": 125,
+      "average_champion_experience": 15732,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Jax",
+      "match_id": "NA1_3985379713"
+    },
+    "200": {
+      "total_gold_earned": 72490,
+      "total_gold_spent": 68600,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 119301,
+      "total_damage_dealt_to_objectives": 93968,
+      "total_damage_taken": 181418,
+      "average_vision_score": 37,
+      "total_wards_placed": 65,
+      "average_creep_score": 131,
+      "average_champion_experience": 16152,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_3985379713"
+    }
+  }
+}

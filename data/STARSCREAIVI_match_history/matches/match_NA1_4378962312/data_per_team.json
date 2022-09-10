@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51646,
+      "total_gold_spent": 48585,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 71431,
+      "total_damage_dealt_to_objectives": 21929,
+      "total_damage_taken": 123943,
+      "average_vision_score": 29,
+      "total_wards_placed": 56,
+      "average_creep_score": 121,
+      "average_champion_experience": 12193,
+      "dmg_carry": "Vex",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4378962312"
+    },
+    "200": {
+      "total_gold_earned": 63087,
+      "total_gold_spent": 57475,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 101282,
+      "total_damage_dealt_to_objectives": 85460,
+      "total_damage_taken": 101078,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 114,
+      "average_champion_experience": 13983,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4378962312"
+    }
+  }
+}

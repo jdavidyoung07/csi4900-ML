@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 102598,
+      "total_gold_spent": 101275,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 5,
+      "total_kills": 57,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 244597,
+      "total_damage_dealt_to_objectives": 117709,
+      "total_damage_taken": 270649,
+      "average_vision_score": 42,
+      "total_wards_placed": 72,
+      "average_creep_score": 170,
+      "average_champion_experience": 25188,
+      "dmg_carry": "Yone",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4329497223"
+    },
+    "200": {
+      "total_gold_earned": 93905,
+      "total_gold_spent": 92825,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 57,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 218808,
+      "total_damage_dealt_to_objectives": 93114,
+      "total_damage_taken": 285503,
+      "average_vision_score": 30,
+      "total_wards_placed": 60,
+      "average_creep_score": 174,
+      "average_champion_experience": 24766,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4329497223"
+    }
+  }
+}

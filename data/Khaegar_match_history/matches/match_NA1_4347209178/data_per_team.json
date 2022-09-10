@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65776,
+      "total_gold_spent": 62220,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 123012,
+      "total_damage_dealt_to_objectives": 36143,
+      "total_damage_taken": 167967,
+      "average_vision_score": 30,
+      "total_wards_placed": 78,
+      "average_creep_score": 113,
+      "average_champion_experience": 15017,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4347209178"
+    },
+    "200": {
+      "total_gold_earned": 71704,
+      "total_gold_spent": 65825,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 146096,
+      "total_damage_dealt_to_objectives": 72330,
+      "total_damage_taken": 154960,
+      "average_vision_score": 29,
+      "total_wards_placed": 65,
+      "average_creep_score": 115,
+      "average_champion_experience": 16662,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4347209178"
+    }
+  }
+}

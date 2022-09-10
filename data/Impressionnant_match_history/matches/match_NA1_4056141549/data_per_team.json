@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44050,
+      "total_gold_spent": 40100,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 46997,
+      "total_damage_dealt_to_objectives": 45678,
+      "total_damage_taken": 73649,
+      "average_vision_score": 18,
+      "total_wards_placed": 32,
+      "average_creep_score": 87,
+      "average_champion_experience": 9524,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4056141549"
+    },
+    "200": {
+      "total_gold_earned": 31783,
+      "total_gold_spent": 28250,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 38692,
+      "total_damage_dealt_to_objectives": 12623,
+      "total_damage_taken": 63380,
+      "average_vision_score": 16,
+      "total_wards_placed": 49,
+      "average_creep_score": 69,
+      "average_champion_experience": 7961,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4056141549"
+    }
+  }
+}

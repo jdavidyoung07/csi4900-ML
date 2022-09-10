@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74015,
+      "total_gold_spent": 66483,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 98250,
+      "total_damage_dealt_to_objectives": 82329,
+      "total_damage_taken": 113939,
+      "average_vision_score": 46,
+      "total_wards_placed": 78,
+      "average_creep_score": 144,
+      "average_champion_experience": 16506,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4185207821"
+    },
+    "200": {
+      "total_gold_earned": 58385,
+      "total_gold_spent": 56085,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 83890,
+      "total_damage_dealt_to_objectives": 26410,
+      "total_damage_taken": 128963,
+      "average_vision_score": 34,
+      "total_wards_placed": 87,
+      "average_creep_score": 145,
+      "average_champion_experience": 14234,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4185207821"
+    }
+  }
+}

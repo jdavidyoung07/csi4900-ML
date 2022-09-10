@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49270,
+      "total_gold_spent": 43693,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 58364,
+      "total_damage_dealt_to_objectives": 76912,
+      "total_damage_taken": 69661,
+      "average_vision_score": 22,
+      "total_wards_placed": 46,
+      "average_creep_score": 89,
+      "average_champion_experience": 12015,
+      "dmg_carry": "Akali",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4406641371"
+    },
+    "200": {
+      "total_gold_earned": 38231,
+      "total_gold_spent": 35685,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 41812,
+      "total_damage_dealt_to_objectives": 38802,
+      "total_damage_taken": 81495,
+      "average_vision_score": 18,
+      "total_wards_placed": 49,
+      "average_creep_score": 99,
+      "average_champion_experience": 9152,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4406641371"
+    }
+  }
+}

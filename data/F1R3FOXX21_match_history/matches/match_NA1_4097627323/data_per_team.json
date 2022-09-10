@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55541,
+      "total_gold_spent": 51550,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 70610,
+      "total_damage_dealt_to_objectives": 32387,
+      "total_damage_taken": 117867,
+      "average_vision_score": 36,
+      "total_wards_placed": 75,
+      "average_creep_score": 138,
+      "average_champion_experience": 14017,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4097627323"
+    },
+    "200": {
+      "total_gold_earned": 63238,
+      "total_gold_spent": 56650,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 94695,
+      "total_damage_dealt_to_objectives": 46459,
+      "total_damage_taken": 98932,
+      "average_vision_score": 29,
+      "total_wards_placed": 61,
+      "average_creep_score": 138,
+      "average_champion_experience": 15606,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4097627323"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74366,
+      "total_gold_spent": 70650,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 168777,
+      "total_damage_dealt_to_objectives": 53651,
+      "total_damage_taken": 168906,
+      "average_vision_score": 31,
+      "total_wards_placed": 85,
+      "average_creep_score": 144,
+      "average_champion_experience": 17854,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4160538061"
+    },
+    "200": {
+      "total_gold_earned": 73922,
+      "total_gold_spent": 67965,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 134206,
+      "total_damage_dealt_to_objectives": 66642,
+      "total_damage_taken": 204513,
+      "average_vision_score": 31,
+      "total_wards_placed": 55,
+      "average_creep_score": 134,
+      "average_champion_experience": 17907,
+      "dmg_carry": "Akali",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4160538061"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68124,
+      "total_gold_spent": 63435,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 108108,
+      "total_damage_dealt_to_objectives": 66203,
+      "total_damage_taken": 151167,
+      "average_vision_score": 36,
+      "total_wards_placed": 56,
+      "average_creep_score": 154,
+      "average_champion_experience": 16353,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4381678458"
+    },
+    "200": {
+      "total_gold_earned": 57623,
+      "total_gold_spent": 54300,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 113005,
+      "total_damage_dealt_to_objectives": 29062,
+      "total_damage_taken": 133266,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 132,
+      "average_champion_experience": 14592,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4381678458"
+    }
+  }
+}

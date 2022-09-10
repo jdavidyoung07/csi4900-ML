@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64198,
+      "total_gold_spent": 65788,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 93564,
+      "total_damage_dealt_to_objectives": 84199,
+      "total_damage_taken": 147917,
+      "average_vision_score": 33,
+      "total_wards_placed": 74,
+      "average_creep_score": 141,
+      "average_champion_experience": 15847,
+      "dmg_carry": "Akali",
+      "obj_carry": "Syndra",
+      "match_id": "NA1_4253106674"
+    },
+    "200": {
+      "total_gold_earned": 65149,
+      "total_gold_spent": 54785,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 118558,
+      "total_damage_dealt_to_objectives": 63430,
+      "total_damage_taken": 119815,
+      "average_vision_score": 35,
+      "total_wards_placed": 71,
+      "average_creep_score": 148,
+      "average_champion_experience": 16832,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4253106674"
+    }
+  }
+}

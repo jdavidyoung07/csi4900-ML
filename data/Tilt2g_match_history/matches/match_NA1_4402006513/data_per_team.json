@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78759,
+      "total_gold_spent": 67925,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 206014,
+      "total_damage_dealt_to_objectives": 47030,
+      "total_damage_taken": 178059,
+      "average_vision_score": 40,
+      "total_wards_placed": 56,
+      "average_creep_score": 167,
+      "average_champion_experience": 19161,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4402006513"
+    },
+    "200": {
+      "total_gold_earned": 85489,
+      "total_gold_spent": 76125,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 148848,
+      "total_damage_dealt_to_objectives": 160835,
+      "total_damage_taken": 262466,
+      "average_vision_score": 37,
+      "total_wards_placed": 66,
+      "average_creep_score": 144,
+      "average_champion_experience": 21583,
+      "dmg_carry": "Swain",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4402006513"
+    }
+  }
+}

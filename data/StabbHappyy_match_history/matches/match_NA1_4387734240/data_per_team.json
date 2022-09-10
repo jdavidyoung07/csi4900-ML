@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58630,
+      "total_gold_spent": 48550,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 102701,
+      "total_damage_dealt_to_objectives": 81622,
+      "total_damage_taken": 106702,
+      "average_vision_score": 27,
+      "total_wards_placed": 58,
+      "average_creep_score": 104,
+      "average_champion_experience": 13089,
+      "dmg_carry": "Brand",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4387734240"
+    },
+    "200": {
+      "total_gold_earned": 42367,
+      "total_gold_spent": 39900,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 76747,
+      "total_damage_dealt_to_objectives": 28419,
+      "total_damage_taken": 123331,
+      "average_vision_score": 26,
+      "total_wards_placed": 64,
+      "average_creep_score": 98,
+      "average_champion_experience": 10037,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4387734240"
+    }
+  }
+}

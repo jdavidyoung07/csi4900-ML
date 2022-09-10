@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75317,
+      "total_gold_spent": 72055,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 180324,
+      "total_damage_dealt_to_objectives": 53178,
+      "total_damage_taken": 227540,
+      "average_vision_score": 39,
+      "total_wards_placed": 72,
+      "average_creep_score": 151,
+      "average_champion_experience": 17520,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4190719277"
+    },
+    "200": {
+      "total_gold_earned": 80464,
+      "total_gold_spent": 71550,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 165987,
+      "total_damage_dealt_to_objectives": 98577,
+      "total_damage_taken": 193645,
+      "average_vision_score": 31,
+      "total_wards_placed": 79,
+      "average_creep_score": 137,
+      "average_champion_experience": 19348,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4190719277"
+    }
+  }
+}

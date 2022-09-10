@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52018,
+      "total_gold_spent": 50625,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 72953,
+      "total_damage_dealt_to_objectives": 21317,
+      "total_damage_taken": 125356,
+      "average_vision_score": 15,
+      "total_wards_placed": 42,
+      "average_creep_score": 123,
+      "average_champion_experience": 13657,
+      "dmg_carry": "Corki",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4136003108"
+    },
+    "200": {
+      "total_gold_earned": 61041,
+      "total_gold_spent": 54810,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 97230,
+      "total_damage_dealt_to_objectives": 103713,
+      "total_damage_taken": 96986,
+      "average_vision_score": 24,
+      "total_wards_placed": 49,
+      "average_creep_score": 122,
+      "average_champion_experience": 15039,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4136003108"
+    }
+  }
+}

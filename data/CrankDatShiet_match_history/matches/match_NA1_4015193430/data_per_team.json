@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 27,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49596,
+      "total_gold_spent": 48075,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 80285,
+      "total_damage_dealt_to_objectives": 34265,
+      "total_damage_taken": 114302,
+      "average_vision_score": 25,
+      "total_wards_placed": 52,
+      "average_creep_score": 103,
+      "average_champion_experience": 10971,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4015193430"
+    },
+    "200": {
+      "total_gold_earned": 56712,
+      "total_gold_spent": 50875,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 92730,
+      "total_damage_dealt_to_objectives": 48073,
+      "total_damage_taken": 108236,
+      "average_vision_score": 24,
+      "total_wards_placed": 52,
+      "average_creep_score": 105,
+      "average_champion_experience": 12794,
+      "dmg_carry": "Samira",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4015193430"
+    }
+  }
+}

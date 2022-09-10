@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31776,
+      "total_gold_spent": 31030,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 41172,
+      "total_damage_dealt_to_objectives": 27977,
+      "total_damage_taken": 92677,
+      "average_vision_score": 12,
+      "total_wards_placed": 35,
+      "average_creep_score": 89,
+      "average_champion_experience": 7975,
+      "dmg_carry": "Jax",
+      "obj_carry": "Renata",
+      "match_id": "NA1_4394443671"
+    },
+    "200": {
+      "total_gold_earned": 46399,
+      "total_gold_spent": 39325,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 65823,
+      "total_damage_dealt_to_objectives": 79940,
+      "total_damage_taken": 65798,
+      "average_vision_score": 15,
+      "total_wards_placed": 34,
+      "average_creep_score": 86,
+      "average_champion_experience": 11695,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4394443671"
+    }
+  }
+}

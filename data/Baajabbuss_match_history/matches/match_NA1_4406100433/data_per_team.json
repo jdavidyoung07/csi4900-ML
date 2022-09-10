@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63701,
+      "total_gold_spent": 56650,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 103438,
+      "total_damage_dealt_to_objectives": 62957,
+      "total_damage_taken": 113015,
+      "average_vision_score": 26,
+      "total_wards_placed": 50,
+      "average_creep_score": 111,
+      "average_champion_experience": 14801,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4406100433"
+    },
+    "200": {
+      "total_gold_earned": 53506,
+      "total_gold_spent": 52060,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 84743,
+      "total_damage_dealt_to_objectives": 66327,
+      "total_damage_taken": 124043,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 118,
+      "average_champion_experience": 12054,
+      "dmg_carry": "Zed",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4406100433"
+    }
+  }
+}

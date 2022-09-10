@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30641,
+      "total_gold_spent": 27075,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 25685,
+      "total_damage_dealt_to_objectives": 8965,
+      "total_damage_taken": 56360,
+      "average_vision_score": 8,
+      "total_wards_placed": 23,
+      "average_creep_score": 82,
+      "average_champion_experience": 7374,
+      "dmg_carry": "Lux",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4248114026"
+    },
+    "200": {
+      "total_gold_earned": 41921,
+      "total_gold_spent": 32550,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 22,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 40658,
+      "total_damage_dealt_to_objectives": 55438,
+      "total_damage_taken": 45469,
+      "average_vision_score": 15,
+      "total_wards_placed": 35,
+      "average_creep_score": 79,
+      "average_champion_experience": 8594,
+      "dmg_carry": "Senna",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4248114026"
+    }
+  }
+}

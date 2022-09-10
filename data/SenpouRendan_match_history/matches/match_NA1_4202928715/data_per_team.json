@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72313,
+      "total_gold_spent": 67310,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 107548,
+      "total_damage_dealt_to_objectives": 105333,
+      "total_damage_taken": 143129,
+      "average_vision_score": 26,
+      "total_wards_placed": 55,
+      "average_creep_score": 150,
+      "average_champion_experience": 17517,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4202928715"
+    },
+    "200": {
+      "total_gold_earned": 63943,
+      "total_gold_spent": 60580,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 104771,
+      "total_damage_dealt_to_objectives": 42199,
+      "total_damage_taken": 135782,
+      "average_vision_score": 31,
+      "total_wards_placed": 67,
+      "average_creep_score": 130,
+      "average_champion_experience": 15297,
+      "dmg_carry": "Camille",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4202928715"
+    }
+  }
+}

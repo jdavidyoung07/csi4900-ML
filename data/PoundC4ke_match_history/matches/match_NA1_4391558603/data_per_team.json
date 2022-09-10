@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75357,
+      "total_gold_spent": 70458,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 142866,
+      "total_damage_dealt_to_objectives": 48302,
+      "total_damage_taken": 168904,
+      "average_vision_score": 33,
+      "total_wards_placed": 66,
+      "average_creep_score": 170,
+      "average_champion_experience": 18898,
+      "dmg_carry": "Yone",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4391558603"
+    },
+    "200": {
+      "total_gold_earned": 77167,
+      "total_gold_spent": 70275,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 6,
+      "total_kills": 39,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 124046,
+      "total_damage_dealt_to_objectives": 120138,
+      "total_damage_taken": 181051,
+      "average_vision_score": 39,
+      "total_wards_placed": 70,
+      "average_creep_score": 160,
+      "average_champion_experience": 18310,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4391558603"
+    }
+  }
+}

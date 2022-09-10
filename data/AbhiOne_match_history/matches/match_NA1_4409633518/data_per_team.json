@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66011,
+      "total_gold_spent": 62058,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 114182,
+      "total_damage_dealt_to_objectives": 70026,
+      "total_damage_taken": 137549,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 108,
+      "average_champion_experience": 15676,
+      "dmg_carry": "Darius",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4409633518"
+    },
+    "200": {
+      "total_gold_earned": 69615,
+      "total_gold_spent": 62425,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 113576,
+      "total_damage_dealt_to_objectives": 82932,
+      "total_damage_taken": 151149,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 115,
+      "average_champion_experience": 15567,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4409633518"
+    }
+  }
+}

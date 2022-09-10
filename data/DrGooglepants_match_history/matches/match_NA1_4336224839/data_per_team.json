@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52375,
+      "total_gold_spent": 50615,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 76123,
+      "total_damage_dealt_to_objectives": 15426,
+      "total_damage_taken": 149589,
+      "average_vision_score": 22,
+      "total_wards_placed": 53,
+      "average_creep_score": 135,
+      "average_champion_experience": 12203,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4336224839"
+    },
+    "200": {
+      "total_gold_earned": 65656,
+      "total_gold_spent": 57250,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 49,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 126202,
+      "total_damage_dealt_to_objectives": 87686,
+      "total_damage_taken": 126272,
+      "average_vision_score": 32,
+      "total_wards_placed": 66,
+      "average_creep_score": 135,
+      "average_champion_experience": 16543,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4336224839"
+    }
+  }
+}

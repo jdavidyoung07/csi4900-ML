@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47895,
+      "total_gold_spent": 46740,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 74442,
+      "total_damage_dealt_to_objectives": 32032,
+      "total_damage_taken": 97540,
+      "average_vision_score": 27,
+      "total_wards_placed": 54,
+      "average_creep_score": 94,
+      "average_champion_experience": 10482,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_4325044883"
+    },
+    "200": {
+      "total_gold_earned": 53479,
+      "total_gold_spent": 49825,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 72981,
+      "total_damage_dealt_to_objectives": 47844,
+      "total_damage_taken": 101311,
+      "average_vision_score": 19,
+      "total_wards_placed": 45,
+      "average_creep_score": 107,
+      "average_champion_experience": 12069,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4325044883"
+    }
+  }
+}

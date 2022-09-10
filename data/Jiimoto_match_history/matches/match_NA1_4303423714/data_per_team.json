@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57034,
+      "total_gold_spent": 55825,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 86567,
+      "total_damage_dealt_to_objectives": 57292,
+      "total_damage_taken": 153236,
+      "average_vision_score": 34,
+      "total_wards_placed": 65,
+      "average_creep_score": 130,
+      "average_champion_experience": 13263,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4303423714"
+    },
+    "200": {
+      "total_gold_earned": 57964,
+      "total_gold_spent": 51350,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 120786,
+      "total_damage_dealt_to_objectives": 36966,
+      "total_damage_taken": 118256,
+      "average_vision_score": 33,
+      "total_wards_placed": 68,
+      "average_creep_score": 118,
+      "average_champion_experience": 14145,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4303423714"
+    }
+  }
+}

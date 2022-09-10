@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48636,
+      "total_gold_spent": 46100,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 61749,
+      "total_damage_dealt_to_objectives": 51764,
+      "total_damage_taken": 99483,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 110,
+      "average_champion_experience": 11989,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4243199541"
+    },
+    "200": {
+      "total_gold_earned": 54104,
+      "total_gold_spent": 45410,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 73374,
+      "total_damage_dealt_to_objectives": 37617,
+      "total_damage_taken": 87514,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 121,
+      "average_champion_experience": 12533,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4243199541"
+    }
+  }
+}

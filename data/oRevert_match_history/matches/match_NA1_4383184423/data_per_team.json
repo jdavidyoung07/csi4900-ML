@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64499,
+      "total_gold_spent": 60460,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 123434,
+      "total_damage_dealt_to_objectives": 29966,
+      "total_damage_taken": 148912,
+      "average_vision_score": 22,
+      "total_wards_placed": 54,
+      "average_creep_score": 128,
+      "average_champion_experience": 16754,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4383184423"
+    },
+    "200": {
+      "total_gold_earned": 69054,
+      "total_gold_spent": 60325,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 32,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 120760,
+      "total_damage_dealt_to_objectives": 99495,
+      "total_damage_taken": 178102,
+      "average_vision_score": 15,
+      "total_wards_placed": 38,
+      "average_creep_score": 127,
+      "average_champion_experience": 17558,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4383184423"
+    }
+  }
+}

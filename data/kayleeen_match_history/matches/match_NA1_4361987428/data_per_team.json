@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85550,
+      "total_gold_spent": 88315,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 189619,
+      "total_damage_dealt_to_objectives": 54503,
+      "total_damage_taken": 209640,
+      "average_vision_score": 40,
+      "total_wards_placed": 105,
+      "average_creep_score": 151,
+      "average_champion_experience": 19394,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Kennen",
+      "match_id": "NA1_4361987428"
+    },
+    "200": {
+      "total_gold_earned": 88039,
+      "total_gold_spent": 80635,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 60,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 185693,
+      "total_damage_dealt_to_objectives": 86740,
+      "total_damage_taken": 237475,
+      "average_vision_score": 45,
+      "total_wards_placed": 61,
+      "average_creep_score": 144,
+      "average_champion_experience": 21549,
+      "dmg_carry": "Maokai",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4361987428"
+    }
+  }
+}

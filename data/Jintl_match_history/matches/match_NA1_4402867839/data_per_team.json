@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93263,
+      "total_gold_spent": 100840,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 57,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 225210,
+      "total_damage_dealt_to_objectives": 71365,
+      "total_damage_taken": 236451,
+      "average_vision_score": 42,
+      "total_wards_placed": 83,
+      "average_creep_score": 159,
+      "average_champion_experience": 21541,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4402867839"
+    },
+    "200": {
+      "total_gold_earned": 95261,
+      "total_gold_spent": 83575,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 205531,
+      "total_damage_dealt_to_objectives": 136381,
+      "total_damage_taken": 262294,
+      "average_vision_score": 51,
+      "total_wards_placed": 113,
+      "average_creep_score": 176,
+      "average_champion_experience": 24425,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4402867839"
+    }
+  }
+}

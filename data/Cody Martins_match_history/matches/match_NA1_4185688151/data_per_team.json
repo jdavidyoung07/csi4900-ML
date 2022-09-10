@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54641,
+      "total_gold_spent": 50175,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 124894,
+      "total_damage_dealt_to_objectives": 30614,
+      "total_damage_taken": 119936,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 107,
+      "average_champion_experience": 12381,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4185688151"
+    },
+    "200": {
+      "total_gold_earned": 64818,
+      "total_gold_spent": 60400,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 94730,
+      "total_damage_dealt_to_objectives": 71629,
+      "total_damage_taken": 159292,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 104,
+      "average_champion_experience": 14938,
+      "dmg_carry": "Kled",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4185688151"
+    }
+  }
+}

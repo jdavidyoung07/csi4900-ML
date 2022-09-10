@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81862,
+      "total_gold_spent": 74808,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 129722,
+      "total_damage_dealt_to_objectives": 41636,
+      "total_damage_taken": 138108,
+      "average_vision_score": 37,
+      "total_wards_placed": 68,
+      "average_creep_score": 180,
+      "average_champion_experience": 19326,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4207319321"
+    },
+    "200": {
+      "total_gold_earned": 85228,
+      "total_gold_spent": 81655,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 38,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 111875,
+      "total_damage_dealt_to_objectives": 100773,
+      "total_damage_taken": 175442,
+      "average_vision_score": 38,
+      "total_wards_placed": 77,
+      "average_creep_score": 170,
+      "average_champion_experience": 20760,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4207319321"
+    }
+  }
+}

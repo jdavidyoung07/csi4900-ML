@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51252,
+      "total_gold_spent": 49268,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 82369,
+      "total_damage_dealt_to_objectives": 39613,
+      "total_damage_taken": 141189,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 104,
+      "average_champion_experience": 10978,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4393716969"
+    },
+    "200": {
+      "total_gold_earned": 67254,
+      "total_gold_spent": 60410,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 126334,
+      "total_damage_dealt_to_objectives": 78938,
+      "total_damage_taken": 125941,
+      "average_vision_score": 26,
+      "total_wards_placed": 56,
+      "average_creep_score": 102,
+      "average_champion_experience": 14742,
+      "dmg_carry": "Draven",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4393716969"
+    }
+  }
+}

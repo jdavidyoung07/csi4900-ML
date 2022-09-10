@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71259,
+      "total_gold_spent": 65425,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 133285,
+      "total_damage_dealt_to_objectives": 31929,
+      "total_damage_taken": 151781,
+      "average_vision_score": 31,
+      "total_wards_placed": 74,
+      "average_creep_score": 150,
+      "average_champion_experience": 18633,
+      "dmg_carry": "Jax",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4306238415"
+    },
+    "200": {
+      "total_gold_earned": 72651,
+      "total_gold_spent": 66950,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 119927,
+      "total_damage_dealt_to_objectives": 90246,
+      "total_damage_taken": 168354,
+      "average_vision_score": 40,
+      "total_wards_placed": 87,
+      "average_creep_score": 136,
+      "average_champion_experience": 16834,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4306238415"
+    }
+  }
+}

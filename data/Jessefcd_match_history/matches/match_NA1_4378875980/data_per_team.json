@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70624,
+      "total_gold_spent": 63100,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 109176,
+      "total_damage_dealt_to_objectives": 96356,
+      "total_damage_taken": 152292,
+      "average_vision_score": 37,
+      "total_wards_placed": 81,
+      "average_creep_score": 143,
+      "average_champion_experience": 17679,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4378875980"
+    },
+    "200": {
+      "total_gold_earned": 67409,
+      "total_gold_spent": 62665,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 114933,
+      "total_damage_dealt_to_objectives": 41207,
+      "total_damage_taken": 136711,
+      "average_vision_score": 46,
+      "total_wards_placed": 105,
+      "average_creep_score": 136,
+      "average_champion_experience": 16346,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4378875980"
+    }
+  }
+}

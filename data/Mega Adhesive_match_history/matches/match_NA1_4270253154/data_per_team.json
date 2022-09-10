@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68372,
+      "total_gold_spent": 67475,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 115911,
+      "total_damage_dealt_to_objectives": 50371,
+      "total_damage_taken": 141960,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 133,
+      "average_champion_experience": 15369,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4270253154"
+    },
+    "200": {
+      "total_gold_earned": 71414,
+      "total_gold_spent": 65625,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 117643,
+      "total_damage_dealt_to_objectives": 72359,
+      "total_damage_taken": 147316,
+      "average_vision_score": 29,
+      "total_wards_placed": 60,
+      "average_creep_score": 128,
+      "average_champion_experience": 18035,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4270253154"
+    }
+  }
+}

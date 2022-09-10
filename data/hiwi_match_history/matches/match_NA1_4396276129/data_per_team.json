@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45221,
+      "total_gold_spent": 42975,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 67557,
+      "total_damage_dealt_to_objectives": 27122,
+      "total_damage_taken": 105685,
+      "average_vision_score": 17,
+      "total_wards_placed": 46,
+      "average_creep_score": 107,
+      "average_champion_experience": 10048,
+      "dmg_carry": "Samira",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4396276129"
+    },
+    "200": {
+      "total_gold_earned": 57966,
+      "total_gold_spent": 51260,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 82788,
+      "total_damage_dealt_to_objectives": 85070,
+      "total_damage_taken": 100829,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 106,
+      "average_champion_experience": 12940,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4396276129"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46963,
+      "total_gold_spent": 45675,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 87680,
+      "total_damage_dealt_to_objectives": 15937,
+      "total_damage_taken": 109551,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 100,
+      "average_champion_experience": 11325,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Kennen",
+      "match_id": "NA1_4027554853"
+    },
+    "200": {
+      "total_gold_earned": 61304,
+      "total_gold_spent": 53343,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 90535,
+      "total_damage_dealt_to_objectives": 85869,
+      "total_damage_taken": 124061,
+      "average_vision_score": 27,
+      "total_wards_placed": 62,
+      "average_creep_score": 95,
+      "average_champion_experience": 13605,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4027554853"
+    }
+  }
+}

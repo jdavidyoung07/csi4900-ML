@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49139,
+      "total_gold_spent": 47595,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 59007,
+      "total_damage_dealt_to_objectives": 28940,
+      "total_damage_taken": 113631,
+      "average_vision_score": 26,
+      "total_wards_placed": 47,
+      "average_creep_score": 121,
+      "average_champion_experience": 12507,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4242495716"
+    },
+    "200": {
+      "total_gold_earned": 61741,
+      "total_gold_spent": 54075,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 40,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 90389,
+      "total_damage_dealt_to_objectives": 85383,
+      "total_damage_taken": 88731,
+      "average_vision_score": 32,
+      "total_wards_placed": 59,
+      "average_creep_score": 114,
+      "average_champion_experience": 14653,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4242495716"
+    }
+  }
+}

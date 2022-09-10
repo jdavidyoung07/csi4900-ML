@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55123,
+      "total_gold_spent": 51550,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 89132,
+      "total_damage_dealt_to_objectives": 25626,
+      "total_damage_taken": 141207,
+      "average_vision_score": 21,
+      "total_wards_placed": 59,
+      "average_creep_score": 91,
+      "average_champion_experience": 11802,
+      "dmg_carry": "Kennen",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4415733260"
+    },
+    "200": {
+      "total_gold_earned": 66400,
+      "total_gold_spent": 59820,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 60,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 118158,
+      "total_damage_dealt_to_objectives": 84998,
+      "total_damage_taken": 129761,
+      "average_vision_score": 20,
+      "total_wards_placed": 32,
+      "average_creep_score": 102,
+      "average_champion_experience": 14947,
+      "dmg_carry": "Viego",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4415733260"
+    }
+  }
+}

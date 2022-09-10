@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 33,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65135,
+      "total_gold_spent": 59600,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 119926,
+      "total_damage_dealt_to_objectives": 45253,
+      "total_damage_taken": 141098,
+      "average_vision_score": 27,
+      "total_wards_placed": 58,
+      "average_creep_score": 125,
+      "average_champion_experience": 15782,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4011205909"
+    },
+    "200": {
+      "total_gold_earned": 72973,
+      "total_gold_spent": 63100,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 112619,
+      "total_damage_dealt_to_objectives": 74526,
+      "total_damage_taken": 147259,
+      "average_vision_score": 39,
+      "total_wards_placed": 68,
+      "average_creep_score": 141,
+      "average_champion_experience": 17362,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4011205909"
+    }
+  }
+}

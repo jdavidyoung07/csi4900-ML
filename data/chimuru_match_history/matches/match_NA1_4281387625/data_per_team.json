@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60915,
+      "total_gold_spent": 56750,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 98224,
+      "total_damage_dealt_to_objectives": 48099,
+      "total_damage_taken": 147067,
+      "average_vision_score": 32,
+      "total_wards_placed": 71,
+      "average_creep_score": 139,
+      "average_champion_experience": 14174,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4281387625"
+    },
+    "200": {
+      "total_gold_earned": 69007,
+      "total_gold_spent": 62375,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 115626,
+      "total_damage_dealt_to_objectives": 56949,
+      "total_damage_taken": 134428,
+      "average_vision_score": 31,
+      "total_wards_placed": 63,
+      "average_creep_score": 133,
+      "average_champion_experience": 15907,
+      "dmg_carry": "Senna",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4281387625"
+    }
+  }
+}

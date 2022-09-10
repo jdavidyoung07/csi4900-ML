@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65350,
+      "total_gold_spent": 59960,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 118991,
+      "total_damage_dealt_to_objectives": 24704,
+      "total_damage_taken": 189608,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 152,
+      "average_champion_experience": 15442,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4391168235"
+    },
+    "200": {
+      "total_gold_earned": 72089,
+      "total_gold_spent": 66080,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 160419,
+      "total_damage_dealt_to_objectives": 129119,
+      "total_damage_taken": 163240,
+      "average_vision_score": 31,
+      "total_wards_placed": 63,
+      "average_creep_score": 143,
+      "average_champion_experience": 17514,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4391168235"
+    }
+  }
+}

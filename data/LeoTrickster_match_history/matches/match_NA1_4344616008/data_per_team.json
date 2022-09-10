@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65372,
+      "total_gold_spent": 61325,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 142001,
+      "total_damage_dealt_to_objectives": 36960,
+      "total_damage_taken": 148569,
+      "average_vision_score": 51,
+      "total_wards_placed": 115,
+      "average_creep_score": 150,
+      "average_champion_experience": 15841,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4344616008"
+    },
+    "200": {
+      "total_gold_earned": 72704,
+      "total_gold_spent": 67600,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 130267,
+      "total_damage_dealt_to_objectives": 75660,
+      "total_damage_taken": 179219,
+      "average_vision_score": 34,
+      "total_wards_placed": 74,
+      "average_creep_score": 134,
+      "average_champion_experience": 17285,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4344616008"
+    }
+  }
+}

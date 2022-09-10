@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 38,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 82665,
+      "total_gold_spent": 78100,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 61,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 171282,
+      "total_damage_dealt_to_objectives": 113766,
+      "total_damage_taken": 207362,
+      "average_vision_score": 27,
+      "total_wards_placed": 68,
+      "average_creep_score": 123,
+      "average_champion_experience": 21221,
+      "dmg_carry": "Swain",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4026006079"
+    },
+    "200": {
+      "total_gold_earned": 72558,
+      "total_gold_spent": 68905,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 152714,
+      "total_damage_dealt_to_objectives": 22841,
+      "total_damage_taken": 194347,
+      "average_vision_score": 32,
+      "total_wards_placed": 59,
+      "average_creep_score": 122,
+      "average_champion_experience": 17045,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4026006079"
+    }
+  }
+}

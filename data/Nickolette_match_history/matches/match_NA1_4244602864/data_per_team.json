@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58526,
+      "total_gold_spent": 52125,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 85966,
+      "total_damage_dealt_to_objectives": 90813,
+      "total_damage_taken": 94803,
+      "average_vision_score": 24,
+      "total_wards_placed": 51,
+      "average_creep_score": 111,
+      "average_champion_experience": 13836,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4244602864"
+    },
+    "200": {
+      "total_gold_earned": 49287,
+      "total_gold_spent": 47778,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 61914,
+      "total_damage_dealt_to_objectives": 15218,
+      "total_damage_taken": 113258,
+      "average_vision_score": 19,
+      "total_wards_placed": 38,
+      "average_creep_score": 116,
+      "average_champion_experience": 12060,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4244602864"
+    }
+  }
+}

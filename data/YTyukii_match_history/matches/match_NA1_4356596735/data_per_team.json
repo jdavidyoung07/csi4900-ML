@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53305,
+      "total_gold_spent": 50095,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 82598,
+      "total_damage_dealt_to_objectives": 23884,
+      "total_damage_taken": 124752,
+      "average_vision_score": 21,
+      "total_wards_placed": 47,
+      "average_creep_score": 113,
+      "average_champion_experience": 12849,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4356596735"
+    },
+    "200": {
+      "total_gold_earned": 60070,
+      "total_gold_spent": 53325,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 101938,
+      "total_damage_dealt_to_objectives": 66647,
+      "total_damage_taken": 109715,
+      "average_vision_score": 14,
+      "total_wards_placed": 34,
+      "average_creep_score": 112,
+      "average_champion_experience": 13830,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4356596735"
+    }
+  }
+}

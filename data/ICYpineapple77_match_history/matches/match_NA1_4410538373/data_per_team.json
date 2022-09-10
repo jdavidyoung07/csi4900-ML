@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51780,
+      "total_gold_spent": 49260,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 101586,
+      "total_damage_dealt_to_objectives": 54146,
+      "total_damage_taken": 135147,
+      "average_vision_score": 15,
+      "total_wards_placed": 41,
+      "average_creep_score": 86,
+      "average_champion_experience": 11579,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4410538373"
+    },
+    "200": {
+      "total_gold_earned": 58315,
+      "total_gold_spent": 53675,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 113891,
+      "total_damage_dealt_to_objectives": 53716,
+      "total_damage_taken": 136875,
+      "average_vision_score": 22,
+      "total_wards_placed": 43,
+      "average_creep_score": 101,
+      "average_champion_experience": 12265,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4410538373"
+    }
+  }
+}

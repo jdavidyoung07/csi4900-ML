@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50948,
+      "total_gold_spent": 49025,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 92101,
+      "total_damage_dealt_to_objectives": 11421,
+      "total_damage_taken": 110081,
+      "average_vision_score": 22,
+      "total_wards_placed": 69,
+      "average_creep_score": 112,
+      "average_champion_experience": 11870,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4413176769"
+    },
+    "200": {
+      "total_gold_earned": 64384,
+      "total_gold_spent": 54710,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 91963,
+      "total_damage_dealt_to_objectives": 85820,
+      "total_damage_taken": 115583,
+      "average_vision_score": 35,
+      "total_wards_placed": 71,
+      "average_creep_score": 110,
+      "average_champion_experience": 14886,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4413176769"
+    }
+  }
+}

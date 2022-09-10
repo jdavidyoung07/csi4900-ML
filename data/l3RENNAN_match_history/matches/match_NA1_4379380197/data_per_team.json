@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53961,
+      "total_gold_spent": 51225,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 141200,
+      "total_damage_dealt_to_objectives": 35758,
+      "total_damage_taken": 138040,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 105,
+      "average_champion_experience": 12435,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4379380197"
+    },
+    "200": {
+      "total_gold_earned": 66883,
+      "total_gold_spent": 57825,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 114796,
+      "total_damage_dealt_to_objectives": 80723,
+      "total_damage_taken": 176478,
+      "average_vision_score": 28,
+      "total_wards_placed": 53,
+      "average_creep_score": 120,
+      "average_champion_experience": 15463,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4379380197"
+    }
+  }
+}

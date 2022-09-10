@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59686,
+      "total_gold_spent": 56525,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 110292,
+      "total_damage_dealt_to_objectives": 38156,
+      "total_damage_taken": 149769,
+      "average_vision_score": 29,
+      "total_wards_placed": 55,
+      "average_creep_score": 125,
+      "average_champion_experience": 14667,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4363930887"
+    },
+    "200": {
+      "total_gold_earned": 67954,
+      "total_gold_spent": 63575,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 118712,
+      "total_damage_dealt_to_objectives": 79622,
+      "total_damage_taken": 139479,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 115,
+      "average_champion_experience": 16029,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4363930887"
+    }
+  }
+}

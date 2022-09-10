@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73468,
+      "total_gold_spent": 67608,
+      "team_comp": [
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 56,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 163838,
+      "total_damage_dealt_to_objectives": 64878,
+      "total_damage_taken": 158207,
+      "average_vision_score": 35,
+      "total_wards_placed": 78,
+      "average_creep_score": 111,
+      "average_champion_experience": 16832,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4371677464"
+    },
+    "200": {
+      "total_gold_earned": 69185,
+      "total_gold_spent": 61860,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 126774,
+      "total_damage_dealt_to_objectives": 40512,
+      "total_damage_taken": 193439,
+      "average_vision_score": 40,
+      "total_wards_placed": 76,
+      "average_creep_score": 127,
+      "average_champion_experience": 15194,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4371677464"
+    }
+  }
+}

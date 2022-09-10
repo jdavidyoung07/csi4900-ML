@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 34,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60677,
+      "total_gold_spent": 56225,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 113507,
+      "total_damage_dealt_to_objectives": 31477,
+      "total_damage_taken": 140224,
+      "average_vision_score": 38,
+      "total_wards_placed": 88,
+      "average_creep_score": 127,
+      "average_champion_experience": 15055,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4011088695"
+    },
+    "200": {
+      "total_gold_earned": 70841,
+      "total_gold_spent": 64725,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 119418,
+      "total_damage_dealt_to_objectives": 96007,
+      "total_damage_taken": 137310,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 126,
+      "average_champion_experience": 16859,
+      "dmg_carry": "Garen",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4011088695"
+    }
+  }
+}

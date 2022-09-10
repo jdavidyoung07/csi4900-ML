@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 104643,
+      "total_gold_spent": 121035,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 66,
+      "total_deaths": 66,
+      "total_damage_dealt_to_champions": 213133,
+      "total_damage_dealt_to_objectives": 114711,
+      "total_damage_taken": 256616,
+      "average_vision_score": 61,
+      "total_wards_placed": 121,
+      "average_creep_score": 162,
+      "average_champion_experience": 27141,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4228174168"
+    },
+    "200": {
+      "total_gold_earned": 102252,
+      "total_gold_spent": 86890,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 66,
+      "total_deaths": 66,
+      "total_damage_dealt_to_champions": 213019,
+      "total_damage_dealt_to_objectives": 109987,
+      "total_damage_taken": 252089,
+      "average_vision_score": 36,
+      "total_wards_placed": 69,
+      "average_creep_score": 184,
+      "average_champion_experience": 26016,
+      "dmg_carry": "Ahri",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4228174168"
+    }
+  }
+}

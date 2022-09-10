@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53379,
+      "total_gold_spent": 50160,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 104165,
+      "total_damage_dealt_to_objectives": 21197,
+      "total_damage_taken": 146777,
+      "average_vision_score": 22,
+      "total_wards_placed": 52,
+      "average_creep_score": 107,
+      "average_champion_experience": 12957,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4413492182"
+    },
+    "200": {
+      "total_gold_earned": 63964,
+      "total_gold_spent": 54225,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 121142,
+      "total_damage_dealt_to_objectives": 112356,
+      "total_damage_taken": 145355,
+      "average_vision_score": 29,
+      "total_wards_placed": 61,
+      "average_creep_score": 102,
+      "average_champion_experience": 15316,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4413492182"
+    }
+  }
+}

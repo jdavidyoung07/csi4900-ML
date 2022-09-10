@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56094,
+      "total_gold_spent": 51850,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 119454,
+      "total_damage_dealt_to_objectives": 67697,
+      "total_damage_taken": 108821,
+      "average_vision_score": 27,
+      "total_wards_placed": 66,
+      "average_creep_score": 118,
+      "average_champion_experience": 13176,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4237599790"
+    },
+    "200": {
+      "total_gold_earned": 51845,
+      "total_gold_spent": 48560,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 16,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 76608,
+      "total_damage_dealt_to_objectives": 52734,
+      "total_damage_taken": 154509,
+      "average_vision_score": 25,
+      "total_wards_placed": 60,
+      "average_creep_score": 112,
+      "average_champion_experience": 11584,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4237599790"
+    }
+  }
+}

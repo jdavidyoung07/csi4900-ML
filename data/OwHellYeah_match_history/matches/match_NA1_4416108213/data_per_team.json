@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83962,
+      "total_gold_spent": 83425,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 212523,
+      "total_damage_dealt_to_objectives": 119090,
+      "total_damage_taken": 161646,
+      "average_vision_score": 48,
+      "total_wards_placed": 85,
+      "average_creep_score": 167,
+      "average_champion_experience": 20245,
+      "dmg_carry": "Lux",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4416108213"
+    },
+    "200": {
+      "total_gold_earned": 82974,
+      "total_gold_spent": 77465,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 132630,
+      "total_damage_dealt_to_objectives": 69162,
+      "total_damage_taken": 244843,
+      "average_vision_score": 49,
+      "total_wards_placed": 76,
+      "average_creep_score": 171,
+      "average_champion_experience": 19911,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4416108213"
+    }
+  }
+}

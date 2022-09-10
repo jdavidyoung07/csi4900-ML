@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65772,
+      "total_gold_spent": 62690,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 142450,
+      "total_damage_dealt_to_objectives": 78274,
+      "total_damage_taken": 153950,
+      "average_vision_score": 34,
+      "total_wards_placed": 56,
+      "average_creep_score": 113,
+      "average_champion_experience": 13750,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4428375099"
+    },
+    "200": {
+      "total_gold_earned": 63749,
+      "total_gold_spent": 56668,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 119522,
+      "total_damage_dealt_to_objectives": 41604,
+      "total_damage_taken": 166433,
+      "average_vision_score": 20,
+      "total_wards_placed": 60,
+      "average_creep_score": 114,
+      "average_champion_experience": 13535,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4428375099"
+    }
+  }
+}

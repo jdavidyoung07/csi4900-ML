@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 27,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55237,
+      "total_gold_spent": 52850,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 80502,
+      "total_damage_dealt_to_objectives": 59394,
+      "total_damage_taken": 113834,
+      "average_vision_score": 27,
+      "total_wards_placed": 55,
+      "average_creep_score": 98,
+      "average_champion_experience": 10921,
+      "dmg_carry": "Ashe",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4045404308"
+    },
+    "200": {
+      "total_gold_earned": 55218,
+      "total_gold_spent": 47808,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 26,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 75170,
+      "total_damage_dealt_to_objectives": 64549,
+      "total_damage_taken": 106625,
+      "average_vision_score": 22,
+      "total_wards_placed": 51,
+      "average_creep_score": 111,
+      "average_champion_experience": 12472,
+      "dmg_carry": "Poppy",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4045404308"
+    }
+  }
+}

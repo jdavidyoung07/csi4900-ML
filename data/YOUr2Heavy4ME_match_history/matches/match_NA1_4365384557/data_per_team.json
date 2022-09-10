@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45849,
+      "total_gold_spent": 44250,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 61377,
+      "total_damage_dealt_to_objectives": 25724,
+      "total_damage_taken": 117490,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 116,
+      "average_champion_experience": 11451,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4365384557"
+    },
+    "200": {
+      "total_gold_earned": 57861,
+      "total_gold_spent": 53625,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 91653,
+      "total_damage_dealt_to_objectives": 77459,
+      "total_damage_taken": 80370,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 124,
+      "average_champion_experience": 13867,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4365384557"
+    }
+  }
+}

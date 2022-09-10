@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59399,
+      "total_gold_spent": 56960,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 154939,
+      "total_damage_dealt_to_objectives": 28255,
+      "total_damage_taken": 147617,
+      "average_vision_score": 35,
+      "total_wards_placed": 71,
+      "average_creep_score": 128,
+      "average_champion_experience": 13700,
+      "dmg_carry": "Varus",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4417931459"
+    },
+    "200": {
+      "total_gold_earned": 72097,
+      "total_gold_spent": 62000,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 123900,
+      "total_damage_dealt_to_objectives": 87026,
+      "total_damage_taken": 191510,
+      "average_vision_score": 33,
+      "total_wards_placed": 56,
+      "average_creep_score": 131,
+      "average_champion_experience": 16123,
+      "dmg_carry": "Swain",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4417931459"
+    }
+  }
+}

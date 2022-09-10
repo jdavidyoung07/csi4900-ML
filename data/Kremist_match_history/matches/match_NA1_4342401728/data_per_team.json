@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81021,
+      "total_gold_spent": 75965,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 6,
+      "total_kills": 38,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 143670,
+      "total_damage_dealt_to_objectives": 89522,
+      "total_damage_taken": 168365,
+      "average_vision_score": 35,
+      "total_wards_placed": 82,
+      "average_creep_score": 155,
+      "average_champion_experience": 20130,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4342401728"
+    },
+    "200": {
+      "total_gold_earned": 73719,
+      "total_gold_spent": 74758,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 116177,
+      "total_damage_dealt_to_objectives": 69936,
+      "total_damage_taken": 180556,
+      "average_vision_score": 36,
+      "total_wards_placed": 65,
+      "average_creep_score": 164,
+      "average_champion_experience": 18715,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4342401728"
+    }
+  }
+}

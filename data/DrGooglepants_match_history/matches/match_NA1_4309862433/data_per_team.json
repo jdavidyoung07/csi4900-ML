@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78619,
+      "total_gold_spent": 78360,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 53,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 121178,
+      "total_damage_dealt_to_objectives": 75311,
+      "total_damage_taken": 144180,
+      "average_vision_score": 32,
+      "total_wards_placed": 63,
+      "average_creep_score": 124,
+      "average_champion_experience": 18457,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4309862433"
+    },
+    "200": {
+      "total_gold_earned": 69013,
+      "total_gold_spent": 64515,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 122089,
+      "total_damage_dealt_to_objectives": 65193,
+      "total_damage_taken": 148418,
+      "average_vision_score": 27,
+      "total_wards_placed": 68,
+      "average_creep_score": 132,
+      "average_champion_experience": 16594,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4309862433"
+    }
+  }
+}

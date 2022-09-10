@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43994,
+      "total_gold_spent": 39588,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 39707,
+      "total_damage_dealt_to_objectives": 41380,
+      "total_damage_taken": 82750,
+      "average_vision_score": 23,
+      "total_wards_placed": 53,
+      "average_creep_score": 100,
+      "average_champion_experience": 9875,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4248128905"
+    },
+    "200": {
+      "total_gold_earned": 55338,
+      "total_gold_spent": 51800,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 64179,
+      "total_damage_dealt_to_objectives": 59854,
+      "total_damage_taken": 64765,
+      "average_vision_score": 22,
+      "total_wards_placed": 47,
+      "average_creep_score": 111,
+      "average_champion_experience": 12355,
+      "dmg_carry": "Swain",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4248128905"
+    }
+  }
+}

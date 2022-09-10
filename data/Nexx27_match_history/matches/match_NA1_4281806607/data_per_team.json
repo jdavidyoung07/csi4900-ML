@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76876,
+      "total_gold_spent": 65355,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 59,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 150145,
+      "total_damage_dealt_to_objectives": 79732,
+      "total_damage_taken": 159456,
+      "average_vision_score": 51,
+      "total_wards_placed": 93,
+      "average_creep_score": 106,
+      "average_champion_experience": 17276,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4281806607"
+    },
+    "200": {
+      "total_gold_earned": 66668,
+      "total_gold_spent": 64920,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 129480,
+      "total_damage_dealt_to_objectives": 49779,
+      "total_damage_taken": 174830,
+      "average_vision_score": 26,
+      "total_wards_placed": 91,
+      "average_creep_score": 113,
+      "average_champion_experience": 14729,
+      "dmg_carry": "Varus",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4281806607"
+    }
+  }
+}

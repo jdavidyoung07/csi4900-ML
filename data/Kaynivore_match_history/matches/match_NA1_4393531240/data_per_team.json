@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58611,
+      "total_gold_spent": 56875,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 113850,
+      "total_damage_dealt_to_objectives": 35580,
+      "total_damage_taken": 123947,
+      "average_vision_score": 38,
+      "total_wards_placed": 83,
+      "average_creep_score": 157,
+      "average_champion_experience": 14005,
+      "dmg_carry": "Vex",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4393531240"
+    },
+    "200": {
+      "total_gold_earned": 71763,
+      "total_gold_spent": 65005,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 103845,
+      "total_damage_dealt_to_objectives": 108214,
+      "total_damage_taken": 150026,
+      "average_vision_score": 36,
+      "total_wards_placed": 75,
+      "average_creep_score": 164,
+      "average_champion_experience": 17337,
+      "dmg_carry": "Garen",
+      "obj_carry": "Ryze",
+      "match_id": "NA1_4393531240"
+    }
+  }
+}

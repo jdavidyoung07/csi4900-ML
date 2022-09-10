@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61123,
+      "total_gold_spent": 51585,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 83354,
+      "total_damage_dealt_to_objectives": 92741,
+      "total_damage_taken": 109427,
+      "average_vision_score": 22,
+      "total_wards_placed": 57,
+      "average_creep_score": 119,
+      "average_champion_experience": 14029,
+      "dmg_carry": "Nocturne",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4419118713"
+    },
+    "200": {
+      "total_gold_earned": 53621,
+      "total_gold_spent": 51960,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 75796,
+      "total_damage_dealt_to_objectives": 46700,
+      "total_damage_taken": 108698,
+      "average_vision_score": 22,
+      "total_wards_placed": 46,
+      "average_creep_score": 115,
+      "average_champion_experience": 12722,
+      "dmg_carry": "Vex",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4419118713"
+    }
+  }
+}

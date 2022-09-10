@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67621,
+      "total_gold_spent": 62125,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 114371,
+      "total_damage_dealt_to_objectives": 64260,
+      "total_damage_taken": 139657,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 130,
+      "average_champion_experience": 16036,
+      "dmg_carry": "Samira",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4205806255"
+    },
+    "200": {
+      "total_gold_earned": 63896,
+      "total_gold_spent": 59713,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 109878,
+      "total_damage_dealt_to_objectives": 60923,
+      "total_damage_taken": 138287,
+      "average_vision_score": 26,
+      "total_wards_placed": 63,
+      "average_creep_score": 107,
+      "average_champion_experience": 14090,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4205806255"
+    }
+  }
+}

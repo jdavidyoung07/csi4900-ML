@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54775,
+      "total_gold_spent": 53000,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 85993,
+      "total_damage_dealt_to_objectives": 38780,
+      "total_damage_taken": 110911,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 139,
+      "average_champion_experience": 13543,
+      "dmg_carry": "Garen",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4421253976"
+    },
+    "200": {
+      "total_gold_earned": 61673,
+      "total_gold_spent": 57775,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 25,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 83678,
+      "total_damage_dealt_to_objectives": 81415,
+      "total_damage_taken": 115481,
+      "average_vision_score": 25,
+      "total_wards_placed": 48,
+      "average_creep_score": 143,
+      "average_champion_experience": 15120,
+      "dmg_carry": "Swain",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4421253976"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 4185,
+      "total_gold_spent": 2500,
+      "team_comp": [
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 0,
+      "total_deaths": 1,
+      "total_damage_dealt_to_champions": 1180,
+      "total_damage_dealt_to_objectives": 453,
+      "total_damage_taken": 4189,
+      "average_vision_score": 0,
+      "total_wards_placed": 1,
+      "average_creep_score": 4,
+      "average_champion_experience": 493,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4207463648"
+    },
+    "200": {
+      "total_gold_earned": 5512,
+      "total_gold_spent": 2800,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 1,
+      "total_deaths": 0,
+      "total_damage_dealt_to_champions": 2250,
+      "total_damage_dealt_to_objectives": 274,
+      "total_damage_taken": 4074,
+      "average_vision_score": 0,
+      "total_wards_placed": 3,
+      "average_creep_score": 8,
+      "average_champion_experience": 800,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4207463648"
+    }
+  }
+}

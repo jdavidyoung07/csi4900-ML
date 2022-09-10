@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75665,
+      "total_gold_spent": 72433,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 165015,
+      "total_damage_dealt_to_objectives": 52185,
+      "total_damage_taken": 185600,
+      "average_vision_score": 38,
+      "total_wards_placed": 78,
+      "average_creep_score": 131,
+      "average_champion_experience": 16660,
+      "dmg_carry": "Corki",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4359787919"
+    },
+    "200": {
+      "total_gold_earned": 78253,
+      "total_gold_spent": 71805,
+      "team_comp": [
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 153626,
+      "total_damage_dealt_to_objectives": 91444,
+      "total_damage_taken": 192041,
+      "average_vision_score": 29,
+      "total_wards_placed": 71,
+      "average_creep_score": 123,
+      "average_champion_experience": 19744,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4359787919"
+    }
+  }
+}

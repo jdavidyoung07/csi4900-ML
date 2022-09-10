@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 92131,
+      "total_gold_spent": 89008,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 192601,
+      "total_damage_dealt_to_objectives": 101460,
+      "total_damage_taken": 197838,
+      "average_vision_score": 48,
+      "total_wards_placed": 108,
+      "average_creep_score": 188,
+      "average_champion_experience": 23357,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4331951779"
+    },
+    "200": {
+      "total_gold_earned": 88594,
+      "total_gold_spent": 84335,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 38,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 166586,
+      "total_damage_dealt_to_objectives": 89950,
+      "total_damage_taken": 229869,
+      "average_vision_score": 53,
+      "total_wards_placed": 102,
+      "average_creep_score": 177,
+      "average_champion_experience": 21647,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4331951779"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43830,
+      "total_gold_spent": 39200,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 64570,
+      "total_damage_dealt_to_objectives": 25241,
+      "total_damage_taken": 123890,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 90,
+      "average_champion_experience": 10695,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4250299336"
+    },
+    "200": {
+      "total_gold_earned": 55827,
+      "total_gold_spent": 51675,
+      "team_comp": [
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 104824,
+      "total_damage_dealt_to_objectives": 41841,
+      "total_damage_taken": 94702,
+      "average_vision_score": 21,
+      "total_wards_placed": 56,
+      "average_creep_score": 115,
+      "average_champion_experience": 11989,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4250299336"
+    }
+  }
+}

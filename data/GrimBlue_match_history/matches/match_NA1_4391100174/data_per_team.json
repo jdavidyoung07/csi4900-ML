@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70925,
+      "total_gold_spent": 67605,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 155155,
+      "total_damage_dealt_to_objectives": 72100,
+      "total_damage_taken": 168304,
+      "average_vision_score": 39,
+      "total_wards_placed": 75,
+      "average_creep_score": 146,
+      "average_champion_experience": 16740,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4391100174"
+    },
+    "200": {
+      "total_gold_earned": 80481,
+      "total_gold_spent": 74285,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 139754,
+      "total_damage_dealt_to_objectives": 114167,
+      "total_damage_taken": 194224,
+      "average_vision_score": 42,
+      "total_wards_placed": 96,
+      "average_creep_score": 149,
+      "average_champion_experience": 20481,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4391100174"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72783,
+      "total_gold_spent": 68075,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 167407,
+      "total_damage_dealt_to_objectives": 50062,
+      "total_damage_taken": 183263,
+      "average_vision_score": 33,
+      "total_wards_placed": 71,
+      "average_creep_score": 158,
+      "average_champion_experience": 16947,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4394583684"
+    },
+    "200": {
+      "total_gold_earned": 80486,
+      "total_gold_spent": 71885,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 156402,
+      "total_damage_dealt_to_objectives": 146300,
+      "total_damage_taken": 216843,
+      "average_vision_score": 37,
+      "total_wards_placed": 70,
+      "average_creep_score": 152,
+      "average_champion_experience": 19079,
+      "dmg_carry": "Zed",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4394583684"
+    }
+  }
+}

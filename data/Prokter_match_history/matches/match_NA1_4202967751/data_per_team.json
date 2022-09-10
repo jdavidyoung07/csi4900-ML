@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52354,
+      "total_gold_spent": 49225,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 77123,
+      "total_damage_dealt_to_objectives": 17450,
+      "total_damage_taken": 119054,
+      "average_vision_score": 26,
+      "total_wards_placed": 79,
+      "average_creep_score": 111,
+      "average_champion_experience": 13733,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4202967751"
+    },
+    "200": {
+      "total_gold_earned": 58855,
+      "total_gold_spent": 45825,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 96643,
+      "total_damage_dealt_to_objectives": 84352,
+      "total_damage_taken": 104753,
+      "average_vision_score": 19,
+      "total_wards_placed": 48,
+      "average_creep_score": 106,
+      "average_champion_experience": 14184,
+      "dmg_carry": "Zed",
+      "obj_carry": "Zyra",
+      "match_id": "NA1_4202967751"
+    }
+  }
+}

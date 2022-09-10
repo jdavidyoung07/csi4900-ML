@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40960,
+      "total_gold_spent": 37755,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 57780,
+      "total_damage_dealt_to_objectives": 29450,
+      "total_damage_taken": 74495,
+      "average_vision_score": 23,
+      "total_wards_placed": 54,
+      "average_creep_score": 95,
+      "average_champion_experience": 9607,
+      "dmg_carry": "Jinx",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4137730257"
+    },
+    "200": {
+      "total_gold_earned": 49966,
+      "total_gold_spent": 42560,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 58104,
+      "total_damage_dealt_to_objectives": 52514,
+      "total_damage_taken": 80471,
+      "average_vision_score": 16,
+      "total_wards_placed": 42,
+      "average_creep_score": 95,
+      "average_champion_experience": 11352,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4137730257"
+    }
+  }
+}

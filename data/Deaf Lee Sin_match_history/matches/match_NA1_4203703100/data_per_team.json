@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79380,
+      "total_gold_spent": 74900,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 161184,
+      "total_damage_dealt_to_objectives": 64718,
+      "total_damage_taken": 167667,
+      "average_vision_score": 33,
+      "total_wards_placed": 78,
+      "average_creep_score": 139,
+      "average_champion_experience": 18168,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4203703100"
+    },
+    "200": {
+      "total_gold_earned": 77314,
+      "total_gold_spent": 70975,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 127157,
+      "total_damage_dealt_to_objectives": 61757,
+      "total_damage_taken": 197176,
+      "average_vision_score": 27,
+      "total_wards_placed": 57,
+      "average_creep_score": 152,
+      "average_champion_experience": 19035,
+      "dmg_carry": "Hecarim",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4203703100"
+    }
+  }
+}

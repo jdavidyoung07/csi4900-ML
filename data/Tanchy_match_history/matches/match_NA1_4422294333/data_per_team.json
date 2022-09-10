@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43343,
+      "total_gold_spent": 40293,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 65930,
+      "total_damage_dealt_to_objectives": 15398,
+      "total_damage_taken": 110221,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 100,
+      "average_champion_experience": 9417,
+      "dmg_carry": "Swain",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4422294333"
+    },
+    "200": {
+      "total_gold_earned": 54414,
+      "total_gold_spent": 49558,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 90543,
+      "total_damage_dealt_to_objectives": 55043,
+      "total_damage_taken": 93127,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 96,
+      "average_champion_experience": 12033,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4422294333"
+    }
+  }
+}

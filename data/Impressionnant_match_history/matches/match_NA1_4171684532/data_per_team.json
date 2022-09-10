@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 34863,
+      "total_gold_spent": 31610,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 33880,
+      "total_damage_dealt_to_objectives": 20434,
+      "total_damage_taken": 69886,
+      "average_vision_score": 12,
+      "total_wards_placed": 30,
+      "average_creep_score": 65,
+      "average_champion_experience": 8111,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4171684532"
+    },
+    "200": {
+      "total_gold_earned": 46763,
+      "total_gold_spent": 42125,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 52906,
+      "total_damage_dealt_to_objectives": 58798,
+      "total_damage_taken": 51041,
+      "average_vision_score": 12,
+      "total_wards_placed": 29,
+      "average_creep_score": 75,
+      "average_champion_experience": 9636,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Brand",
+      "match_id": "NA1_4171684532"
+    }
+  }
+}

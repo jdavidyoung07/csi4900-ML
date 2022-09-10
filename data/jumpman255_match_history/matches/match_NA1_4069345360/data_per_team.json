@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63983,
+      "total_gold_spent": 57580,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 97119,
+      "total_damage_dealt_to_objectives": 66924,
+      "total_damage_taken": 126409,
+      "average_vision_score": 23,
+      "total_wards_placed": 52,
+      "average_creep_score": 131,
+      "average_champion_experience": 15493,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4069345360"
+    },
+    "200": {
+      "total_gold_earned": 57887,
+      "total_gold_spent": 56920,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 89788,
+      "total_damage_dealt_to_objectives": 69589,
+      "total_damage_taken": 128836,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 128,
+      "average_champion_experience": 14005,
+      "dmg_carry": "Yone",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4069345360"
+    }
+  }
+}

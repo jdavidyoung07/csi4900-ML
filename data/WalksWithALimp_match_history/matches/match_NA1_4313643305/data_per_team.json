@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 25421,
+      "total_gold_spent": 22300,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 35753,
+      "total_damage_dealt_to_objectives": 4084,
+      "total_damage_taken": 62738,
+      "average_vision_score": 8,
+      "total_wards_placed": 22,
+      "average_creep_score": 54,
+      "average_champion_experience": 5900,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4313643305"
+    },
+    "200": {
+      "total_gold_earned": 40473,
+      "total_gold_spent": 31200,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 52804,
+      "total_damage_dealt_to_objectives": 42998,
+      "total_damage_taken": 59486,
+      "average_vision_score": 8,
+      "total_wards_placed": 19,
+      "average_creep_score": 76,
+      "average_champion_experience": 7838,
+      "dmg_carry": "Sett",
+      "obj_carry": "Vex",
+      "match_id": "NA1_4313643305"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55356,
+      "total_gold_spent": 54208,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 93492,
+      "total_damage_dealt_to_objectives": 26818,
+      "total_damage_taken": 131202,
+      "average_vision_score": 38,
+      "total_wards_placed": 100,
+      "average_creep_score": 132,
+      "average_champion_experience": 13490,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4207159598"
+    },
+    "200": {
+      "total_gold_earned": 65193,
+      "total_gold_spent": 56433,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 104062,
+      "total_damage_dealt_to_objectives": 72305,
+      "total_damage_taken": 126617,
+      "average_vision_score": 36,
+      "total_wards_placed": 81,
+      "average_creep_score": 125,
+      "average_champion_experience": 15905,
+      "dmg_carry": "Gragas",
+      "obj_carry": "Gragas",
+      "match_id": "NA1_4207159598"
+    }
+  }
+}

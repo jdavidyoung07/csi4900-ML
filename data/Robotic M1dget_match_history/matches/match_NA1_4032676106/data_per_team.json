@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 27,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41081,
+      "total_gold_spent": 39625,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 37752,
+      "total_damage_dealt_to_objectives": 3344,
+      "total_damage_taken": 109529,
+      "average_vision_score": 8,
+      "total_wards_placed": 29,
+      "average_creep_score": 111,
+      "average_champion_experience": 11136,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4032676106"
+    },
+    "200": {
+      "total_gold_earned": 58086,
+      "total_gold_spent": 48850,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 39,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 92129,
+      "total_damage_dealt_to_objectives": 87953,
+      "total_damage_taken": 74995,
+      "average_vision_score": 24,
+      "total_wards_placed": 51,
+      "average_creep_score": 110,
+      "average_champion_experience": 13874,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4032676106"
+    }
+  }
+}

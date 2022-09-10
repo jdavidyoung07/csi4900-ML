@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58489,
+      "total_gold_spent": 49875,
+      "team_comp": [
+        {
+          "champName": "Taric",
+          "champId": 44
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 104383,
+      "total_damage_dealt_to_objectives": 49128,
+      "total_damage_taken": 113117,
+      "average_vision_score": 23,
+      "total_wards_placed": 54,
+      "average_creep_score": 103,
+      "average_champion_experience": 13139,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Brand",
+      "match_id": "NA1_4391762173"
+    },
+    "200": {
+      "total_gold_earned": 49228,
+      "total_gold_spent": 48773,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 89226,
+      "total_damage_dealt_to_objectives": 64859,
+      "total_damage_taken": 125791,
+      "average_vision_score": 24,
+      "total_wards_placed": 51,
+      "average_creep_score": 93,
+      "average_champion_experience": 11326,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4391762173"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59642,
+      "total_gold_spent": 56100,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 93062,
+      "total_damage_dealt_to_objectives": 51670,
+      "total_damage_taken": 154713,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 93,
+      "average_champion_experience": 13927,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4382024148"
+    },
+    "200": {
+      "total_gold_earned": 64136,
+      "total_gold_spent": 58350,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 125099,
+      "total_damage_dealt_to_objectives": 53845,
+      "total_damage_taken": 118440,
+      "average_vision_score": 21,
+      "total_wards_placed": 41,
+      "average_creep_score": 114,
+      "average_champion_experience": 14304,
+      "dmg_carry": "Lux",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4382024148"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45426,
+      "total_gold_spent": 52925,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 62650,
+      "total_damage_dealt_to_objectives": 41585,
+      "total_damage_taken": 108475,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 102,
+      "average_champion_experience": 10294,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4405844838"
+    },
+    "200": {
+      "total_gold_earned": 55035,
+      "total_gold_spent": 46258,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 87502,
+      "total_damage_dealt_to_objectives": 71915,
+      "total_damage_taken": 86329,
+      "average_vision_score": 22,
+      "total_wards_placed": 41,
+      "average_creep_score": 93,
+      "average_champion_experience": 12320,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Elise",
+      "match_id": "NA1_4405844838"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68020,
+      "total_gold_spent": 65650,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 148892,
+      "total_damage_dealt_to_objectives": 26325,
+      "total_damage_taken": 189530,
+      "average_vision_score": 17,
+      "total_wards_placed": 32,
+      "average_creep_score": 154,
+      "average_champion_experience": 16280,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4179389761"
+    },
+    "200": {
+      "total_gold_earned": 75349,
+      "total_gold_spent": 66880,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 158878,
+      "total_damage_dealt_to_objectives": 96084,
+      "total_damage_taken": 180031,
+      "average_vision_score": 25,
+      "total_wards_placed": 60,
+      "average_creep_score": 130,
+      "average_champion_experience": 18718,
+      "dmg_carry": "Viktor",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4179389761"
+    }
+  }
+}

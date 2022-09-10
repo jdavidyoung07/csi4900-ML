@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66150,
+      "total_gold_spent": 65530,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 121256,
+      "total_damage_dealt_to_objectives": 91540,
+      "total_damage_taken": 166367,
+      "average_vision_score": 29,
+      "total_wards_placed": 60,
+      "average_creep_score": 120,
+      "average_champion_experience": 14422,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4419321381"
+    },
+    "200": {
+      "total_gold_earned": 70709,
+      "total_gold_spent": 63550,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 132970,
+      "total_damage_dealt_to_objectives": 63941,
+      "total_damage_taken": 152795,
+      "average_vision_score": 24,
+      "total_wards_placed": 70,
+      "average_creep_score": 127,
+      "average_champion_experience": 17520,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4419321381"
+    }
+  }
+}

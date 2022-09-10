@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60878,
+      "total_gold_spent": 58000,
+      "team_comp": [
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 99197,
+      "total_damage_dealt_to_objectives": 39861,
+      "total_damage_taken": 188927,
+      "average_vision_score": 35,
+      "total_wards_placed": 71,
+      "average_creep_score": 92,
+      "average_champion_experience": 13995,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4246146994"
+    },
+    "200": {
+      "total_gold_earned": 73753,
+      "total_gold_spent": 61335,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 160515,
+      "total_damage_dealt_to_objectives": 97875,
+      "total_damage_taken": 130134,
+      "average_vision_score": 28,
+      "total_wards_placed": 57,
+      "average_creep_score": 105,
+      "average_champion_experience": 16151,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4246146994"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81540,
+      "total_gold_spent": 83800,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 167919,
+      "total_damage_dealt_to_objectives": 71090,
+      "total_damage_taken": 169989,
+      "average_vision_score": 34,
+      "total_wards_placed": 75,
+      "average_creep_score": 179,
+      "average_champion_experience": 19718,
+      "dmg_carry": "Senna",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4282546392"
+    },
+    "200": {
+      "total_gold_earned": 87943,
+      "total_gold_spent": 73408,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 136375,
+      "total_damage_dealt_to_objectives": 85119,
+      "total_damage_taken": 200289,
+      "average_vision_score": 33,
+      "total_wards_placed": 71,
+      "average_creep_score": 177,
+      "average_champion_experience": 22921,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4282546392"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42068,
+      "total_gold_spent": 38115,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 59424,
+      "total_damage_dealt_to_objectives": 13608,
+      "total_damage_taken": 86024,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 96,
+      "average_champion_experience": 9867,
+      "dmg_carry": "Khazix",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4426791675"
+    },
+    "200": {
+      "total_gold_earned": 52555,
+      "total_gold_spent": 48175,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 70229,
+      "total_damage_dealt_to_objectives": 90171,
+      "total_damage_taken": 86636,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 87,
+      "average_champion_experience": 11675,
+      "dmg_carry": "Swain",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4426791675"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63027,
+      "total_gold_spent": 52075,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 104797,
+      "total_damage_dealt_to_objectives": 48004,
+      "total_damage_taken": 122012,
+      "average_vision_score": 29,
+      "total_wards_placed": 70,
+      "average_creep_score": 116,
+      "average_champion_experience": 14622,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4300267211"
+    },
+    "200": {
+      "total_gold_earned": 59695,
+      "total_gold_spent": 55725,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 97365,
+      "total_damage_dealt_to_objectives": 72504,
+      "total_damage_taken": 142767,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 102,
+      "average_champion_experience": 12605,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4300267211"
+    }
+  }
+}

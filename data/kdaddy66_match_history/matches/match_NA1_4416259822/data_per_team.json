@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52368,
+      "total_gold_spent": 47983,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 86793,
+      "total_damage_dealt_to_objectives": 33889,
+      "total_damage_taken": 133294,
+      "average_vision_score": 25,
+      "total_wards_placed": 61,
+      "average_creep_score": 120,
+      "average_champion_experience": 11986,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4416259822"
+    },
+    "200": {
+      "total_gold_earned": 58377,
+      "total_gold_spent": 53325,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 110391,
+      "total_damage_dealt_to_objectives": 63369,
+      "total_damage_taken": 117560,
+      "average_vision_score": 31,
+      "total_wards_placed": 59,
+      "average_creep_score": 114,
+      "average_champion_experience": 13969,
+      "dmg_carry": "Vex",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4416259822"
+    }
+  }
+}

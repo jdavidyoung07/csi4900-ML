@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54269,
+      "total_gold_spent": 52575,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 94860,
+      "total_damage_dealt_to_objectives": 32421,
+      "total_damage_taken": 111143,
+      "average_vision_score": 20,
+      "total_wards_placed": 47,
+      "average_creep_score": 106,
+      "average_champion_experience": 10618,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4233637747"
+    },
+    "200": {
+      "total_gold_earned": 59165,
+      "total_gold_spent": 52720,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 88935,
+      "total_damage_dealt_to_objectives": 54102,
+      "total_damage_taken": 122881,
+      "average_vision_score": 21,
+      "total_wards_placed": 36,
+      "average_creep_score": 82,
+      "average_champion_experience": 12112,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4233637747"
+    }
+  }
+}

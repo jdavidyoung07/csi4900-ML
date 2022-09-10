@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50023,
+      "total_gold_spent": 40600,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 63373,
+      "total_damage_dealt_to_objectives": 36811,
+      "total_damage_taken": 68834,
+      "average_vision_score": 19,
+      "total_wards_placed": 45,
+      "average_creep_score": 102,
+      "average_champion_experience": 10432,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4190315793"
+    },
+    "200": {
+      "total_gold_earned": 34179,
+      "total_gold_spent": 31825,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 50875,
+      "total_damage_dealt_to_objectives": 23264,
+      "total_damage_taken": 81410,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 77,
+      "average_champion_experience": 8264,
+      "dmg_carry": "Akali",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4190315793"
+    }
+  }
+}

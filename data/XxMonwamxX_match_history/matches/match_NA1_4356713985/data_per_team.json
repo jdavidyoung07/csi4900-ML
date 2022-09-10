@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46769,
+      "total_gold_spent": 43785,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 89544,
+      "total_damage_dealt_to_objectives": 11685,
+      "total_damage_taken": 114473,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 101,
+      "average_champion_experience": 10885,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4356713985"
+    },
+    "200": {
+      "total_gold_earned": 57843,
+      "total_gold_spent": 52538,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 99566,
+      "total_damage_dealt_to_objectives": 68443,
+      "total_damage_taken": 122938,
+      "average_vision_score": 23,
+      "total_wards_placed": 47,
+      "average_creep_score": 106,
+      "average_champion_experience": 13254,
+      "dmg_carry": "Darius",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4356713985"
+    }
+  }
+}

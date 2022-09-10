@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52029,
+      "total_gold_spent": 43225,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 86172,
+      "total_damage_dealt_to_objectives": 98113,
+      "total_damage_taken": 73302,
+      "average_vision_score": 17,
+      "total_wards_placed": 38,
+      "average_creep_score": 99,
+      "average_champion_experience": 12434,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4420359083"
+    },
+    "200": {
+      "total_gold_earned": 41194,
+      "total_gold_spent": 39335,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 48917,
+      "total_damage_dealt_to_objectives": 28708,
+      "total_damage_taken": 112547,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 104,
+      "average_champion_experience": 9403,
+      "dmg_carry": "Graves",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4420359083"
+    }
+  }
+}

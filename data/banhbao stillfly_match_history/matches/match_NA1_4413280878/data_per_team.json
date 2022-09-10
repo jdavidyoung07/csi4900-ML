@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 101882,
+      "total_gold_spent": 88949,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 211135,
+      "total_damage_dealt_to_objectives": 97689,
+      "total_damage_taken": 245080,
+      "average_vision_score": 56,
+      "total_wards_placed": 98,
+      "average_creep_score": 242,
+      "average_champion_experience": 27855,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4413280878"
+    },
+    "200": {
+      "total_gold_earned": 101229,
+      "total_gold_spent": 101800,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 5,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 6,
+      "total_kills": 49,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 201879,
+      "total_damage_dealt_to_objectives": 175064,
+      "total_damage_taken": 253572,
+      "average_vision_score": 59,
+      "total_wards_placed": 127,
+      "average_creep_score": 177,
+      "average_champion_experience": 24431,
+      "dmg_carry": "Zed",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4413280878"
+    }
+  }
+}

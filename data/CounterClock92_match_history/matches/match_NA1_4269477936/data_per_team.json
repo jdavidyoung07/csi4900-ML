@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60641,
+      "total_gold_spent": 58588,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 120538,
+      "total_damage_dealt_to_objectives": 63736,
+      "total_damage_taken": 166943,
+      "average_vision_score": 29,
+      "total_wards_placed": 69,
+      "average_creep_score": 106,
+      "average_champion_experience": 14065,
+      "dmg_carry": "Varus",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4269477936"
+    },
+    "200": {
+      "total_gold_earned": 68891,
+      "total_gold_spent": 64118,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 140201,
+      "total_damage_dealt_to_objectives": 61279,
+      "total_damage_taken": 148077,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 108,
+      "average_champion_experience": 15272,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4269477936"
+    }
+  }
+}

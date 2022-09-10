@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63465,
+      "total_gold_spent": 58625,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 121258,
+      "total_damage_dealt_to_objectives": 17150,
+      "total_damage_taken": 176800,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 131,
+      "average_champion_experience": 17445,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4404359432"
+    },
+    "200": {
+      "total_gold_earned": 70975,
+      "total_gold_spent": 64788,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 40,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 142785,
+      "total_damage_dealt_to_objectives": 125844,
+      "total_damage_taken": 157900,
+      "average_vision_score": 32,
+      "total_wards_placed": 70,
+      "average_creep_score": 125,
+      "average_champion_experience": 16628,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4404359432"
+    }
+  }
+}

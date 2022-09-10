@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44931,
+      "total_gold_spent": 43385,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 67072,
+      "total_damage_dealt_to_objectives": 27826,
+      "total_damage_taken": 118748,
+      "average_vision_score": 24,
+      "total_wards_placed": 48,
+      "average_creep_score": 102,
+      "average_champion_experience": 10959,
+      "dmg_carry": "Vex",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4386164075"
+    },
+    "200": {
+      "total_gold_earned": 55798,
+      "total_gold_spent": 49750,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 95164,
+      "total_damage_dealt_to_objectives": 84226,
+      "total_damage_taken": 97153,
+      "average_vision_score": 21,
+      "total_wards_placed": 51,
+      "average_creep_score": 115,
+      "average_champion_experience": 13923,
+      "dmg_carry": "Lux",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4386164075"
+    }
+  }
+}

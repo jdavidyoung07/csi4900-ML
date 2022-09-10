@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83844,
+      "total_gold_spent": 82325,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 51,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 184135,
+      "total_damage_dealt_to_objectives": 44797,
+      "total_damage_taken": 219845,
+      "average_vision_score": 45,
+      "total_wards_placed": 85,
+      "average_creep_score": 158,
+      "average_champion_experience": 19339,
+      "dmg_carry": "Brand",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4382088278"
+    },
+    "200": {
+      "total_gold_earned": 87985,
+      "total_gold_spent": 77810,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 183593,
+      "total_damage_dealt_to_objectives": 109628,
+      "total_damage_taken": 214291,
+      "average_vision_score": 37,
+      "total_wards_placed": 80,
+      "average_creep_score": 141,
+      "average_champion_experience": 22543,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4382088278"
+    }
+  }
+}

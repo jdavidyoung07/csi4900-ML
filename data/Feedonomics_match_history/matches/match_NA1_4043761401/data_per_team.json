@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 45,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84680,
+      "total_gold_spent": 85180,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 75,
+      "total_damage_dealt_to_champions": 232548,
+      "total_damage_dealt_to_objectives": 47058,
+      "total_damage_taken": 220381,
+      "average_vision_score": 42,
+      "total_wards_placed": 73,
+      "average_creep_score": 160,
+      "average_champion_experience": 20082,
+      "dmg_carry": "Brand",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4043761401"
+    },
+    "200": {
+      "total_gold_earned": 94421,
+      "total_gold_spent": 93775,
+      "team_comp": [
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 75,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 190733,
+      "total_damage_dealt_to_objectives": 70227,
+      "total_damage_taken": 269952,
+      "average_vision_score": 34,
+      "total_wards_placed": 60,
+      "average_creep_score": 151,
+      "average_champion_experience": 24170,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4043761401"
+    }
+  }
+}

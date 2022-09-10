@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63278,
+      "total_gold_spent": 60813,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 87207,
+      "total_damage_dealt_to_objectives": 46201,
+      "total_damage_taken": 151103,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 140,
+      "average_champion_experience": 14578,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4256994249"
+    },
+    "200": {
+      "total_gold_earned": 66670,
+      "total_gold_spent": 54785,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 113468,
+      "total_damage_dealt_to_objectives": 73058,
+      "total_damage_taken": 122157,
+      "average_vision_score": 36,
+      "total_wards_placed": 77,
+      "average_creep_score": 134,
+      "average_champion_experience": 16729,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4256994249"
+    }
+  }
+}

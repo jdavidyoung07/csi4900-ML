@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62995,
+      "total_gold_spent": 59300,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 72062,
+      "total_damage_dealt_to_objectives": 25638,
+      "total_damage_taken": 93020,
+      "average_vision_score": 42,
+      "total_wards_placed": 100,
+      "average_creep_score": 146,
+      "average_champion_experience": 13359,
+      "dmg_carry": "Lux",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4419391816"
+    },
+    "200": {
+      "total_gold_earned": 72089,
+      "total_gold_spent": 67580,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 71057,
+      "total_damage_dealt_to_objectives": 120660,
+      "total_damage_taken": 104562,
+      "average_vision_score": 42,
+      "total_wards_placed": 85,
+      "average_creep_score": 139,
+      "average_champion_experience": 16466,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4419391816"
+    }
+  }
+}

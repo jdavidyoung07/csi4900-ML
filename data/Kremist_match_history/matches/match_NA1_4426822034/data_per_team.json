@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71425,
+      "total_gold_spent": 62380,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 133173,
+      "total_damage_dealt_to_objectives": 91137,
+      "total_damage_taken": 144940,
+      "average_vision_score": 28,
+      "total_wards_placed": 54,
+      "average_creep_score": 117,
+      "average_champion_experience": 15783,
+      "dmg_carry": "Brand",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4426822034"
+    },
+    "200": {
+      "total_gold_earned": 59802,
+      "total_gold_spent": 57125,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 115289,
+      "total_damage_dealt_to_objectives": 38675,
+      "total_damage_taken": 148789,
+      "average_vision_score": 34,
+      "total_wards_placed": 81,
+      "average_creep_score": 112,
+      "average_champion_experience": 12948,
+      "dmg_carry": "Lux",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4426822034"
+    }
+  }
+}

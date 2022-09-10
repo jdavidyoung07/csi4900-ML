@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55925,
+      "total_gold_spent": 46525,
+      "team_comp": [
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 103166,
+      "total_damage_dealt_to_objectives": 71340,
+      "total_damage_taken": 98484,
+      "average_vision_score": 22,
+      "total_wards_placed": 41,
+      "average_creep_score": 109,
+      "average_champion_experience": 12679,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4385232278"
+    },
+    "200": {
+      "total_gold_earned": 40283,
+      "total_gold_spent": 39075,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 63162,
+      "total_damage_dealt_to_objectives": 15251,
+      "total_damage_taken": 123878,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 98,
+      "average_champion_experience": 10014,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4385232278"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65621,
+      "total_gold_spent": 61375,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 90848,
+      "total_damage_dealt_to_objectives": 77088,
+      "total_damage_taken": 106938,
+      "average_vision_score": 27,
+      "total_wards_placed": 55,
+      "average_creep_score": 116,
+      "average_champion_experience": 15298,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_3964843745"
+    },
+    "200": {
+      "total_gold_earned": 50139,
+      "total_gold_spent": 49519,
+      "team_comp": [
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 21,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 67688,
+      "total_damage_dealt_to_objectives": 26349,
+      "total_damage_taken": 115138,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 119,
+      "average_champion_experience": 11892,
+      "dmg_carry": "Garen",
+      "obj_carry": "Evelynn",
+      "match_id": "NA1_3964843745"
+    }
+  }
+}

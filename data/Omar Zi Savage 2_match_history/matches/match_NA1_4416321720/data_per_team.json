@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84021,
+      "total_gold_spent": 79860,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 162951,
+      "total_damage_dealt_to_objectives": 63384,
+      "total_damage_taken": 319499,
+      "average_vision_score": 47,
+      "total_wards_placed": 86,
+      "average_creep_score": 203,
+      "average_champion_experience": 20335,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4416321720"
+    },
+    "200": {
+      "total_gold_earned": 96463,
+      "total_gold_spent": 93413,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 289146,
+      "total_damage_dealt_to_objectives": 138366,
+      "total_damage_taken": 206815,
+      "average_vision_score": 76,
+      "total_wards_placed": 125,
+      "average_creep_score": 190,
+      "average_champion_experience": 24913,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4416321720"
+    }
+  }
+}

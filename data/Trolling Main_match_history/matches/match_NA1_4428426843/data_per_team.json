@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75235,
+      "total_gold_spent": 73150,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 138088,
+      "total_damage_dealt_to_objectives": 114749,
+      "total_damage_taken": 157914,
+      "average_vision_score": 46,
+      "total_wards_placed": 76,
+      "average_creep_score": 142,
+      "average_champion_experience": 17610,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4428426843"
+    },
+    "200": {
+      "total_gold_earned": 63490,
+      "total_gold_spent": 60825,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 115716,
+      "total_damage_dealt_to_objectives": 38119,
+      "total_damage_taken": 162148,
+      "average_vision_score": 36,
+      "total_wards_placed": 102,
+      "average_creep_score": 127,
+      "average_champion_experience": 15399,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4428426843"
+    }
+  }
+}

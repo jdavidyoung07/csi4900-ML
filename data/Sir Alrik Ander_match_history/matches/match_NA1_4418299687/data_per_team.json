@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71510,
+      "total_gold_spent": 67395,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 150206,
+      "total_damage_dealt_to_objectives": 49627,
+      "total_damage_taken": 176385,
+      "average_vision_score": 31,
+      "total_wards_placed": 64,
+      "average_creep_score": 154,
+      "average_champion_experience": 16074,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4418299687"
+    },
+    "200": {
+      "total_gold_earned": 77659,
+      "total_gold_spent": 66600,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 53,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 143717,
+      "total_damage_dealt_to_objectives": 118686,
+      "total_damage_taken": 192171,
+      "average_vision_score": 40,
+      "total_wards_placed": 62,
+      "average_creep_score": 137,
+      "average_champion_experience": 19355,
+      "dmg_carry": "Ahri",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4418299687"
+    }
+  }
+}

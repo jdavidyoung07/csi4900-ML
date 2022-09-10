@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60432,
+      "total_gold_spent": 55860,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 31,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 96976,
+      "total_damage_dealt_to_objectives": 79233,
+      "total_damage_taken": 123955,
+      "average_vision_score": 27,
+      "total_wards_placed": 51,
+      "average_creep_score": 131,
+      "average_champion_experience": 14904,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4258085184"
+    },
+    "200": {
+      "total_gold_earned": 55094,
+      "total_gold_spent": 53485,
+      "team_comp": [
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 89693,
+      "total_damage_dealt_to_objectives": 24985,
+      "total_damage_taken": 124810,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 131,
+      "average_champion_experience": 14944,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Malzahar",
+      "match_id": "NA1_4258085184"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70883,
+      "total_gold_spent": 66910,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 42,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 100909,
+      "total_damage_dealt_to_objectives": 91105,
+      "total_damage_taken": 138563,
+      "average_vision_score": 36,
+      "total_wards_placed": 54,
+      "average_creep_score": 123,
+      "average_champion_experience": 17227,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4209341181"
+    },
+    "200": {
+      "total_gold_earned": 63443,
+      "total_gold_spent": 56725,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 108322,
+      "total_damage_dealt_to_objectives": 20196,
+      "total_damage_taken": 139541,
+      "average_vision_score": 25,
+      "total_wards_placed": 71,
+      "average_creep_score": 140,
+      "average_champion_experience": 16005,
+      "dmg_carry": "Senna",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4209341181"
+    }
+  }
+}

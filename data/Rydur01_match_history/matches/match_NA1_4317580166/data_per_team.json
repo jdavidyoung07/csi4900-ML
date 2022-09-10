@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53592,
+      "total_gold_spent": 50313,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 80749,
+      "total_damage_dealt_to_objectives": 77868,
+      "total_damage_taken": 82254,
+      "average_vision_score": 20,
+      "total_wards_placed": 31,
+      "average_creep_score": 100,
+      "average_champion_experience": 11969,
+      "dmg_carry": "Akali",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4317580166"
+    },
+    "200": {
+      "total_gold_earned": 43283,
+      "total_gold_spent": 41733,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 54679,
+      "total_damage_dealt_to_objectives": 21267,
+      "total_damage_taken": 101709,
+      "average_vision_score": 15,
+      "total_wards_placed": 55,
+      "average_creep_score": 101,
+      "average_champion_experience": 9813,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4317580166"
+    }
+  }
+}

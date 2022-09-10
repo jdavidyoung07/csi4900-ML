@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64079,
+      "total_gold_spent": 62358,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 117175,
+      "total_damage_dealt_to_objectives": 59884,
+      "total_damage_taken": 112642,
+      "average_vision_score": 35,
+      "total_wards_placed": 92,
+      "average_creep_score": 147,
+      "average_champion_experience": 15796,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4359065515"
+    },
+    "200": {
+      "total_gold_earned": 71046,
+      "total_gold_spent": 63025,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 31,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 86013,
+      "total_damage_dealt_to_objectives": 89925,
+      "total_damage_taken": 143142,
+      "average_vision_score": 36,
+      "total_wards_placed": 75,
+      "average_creep_score": 145,
+      "average_champion_experience": 16230,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4359065515"
+    }
+  }
+}

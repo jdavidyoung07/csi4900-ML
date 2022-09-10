@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37173,
+      "total_gold_spent": 35333,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 48143,
+      "total_damage_dealt_to_objectives": 24242,
+      "total_damage_taken": 83760,
+      "average_vision_score": 18,
+      "total_wards_placed": 38,
+      "average_creep_score": 104,
+      "average_champion_experience": 8735,
+      "dmg_carry": "Samira",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4333504375"
+    },
+    "200": {
+      "total_gold_earned": 52584,
+      "total_gold_spent": 49050,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 64474,
+      "total_damage_dealt_to_objectives": 67636,
+      "total_damage_taken": 73065,
+      "average_vision_score": 17,
+      "total_wards_placed": 40,
+      "average_creep_score": 91,
+      "average_champion_experience": 11478,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4333504375"
+    }
+  }
+}

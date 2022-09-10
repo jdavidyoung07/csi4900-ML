@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51579,
+      "total_gold_spent": 47975,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 73990,
+      "total_damage_dealt_to_objectives": 34049,
+      "total_damage_taken": 122594,
+      "average_vision_score": 28,
+      "total_wards_placed": 52,
+      "average_creep_score": 114,
+      "average_champion_experience": 12079,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4428855918"
+    },
+    "200": {
+      "total_gold_earned": 66245,
+      "total_gold_spent": 58335,
+      "team_comp": [
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 45,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 103462,
+      "total_damage_dealt_to_objectives": 112295,
+      "total_damage_taken": 115646,
+      "average_vision_score": 27,
+      "total_wards_placed": 45,
+      "average_creep_score": 116,
+      "average_champion_experience": 16205,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4428855918"
+    }
+  }
+}

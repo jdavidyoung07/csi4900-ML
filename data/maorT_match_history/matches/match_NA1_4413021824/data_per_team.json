@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75529,
+      "total_gold_spent": 76063,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 163795,
+      "total_damage_dealt_to_objectives": 85675,
+      "total_damage_taken": 213269,
+      "average_vision_score": 36,
+      "total_wards_placed": 75,
+      "average_creep_score": 134,
+      "average_champion_experience": 17268,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4413021824"
+    },
+    "200": {
+      "total_gold_earned": 82279,
+      "total_gold_spent": 77675,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 188097,
+      "total_damage_dealt_to_objectives": 81042,
+      "total_damage_taken": 185717,
+      "average_vision_score": 36,
+      "total_wards_placed": 70,
+      "average_creep_score": 134,
+      "average_champion_experience": 18907,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4413021824"
+    }
+  }
+}

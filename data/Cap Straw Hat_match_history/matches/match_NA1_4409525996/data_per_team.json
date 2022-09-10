@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64222,
+      "total_gold_spent": 55760,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 105603,
+      "total_damage_dealt_to_objectives": 98367,
+      "total_damage_taken": 135949,
+      "average_vision_score": 30,
+      "total_wards_placed": 56,
+      "average_creep_score": 113,
+      "average_champion_experience": 14942,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4409525996"
+    },
+    "200": {
+      "total_gold_earned": 58901,
+      "total_gold_spent": 53935,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 94907,
+      "total_damage_dealt_to_objectives": 14815,
+      "total_damage_taken": 127886,
+      "average_vision_score": 18,
+      "total_wards_placed": 43,
+      "average_creep_score": 129,
+      "average_champion_experience": 14164,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4409525996"
+    }
+  }
+}

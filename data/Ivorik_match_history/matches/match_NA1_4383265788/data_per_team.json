@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57800,
+      "total_gold_spent": 55825,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 114442,
+      "total_damage_dealt_to_objectives": 50309,
+      "total_damage_taken": 143212,
+      "average_vision_score": 27,
+      "total_wards_placed": 57,
+      "average_creep_score": 135,
+      "average_champion_experience": 14101,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4383265788"
+    },
+    "200": {
+      "total_gold_earned": 69375,
+      "total_gold_spent": 64570,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 122006,
+      "total_damage_dealt_to_objectives": 54415,
+      "total_damage_taken": 152958,
+      "average_vision_score": 35,
+      "total_wards_placed": 61,
+      "average_creep_score": 132,
+      "average_champion_experience": 17045,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4383265788"
+    }
+  }
+}

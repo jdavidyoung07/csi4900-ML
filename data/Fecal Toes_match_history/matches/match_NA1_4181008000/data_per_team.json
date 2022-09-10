@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54609,
+      "total_gold_spent": 53540,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 80483,
+      "total_damage_dealt_to_objectives": 24793,
+      "total_damage_taken": 113909,
+      "average_vision_score": 28,
+      "total_wards_placed": 62,
+      "average_creep_score": 117,
+      "average_champion_experience": 12161,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4181008000"
+    },
+    "200": {
+      "total_gold_earned": 62822,
+      "total_gold_spent": 56825,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 92341,
+      "total_damage_dealt_to_objectives": 63301,
+      "total_damage_taken": 114969,
+      "average_vision_score": 27,
+      "total_wards_placed": 50,
+      "average_creep_score": 124,
+      "average_champion_experience": 14659,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4181008000"
+    }
+  }
+}

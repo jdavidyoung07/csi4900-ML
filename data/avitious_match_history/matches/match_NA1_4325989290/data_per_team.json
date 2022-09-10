@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44056,
+      "total_gold_spent": 41960,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 59477,
+      "total_damage_dealt_to_objectives": 25030,
+      "total_damage_taken": 112560,
+      "average_vision_score": 23,
+      "total_wards_placed": 58,
+      "average_creep_score": 107,
+      "average_champion_experience": 10525,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4325989290"
+    },
+    "200": {
+      "total_gold_earned": 56639,
+      "total_gold_spent": 50658,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 90070,
+      "total_damage_dealt_to_objectives": 63473,
+      "total_damage_taken": 90149,
+      "average_vision_score": 19,
+      "total_wards_placed": 38,
+      "average_creep_score": 123,
+      "average_champion_experience": 13584,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4325989290"
+    }
+  }
+}

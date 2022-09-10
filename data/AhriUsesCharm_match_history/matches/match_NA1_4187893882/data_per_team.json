@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52799,
+      "total_gold_spent": 49625,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 82743,
+      "total_damage_dealt_to_objectives": 33071,
+      "total_damage_taken": 121673,
+      "average_vision_score": 26,
+      "total_wards_placed": 58,
+      "average_creep_score": 104,
+      "average_champion_experience": 11354,
+      "dmg_carry": "Yone",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4187893882"
+    },
+    "200": {
+      "total_gold_earned": 61444,
+      "total_gold_spent": 56690,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 99317,
+      "total_damage_dealt_to_objectives": 54855,
+      "total_damage_taken": 104365,
+      "average_vision_score": 23,
+      "total_wards_placed": 47,
+      "average_creep_score": 100,
+      "average_champion_experience": 13413,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4187893882"
+    }
+  }
+}

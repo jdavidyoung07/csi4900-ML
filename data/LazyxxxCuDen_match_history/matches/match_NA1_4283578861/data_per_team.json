@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64400,
+      "total_gold_spent": 63270,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 109298,
+      "total_damage_dealt_to_objectives": 23142,
+      "total_damage_taken": 154879,
+      "average_vision_score": 25,
+      "total_wards_placed": 68,
+      "average_creep_score": 136,
+      "average_champion_experience": 15454,
+      "dmg_carry": "Yone",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4283578861"
+    },
+    "200": {
+      "total_gold_earned": 72260,
+      "total_gold_spent": 62730,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 45,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 123947,
+      "total_damage_dealt_to_objectives": 115595,
+      "total_damage_taken": 148209,
+      "average_vision_score": 34,
+      "total_wards_placed": 61,
+      "average_creep_score": 124,
+      "average_champion_experience": 17410,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Fizz",
+      "match_id": "NA1_4283578861"
+    }
+  }
+}

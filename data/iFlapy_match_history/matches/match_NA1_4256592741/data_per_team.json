@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59714,
+      "total_gold_spent": 58425,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 107800,
+      "total_damage_dealt_to_objectives": 56984,
+      "total_damage_taken": 122684,
+      "average_vision_score": 32,
+      "total_wards_placed": 53,
+      "average_creep_score": 137,
+      "average_champion_experience": 14297,
+      "dmg_carry": "Jax",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4256592741"
+    },
+    "200": {
+      "total_gold_earned": 58288,
+      "total_gold_spent": 53460,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 23,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 89580,
+      "total_damage_dealt_to_objectives": 50619,
+      "total_damage_taken": 139707,
+      "average_vision_score": 29,
+      "total_wards_placed": 61,
+      "average_creep_score": 131,
+      "average_champion_experience": 14019,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4256592741"
+    }
+  }
+}

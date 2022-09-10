@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62452,
+      "total_gold_spent": 55360,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 34,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 91377,
+      "total_damage_dealt_to_objectives": 65545,
+      "total_damage_taken": 99638,
+      "average_vision_score": 25,
+      "total_wards_placed": 47,
+      "average_creep_score": 114,
+      "average_champion_experience": 14575,
+      "dmg_carry": "Corki",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4367637627"
+    },
+    "200": {
+      "total_gold_earned": 49302,
+      "total_gold_spent": 46050,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 72032,
+      "total_damage_dealt_to_objectives": 17090,
+      "total_damage_taken": 122270,
+      "average_vision_score": 22,
+      "total_wards_placed": 51,
+      "average_creep_score": 116,
+      "average_champion_experience": 12460,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4367637627"
+    }
+  }
+}

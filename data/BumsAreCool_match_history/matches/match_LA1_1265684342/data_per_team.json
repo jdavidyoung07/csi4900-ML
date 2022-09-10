@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73729,
+      "total_gold_spent": 72460,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 148472,
+      "total_damage_dealt_to_objectives": 62184,
+      "total_damage_taken": 173041,
+      "average_vision_score": 27,
+      "total_wards_placed": 67,
+      "average_creep_score": 140,
+      "average_champion_experience": 18512,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "MasterYi",
+      "match_id": "LA1_1265684342"
+    },
+    "200": {
+      "total_gold_earned": 77555,
+      "total_gold_spent": 71225,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 56,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 147827,
+      "total_damage_dealt_to_objectives": 67862,
+      "total_damage_taken": 183025,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 139,
+      "average_champion_experience": 19228,
+      "dmg_carry": "Vex",
+      "obj_carry": "Aatrox",
+      "match_id": "LA1_1265684342"
+    }
+  }
+}

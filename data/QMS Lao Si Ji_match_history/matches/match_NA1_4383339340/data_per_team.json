@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58375,
+      "total_gold_spent": 53950,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 104010,
+      "total_damage_dealt_to_objectives": 49311,
+      "total_damage_taken": 139855,
+      "average_vision_score": 29,
+      "total_wards_placed": 42,
+      "average_creep_score": 139,
+      "average_champion_experience": 13910,
+      "dmg_carry": "Samira",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4383339340"
+    },
+    "200": {
+      "total_gold_earned": 61022,
+      "total_gold_spent": 58366,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 27,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 99453,
+      "total_damage_dealt_to_objectives": 68595,
+      "total_damage_taken": 129420,
+      "average_vision_score": 30,
+      "total_wards_placed": 55,
+      "average_creep_score": 128,
+      "average_champion_experience": 14790,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4383339340"
+    }
+  }
+}

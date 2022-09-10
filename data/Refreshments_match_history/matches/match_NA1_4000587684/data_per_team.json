@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30408,
+      "total_gold_spent": 28125,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 52545,
+      "total_damage_dealt_to_objectives": 7805,
+      "total_damage_taken": 70655,
+      "average_vision_score": 13,
+      "total_wards_placed": 30,
+      "average_creep_score": 71,
+      "average_champion_experience": 7161,
+      "dmg_carry": "Akali",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4000587684"
+    },
+    "200": {
+      "total_gold_earned": 42570,
+      "total_gold_spent": 38260,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 56616,
+      "total_damage_dealt_to_objectives": 42748,
+      "total_damage_taken": 71116,
+      "average_vision_score": 13,
+      "total_wards_placed": 27,
+      "average_creep_score": 83,
+      "average_champion_experience": 9446,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4000587684"
+    }
+  }
+}

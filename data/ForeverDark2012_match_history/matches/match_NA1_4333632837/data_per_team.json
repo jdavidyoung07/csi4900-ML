@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68468,
+      "total_gold_spent": 62083,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 32,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 99060,
+      "total_damage_dealt_to_objectives": 99056,
+      "total_damage_taken": 114275,
+      "average_vision_score": 43,
+      "total_wards_placed": 58,
+      "average_creep_score": 132,
+      "average_champion_experience": 17131,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4333632837"
+    },
+    "200": {
+      "total_gold_earned": 52257,
+      "total_gold_spent": 49550,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 78007,
+      "total_damage_dealt_to_objectives": 27660,
+      "total_damage_taken": 128174,
+      "average_vision_score": 27,
+      "total_wards_placed": 65,
+      "average_creep_score": 147,
+      "average_champion_experience": 13650,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4333632837"
+    }
+  }
+}

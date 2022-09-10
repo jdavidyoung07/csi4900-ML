@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41435,
+      "total_gold_spent": 39700,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 51784,
+      "total_damage_dealt_to_objectives": 11974,
+      "total_damage_taken": 102577,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 92,
+      "average_champion_experience": 10009,
+      "dmg_carry": "Swain",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4421200149"
+    },
+    "200": {
+      "total_gold_earned": 57906,
+      "total_gold_spent": 50245,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 84015,
+      "total_damage_dealt_to_objectives": 94317,
+      "total_damage_taken": 80682,
+      "average_vision_score": 21,
+      "total_wards_placed": 43,
+      "average_creep_score": 112,
+      "average_champion_experience": 12655,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4421200149"
+    }
+  }
+}

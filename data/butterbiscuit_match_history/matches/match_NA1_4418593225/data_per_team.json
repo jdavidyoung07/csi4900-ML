@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63557,
+      "total_gold_spent": 61950,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 106951,
+      "total_damage_dealt_to_objectives": 49963,
+      "total_damage_taken": 157903,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 147,
+      "average_champion_experience": 15389,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4418593225"
+    },
+    "200": {
+      "total_gold_earned": 75789,
+      "total_gold_spent": 67700,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 136247,
+      "total_damage_dealt_to_objectives": 107744,
+      "total_damage_taken": 140485,
+      "average_vision_score": 37,
+      "total_wards_placed": 78,
+      "average_creep_score": 151,
+      "average_champion_experience": 19388,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4418593225"
+    }
+  }
+}

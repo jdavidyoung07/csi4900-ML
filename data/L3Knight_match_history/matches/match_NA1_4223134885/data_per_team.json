@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43499,
+      "total_gold_spent": 37650,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 24,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 49117,
+      "total_damage_dealt_to_objectives": 62937,
+      "total_damage_taken": 56446,
+      "average_vision_score": 16,
+      "total_wards_placed": 35,
+      "average_creep_score": 84,
+      "average_champion_experience": 9487,
+      "dmg_carry": "Camille",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4223134885"
+    },
+    "200": {
+      "total_gold_earned": 30530,
+      "total_gold_spent": 29335,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 33916,
+      "total_damage_dealt_to_objectives": 11820,
+      "total_damage_taken": 65471,
+      "average_vision_score": 15,
+      "total_wards_placed": 42,
+      "average_creep_score": 92,
+      "average_champion_experience": 7668,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4223134885"
+    }
+  }
+}

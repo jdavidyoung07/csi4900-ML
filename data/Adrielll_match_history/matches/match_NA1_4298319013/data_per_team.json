@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85368,
+      "total_gold_spent": 76410,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 54,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 213758,
+      "total_damage_dealt_to_objectives": 35878,
+      "total_damage_taken": 199567,
+      "average_vision_score": 36,
+      "total_wards_placed": 113,
+      "average_creep_score": 173,
+      "average_champion_experience": 21646,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4298319013"
+    },
+    "200": {
+      "total_gold_earned": 92878,
+      "total_gold_spent": 87575,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 6,
+      "total_kills": 54,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 170610,
+      "total_damage_dealt_to_objectives": 95364,
+      "total_damage_taken": 267611,
+      "average_vision_score": 46,
+      "total_wards_placed": 92,
+      "average_creep_score": 162,
+      "average_champion_experience": 22581,
+      "dmg_carry": "Tristana",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4298319013"
+    }
+  }
+}

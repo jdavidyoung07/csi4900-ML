@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68757,
+      "total_gold_spent": 65815,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 126074,
+      "total_damage_dealt_to_objectives": 78727,
+      "total_damage_taken": 149998,
+      "average_vision_score": 37,
+      "total_wards_placed": 70,
+      "average_creep_score": 111,
+      "average_champion_experience": 15633,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4228518687"
+    },
+    "200": {
+      "total_gold_earned": 71184,
+      "total_gold_spent": 64235,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 123761,
+      "total_damage_dealt_to_objectives": 61602,
+      "total_damage_taken": 152917,
+      "average_vision_score": 40,
+      "total_wards_placed": 100,
+      "average_creep_score": 136,
+      "average_champion_experience": 16676,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Xayah",
+      "match_id": "NA1_4228518687"
+    }
+  }
+}

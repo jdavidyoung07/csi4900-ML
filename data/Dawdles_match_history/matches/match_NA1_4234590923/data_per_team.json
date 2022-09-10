@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44701,
+      "total_gold_spent": 42858,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 66584,
+      "total_damage_dealt_to_objectives": 33015,
+      "total_damage_taken": 118418,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 109,
+      "average_champion_experience": 10704,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4234590923"
+    },
+    "200": {
+      "total_gold_earned": 54883,
+      "total_gold_spent": 45975,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 85697,
+      "total_damage_dealt_to_objectives": 65160,
+      "total_damage_taken": 91037,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 97,
+      "average_champion_experience": 12895,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Veigar",
+      "match_id": "NA1_4234590923"
+    }
+  }
+}

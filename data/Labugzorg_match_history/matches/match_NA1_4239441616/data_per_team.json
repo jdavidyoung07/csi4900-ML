@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80820,
+      "total_gold_spent": 74983,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 145430,
+      "total_damage_dealt_to_objectives": 36667,
+      "total_damage_taken": 195948,
+      "average_vision_score": 36,
+      "total_wards_placed": 81,
+      "average_creep_score": 179,
+      "average_champion_experience": 20012,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4239441616"
+    },
+    "200": {
+      "total_gold_earned": 85058,
+      "total_gold_spent": 82100,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 52,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 158607,
+      "total_damage_dealt_to_objectives": 91522,
+      "total_damage_taken": 192156,
+      "average_vision_score": 42,
+      "total_wards_placed": 81,
+      "average_creep_score": 154,
+      "average_champion_experience": 21268,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4239441616"
+    }
+  }
+}

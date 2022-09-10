@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55602,
+      "total_gold_spent": 52775,
+      "team_comp": [
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 91747,
+      "total_damage_dealt_to_objectives": 28408,
+      "total_damage_taken": 131348,
+      "average_vision_score": 19,
+      "total_wards_placed": 60,
+      "average_creep_score": 103,
+      "average_champion_experience": 13461,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Swain",
+      "match_id": "NA1_4331581400"
+    },
+    "200": {
+      "total_gold_earned": 60100,
+      "total_gold_spent": 54950,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 105766,
+      "total_damage_dealt_to_objectives": 74996,
+      "total_damage_taken": 126151,
+      "average_vision_score": 19,
+      "total_wards_placed": 27,
+      "average_creep_score": 120,
+      "average_champion_experience": 13796,
+      "dmg_carry": "Graves",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4331581400"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 34,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66499,
+      "total_gold_spent": 64850,
+      "team_comp": [
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 113944,
+      "total_damage_dealt_to_objectives": 48561,
+      "total_damage_taken": 179509,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 114,
+      "average_champion_experience": 15973,
+      "dmg_carry": "Brand",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4046024667"
+    },
+    "200": {
+      "total_gold_earned": 71105,
+      "total_gold_spent": 62325,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 152522,
+      "total_damage_dealt_to_objectives": 74124,
+      "total_damage_taken": 147017,
+      "average_vision_score": 27,
+      "total_wards_placed": 62,
+      "average_creep_score": 130,
+      "average_champion_experience": 17984,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4046024667"
+    }
+  }
+}

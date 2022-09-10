@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 82175,
+      "total_gold_spent": 73243,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 72,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 160257,
+      "total_damage_dealt_to_objectives": 91644,
+      "total_damage_taken": 217326,
+      "average_vision_score": 30,
+      "total_wards_placed": 67,
+      "average_creep_score": 105,
+      "average_champion_experience": 19148,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4201214568"
+    },
+    "200": {
+      "total_gold_earned": 72407,
+      "total_gold_spent": 66725,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 48,
+      "total_deaths": 72,
+      "total_damage_dealt_to_champions": 175693,
+      "total_damage_dealt_to_objectives": 39521,
+      "total_damage_taken": 194679,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 117,
+      "average_champion_experience": 16928,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4201214568"
+    }
+  }
+}

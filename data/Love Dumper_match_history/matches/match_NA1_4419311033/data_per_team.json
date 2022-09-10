@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84581,
+      "total_gold_spent": 77195,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 140571,
+      "total_damage_dealt_to_objectives": 129084,
+      "total_damage_taken": 189405,
+      "average_vision_score": 33,
+      "total_wards_placed": 61,
+      "average_creep_score": 153,
+      "average_champion_experience": 20707,
+      "dmg_carry": "Amumu",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4419311033"
+    },
+    "200": {
+      "total_gold_earned": 76456,
+      "total_gold_spent": 71710,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 155011,
+      "total_damage_dealt_to_objectives": 53008,
+      "total_damage_taken": 165540,
+      "average_vision_score": 41,
+      "total_wards_placed": 101,
+      "average_creep_score": 161,
+      "average_champion_experience": 17488,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4419311033"
+    }
+  }
+}

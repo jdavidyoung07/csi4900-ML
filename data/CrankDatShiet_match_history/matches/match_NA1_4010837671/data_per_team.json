@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 24,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40268,
+      "total_gold_spent": 38025,
+      "team_comp": [
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 48819,
+      "total_damage_dealt_to_objectives": 27871,
+      "total_damage_taken": 105685,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 88,
+      "average_champion_experience": 8671,
+      "dmg_carry": "Zed",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4010837671"
+    },
+    "200": {
+      "total_gold_earned": 53171,
+      "total_gold_spent": 45880,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 85564,
+      "total_damage_dealt_to_objectives": 38866,
+      "total_damage_taken": 75456,
+      "average_vision_score": 17,
+      "total_wards_placed": 50,
+      "average_creep_score": 95,
+      "average_champion_experience": 11053,
+      "dmg_carry": "Senna",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4010837671"
+    }
+  }
+}

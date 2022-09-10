@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54642,
+      "total_gold_spent": 49970,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 22,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 99165,
+      "total_damage_dealt_to_objectives": 41641,
+      "total_damage_taken": 153576,
+      "average_vision_score": 29,
+      "total_wards_placed": 50,
+      "average_creep_score": 110,
+      "average_champion_experience": 12549,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4397128166"
+    },
+    "200": {
+      "total_gold_earned": 66187,
+      "total_gold_spent": 60675,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 120058,
+      "total_damage_dealt_to_objectives": 80629,
+      "total_damage_taken": 129562,
+      "average_vision_score": 30,
+      "total_wards_placed": 71,
+      "average_creep_score": 110,
+      "average_champion_experience": 15195,
+      "dmg_carry": "Senna",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4397128166"
+    }
+  }
+}

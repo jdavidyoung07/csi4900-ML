@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66144,
+      "total_gold_spent": 64125,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 134212,
+      "total_damage_dealt_to_objectives": 40404,
+      "total_damage_taken": 155047,
+      "average_vision_score": 37,
+      "total_wards_placed": 74,
+      "average_creep_score": 133,
+      "average_champion_experience": 16630,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4411452321"
+    },
+    "200": {
+      "total_gold_earned": 74939,
+      "total_gold_spent": 71635,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 44,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 133084,
+      "total_damage_dealt_to_objectives": 116200,
+      "total_damage_taken": 170585,
+      "average_vision_score": 35,
+      "total_wards_placed": 83,
+      "average_creep_score": 127,
+      "average_champion_experience": 16927,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4411452321"
+    }
+  }
+}

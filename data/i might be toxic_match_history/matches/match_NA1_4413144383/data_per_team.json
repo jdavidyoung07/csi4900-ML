@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45843,
+      "total_gold_spent": 45210,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 85664,
+      "total_damage_dealt_to_objectives": 42783,
+      "total_damage_taken": 100913,
+      "average_vision_score": 21,
+      "total_wards_placed": 49,
+      "average_creep_score": 104,
+      "average_champion_experience": 10124,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4413144383"
+    },
+    "200": {
+      "total_gold_earned": 55062,
+      "total_gold_spent": 48378,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 78567,
+      "total_damage_dealt_to_objectives": 76070,
+      "total_damage_taken": 112319,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 99,
+      "average_champion_experience": 12369,
+      "dmg_carry": "Swain",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4413144383"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52693,
+      "total_gold_spent": 49185,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 97949,
+      "total_damage_dealt_to_objectives": 34009,
+      "total_damage_taken": 127593,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 101,
+      "average_champion_experience": 11236,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4405247128"
+    },
+    "200": {
+      "total_gold_earned": 62524,
+      "total_gold_spent": 57685,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 106061,
+      "total_damage_dealt_to_objectives": 62583,
+      "total_damage_taken": 134862,
+      "average_vision_score": 20,
+      "total_wards_placed": 44,
+      "average_creep_score": 107,
+      "average_champion_experience": 13754,
+      "dmg_carry": "Samira",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4405247128"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59517,
+      "total_gold_spent": 52805,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 90555,
+      "total_damage_dealt_to_objectives": 82513,
+      "total_damage_taken": 114217,
+      "average_vision_score": 24,
+      "total_wards_placed": 58,
+      "average_creep_score": 100,
+      "average_champion_experience": 14391,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4383772573"
+    },
+    "200": {
+      "total_gold_earned": 48596,
+      "total_gold_spent": 45720,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 83028,
+      "total_damage_dealt_to_objectives": 15515,
+      "total_damage_taken": 111621,
+      "average_vision_score": 21,
+      "total_wards_placed": 47,
+      "average_creep_score": 104,
+      "average_champion_experience": 11499,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4383772573"
+    }
+  }
+}

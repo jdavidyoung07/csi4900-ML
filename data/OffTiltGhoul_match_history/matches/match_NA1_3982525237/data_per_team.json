@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 15,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 21002,
+      "total_gold_spent": 17825,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 25975,
+      "total_damage_dealt_to_objectives": 7506,
+      "total_damage_taken": 48656,
+      "average_vision_score": 10,
+      "total_wards_placed": 27,
+      "average_creep_score": 45,
+      "average_champion_experience": 4909,
+      "dmg_carry": "Swain",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_3982525237"
+    },
+    "200": {
+      "total_gold_earned": 31432,
+      "total_gold_spent": 27845,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 36190,
+      "total_damage_dealt_to_objectives": 32464,
+      "total_damage_taken": 44811,
+      "average_vision_score": 9,
+      "total_wards_placed": 23,
+      "average_creep_score": 67,
+      "average_champion_experience": 6883,
+      "dmg_carry": "Jax",
+      "obj_carry": "Viego",
+      "match_id": "NA1_3982525237"
+    }
+  }
+}

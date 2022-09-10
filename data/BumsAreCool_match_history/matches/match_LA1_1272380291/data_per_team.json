@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67060,
+      "total_gold_spent": 65400,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 137206,
+      "total_damage_dealt_to_objectives": 51954,
+      "total_damage_taken": 213779,
+      "average_vision_score": 44,
+      "total_wards_placed": 78,
+      "average_creep_score": 131,
+      "average_champion_experience": 16868,
+      "dmg_carry": "Camille",
+      "obj_carry": "Camille",
+      "match_id": "LA1_1272380291"
+    },
+    "200": {
+      "total_gold_earned": 74652,
+      "total_gold_spent": 70535,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 179158,
+      "total_damage_dealt_to_objectives": 84038,
+      "total_damage_taken": 185458,
+      "average_vision_score": 36,
+      "total_wards_placed": 78,
+      "average_creep_score": 118,
+      "average_champion_experience": 17775,
+      "dmg_carry": "Akali",
+      "obj_carry": "Zed",
+      "match_id": "LA1_1272380291"
+    }
+  }
+}

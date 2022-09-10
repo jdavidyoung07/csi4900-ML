@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63194,
+      "total_gold_spent": 59660,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 102905,
+      "total_damage_dealt_to_objectives": 50498,
+      "total_damage_taken": 162250,
+      "average_vision_score": 29,
+      "total_wards_placed": 73,
+      "average_creep_score": 150,
+      "average_champion_experience": 15240,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4427627063"
+    },
+    "200": {
+      "total_gold_earned": 70725,
+      "total_gold_spent": 65825,
+      "team_comp": [
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 128921,
+      "total_damage_dealt_to_objectives": 105653,
+      "total_damage_taken": 131352,
+      "average_vision_score": 31,
+      "total_wards_placed": 62,
+      "average_creep_score": 137,
+      "average_champion_experience": 17419,
+      "dmg_carry": "Malphite",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4427627063"
+    }
+  }
+}

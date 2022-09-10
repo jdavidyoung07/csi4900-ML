@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 82382,
+      "total_gold_spent": 77450,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 61,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 194979,
+      "total_damage_dealt_to_objectives": 89524,
+      "total_damage_taken": 202133,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 130,
+      "average_champion_experience": 17474,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4421378620"
+    },
+    "200": {
+      "total_gold_earned": 86058,
+      "total_gold_spent": 74800,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 166764,
+      "total_damage_dealt_to_objectives": 119131,
+      "total_damage_taken": 228910,
+      "average_vision_score": 40,
+      "total_wards_placed": 79,
+      "average_creep_score": 141,
+      "average_champion_experience": 21452,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4421378620"
+    }
+  }
+}

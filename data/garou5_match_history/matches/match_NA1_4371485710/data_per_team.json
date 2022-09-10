@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70066,
+      "total_gold_spent": 66485,
+      "team_comp": [
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 120803,
+      "total_damage_dealt_to_objectives": 57438,
+      "total_damage_taken": 144208,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 159,
+      "average_champion_experience": 17853,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Morgana",
+      "match_id": "NA1_4371485710"
+    },
+    "200": {
+      "total_gold_earned": 71770,
+      "total_gold_spent": 63425,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 19,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 112111,
+      "total_damage_dealt_to_objectives": 87697,
+      "total_damage_taken": 165611,
+      "average_vision_score": 33,
+      "total_wards_placed": 79,
+      "average_creep_score": 169,
+      "average_champion_experience": 18379,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4371485710"
+    }
+  }
+}

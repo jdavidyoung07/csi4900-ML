@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72106,
+      "total_gold_spent": 72975,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 140059,
+      "total_damage_dealt_to_objectives": 87925,
+      "total_damage_taken": 187548,
+      "average_vision_score": 39,
+      "total_wards_placed": 69,
+      "average_creep_score": 142,
+      "average_champion_experience": 17020,
+      "dmg_carry": "Singed",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4402571840"
+    },
+    "200": {
+      "total_gold_earned": 73869,
+      "total_gold_spent": 66950,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 150227,
+      "total_damage_dealt_to_objectives": 72731,
+      "total_damage_taken": 174282,
+      "average_vision_score": 28,
+      "total_wards_placed": 53,
+      "average_creep_score": 134,
+      "average_champion_experience": 17977,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4402571840"
+    }
+  }
+}

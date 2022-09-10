@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49921,
+      "total_gold_spent": 45670,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 88237,
+      "total_damage_dealt_to_objectives": 23983,
+      "total_damage_taken": 120572,
+      "average_vision_score": 22,
+      "total_wards_placed": 59,
+      "average_creep_score": 98,
+      "average_champion_experience": 10761,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4420773711"
+    },
+    "200": {
+      "total_gold_earned": 64053,
+      "total_gold_spent": 56150,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 49,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 105120,
+      "total_damage_dealt_to_objectives": 82302,
+      "total_damage_taken": 121974,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 101,
+      "average_champion_experience": 13657,
+      "dmg_carry": "Udyr",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4420773711"
+    }
+  }
+}

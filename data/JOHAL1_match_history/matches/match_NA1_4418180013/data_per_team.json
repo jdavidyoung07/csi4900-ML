@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93453,
+      "total_gold_spent": 89585,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 64,
+      "total_deaths": 62,
+      "total_damage_dealt_to_champions": 243026,
+      "total_damage_dealt_to_objectives": 88652,
+      "total_damage_taken": 220506,
+      "average_vision_score": 28,
+      "total_wards_placed": 68,
+      "average_creep_score": 147,
+      "average_champion_experience": 23200,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4418180013"
+    },
+    "200": {
+      "total_gold_earned": 92848,
+      "total_gold_spent": 83008,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 62,
+      "total_deaths": 64,
+      "total_damage_dealt_to_champions": 196266,
+      "total_damage_dealt_to_objectives": 93706,
+      "total_damage_taken": 296471,
+      "average_vision_score": 39,
+      "total_wards_placed": 82,
+      "average_creep_score": 152,
+      "average_champion_experience": 22270,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4418180013"
+    }
+  }
+}

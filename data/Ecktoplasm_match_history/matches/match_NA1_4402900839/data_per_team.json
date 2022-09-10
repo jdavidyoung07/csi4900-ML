@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 88401,
+      "total_gold_spent": 80310,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 55,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 169387,
+      "total_damage_dealt_to_objectives": 127264,
+      "total_damage_taken": 192770,
+      "average_vision_score": 36,
+      "total_wards_placed": 54,
+      "average_creep_score": 138,
+      "average_champion_experience": 20947,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4402900839"
+    },
+    "200": {
+      "total_gold_earned": 80029,
+      "total_gold_spent": 73850,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 148581,
+      "total_damage_dealt_to_objectives": 56693,
+      "total_damage_taken": 200458,
+      "average_vision_score": 38,
+      "total_wards_placed": 76,
+      "average_creep_score": 142,
+      "average_champion_experience": 18566,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4402900839"
+    }
+  }
+}

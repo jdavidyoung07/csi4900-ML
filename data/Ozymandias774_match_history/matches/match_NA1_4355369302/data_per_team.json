@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83189,
+      "total_gold_spent": 79785,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 173749,
+      "total_damage_dealt_to_objectives": 53646,
+      "total_damage_taken": 213237,
+      "average_vision_score": 39,
+      "total_wards_placed": 83,
+      "average_creep_score": 179,
+      "average_champion_experience": 20981,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4355369302"
+    },
+    "200": {
+      "total_gold_earned": 85233,
+      "total_gold_spent": 74183,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 43,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 168190,
+      "total_damage_dealt_to_objectives": 111182,
+      "total_damage_taken": 215309,
+      "average_vision_score": 42,
+      "total_wards_placed": 77,
+      "average_creep_score": 152,
+      "average_champion_experience": 20234,
+      "dmg_carry": "Varus",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4355369302"
+    }
+  }
+}

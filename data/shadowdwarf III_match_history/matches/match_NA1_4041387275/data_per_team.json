@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 15,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30342,
+      "total_gold_spent": 25175,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 36245,
+      "total_damage_dealt_to_objectives": 15723,
+      "total_damage_taken": 32146,
+      "average_vision_score": 9,
+      "total_wards_placed": 22,
+      "average_creep_score": 60,
+      "average_champion_experience": 6215,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4041387275"
+    },
+    "200": {
+      "total_gold_earned": 22615,
+      "total_gold_spent": 19470,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 21234,
+      "total_damage_dealt_to_objectives": 14332,
+      "total_damage_taken": 46320,
+      "average_vision_score": 8,
+      "total_wards_placed": 25,
+      "average_creep_score": 53,
+      "average_champion_experience": 5233,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4041387275"
+    }
+  }
+}

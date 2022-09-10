@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 47,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90015,
+      "total_gold_spent": 84535,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 54,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 183333,
+      "total_damage_dealt_to_objectives": 70725,
+      "total_damage_taken": 212485,
+      "average_vision_score": 50,
+      "total_wards_placed": 104,
+      "average_creep_score": 139,
+      "average_champion_experience": 21640,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4054442314"
+    },
+    "200": {
+      "total_gold_earned": 95607,
+      "total_gold_spent": 88158,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 58,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 168483,
+      "total_damage_dealt_to_objectives": 95112,
+      "total_damage_taken": 209525,
+      "average_vision_score": 51,
+      "total_wards_placed": 97,
+      "average_creep_score": 183,
+      "average_champion_experience": 24375,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4054442314"
+    }
+  }
+}

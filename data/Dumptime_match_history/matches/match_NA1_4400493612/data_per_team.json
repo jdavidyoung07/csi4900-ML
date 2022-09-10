@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75453,
+      "total_gold_spent": 70038,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 165725,
+      "total_damage_dealt_to_objectives": 76974,
+      "total_damage_taken": 206086,
+      "average_vision_score": 32,
+      "total_wards_placed": 64,
+      "average_creep_score": 131,
+      "average_champion_experience": 16834,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4400493612"
+    },
+    "200": {
+      "total_gold_earned": 76899,
+      "total_gold_spent": 73550,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 55,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 173923,
+      "total_damage_dealt_to_objectives": 50637,
+      "total_damage_taken": 194490,
+      "average_vision_score": 25,
+      "total_wards_placed": 68,
+      "average_creep_score": 111,
+      "average_champion_experience": 17057,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4400493612"
+    }
+  }
+}

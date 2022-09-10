@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57186,
+      "total_gold_spent": 49385,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 103315,
+      "total_damage_dealt_to_objectives": 37997,
+      "total_damage_taken": 100172,
+      "average_vision_score": 27,
+      "total_wards_placed": 62,
+      "average_creep_score": 99,
+      "average_champion_experience": 13475,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4225679039"
+    },
+    "200": {
+      "total_gold_earned": 48903,
+      "total_gold_spent": 45710,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 74872,
+      "total_damage_dealt_to_objectives": 47396,
+      "total_damage_taken": 126418,
+      "average_vision_score": 20,
+      "total_wards_placed": 38,
+      "average_creep_score": 110,
+      "average_champion_experience": 11383,
+      "dmg_carry": "Zed",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4225679039"
+    }
+  }
+}

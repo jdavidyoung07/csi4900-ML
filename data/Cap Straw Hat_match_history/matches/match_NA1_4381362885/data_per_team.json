@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66867,
+      "total_gold_spent": 65200,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 127423,
+      "total_damage_dealt_to_objectives": 61869,
+      "total_damage_taken": 165751,
+      "average_vision_score": 24,
+      "total_wards_placed": 67,
+      "average_creep_score": 130,
+      "average_champion_experience": 15779,
+      "dmg_carry": "Renekton",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4381362885"
+    },
+    "200": {
+      "total_gold_earned": 70688,
+      "total_gold_spent": 63660,
+      "team_comp": [
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 124472,
+      "total_damage_dealt_to_objectives": 74641,
+      "total_damage_taken": 165049,
+      "average_vision_score": 28,
+      "total_wards_placed": 51,
+      "average_creep_score": 123,
+      "average_champion_experience": 16155,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4381362885"
+    }
+  }
+}

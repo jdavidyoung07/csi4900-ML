@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83800,
+      "total_gold_spent": 80633,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 188279,
+      "total_damage_dealt_to_objectives": 69625,
+      "total_damage_taken": 225714,
+      "average_vision_score": 29,
+      "total_wards_placed": 54,
+      "average_creep_score": 176,
+      "average_champion_experience": 21400,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4246953770"
+    },
+    "200": {
+      "total_gold_earned": 93737,
+      "total_gold_spent": 84110,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 60,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 182097,
+      "total_damage_dealt_to_objectives": 105418,
+      "total_damage_taken": 222280,
+      "average_vision_score": 40,
+      "total_wards_placed": 74,
+      "average_creep_score": 149,
+      "average_champion_experience": 24409,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4246953770"
+    }
+  }
+}

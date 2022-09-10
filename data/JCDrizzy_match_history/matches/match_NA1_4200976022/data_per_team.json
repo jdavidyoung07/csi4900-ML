@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 89084,
+      "total_gold_spent": 85990,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 179782,
+      "total_damage_dealt_to_objectives": 95939,
+      "total_damage_taken": 164917,
+      "average_vision_score": 52,
+      "total_wards_placed": 91,
+      "average_creep_score": 187,
+      "average_champion_experience": 21941,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4200976022"
+    },
+    "200": {
+      "total_gold_earned": 81979,
+      "total_gold_spent": 72995,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 127294,
+      "total_damage_dealt_to_objectives": 73453,
+      "total_damage_taken": 226253,
+      "average_vision_score": 50,
+      "total_wards_placed": 127,
+      "average_creep_score": 178,
+      "average_champion_experience": 20421,
+      "dmg_carry": "Veigar",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4200976022"
+    }
+  }
+}

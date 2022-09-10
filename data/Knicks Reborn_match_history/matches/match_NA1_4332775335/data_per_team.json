@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76792,
+      "total_gold_spent": 72010,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 156673,
+      "total_damage_dealt_to_objectives": 72570,
+      "total_damage_taken": 177894,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 128,
+      "average_champion_experience": 16460,
+      "dmg_carry": "Yone",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4332775335"
+    },
+    "200": {
+      "total_gold_earned": 72696,
+      "total_gold_spent": 72400,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 50,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 139422,
+      "total_damage_dealt_to_objectives": 75306,
+      "total_damage_taken": 188750,
+      "average_vision_score": 23,
+      "total_wards_placed": 55,
+      "average_creep_score": 109,
+      "average_champion_experience": 17212,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4332775335"
+    }
+  }
+}

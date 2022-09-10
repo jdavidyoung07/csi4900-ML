@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74951,
+      "total_gold_spent": 70235,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 149889,
+      "total_damage_dealt_to_objectives": 50540,
+      "total_damage_taken": 160027,
+      "average_vision_score": 26,
+      "total_wards_placed": 55,
+      "average_creep_score": 155,
+      "average_champion_experience": 18725,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4118604758"
+    },
+    "200": {
+      "total_gold_earned": 70356,
+      "total_gold_spent": 66375,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 44,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 161253,
+      "total_damage_dealt_to_objectives": 79421,
+      "total_damage_taken": 214977,
+      "average_vision_score": 38,
+      "total_wards_placed": 64,
+      "average_creep_score": 122,
+      "average_champion_experience": 15774,
+      "dmg_carry": "TahmKench",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4118604758"
+    }
+  }
+}

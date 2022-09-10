@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63991,
+      "total_gold_spent": 53410,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 40,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 104616,
+      "total_damage_dealt_to_objectives": 77923,
+      "total_damage_taken": 93292,
+      "average_vision_score": 31,
+      "total_wards_placed": 49,
+      "average_creep_score": 130,
+      "average_champion_experience": 14775,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4200500065"
+    },
+    "200": {
+      "total_gold_earned": 50203,
+      "total_gold_spent": 48560,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 71031,
+      "total_damage_dealt_to_objectives": 20507,
+      "total_damage_taken": 132755,
+      "average_vision_score": 34,
+      "total_wards_placed": 79,
+      "average_creep_score": 105,
+      "average_champion_experience": 11740,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4200500065"
+    }
+  }
+}

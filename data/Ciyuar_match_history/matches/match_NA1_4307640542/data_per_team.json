@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54408,
+      "total_gold_spent": 49175,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 25,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 73934,
+      "total_damage_dealt_to_objectives": 50734,
+      "total_damage_taken": 103025,
+      "average_vision_score": 29,
+      "total_wards_placed": 52,
+      "average_creep_score": 118,
+      "average_champion_experience": 12213,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Qiyana",
+      "match_id": "NA1_4307640542"
+    },
+    "200": {
+      "total_gold_earned": 60588,
+      "total_gold_spent": 57040,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 73140,
+      "total_damage_dealt_to_objectives": 55997,
+      "total_damage_taken": 99844,
+      "average_vision_score": 26,
+      "total_wards_placed": 66,
+      "average_creep_score": 135,
+      "average_champion_experience": 14386,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4307640542"
+    }
+  }
+}

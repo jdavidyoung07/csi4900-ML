@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66675,
+      "total_gold_spent": 57408,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 116832,
+      "total_damage_dealt_to_objectives": 69385,
+      "total_damage_taken": 113055,
+      "average_vision_score": 29,
+      "total_wards_placed": 67,
+      "average_creep_score": 125,
+      "average_champion_experience": 15859,
+      "dmg_carry": "Corki",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4203720065"
+    },
+    "200": {
+      "total_gold_earned": 60314,
+      "total_gold_spent": 57990,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 92039,
+      "total_damage_dealt_to_objectives": 51455,
+      "total_damage_taken": 147177,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 135,
+      "average_champion_experience": 13780,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4203720065"
+    }
+  }
+}

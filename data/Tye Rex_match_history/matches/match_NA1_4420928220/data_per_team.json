@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31574,
+      "total_gold_spent": 26575,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 4,
+      "total_damage_dealt_to_champions": 36746,
+      "total_damage_dealt_to_objectives": 30651,
+      "total_damage_taken": 29559,
+      "average_vision_score": 12,
+      "total_wards_placed": 21,
+      "average_creep_score": 62,
+      "average_champion_experience": 6145,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4420928220"
+    },
+    "200": {
+      "total_gold_earned": 19803,
+      "total_gold_spent": 17285,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 4,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 15073,
+      "total_damage_dealt_to_objectives": 5705,
+      "total_damage_taken": 45470,
+      "average_vision_score": 8,
+      "total_wards_placed": 25,
+      "average_creep_score": 40,
+      "average_champion_experience": 4819,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4420928220"
+    }
+  }
+}

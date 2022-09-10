@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80523,
+      "total_gold_spent": 76050,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 56,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 164224,
+      "total_damage_dealt_to_objectives": 112374,
+      "total_damage_taken": 169089,
+      "average_vision_score": 45,
+      "total_wards_placed": 84,
+      "average_creep_score": 130,
+      "average_champion_experience": 19562,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4241632203"
+    },
+    "200": {
+      "total_gold_earned": 75300,
+      "total_gold_spent": 73130,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 131910,
+      "total_damage_dealt_to_objectives": 34509,
+      "total_damage_taken": 185808,
+      "average_vision_score": 34,
+      "total_wards_placed": 90,
+      "average_creep_score": 156,
+      "average_champion_experience": 18373,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4241632203"
+    }
+  }
+}

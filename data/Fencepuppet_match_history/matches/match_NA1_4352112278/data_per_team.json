@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55036,
+      "total_gold_spent": 51558,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 70619,
+      "total_damage_dealt_to_objectives": 33599,
+      "total_damage_taken": 137011,
+      "average_vision_score": 24,
+      "total_wards_placed": 58,
+      "average_creep_score": 140,
+      "average_champion_experience": 13404,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4352112278"
+    },
+    "200": {
+      "total_gold_earned": 68619,
+      "total_gold_spent": 59405,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 33,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 107660,
+      "total_damage_dealt_to_objectives": 93607,
+      "total_damage_taken": 105105,
+      "average_vision_score": 29,
+      "total_wards_placed": 58,
+      "average_creep_score": 156,
+      "average_champion_experience": 16568,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Gragas",
+      "match_id": "NA1_4352112278"
+    }
+  }
+}

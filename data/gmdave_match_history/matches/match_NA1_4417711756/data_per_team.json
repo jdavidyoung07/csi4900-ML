@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57242,
+      "total_gold_spent": 53685,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 99889,
+      "total_damage_dealt_to_objectives": 40773,
+      "total_damage_taken": 148448,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 121,
+      "average_champion_experience": 13191,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4417711756"
+    },
+    "200": {
+      "total_gold_earned": 69058,
+      "total_gold_spent": 59565,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 127198,
+      "total_damage_dealt_to_objectives": 66296,
+      "total_damage_taken": 133474,
+      "average_vision_score": 22,
+      "total_wards_placed": 31,
+      "average_creep_score": 144,
+      "average_champion_experience": 15786,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4417711756"
+    }
+  }
+}

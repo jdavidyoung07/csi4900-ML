@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57733,
+      "total_gold_spent": 52925,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 89199,
+      "total_damage_dealt_to_objectives": 51028,
+      "total_damage_taken": 116251,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 118,
+      "average_champion_experience": 12799,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4278878571"
+    },
+    "200": {
+      "total_gold_earned": 63169,
+      "total_gold_spent": 54550,
+      "team_comp": [
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 95844,
+      "total_damage_dealt_to_objectives": 48589,
+      "total_damage_taken": 114980,
+      "average_vision_score": 14,
+      "total_wards_placed": 40,
+      "average_creep_score": 115,
+      "average_champion_experience": 13869,
+      "dmg_carry": "Samira",
+      "obj_carry": "Katarina",
+      "match_id": "NA1_4278878571"
+    }
+  }
+}

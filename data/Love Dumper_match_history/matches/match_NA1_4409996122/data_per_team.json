@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68300,
+      "total_gold_spent": 69383,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 157425,
+      "total_damage_dealt_to_objectives": 48717,
+      "total_damage_taken": 190026,
+      "average_vision_score": 23,
+      "total_wards_placed": 68,
+      "average_creep_score": 119,
+      "average_champion_experience": 14549,
+      "dmg_carry": "Chogath",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4409996122"
+    },
+    "200": {
+      "total_gold_earned": 76321,
+      "total_gold_spent": 71980,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 155169,
+      "total_damage_dealt_to_objectives": 95745,
+      "total_damage_taken": 191598,
+      "average_vision_score": 27,
+      "total_wards_placed": 54,
+      "average_creep_score": 123,
+      "average_champion_experience": 18413,
+      "dmg_carry": "JarvanIV",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4409996122"
+    }
+  }
+}

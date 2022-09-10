@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76000,
+      "total_gold_spent": 72833,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 132668,
+      "total_damage_dealt_to_objectives": 40006,
+      "total_damage_taken": 179540,
+      "average_vision_score": 41,
+      "total_wards_placed": 92,
+      "average_creep_score": 147,
+      "average_champion_experience": 16336,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4368708213"
+    },
+    "200": {
+      "total_gold_earned": 77879,
+      "total_gold_spent": 69625,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 145946,
+      "total_damage_dealt_to_objectives": 75856,
+      "total_damage_taken": 157536,
+      "average_vision_score": 45,
+      "total_wards_placed": 83,
+      "average_creep_score": 147,
+      "average_champion_experience": 18615,
+      "dmg_carry": "Lux",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4368708213"
+    }
+  }
+}

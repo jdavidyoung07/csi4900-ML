@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62425,
+      "total_gold_spent": 59650,
+      "team_comp": [
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 99110,
+      "total_damage_dealt_to_objectives": 36991,
+      "total_damage_taken": 171854,
+      "average_vision_score": 23,
+      "total_wards_placed": 53,
+      "average_creep_score": 114,
+      "average_champion_experience": 14288,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Neeko",
+      "match_id": "NA1_4410351037"
+    },
+    "200": {
+      "total_gold_earned": 74453,
+      "total_gold_spent": 66390,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 144934,
+      "total_damage_dealt_to_objectives": 108514,
+      "total_damage_taken": 121148,
+      "average_vision_score": 31,
+      "total_wards_placed": 71,
+      "average_creep_score": 102,
+      "average_champion_experience": 16310,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4410351037"
+    }
+  }
+}

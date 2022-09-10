@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93029,
+      "total_gold_spent": 87450,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 69,
+      "total_damage_dealt_to_champions": 164352,
+      "total_damage_dealt_to_objectives": 86509,
+      "total_damage_taken": 244347,
+      "average_vision_score": 49,
+      "total_wards_placed": 85,
+      "average_creep_score": 164,
+      "average_champion_experience": 21910,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4168790987"
+    },
+    "200": {
+      "total_gold_earned": 94255,
+      "total_gold_spent": 87580,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 69,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 203805,
+      "total_damage_dealt_to_objectives": 108756,
+      "total_damage_taken": 203376,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 140,
+      "average_champion_experience": 23279,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4168790987"
+    }
+  }
+}

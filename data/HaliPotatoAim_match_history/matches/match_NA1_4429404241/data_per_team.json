@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66632,
+      "total_gold_spent": 58200,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 36,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 116230,
+      "total_damage_dealt_to_objectives": 122760,
+      "total_damage_taken": 134009,
+      "average_vision_score": 23,
+      "total_wards_placed": 46,
+      "average_creep_score": 111,
+      "average_champion_experience": 14969,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4429404241"
+    },
+    "200": {
+      "total_gold_earned": 60956,
+      "total_gold_spent": 58075,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 107450,
+      "total_damage_dealt_to_objectives": 39946,
+      "total_damage_taken": 147007,
+      "average_vision_score": 26,
+      "total_wards_placed": 48,
+      "average_creep_score": 108,
+      "average_champion_experience": 13562,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4429404241"
+    }
+  }
+}

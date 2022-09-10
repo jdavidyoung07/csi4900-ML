@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39816,
+      "total_gold_spent": 35375,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 46484,
+      "total_damage_dealt_to_objectives": 21869,
+      "total_damage_taken": 57343,
+      "average_vision_score": 17,
+      "total_wards_placed": 38,
+      "average_creep_score": 85,
+      "average_champion_experience": 8855,
+      "dmg_carry": "Akali",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4352518448"
+    },
+    "200": {
+      "total_gold_earned": 35682,
+      "total_gold_spent": 33035,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 43173,
+      "total_damage_dealt_to_objectives": 34995,
+      "total_damage_taken": 62088,
+      "average_vision_score": 15,
+      "total_wards_placed": 30,
+      "average_creep_score": 80,
+      "average_champion_experience": 8494,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4352518448"
+    }
+  }
+}

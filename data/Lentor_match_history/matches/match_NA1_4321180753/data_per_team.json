@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39787,
+      "total_gold_spent": 36150,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 56532,
+      "total_damage_dealt_to_objectives": 17982,
+      "total_damage_taken": 84438,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 99,
+      "average_champion_experience": 9276,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4321180753"
+    },
+    "200": {
+      "total_gold_earned": 45548,
+      "total_gold_spent": 42165,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 64360,
+      "total_damage_dealt_to_objectives": 70998,
+      "total_damage_taken": 81737,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 90,
+      "average_champion_experience": 10992,
+      "dmg_carry": "Zed",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4321180753"
+    }
+  }
+}

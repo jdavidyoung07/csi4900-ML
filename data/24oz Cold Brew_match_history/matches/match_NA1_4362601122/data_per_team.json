@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69249,
+      "total_gold_spent": 61500,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 131315,
+      "total_damage_dealt_to_objectives": 64403,
+      "total_damage_taken": 147778,
+      "average_vision_score": 25,
+      "total_wards_placed": 46,
+      "average_creep_score": 119,
+      "average_champion_experience": 15737,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4362601122"
+    },
+    "200": {
+      "total_gold_earned": 64376,
+      "total_gold_spent": 60575,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 112741,
+      "total_damage_dealt_to_objectives": 54568,
+      "total_damage_taken": 156956,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 116,
+      "average_champion_experience": 14811,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4362601122"
+    }
+  }
+}

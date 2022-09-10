@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50612,
+      "total_gold_spent": 47860,
+      "team_comp": [
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 103160,
+      "total_damage_dealt_to_objectives": 30927,
+      "total_damage_taken": 110599,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 95,
+      "average_champion_experience": 10728,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Brand",
+      "match_id": "NA1_4033647090"
+    },
+    "200": {
+      "total_gold_earned": 63836,
+      "total_gold_spent": 56600,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 93155,
+      "total_damage_dealt_to_objectives": 77149,
+      "total_damage_taken": 136536,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 109,
+      "average_champion_experience": 14058,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4033647090"
+    }
+  }
+}

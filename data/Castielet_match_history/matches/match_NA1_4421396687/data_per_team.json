@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81405,
+      "total_gold_spent": 75665,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 158030,
+      "total_damage_dealt_to_objectives": 94491,
+      "total_damage_taken": 199815,
+      "average_vision_score": 41,
+      "total_wards_placed": 71,
+      "average_creep_score": 140,
+      "average_champion_experience": 19414,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4421396687"
+    },
+    "200": {
+      "total_gold_earned": 74675,
+      "total_gold_spent": 69095,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 156881,
+      "total_damage_dealt_to_objectives": 53070,
+      "total_damage_taken": 187199,
+      "average_vision_score": 31,
+      "total_wards_placed": 70,
+      "average_creep_score": 143,
+      "average_champion_experience": 17840,
+      "dmg_carry": "Vex",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4421396687"
+    }
+  }
+}

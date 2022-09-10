@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60474,
+      "total_gold_spent": 59160,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 126276,
+      "total_damage_dealt_to_objectives": 31278,
+      "total_damage_taken": 132172,
+      "average_vision_score": 29,
+      "total_wards_placed": 54,
+      "average_creep_score": 102,
+      "average_champion_experience": 12964,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4214797614"
+    },
+    "200": {
+      "total_gold_earned": 66036,
+      "total_gold_spent": 57633,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 99567,
+      "total_damage_dealt_to_objectives": 80741,
+      "total_damage_taken": 154236,
+      "average_vision_score": 30,
+      "total_wards_placed": 78,
+      "average_creep_score": 119,
+      "average_champion_experience": 15104,
+      "dmg_carry": "Darius",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4214797614"
+    }
+  }
+}

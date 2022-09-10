@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52530,
+      "total_gold_spent": 51075,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 75377,
+      "total_damage_dealt_to_objectives": 17005,
+      "total_damage_taken": 121207,
+      "average_vision_score": 27,
+      "total_wards_placed": 55,
+      "average_creep_score": 124,
+      "average_champion_experience": 12886,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4204347847"
+    },
+    "200": {
+      "total_gold_earned": 61607,
+      "total_gold_spent": 54185,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 101914,
+      "total_damage_dealt_to_objectives": 75476,
+      "total_damage_taken": 106595,
+      "average_vision_score": 33,
+      "total_wards_placed": 62,
+      "average_creep_score": 115,
+      "average_champion_experience": 14277,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4204347847"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37825,
+      "total_gold_spent": 36175,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 57690,
+      "total_damage_dealt_to_objectives": 25051,
+      "total_damage_taken": 74468,
+      "average_vision_score": 15,
+      "total_wards_placed": 39,
+      "average_creep_score": 82,
+      "average_champion_experience": 8350,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4409400319"
+    },
+    "200": {
+      "total_gold_earned": 42661,
+      "total_gold_spent": 38808,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 58485,
+      "total_damage_dealt_to_objectives": 48217,
+      "total_damage_taken": 80136,
+      "average_vision_score": 12,
+      "total_wards_placed": 34,
+      "average_creep_score": 61,
+      "average_champion_experience": 8883,
+      "dmg_carry": "Sett",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4409400319"
+    }
+  }
+}

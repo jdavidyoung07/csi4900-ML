@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38370,
+      "total_gold_spent": 36125,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 59380,
+      "total_damage_dealt_to_objectives": 24461,
+      "total_damage_taken": 82624,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 80,
+      "average_champion_experience": 8927,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4408420741"
+    },
+    "200": {
+      "total_gold_earned": 45582,
+      "total_gold_spent": 40283,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 68915,
+      "total_damage_dealt_to_objectives": 51968,
+      "total_damage_taken": 81546,
+      "average_vision_score": 16,
+      "total_wards_placed": 40,
+      "average_creep_score": 93,
+      "average_champion_experience": 9827,
+      "dmg_carry": "Azir",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4408420741"
+    }
+  }
+}

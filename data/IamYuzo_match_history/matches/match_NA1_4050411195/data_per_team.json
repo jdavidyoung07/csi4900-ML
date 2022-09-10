@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 36,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63567,
+      "total_gold_spent": 60338,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 76719,
+      "total_damage_dealt_to_objectives": 32936,
+      "total_damage_taken": 133108,
+      "average_vision_score": 26,
+      "total_wards_placed": 73,
+      "average_creep_score": 132,
+      "average_champion_experience": 15450,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4050411195"
+    },
+    "200": {
+      "total_gold_earned": 71829,
+      "total_gold_spent": 65540,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 107382,
+      "total_damage_dealt_to_objectives": 109999,
+      "total_damage_taken": 114520,
+      "average_vision_score": 42,
+      "total_wards_placed": 54,
+      "average_creep_score": 126,
+      "average_champion_experience": 17041,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4050411195"
+    }
+  }
+}

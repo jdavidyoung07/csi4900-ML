@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55925,
+      "total_gold_spent": 53110,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 25,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 94495,
+      "total_damage_dealt_to_objectives": 66496,
+      "total_damage_taken": 105737,
+      "average_vision_score": 29,
+      "total_wards_placed": 67,
+      "average_creep_score": 125,
+      "average_champion_experience": 12189,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4253973022"
+    },
+    "200": {
+      "total_gold_earned": 60734,
+      "total_gold_spent": 53405,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 77899,
+      "total_damage_dealt_to_objectives": 49990,
+      "total_damage_taken": 124787,
+      "average_vision_score": 26,
+      "total_wards_placed": 68,
+      "average_creep_score": 130,
+      "average_champion_experience": 14632,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4253973022"
+    }
+  }
+}

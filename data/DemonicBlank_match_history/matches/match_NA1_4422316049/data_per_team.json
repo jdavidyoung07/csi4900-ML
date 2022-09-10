@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66001,
+      "total_gold_spent": 64820,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 104055,
+      "total_damage_dealt_to_objectives": 97130,
+      "total_damage_taken": 115909,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 122,
+      "average_champion_experience": 14571,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4422316049"
+    },
+    "200": {
+      "total_gold_earned": 57447,
+      "total_gold_spent": 57035,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 89552,
+      "total_damage_dealt_to_objectives": 27897,
+      "total_damage_taken": 137621,
+      "average_vision_score": 24,
+      "total_wards_placed": 55,
+      "average_creep_score": 127,
+      "average_champion_experience": 12038,
+      "dmg_carry": "Draven",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4422316049"
+    }
+  }
+}

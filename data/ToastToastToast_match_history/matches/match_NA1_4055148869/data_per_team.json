@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 48,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91231,
+      "total_gold_spent": 80055,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 188789,
+      "total_damage_dealt_to_objectives": 135990,
+      "total_damage_taken": 215136,
+      "average_vision_score": 41,
+      "total_wards_placed": 93,
+      "average_creep_score": 172,
+      "average_champion_experience": 23852,
+      "dmg_carry": "Lux",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4055148869"
+    },
+    "200": {
+      "total_gold_earned": 89465,
+      "total_gold_spent": 86525,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 186048,
+      "total_damage_dealt_to_objectives": 69667,
+      "total_damage_taken": 235042,
+      "average_vision_score": 40,
+      "total_wards_placed": 94,
+      "average_creep_score": 157,
+      "average_champion_experience": 21462,
+      "dmg_carry": "Vex",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4055148869"
+    }
+  }
+}

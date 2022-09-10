@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80305,
+      "total_gold_spent": 81770,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 177296,
+      "total_damage_dealt_to_objectives": 80918,
+      "total_damage_taken": 176791,
+      "average_vision_score": 35,
+      "total_wards_placed": 67,
+      "average_creep_score": 141,
+      "average_champion_experience": 18034,
+      "dmg_carry": "Draven",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4346167741"
+    },
+    "200": {
+      "total_gold_earned": 87388,
+      "total_gold_spent": 81170,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 142198,
+      "total_damage_dealt_to_objectives": 95739,
+      "total_damage_taken": 217911,
+      "average_vision_score": 39,
+      "total_wards_placed": 91,
+      "average_creep_score": 175,
+      "average_champion_experience": 22204,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4346167741"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58222,
+      "total_gold_spent": 56760,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 116091,
+      "total_damage_dealt_to_objectives": 48900,
+      "total_damage_taken": 149022,
+      "average_vision_score": 32,
+      "total_wards_placed": 61,
+      "average_creep_score": 120,
+      "average_champion_experience": 13665,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4346131352"
+    },
+    "200": {
+      "total_gold_earned": 77147,
+      "total_gold_spent": 61025,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 49,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 121768,
+      "total_damage_dealt_to_objectives": 90492,
+      "total_damage_taken": 153279,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 134,
+      "average_champion_experience": 18231,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4346131352"
+    }
+  }
+}

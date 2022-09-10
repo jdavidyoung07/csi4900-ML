@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48686,
+      "total_gold_spent": 46935,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 84555,
+      "total_damage_dealt_to_objectives": 30410,
+      "total_damage_taken": 126291,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 112,
+      "average_champion_experience": 11221,
+      "dmg_carry": "Brand",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4388427866"
+    },
+    "200": {
+      "total_gold_earned": 64115,
+      "total_gold_spent": 58850,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 107796,
+      "total_damage_dealt_to_objectives": 99060,
+      "total_damage_taken": 124245,
+      "average_vision_score": 28,
+      "total_wards_placed": 58,
+      "average_creep_score": 126,
+      "average_champion_experience": 14910,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4388427866"
+    }
+  }
+}

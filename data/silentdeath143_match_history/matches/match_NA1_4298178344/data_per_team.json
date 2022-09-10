@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87641,
+      "total_gold_spent": 85435,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 52,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 242084,
+      "total_damage_dealt_to_objectives": 88864,
+      "total_damage_taken": 192529,
+      "average_vision_score": 51,
+      "total_wards_placed": 99,
+      "average_creep_score": 145,
+      "average_champion_experience": 19481,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4298178344"
+    },
+    "200": {
+      "total_gold_earned": 90912,
+      "total_gold_spent": 83945,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 159093,
+      "total_damage_dealt_to_objectives": 102810,
+      "total_damage_taken": 277657,
+      "average_vision_score": 41,
+      "total_wards_placed": 104,
+      "average_creep_score": 186,
+      "average_champion_experience": 22251,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4298178344"
+    }
+  }
+}

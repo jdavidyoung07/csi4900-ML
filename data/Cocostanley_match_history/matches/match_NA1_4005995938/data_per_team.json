@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 25,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 38328,
+      "total_gold_spent": 36425,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 59187,
+      "total_damage_dealt_to_objectives": 18871,
+      "total_damage_taken": 88540,
+      "average_vision_score": 15,
+      "total_wards_placed": 29,
+      "average_creep_score": 78,
+      "average_champion_experience": 8976,
+      "dmg_carry": "Lux",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4005995938"
+    },
+    "200": {
+      "total_gold_earned": 47506,
+      "total_gold_spent": 43060,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 73315,
+      "total_damage_dealt_to_objectives": 43661,
+      "total_damage_taken": 80533,
+      "average_vision_score": 14,
+      "total_wards_placed": 42,
+      "average_creep_score": 82,
+      "average_champion_experience": 10782,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4005995938"
+    }
+  }
+}

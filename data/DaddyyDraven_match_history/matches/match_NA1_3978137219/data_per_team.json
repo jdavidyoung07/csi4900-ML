@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54165,
+      "total_gold_spent": 54400,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 79879,
+      "total_damage_dealt_to_objectives": 32979,
+      "total_damage_taken": 126969,
+      "average_vision_score": 16,
+      "total_wards_placed": 42,
+      "average_creep_score": 121,
+      "average_champion_experience": 12738,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_3978137219"
+    },
+    "200": {
+      "total_gold_earned": 63519,
+      "total_gold_spent": 53750,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 100771,
+      "total_damage_dealt_to_objectives": 51408,
+      "total_damage_taken": 110830,
+      "average_vision_score": 19,
+      "total_wards_placed": 48,
+      "average_creep_score": 111,
+      "average_champion_experience": 14675,
+      "dmg_carry": "Diana",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_3978137219"
+    }
+  }
+}

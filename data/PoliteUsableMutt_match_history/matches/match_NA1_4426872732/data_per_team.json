@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40415,
+      "total_gold_spent": 37985,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 51610,
+      "total_damage_dealt_to_objectives": 20269,
+      "total_damage_taken": 88933,
+      "average_vision_score": 19,
+      "total_wards_placed": 44,
+      "average_creep_score": 108,
+      "average_champion_experience": 9856,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4426872732"
+    },
+    "200": {
+      "total_gold_earned": 49784,
+      "total_gold_spent": 47150,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 67210,
+      "total_damage_dealt_to_objectives": 54159,
+      "total_damage_taken": 73408,
+      "average_vision_score": 18,
+      "total_wards_placed": 42,
+      "average_creep_score": 104,
+      "average_champion_experience": 11084,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4426872732"
+    }
+  }
+}

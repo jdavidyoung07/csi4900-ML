@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70416,
+      "total_gold_spent": 66300,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 163670,
+      "total_damage_dealt_to_objectives": 75571,
+      "total_damage_taken": 171853,
+      "average_vision_score": 30,
+      "total_wards_placed": 60,
+      "average_creep_score": 116,
+      "average_champion_experience": 16446,
+      "dmg_carry": "Azir",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4301350049"
+    },
+    "200": {
+      "total_gold_earned": 71521,
+      "total_gold_spent": 66525,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 54,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 138024,
+      "total_damage_dealt_to_objectives": 56779,
+      "total_damage_taken": 201649,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 122,
+      "average_champion_experience": 17936,
+      "dmg_carry": "Akali",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4301350049"
+    }
+  }
+}

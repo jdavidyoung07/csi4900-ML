@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64595,
+      "total_gold_spent": 61070,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 121618,
+      "total_damage_dealt_to_objectives": 84362,
+      "total_damage_taken": 149577,
+      "average_vision_score": 34,
+      "total_wards_placed": 51,
+      "average_creep_score": 111,
+      "average_champion_experience": 13991,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4410370210"
+    },
+    "200": {
+      "total_gold_earned": 64259,
+      "total_gold_spent": 59785,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 110389,
+      "total_damage_dealt_to_objectives": 53778,
+      "total_damage_taken": 144198,
+      "average_vision_score": 19,
+      "total_wards_placed": 61,
+      "average_creep_score": 111,
+      "average_champion_experience": 14942,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4410370210"
+    }
+  }
+}

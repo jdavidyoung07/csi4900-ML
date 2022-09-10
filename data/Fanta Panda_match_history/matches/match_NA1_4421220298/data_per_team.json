@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79882,
+      "total_gold_spent": 76700,
+      "team_comp": [
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 184855,
+      "total_damage_dealt_to_objectives": 57728,
+      "total_damage_taken": 192333,
+      "average_vision_score": 32,
+      "total_wards_placed": 66,
+      "average_creep_score": 171,
+      "average_champion_experience": 19730,
+      "dmg_carry": "Udyr",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4421220298"
+    },
+    "200": {
+      "total_gold_earned": 75580,
+      "total_gold_spent": 74970,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 156588,
+      "total_damage_dealt_to_objectives": 85110,
+      "total_damage_taken": 226263,
+      "average_vision_score": 32,
+      "total_wards_placed": 74,
+      "average_creep_score": 154,
+      "average_champion_experience": 19405,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4421220298"
+    }
+  }
+}

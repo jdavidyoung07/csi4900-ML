@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 117130,
+      "total_gold_spent": 119565,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 5,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 6,
+      "total_kills": 52,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 290830,
+      "total_damage_dealt_to_objectives": 182991,
+      "total_damage_taken": 304195,
+      "average_vision_score": 75,
+      "total_wards_placed": 113,
+      "average_creep_score": 213,
+      "average_champion_experience": 30885,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4383258420"
+    },
+    "200": {
+      "total_gold_earned": 111911,
+      "total_gold_spent": 110200,
+      "team_comp": [
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 255779,
+      "total_damage_dealt_to_objectives": 83868,
+      "total_damage_taken": 327729,
+      "average_vision_score": 50,
+      "total_wards_placed": 122,
+      "average_creep_score": 255,
+      "average_champion_experience": 28432,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4383258420"
+    }
+  }
+}

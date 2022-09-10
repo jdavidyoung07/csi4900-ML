@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87820,
+      "total_gold_spent": 75890,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 198483,
+      "total_damage_dealt_to_objectives": 76953,
+      "total_damage_taken": 215332,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 182,
+      "average_champion_experience": 22343,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4332770960"
+    },
+    "200": {
+      "total_gold_earned": 87139,
+      "total_gold_spent": 81475,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 180288,
+      "total_damage_dealt_to_objectives": 86503,
+      "total_damage_taken": 247100,
+      "average_vision_score": 35,
+      "total_wards_placed": 63,
+      "average_creep_score": 184,
+      "average_champion_experience": 21322,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4332770960"
+    }
+  }
+}

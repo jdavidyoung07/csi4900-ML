@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85183,
+      "total_gold_spent": 87075,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 52,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 195853,
+      "total_damage_dealt_to_objectives": 88359,
+      "total_damage_taken": 221363,
+      "average_vision_score": 42,
+      "total_wards_placed": 89,
+      "average_creep_score": 146,
+      "average_champion_experience": 20228,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4258262718"
+    },
+    "200": {
+      "total_gold_earned": 87946,
+      "total_gold_spent": 81275,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 53,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 175264,
+      "total_damage_dealt_to_objectives": 100678,
+      "total_damage_taken": 232492,
+      "average_vision_score": 40,
+      "total_wards_placed": 91,
+      "average_creep_score": 154,
+      "average_champion_experience": 22176,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4258262718"
+    }
+  }
+}

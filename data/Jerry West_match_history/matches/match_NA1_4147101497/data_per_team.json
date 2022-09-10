@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42630,
+      "total_gold_spent": 39285,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 57179,
+      "total_damage_dealt_to_objectives": 9710,
+      "total_damage_taken": 99166,
+      "average_vision_score": 20,
+      "total_wards_placed": 45,
+      "average_creep_score": 84,
+      "average_champion_experience": 8726,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4147101497"
+    },
+    "200": {
+      "total_gold_earned": 51582,
+      "total_gold_spent": 48150,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 79122,
+      "total_damage_dealt_to_objectives": 39080,
+      "total_damage_taken": 81591,
+      "average_vision_score": 15,
+      "total_wards_placed": 34,
+      "average_creep_score": 74,
+      "average_champion_experience": 10054,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4147101497"
+    }
+  }
+}

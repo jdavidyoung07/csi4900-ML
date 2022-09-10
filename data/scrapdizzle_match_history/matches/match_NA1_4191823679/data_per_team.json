@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90449,
+      "total_gold_spent": 81875,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 145690,
+      "total_damage_dealt_to_objectives": 58039,
+      "total_damage_taken": 249623,
+      "average_vision_score": 54,
+      "total_wards_placed": 99,
+      "average_creep_score": 195,
+      "average_champion_experience": 22545,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4191823679"
+    },
+    "200": {
+      "total_gold_earned": 95857,
+      "total_gold_spent": 90805,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 59,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 202351,
+      "total_damage_dealt_to_objectives": 113715,
+      "total_damage_taken": 176300,
+      "average_vision_score": 50,
+      "total_wards_placed": 102,
+      "average_creep_score": 169,
+      "average_champion_experience": 23284,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4191823679"
+    }
+  }
+}

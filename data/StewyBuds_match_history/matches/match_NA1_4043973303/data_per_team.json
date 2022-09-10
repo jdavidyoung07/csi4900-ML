@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 23,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 36391,
+      "total_gold_spent": 33420,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 34148,
+      "total_damage_dealt_to_objectives": 19016,
+      "total_damage_taken": 62473,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 89,
+      "average_champion_experience": 8330,
+      "dmg_carry": "Twitch",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4043973303"
+    },
+    "200": {
+      "total_gold_earned": 46150,
+      "total_gold_spent": 42040,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 22,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 45116,
+      "total_damage_dealt_to_objectives": 59184,
+      "total_damage_taken": 59698,
+      "average_vision_score": 17,
+      "total_wards_placed": 36,
+      "average_creep_score": 95,
+      "average_champion_experience": 10447,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4043973303"
+    }
+  }
+}

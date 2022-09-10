@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48181,
+      "total_gold_spent": 42375,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 93551,
+      "total_damage_dealt_to_objectives": 26428,
+      "total_damage_taken": 98975,
+      "average_vision_score": 21,
+      "total_wards_placed": 49,
+      "average_creep_score": 97,
+      "average_champion_experience": 11285,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4240386396"
+    },
+    "200": {
+      "total_gold_earned": 51353,
+      "total_gold_spent": 47372,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 74765,
+      "total_damage_dealt_to_objectives": 68630,
+      "total_damage_taken": 126884,
+      "average_vision_score": 19,
+      "total_wards_placed": 47,
+      "average_creep_score": 109,
+      "average_champion_experience": 11931,
+      "dmg_carry": "Brand",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4240386396"
+    }
+  }
+}

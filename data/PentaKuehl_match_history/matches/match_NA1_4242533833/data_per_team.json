@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35565,
+      "total_gold_spent": 34125,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 39842,
+      "total_damage_dealt_to_objectives": 17101,
+      "total_damage_taken": 89846,
+      "average_vision_score": 13,
+      "total_wards_placed": 33,
+      "average_creep_score": 81,
+      "average_champion_experience": 8363,
+      "dmg_carry": "Poppy",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4242533833"
+    },
+    "200": {
+      "total_gold_earned": 53074,
+      "total_gold_spent": 47110,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 70093,
+      "total_damage_dealt_to_objectives": 61945,
+      "total_damage_taken": 67843,
+      "average_vision_score": 23,
+      "total_wards_placed": 59,
+      "average_creep_score": 102,
+      "average_champion_experience": 11710,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4242533833"
+    }
+  }
+}

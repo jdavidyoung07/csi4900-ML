@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 20,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30241,
+      "total_gold_spent": 28080,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 33036,
+      "total_damage_dealt_to_objectives": 18225,
+      "total_damage_taken": 71437,
+      "average_vision_score": 11,
+      "total_wards_placed": 29,
+      "average_creep_score": 74,
+      "average_champion_experience": 7482,
+      "dmg_carry": "Lux",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4043230773"
+    },
+    "200": {
+      "total_gold_earned": 45735,
+      "total_gold_spent": 38125,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 24,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 55118,
+      "total_damage_dealt_to_objectives": 48674,
+      "total_damage_taken": 61619,
+      "average_vision_score": 16,
+      "total_wards_placed": 38,
+      "average_creep_score": 99,
+      "average_champion_experience": 10016,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4043230773"
+    }
+  }
+}

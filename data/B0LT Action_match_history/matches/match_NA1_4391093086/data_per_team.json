@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61682,
+      "total_gold_spent": 58075,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 91681,
+      "total_damage_dealt_to_objectives": 45063,
+      "total_damage_taken": 115505,
+      "average_vision_score": 28,
+      "total_wards_placed": 62,
+      "average_creep_score": 119,
+      "average_champion_experience": 14066,
+      "dmg_carry": "Talon",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4391093086"
+    },
+    "200": {
+      "total_gold_earned": 62929,
+      "total_gold_spent": 55590,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 86699,
+      "total_damage_dealt_to_objectives": 97029,
+      "total_damage_taken": 112783,
+      "average_vision_score": 31,
+      "total_wards_placed": 73,
+      "average_creep_score": 114,
+      "average_champion_experience": 14255,
+      "dmg_carry": "Annie",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4391093086"
+    }
+  }
+}

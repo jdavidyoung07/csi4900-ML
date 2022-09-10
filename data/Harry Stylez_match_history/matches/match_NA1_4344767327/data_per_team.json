@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70221,
+      "total_gold_spent": 68318,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 159818,
+      "total_damage_dealt_to_objectives": 89829,
+      "total_damage_taken": 166281,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 120,
+      "average_champion_experience": 16270,
+      "dmg_carry": "XinZhao",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4344767327"
+    },
+    "200": {
+      "total_gold_earned": 73456,
+      "total_gold_spent": 62133,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 132476,
+      "total_damage_dealt_to_objectives": 61122,
+      "total_damage_taken": 187449,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 149,
+      "average_champion_experience": 17777,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4344767327"
+    }
+  }
+}

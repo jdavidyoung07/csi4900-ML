@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47166,
+      "total_gold_spent": 36795,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 57068,
+      "total_damage_dealt_to_objectives": 38437,
+      "total_damage_taken": 74936,
+      "average_vision_score": 18,
+      "total_wards_placed": 41,
+      "average_creep_score": 95,
+      "average_champion_experience": 11038,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4171395472"
+    },
+    "200": {
+      "total_gold_earned": 40226,
+      "total_gold_spent": 37225,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 50706,
+      "total_damage_dealt_to_objectives": 30162,
+      "total_damage_taken": 77648,
+      "average_vision_score": 13,
+      "total_wards_placed": 30,
+      "average_creep_score": 94,
+      "average_champion_experience": 9128,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4171395472"
+    }
+  }
+}

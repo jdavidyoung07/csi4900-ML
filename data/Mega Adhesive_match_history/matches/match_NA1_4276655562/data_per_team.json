@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62156,
+      "total_gold_spent": 58250,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 93638,
+      "total_damage_dealt_to_objectives": 22491,
+      "total_damage_taken": 135682,
+      "average_vision_score": 27,
+      "total_wards_placed": 53,
+      "average_creep_score": 126,
+      "average_champion_experience": 14851,
+      "dmg_carry": "Elise",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4276655562"
+    },
+    "200": {
+      "total_gold_earned": 70022,
+      "total_gold_spent": 61605,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 53,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 117196,
+      "total_damage_dealt_to_objectives": 74890,
+      "total_damage_taken": 118054,
+      "average_vision_score": 27,
+      "total_wards_placed": 49,
+      "average_creep_score": 117,
+      "average_champion_experience": 17259,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4276655562"
+    }
+  }
+}

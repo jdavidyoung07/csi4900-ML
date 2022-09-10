@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66500,
+      "total_gold_spent": 59058,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 130518,
+      "total_damage_dealt_to_objectives": 88991,
+      "total_damage_taken": 122678,
+      "average_vision_score": 33,
+      "total_wards_placed": 64,
+      "average_creep_score": 129,
+      "average_champion_experience": 16506,
+      "dmg_carry": "Graves",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4379374458"
+    },
+    "200": {
+      "total_gold_earned": 52805,
+      "total_gold_spent": 51018,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 96838,
+      "total_damage_dealt_to_objectives": 25702,
+      "total_damage_taken": 157322,
+      "average_vision_score": 19,
+      "total_wards_placed": 51,
+      "average_creep_score": 138,
+      "average_champion_experience": 12716,
+      "dmg_carry": "Xerath",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4379374458"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45993,
+      "total_gold_spent": 45330,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 72379,
+      "total_damage_dealt_to_objectives": 27720,
+      "total_damage_taken": 110099,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 107,
+      "average_champion_experience": 10165,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4330060734"
+    },
+    "200": {
+      "total_gold_earned": 58624,
+      "total_gold_spent": 53690,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 94665,
+      "total_damage_dealt_to_objectives": 62506,
+      "total_damage_taken": 92035,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 109,
+      "average_champion_experience": 13905,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4330060734"
+    }
+  }
+}

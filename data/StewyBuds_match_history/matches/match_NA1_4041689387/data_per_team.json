@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52471,
+      "total_gold_spent": 49200,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 95693,
+      "total_damage_dealt_to_objectives": 33554,
+      "total_damage_taken": 131480,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 115,
+      "average_champion_experience": 12043,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4041689387"
+    },
+    "200": {
+      "total_gold_earned": 58090,
+      "total_gold_spent": 50585,
+      "team_comp": [
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 105132,
+      "total_damage_dealt_to_objectives": 46205,
+      "total_damage_taken": 134518,
+      "average_vision_score": 28,
+      "total_wards_placed": 62,
+      "average_creep_score": 109,
+      "average_champion_experience": 12884,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4041689387"
+    }
+  }
+}

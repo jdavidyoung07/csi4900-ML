@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47331,
+      "total_gold_spent": 47860,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 87733,
+      "total_damage_dealt_to_objectives": 24924,
+      "total_damage_taken": 98995,
+      "average_vision_score": 21,
+      "total_wards_placed": 51,
+      "average_creep_score": 124,
+      "average_champion_experience": 12376,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4232902950"
+    },
+    "200": {
+      "total_gold_earned": 59737,
+      "total_gold_spent": 52383,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 24,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 73331,
+      "total_damage_dealt_to_objectives": 83237,
+      "total_damage_taken": 130373,
+      "average_vision_score": 20,
+      "total_wards_placed": 41,
+      "average_creep_score": 118,
+      "average_champion_experience": 13964,
+      "dmg_carry": "Senna",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4232902950"
+    }
+  }
+}

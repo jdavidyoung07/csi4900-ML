@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78863,
+      "total_gold_spent": 70925,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 198957,
+      "total_damage_dealt_to_objectives": 51559,
+      "total_damage_taken": 221204,
+      "average_vision_score": 30,
+      "total_wards_placed": 65,
+      "average_creep_score": 157,
+      "average_champion_experience": 19801,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4378038806"
+    },
+    "200": {
+      "total_gold_earned": 90647,
+      "total_gold_spent": 86075,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 55,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 190409,
+      "total_damage_dealt_to_objectives": 92453,
+      "total_damage_taken": 236590,
+      "average_vision_score": 35,
+      "total_wards_placed": 56,
+      "average_creep_score": 148,
+      "average_champion_experience": 21183,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4378038806"
+    }
+  }
+}

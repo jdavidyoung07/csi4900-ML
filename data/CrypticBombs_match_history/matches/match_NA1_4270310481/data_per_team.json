@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69959,
+      "total_gold_spent": 65005,
+      "team_comp": [
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 112371,
+      "total_damage_dealt_to_objectives": 61111,
+      "total_damage_taken": 127130,
+      "average_vision_score": 33,
+      "total_wards_placed": 68,
+      "average_creep_score": 167,
+      "average_champion_experience": 16858,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4270310481"
+    },
+    "200": {
+      "total_gold_earned": 69635,
+      "total_gold_spent": 64340,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 98421,
+      "total_damage_dealt_to_objectives": 61372,
+      "total_damage_taken": 140952,
+      "average_vision_score": 31,
+      "total_wards_placed": 72,
+      "average_creep_score": 141,
+      "average_champion_experience": 17127,
+      "dmg_carry": "Zac",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4270310481"
+    }
+  }
+}

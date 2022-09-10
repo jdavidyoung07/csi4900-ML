@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66128,
+      "total_gold_spent": 58250,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 101059,
+      "total_damage_dealt_to_objectives": 66104,
+      "total_damage_taken": 117801,
+      "average_vision_score": 36,
+      "total_wards_placed": 66,
+      "average_creep_score": 124,
+      "average_champion_experience": 15275,
+      "dmg_carry": "Senna",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4000802788"
+    },
+    "200": {
+      "total_gold_earned": 52412,
+      "total_gold_spent": 47925,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 89806,
+      "total_damage_dealt_to_objectives": 24864,
+      "total_damage_taken": 128139,
+      "average_vision_score": 31,
+      "total_wards_placed": 68,
+      "average_creep_score": 123,
+      "average_champion_experience": 12456,
+      "dmg_carry": "Lux",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4000802788"
+    }
+  }
+}

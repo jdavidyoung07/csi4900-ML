@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71504,
+      "total_gold_spent": 65300,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 119534,
+      "total_damage_dealt_to_objectives": 86441,
+      "total_damage_taken": 123300,
+      "average_vision_score": 43,
+      "total_wards_placed": 95,
+      "average_creep_score": 158,
+      "average_champion_experience": 17691,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4263910148"
+    },
+    "200": {
+      "total_gold_earned": 71063,
+      "total_gold_spent": 63185,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 88671,
+      "total_damage_dealt_to_objectives": 60361,
+      "total_damage_taken": 152343,
+      "average_vision_score": 33,
+      "total_wards_placed": 79,
+      "average_creep_score": 150,
+      "average_champion_experience": 17449,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4263910148"
+    }
+  }
+}

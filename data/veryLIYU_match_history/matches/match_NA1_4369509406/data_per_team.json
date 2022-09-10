@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74400,
+      "total_gold_spent": 67593,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 117498,
+      "total_damage_dealt_to_objectives": 86583,
+      "total_damage_taken": 180686,
+      "average_vision_score": 34,
+      "total_wards_placed": 67,
+      "average_creep_score": 156,
+      "average_champion_experience": 18956,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4369509406"
+    },
+    "200": {
+      "total_gold_earned": 77628,
+      "total_gold_spent": 75085,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 137056,
+      "total_damage_dealt_to_objectives": 67941,
+      "total_damage_taken": 156191,
+      "average_vision_score": 34,
+      "total_wards_placed": 64,
+      "average_creep_score": 166,
+      "average_champion_experience": 18923,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4369509406"
+    }
+  }
+}

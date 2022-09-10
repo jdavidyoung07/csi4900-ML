@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65372,
+      "total_gold_spent": 60100,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 133703,
+      "total_damage_dealt_to_objectives": 67084,
+      "total_damage_taken": 165266,
+      "average_vision_score": 33,
+      "total_wards_placed": 53,
+      "average_creep_score": 131,
+      "average_champion_experience": 15602,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4323062930"
+    },
+    "200": {
+      "total_gold_earned": 67264,
+      "total_gold_spent": 58650,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 122108,
+      "total_damage_dealt_to_objectives": 74760,
+      "total_damage_taken": 160193,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 136,
+      "average_champion_experience": 16170,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4323062930"
+    }
+  }
+}

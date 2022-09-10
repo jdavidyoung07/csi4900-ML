@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59880,
+      "total_gold_spent": 56375,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 23,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 72306,
+      "total_damage_dealt_to_objectives": 43297,
+      "total_damage_taken": 101865,
+      "average_vision_score": 32,
+      "total_wards_placed": 60,
+      "average_creep_score": 132,
+      "average_champion_experience": 13703,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4300216702"
+    },
+    "200": {
+      "total_gold_earned": 74068,
+      "total_gold_spent": 61850,
+      "team_comp": [
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 40,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 82787,
+      "total_damage_dealt_to_objectives": 81999,
+      "total_damage_taken": 101927,
+      "average_vision_score": 29,
+      "total_wards_placed": 73,
+      "average_creep_score": 131,
+      "average_champion_experience": 16723,
+      "dmg_carry": "Xerath",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4300216702"
+    }
+  }
+}

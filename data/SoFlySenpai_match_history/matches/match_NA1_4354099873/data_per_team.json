@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65641,
+      "total_gold_spent": 64795,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 121412,
+      "total_damage_dealt_to_objectives": 20599,
+      "total_damage_taken": 139960,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 123,
+      "average_champion_experience": 14579,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4354099873"
+    },
+    "200": {
+      "total_gold_earned": 70764,
+      "total_gold_spent": 66860,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 51,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 114815,
+      "total_damage_dealt_to_objectives": 89606,
+      "total_damage_taken": 148844,
+      "average_vision_score": 29,
+      "total_wards_placed": 56,
+      "average_creep_score": 100,
+      "average_champion_experience": 16702,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4354099873"
+    }
+  }
+}

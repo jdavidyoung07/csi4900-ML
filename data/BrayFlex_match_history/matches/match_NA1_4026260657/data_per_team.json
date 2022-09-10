@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 21,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33001,
+      "total_gold_spent": 29685,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 34891,
+      "total_damage_dealt_to_objectives": 5700,
+      "total_damage_taken": 67425,
+      "average_vision_score": 17,
+      "total_wards_placed": 37,
+      "average_creep_score": 75,
+      "average_champion_experience": 7642,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4026260657"
+    },
+    "200": {
+      "total_gold_earned": 45791,
+      "total_gold_spent": 41360,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 55940,
+      "total_damage_dealt_to_objectives": 32166,
+      "total_damage_taken": 57107,
+      "average_vision_score": 16,
+      "total_wards_placed": 42,
+      "average_creep_score": 86,
+      "average_champion_experience": 9728,
+      "dmg_carry": "Garen",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4026260657"
+    }
+  }
+}

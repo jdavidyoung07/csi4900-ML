@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68359,
+      "total_gold_spent": 59523,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 122152,
+      "total_damage_dealt_to_objectives": 108475,
+      "total_damage_taken": 148755,
+      "average_vision_score": 34,
+      "total_wards_placed": 65,
+      "average_creep_score": 125,
+      "average_champion_experience": 16477,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4379158023"
+    },
+    "200": {
+      "total_gold_earned": 56196,
+      "total_gold_spent": 52654,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 99149,
+      "total_damage_dealt_to_objectives": 23098,
+      "total_damage_taken": 147572,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 138,
+      "average_champion_experience": 14645,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4379158023"
+    }
+  }
+}

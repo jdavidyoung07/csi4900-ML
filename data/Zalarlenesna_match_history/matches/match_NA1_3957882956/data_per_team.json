@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 38,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67064,
+      "total_gold_spent": 65250,
+      "team_comp": [
+        {
+          "champName": "Lulu",
+          "champId": 117
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 117617,
+      "total_damage_dealt_to_objectives": 24255,
+      "total_damage_taken": 122625,
+      "average_vision_score": 26,
+      "total_wards_placed": 65,
+      "average_creep_score": 141,
+      "average_champion_experience": 16888,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Lulu",
+      "match_id": "NA1_3957882956"
+    },
+    "200": {
+      "total_gold_earned": 73059,
+      "total_gold_spent": 67460,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 102828,
+      "total_damage_dealt_to_objectives": 93078,
+      "total_damage_taken": 152781,
+      "average_vision_score": 30,
+      "total_wards_placed": 75,
+      "average_creep_score": 140,
+      "average_champion_experience": 18573,
+      "dmg_carry": "Brand",
+      "obj_carry": "Brand",
+      "match_id": "NA1_3957882956"
+    }
+  }
+}

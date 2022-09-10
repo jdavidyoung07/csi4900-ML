@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 33,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49871,
+      "total_gold_spent": 48020,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 86428,
+      "total_damage_dealt_to_objectives": 16142,
+      "total_damage_taken": 103907,
+      "average_vision_score": 27,
+      "total_wards_placed": 58,
+      "average_creep_score": 128,
+      "average_champion_experience": 12916,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4046048978"
+    },
+    "200": {
+      "total_gold_earned": 61424,
+      "total_gold_spent": 51325,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 29,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 82743,
+      "total_damage_dealt_to_objectives": 81384,
+      "total_damage_taken": 126490,
+      "average_vision_score": 30,
+      "total_wards_placed": 55,
+      "average_creep_score": 118,
+      "average_champion_experience": 14509,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4046048978"
+    }
+  }
+}

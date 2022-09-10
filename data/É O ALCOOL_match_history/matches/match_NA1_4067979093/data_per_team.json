@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54785,
+      "total_gold_spent": 49785,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 105782,
+      "total_damage_dealt_to_objectives": 35973,
+      "total_damage_taken": 123482,
+      "average_vision_score": 32,
+      "total_wards_placed": 65,
+      "average_creep_score": 115,
+      "average_champion_experience": 12338,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4067979093"
+    },
+    "200": {
+      "total_gold_earned": 57798,
+      "total_gold_spent": 52394,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 100815,
+      "total_damage_dealt_to_objectives": 83163,
+      "total_damage_taken": 134290,
+      "average_vision_score": 23,
+      "total_wards_placed": 61,
+      "average_creep_score": 95,
+      "average_champion_experience": 13894,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4067979093"
+    }
+  }
+}

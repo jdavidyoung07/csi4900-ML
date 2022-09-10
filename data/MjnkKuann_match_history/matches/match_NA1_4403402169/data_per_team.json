@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44955,
+      "total_gold_spent": 42210,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 64991,
+      "total_damage_dealt_to_objectives": 40313,
+      "total_damage_taken": 100045,
+      "average_vision_score": 20,
+      "total_wards_placed": 36,
+      "average_creep_score": 101,
+      "average_champion_experience": 10221,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4403402169"
+    },
+    "200": {
+      "total_gold_earned": 52928,
+      "total_gold_spent": 45350,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 75146,
+      "total_damage_dealt_to_objectives": 66354,
+      "total_damage_taken": 83787,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 88,
+      "average_champion_experience": 12318,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4403402169"
+    }
+  }
+}

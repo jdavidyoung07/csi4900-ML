@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63331,
+      "total_gold_spent": 56225,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 43,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 106421,
+      "total_damage_dealt_to_objectives": 88149,
+      "total_damage_taken": 91657,
+      "average_vision_score": 30,
+      "total_wards_placed": 56,
+      "average_creep_score": 106,
+      "average_champion_experience": 14442,
+      "dmg_carry": "Rammus",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4401297821"
+    },
+    "200": {
+      "total_gold_earned": 53638,
+      "total_gold_spent": 52120,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 67487,
+      "total_damage_dealt_to_objectives": 32463,
+      "total_damage_taken": 140097,
+      "average_vision_score": 20,
+      "total_wards_placed": 46,
+      "average_creep_score": 125,
+      "average_champion_experience": 12151,
+      "dmg_carry": "Samira",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4401297821"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42779,
+      "total_gold_spent": 40400,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 50089,
+      "total_damage_dealt_to_objectives": 18562,
+      "total_damage_taken": 100015,
+      "average_vision_score": 18,
+      "total_wards_placed": 53,
+      "average_creep_score": 100,
+      "average_champion_experience": 10083,
+      "dmg_carry": "Lucian",
+      "obj_carry": "RekSai",
+      "match_id": "NA1_4261110950"
+    },
+    "200": {
+      "total_gold_earned": 56448,
+      "total_gold_spent": 50535,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 80647,
+      "total_damage_dealt_to_objectives": 74319,
+      "total_damage_taken": 82255,
+      "average_vision_score": 20,
+      "total_wards_placed": 31,
+      "average_creep_score": 100,
+      "average_champion_experience": 13038,
+      "dmg_carry": "Talon",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4261110950"
+    }
+  }
+}

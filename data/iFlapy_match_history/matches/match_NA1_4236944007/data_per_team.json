@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53898,
+      "total_gold_spent": 51935,
+      "team_comp": [
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 76954,
+      "total_damage_dealt_to_objectives": 33004,
+      "total_damage_taken": 96083,
+      "average_vision_score": 24,
+      "total_wards_placed": 40,
+      "average_creep_score": 115,
+      "average_champion_experience": 11305,
+      "dmg_carry": "Diana",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4236944007"
+    },
+    "200": {
+      "total_gold_earned": 63389,
+      "total_gold_spent": 56450,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 79178,
+      "total_damage_dealt_to_objectives": 59434,
+      "total_damage_taken": 101373,
+      "average_vision_score": 22,
+      "total_wards_placed": 60,
+      "average_creep_score": 100,
+      "average_champion_experience": 13260,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4236944007"
+    }
+  }
+}

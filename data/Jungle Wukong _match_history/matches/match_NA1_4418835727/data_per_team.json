@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 98913,
+      "total_gold_spent": 105125,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 6,
+      "total_kills": 55,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 202868,
+      "total_damage_dealt_to_objectives": 141991,
+      "total_damage_taken": 256598,
+      "average_vision_score": 38,
+      "total_wards_placed": 87,
+      "average_creep_score": 169,
+      "average_champion_experience": 24987,
+      "dmg_carry": "Zed",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4418835727"
+    },
+    "200": {
+      "total_gold_earned": 93677,
+      "total_gold_spent": 90330,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 58,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 207530,
+      "total_damage_dealt_to_objectives": 67797,
+      "total_damage_taken": 246112,
+      "average_vision_score": 47,
+      "total_wards_placed": 112,
+      "average_creep_score": 195,
+      "average_champion_experience": 24097,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4418835727"
+    }
+  }
+}

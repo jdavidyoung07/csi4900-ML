@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60429,
+      "total_gold_spent": 56525,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 126912,
+      "total_damage_dealt_to_objectives": 65712,
+      "total_damage_taken": 153173,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 104,
+      "average_champion_experience": 14798,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4323363806"
+    },
+    "200": {
+      "total_gold_earned": 59391,
+      "total_gold_spent": 57603,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 118255,
+      "total_damage_dealt_to_objectives": 48222,
+      "total_damage_taken": 166304,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 133,
+      "average_champion_experience": 14947,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4323363806"
+    }
+  }
+}

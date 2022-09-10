@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58258,
+      "total_gold_spent": 53110,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 99795,
+      "total_damage_dealt_to_objectives": 61439,
+      "total_damage_taken": 102534,
+      "average_vision_score": 19,
+      "total_wards_placed": 46,
+      "average_creep_score": 108,
+      "average_champion_experience": 12773,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4336373749"
+    },
+    "200": {
+      "total_gold_earned": 46108,
+      "total_gold_spent": 45870,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 73425,
+      "total_damage_dealt_to_objectives": 7365,
+      "total_damage_taken": 114101,
+      "average_vision_score": 23,
+      "total_wards_placed": 53,
+      "average_creep_score": 88,
+      "average_champion_experience": 10418,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4336373749"
+    }
+  }
+}

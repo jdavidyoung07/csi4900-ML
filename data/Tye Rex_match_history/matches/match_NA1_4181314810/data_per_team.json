@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 82604,
+      "total_gold_spent": 74595,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 158998,
+      "total_damage_dealt_to_objectives": 89414,
+      "total_damage_taken": 203538,
+      "average_vision_score": 40,
+      "total_wards_placed": 86,
+      "average_creep_score": 138,
+      "average_champion_experience": 19642,
+      "dmg_carry": "Yone",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4181314810"
+    },
+    "200": {
+      "total_gold_earned": 76181,
+      "total_gold_spent": 76615,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 56,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 158172,
+      "total_damage_dealt_to_objectives": 40921,
+      "total_damage_taken": 187749,
+      "average_vision_score": 29,
+      "total_wards_placed": 70,
+      "average_creep_score": 134,
+      "average_champion_experience": 18647,
+      "dmg_carry": "Annie",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4181314810"
+    }
+  }
+}

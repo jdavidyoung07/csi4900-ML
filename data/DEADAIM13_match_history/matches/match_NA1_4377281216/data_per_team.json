@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49076,
+      "total_gold_spent": 46875,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 75971,
+      "total_damage_dealt_to_objectives": 11343,
+      "total_damage_taken": 83644,
+      "average_vision_score": 33,
+      "total_wards_placed": 62,
+      "average_creep_score": 154,
+      "average_champion_experience": 12433,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4377281216"
+    },
+    "200": {
+      "total_gold_earned": 59941,
+      "total_gold_spent": 48235,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 18,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 60781,
+      "total_damage_dealt_to_objectives": 82452,
+      "total_damage_taken": 105314,
+      "average_vision_score": 33,
+      "total_wards_placed": 80,
+      "average_creep_score": 138,
+      "average_champion_experience": 14546,
+      "dmg_carry": "Garen",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4377281216"
+    }
+  }
+}

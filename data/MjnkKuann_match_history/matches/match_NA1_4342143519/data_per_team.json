@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56244,
+      "total_gold_spent": 54125,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 81520,
+      "total_damage_dealt_to_objectives": 62258,
+      "total_damage_taken": 107154,
+      "average_vision_score": 29,
+      "total_wards_placed": 67,
+      "average_creep_score": 114,
+      "average_champion_experience": 12780,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4342143519"
+    },
+    "200": {
+      "total_gold_earned": 56387,
+      "total_gold_spent": 47933,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 81245,
+      "total_damage_dealt_to_objectives": 79360,
+      "total_damage_taken": 118440,
+      "average_vision_score": 22,
+      "total_wards_placed": 61,
+      "average_creep_score": 111,
+      "average_champion_experience": 12561,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4342143519"
+    }
+  }
+}

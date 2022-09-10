@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77166,
+      "total_gold_spent": 80738,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 154026,
+      "total_damage_dealt_to_objectives": 57611,
+      "total_damage_taken": 195402,
+      "average_vision_score": 30,
+      "total_wards_placed": 59,
+      "average_creep_score": 147,
+      "average_champion_experience": 18878,
+      "dmg_carry": "Corki",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4271123795"
+    },
+    "200": {
+      "total_gold_earned": 79709,
+      "total_gold_spent": 70750,
+      "team_comp": [
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 162485,
+      "total_damage_dealt_to_objectives": 93051,
+      "total_damage_taken": 187596,
+      "average_vision_score": 32,
+      "total_wards_placed": 79,
+      "average_creep_score": 121,
+      "average_champion_experience": 20155,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Neeko",
+      "match_id": "NA1_4271123795"
+    }
+  }
+}

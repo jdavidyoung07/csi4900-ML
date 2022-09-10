@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54515,
+      "total_gold_spent": 53750,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 94191,
+      "total_damage_dealt_to_objectives": 37444,
+      "total_damage_taken": 103735,
+      "average_vision_score": 25,
+      "total_wards_placed": 46,
+      "average_creep_score": 112,
+      "average_champion_experience": 11793,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4294739296"
+    },
+    "200": {
+      "total_gold_earned": 59479,
+      "total_gold_spent": 53215,
+      "team_comp": [
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 27,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 75477,
+      "total_damage_dealt_to_objectives": 64453,
+      "total_damage_taken": 124973,
+      "average_vision_score": 27,
+      "total_wards_placed": 65,
+      "average_creep_score": 116,
+      "average_champion_experience": 13394,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4294739296"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46896,
+      "total_gold_spent": 43225,
+      "team_comp": [
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 64769,
+      "total_damage_dealt_to_objectives": 41331,
+      "total_damage_taken": 88046,
+      "average_vision_score": 16,
+      "total_wards_placed": 40,
+      "average_creep_score": 91,
+      "average_champion_experience": 10454,
+      "dmg_carry": "Brand",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4238445853"
+    },
+    "200": {
+      "total_gold_earned": 55345,
+      "total_gold_spent": 49780,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 71284,
+      "total_damage_dealt_to_objectives": 59016,
+      "total_damage_taken": 94323,
+      "average_vision_score": 24,
+      "total_wards_placed": 48,
+      "average_creep_score": 116,
+      "average_champion_experience": 12921,
+      "dmg_carry": "Annie",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4238445853"
+    }
+  }
+}

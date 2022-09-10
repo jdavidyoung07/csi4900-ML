@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53266,
+      "total_gold_spent": 49835,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 91236,
+      "total_damage_dealt_to_objectives": 26592,
+      "total_damage_taken": 123667,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 114,
+      "average_champion_experience": 11643,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4231433649"
+    },
+    "200": {
+      "total_gold_earned": 65956,
+      "total_gold_spent": 57660,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 104089,
+      "total_damage_dealt_to_objectives": 85810,
+      "total_damage_taken": 127582,
+      "average_vision_score": 29,
+      "total_wards_placed": 71,
+      "average_creep_score": 114,
+      "average_champion_experience": 15365,
+      "dmg_carry": "Kled",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4231433649"
+    }
+  }
+}

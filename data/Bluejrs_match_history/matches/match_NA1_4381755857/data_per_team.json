@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77893,
+      "total_gold_spent": 67083,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 157935,
+      "total_damage_dealt_to_objectives": 103608,
+      "total_damage_taken": 198304,
+      "average_vision_score": 37,
+      "total_wards_placed": 90,
+      "average_creep_score": 151,
+      "average_champion_experience": 20072,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4381755857"
+    },
+    "200": {
+      "total_gold_earned": 75035,
+      "total_gold_spent": 73883,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 154784,
+      "total_damage_dealt_to_objectives": 48853,
+      "total_damage_taken": 178131,
+      "average_vision_score": 36,
+      "total_wards_placed": 65,
+      "average_creep_score": 149,
+      "average_champion_experience": 17192,
+      "dmg_carry": "Viktor",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4381755857"
+    }
+  }
+}

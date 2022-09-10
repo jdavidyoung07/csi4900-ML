@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76529,
+      "total_gold_spent": 70600,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 161299,
+      "total_damage_dealt_to_objectives": 115596,
+      "total_damage_taken": 165385,
+      "average_vision_score": 24,
+      "total_wards_placed": 49,
+      "average_creep_score": 148,
+      "average_champion_experience": 18956,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4417907165"
+    },
+    "200": {
+      "total_gold_earned": 69095,
+      "total_gold_spent": 67450,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 111207,
+      "total_damage_dealt_to_objectives": 33153,
+      "total_damage_taken": 183459,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 151,
+      "average_champion_experience": 17780,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4417907165"
+    }
+  }
+}

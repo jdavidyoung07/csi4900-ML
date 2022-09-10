@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63709,
+      "total_gold_spent": 61975,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 105666,
+      "total_damage_dealt_to_objectives": 25683,
+      "total_damage_taken": 147548,
+      "average_vision_score": 37,
+      "total_wards_placed": 81,
+      "average_creep_score": 126,
+      "average_champion_experience": 14417,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4274503739"
+    },
+    "200": {
+      "total_gold_earned": 66973,
+      "total_gold_spent": 56450,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 121511,
+      "total_damage_dealt_to_objectives": 86503,
+      "total_damage_taken": 129558,
+      "average_vision_score": 32,
+      "total_wards_placed": 81,
+      "average_creep_score": 110,
+      "average_champion_experience": 15946,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Rammus",
+      "match_id": "NA1_4274503739"
+    }
+  }
+}

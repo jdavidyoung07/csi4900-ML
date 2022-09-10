@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48149,
+      "total_gold_spent": 46100,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 80875,
+      "total_damage_dealt_to_objectives": 32591,
+      "total_damage_taken": 105025,
+      "average_vision_score": 18,
+      "total_wards_placed": 48,
+      "average_creep_score": 91,
+      "average_champion_experience": 10583,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4412483266"
+    },
+    "200": {
+      "total_gold_earned": 55101,
+      "total_gold_spent": 49040,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 89463,
+      "total_damage_dealt_to_objectives": 72063,
+      "total_damage_taken": 108267,
+      "average_vision_score": 21,
+      "total_wards_placed": 42,
+      "average_creep_score": 81,
+      "average_champion_experience": 11931,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4412483266"
+    }
+  }
+}

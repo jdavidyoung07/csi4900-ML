@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41334,
+      "total_gold_spent": 35918,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 54814,
+      "total_damage_dealt_to_objectives": 24022,
+      "total_damage_taken": 56475,
+      "average_vision_score": 16,
+      "total_wards_placed": 37,
+      "average_creep_score": 97,
+      "average_champion_experience": 9681,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4308769996"
+    },
+    "200": {
+      "total_gold_earned": 34827,
+      "total_gold_spent": 32010,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 41452,
+      "total_damage_dealt_to_objectives": 32181,
+      "total_damage_taken": 75063,
+      "average_vision_score": 15,
+      "total_wards_placed": 35,
+      "average_creep_score": 84,
+      "average_champion_experience": 8020,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_4308769996"
+    }
+  }
+}

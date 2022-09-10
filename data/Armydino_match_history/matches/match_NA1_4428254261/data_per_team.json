@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72559,
+      "total_gold_spent": 68325,
+      "team_comp": [
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 137705,
+      "total_damage_dealt_to_objectives": 41884,
+      "total_damage_taken": 154129,
+      "average_vision_score": 31,
+      "total_wards_placed": 92,
+      "average_creep_score": 165,
+      "average_champion_experience": 18425,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Ahri",
+      "match_id": "NA1_4428254261"
+    },
+    "200": {
+      "total_gold_earned": 72045,
+      "total_gold_spent": 68625,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 128880,
+      "total_damage_dealt_to_objectives": 95518,
+      "total_damage_taken": 178241,
+      "average_vision_score": 41,
+      "total_wards_placed": 77,
+      "average_creep_score": 154,
+      "average_champion_experience": 17059,
+      "dmg_carry": "Azir",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4428254261"
+    }
+  }
+}

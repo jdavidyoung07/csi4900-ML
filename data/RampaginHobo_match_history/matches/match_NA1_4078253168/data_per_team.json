@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45596,
+      "total_gold_spent": 43310,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 61455,
+      "total_damage_dealt_to_objectives": 16626,
+      "total_damage_taken": 95112,
+      "average_vision_score": 19,
+      "total_wards_placed": 51,
+      "average_creep_score": 98,
+      "average_champion_experience": 11102,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4078253168"
+    },
+    "200": {
+      "total_gold_earned": 58008,
+      "total_gold_spent": 51475,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 75323,
+      "total_damage_dealt_to_objectives": 83407,
+      "total_damage_taken": 86352,
+      "average_vision_score": 21,
+      "total_wards_placed": 43,
+      "average_creep_score": 110,
+      "average_champion_experience": 13323,
+      "dmg_carry": "Zoe",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4078253168"
+    }
+  }
+}

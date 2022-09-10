@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84230,
+      "total_gold_spent": 86593,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 72,
+      "total_damage_dealt_to_champions": 201595,
+      "total_damage_dealt_to_objectives": 23041,
+      "total_damage_taken": 204811,
+      "average_vision_score": 31,
+      "total_wards_placed": 79,
+      "average_creep_score": 174,
+      "average_champion_experience": 21731,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4304662559"
+    },
+    "200": {
+      "total_gold_earned": 95904,
+      "total_gold_spent": 86570,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 72,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 182166,
+      "total_damage_dealt_to_objectives": 143081,
+      "total_damage_taken": 244446,
+      "average_vision_score": 54,
+      "total_wards_placed": 91,
+      "average_creep_score": 142,
+      "average_champion_experience": 23110,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4304662559"
+    }
+  }
+}

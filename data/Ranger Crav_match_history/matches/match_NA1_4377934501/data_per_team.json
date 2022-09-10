@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68067,
+      "total_gold_spent": 65305,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 129734,
+      "total_damage_dealt_to_objectives": 79697,
+      "total_damage_taken": 181580,
+      "average_vision_score": 32,
+      "total_wards_placed": 54,
+      "average_creep_score": 137,
+      "average_champion_experience": 15742,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4377934501"
+    },
+    "200": {
+      "total_gold_earned": 76120,
+      "total_gold_spent": 67310,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 149514,
+      "total_damage_dealt_to_objectives": 57002,
+      "total_damage_taken": 166179,
+      "average_vision_score": 41,
+      "total_wards_placed": 65,
+      "average_creep_score": 134,
+      "average_champion_experience": 19227,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4377934501"
+    }
+  }
+}

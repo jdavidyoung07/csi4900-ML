@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68421,
+      "total_gold_spent": 65500,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 159456,
+      "total_damage_dealt_to_objectives": 100122,
+      "total_damage_taken": 173003,
+      "average_vision_score": 33,
+      "total_wards_placed": 69,
+      "average_creep_score": 112,
+      "average_champion_experience": 14980,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4226061238"
+    },
+    "200": {
+      "total_gold_earned": 73910,
+      "total_gold_spent": 65733,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 140862,
+      "total_damage_dealt_to_objectives": 73451,
+      "total_damage_taken": 188997,
+      "average_vision_score": 37,
+      "total_wards_placed": 73,
+      "average_creep_score": 129,
+      "average_champion_experience": 17394,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4226061238"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80323,
+      "total_gold_spent": 74210,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 155587,
+      "total_damage_dealt_to_objectives": 72195,
+      "total_damage_taken": 218085,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 160,
+      "average_champion_experience": 18951,
+      "dmg_carry": "Brand",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4296514705"
+    },
+    "200": {
+      "total_gold_earned": 90052,
+      "total_gold_spent": 79750,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 60,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 170746,
+      "total_damage_dealt_to_objectives": 120718,
+      "total_damage_taken": 199115,
+      "average_vision_score": 29,
+      "total_wards_placed": 51,
+      "average_creep_score": 164,
+      "average_champion_experience": 23118,
+      "dmg_carry": "Corki",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4296514705"
+    }
+  }
+}

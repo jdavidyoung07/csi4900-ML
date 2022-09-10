@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53893,
+      "total_gold_spent": 50585,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 97538,
+      "total_damage_dealt_to_objectives": 41120,
+      "total_damage_taken": 133251,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 126,
+      "average_champion_experience": 13757,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4048538680"
+    },
+    "200": {
+      "total_gold_earned": 61284,
+      "total_gold_spent": 54873,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 97201,
+      "total_damage_dealt_to_objectives": 85369,
+      "total_damage_taken": 130492,
+      "average_vision_score": 16,
+      "total_wards_placed": 46,
+      "average_creep_score": 123,
+      "average_champion_experience": 15517,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4048538680"
+    }
+  }
+}

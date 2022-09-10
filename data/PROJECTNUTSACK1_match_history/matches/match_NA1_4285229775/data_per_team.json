@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59456,
+      "total_gold_spent": 52075,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 94671,
+      "total_damage_dealt_to_objectives": 55565,
+      "total_damage_taken": 104516,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 117,
+      "average_champion_experience": 13017,
+      "dmg_carry": "Yone",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4285229775"
+    },
+    "200": {
+      "total_gold_earned": 55661,
+      "total_gold_spent": 52375,
+      "team_comp": [
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 81130,
+      "total_damage_dealt_to_objectives": 77988,
+      "total_damage_taken": 115614,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 105,
+      "average_champion_experience": 12155,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4285229775"
+    }
+  }
+}

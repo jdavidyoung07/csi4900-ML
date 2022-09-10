@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67398,
+      "total_gold_spent": 59810,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 110383,
+      "total_damage_dealt_to_objectives": 56342,
+      "total_damage_taken": 138513,
+      "average_vision_score": 27,
+      "total_wards_placed": 48,
+      "average_creep_score": 132,
+      "average_champion_experience": 15685,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4353365037"
+    },
+    "200": {
+      "total_gold_earned": 53183,
+      "total_gold_spent": 50625,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 103584,
+      "total_damage_dealt_to_objectives": 51373,
+      "total_damage_taken": 136424,
+      "average_vision_score": 21,
+      "total_wards_placed": 50,
+      "average_creep_score": 114,
+      "average_champion_experience": 12173,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4353365037"
+    }
+  }
+}

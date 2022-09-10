@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41875,
+      "total_gold_spent": 39975,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 77952,
+      "total_damage_dealt_to_objectives": 23613,
+      "total_damage_taken": 109613,
+      "average_vision_score": 14,
+      "total_wards_placed": 37,
+      "average_creep_score": 86,
+      "average_champion_experience": 9938,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4395791943"
+    },
+    "200": {
+      "total_gold_earned": 55752,
+      "total_gold_spent": 49310,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 91787,
+      "total_damage_dealt_to_objectives": 74560,
+      "total_damage_taken": 108215,
+      "average_vision_score": 19,
+      "total_wards_placed": 40,
+      "average_creep_score": 106,
+      "average_champion_experience": 13115,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4395791943"
+    }
+  }
+}

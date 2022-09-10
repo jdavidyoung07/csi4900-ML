@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 21,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50020,
+      "total_gold_spent": 42125,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 66439,
+      "total_damage_dealt_to_objectives": 58891,
+      "total_damage_taken": 89189,
+      "average_vision_score": 14,
+      "total_wards_placed": 25,
+      "average_creep_score": 86,
+      "average_champion_experience": 9744,
+      "dmg_carry": "Samira",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4041617801"
+    },
+    "200": {
+      "total_gold_earned": 33961,
+      "total_gold_spent": 29585,
+      "team_comp": [
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 54919,
+      "total_damage_dealt_to_objectives": 6605,
+      "total_damage_taken": 77375,
+      "average_vision_score": 9,
+      "total_wards_placed": 32,
+      "average_creep_score": 61,
+      "average_champion_experience": 7816,
+      "dmg_carry": "Amumu",
+      "obj_carry": "Akshan",
+      "match_id": "NA1_4041617801"
+    }
+  }
+}

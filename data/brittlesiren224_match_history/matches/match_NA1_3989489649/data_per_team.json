@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 38,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70648,
+      "total_gold_spent": 65100,
+      "team_comp": [
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 115343,
+      "total_damage_dealt_to_objectives": 91862,
+      "total_damage_taken": 161239,
+      "average_vision_score": 34,
+      "total_wards_placed": 68,
+      "average_creep_score": 102,
+      "average_champion_experience": 17118,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_3989489649"
+    },
+    "200": {
+      "total_gold_earned": 62012,
+      "total_gold_spent": 60540,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 126271,
+      "total_damage_dealt_to_objectives": 34504,
+      "total_damage_taken": 133324,
+      "average_vision_score": 39,
+      "total_wards_placed": 76,
+      "average_creep_score": 110,
+      "average_champion_experience": 14792,
+      "dmg_carry": "Varus",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_3989489649"
+    }
+  }
+}

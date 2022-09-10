@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48358,
+      "total_gold_spent": 47235,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 90108,
+      "total_damage_dealt_to_objectives": 31353,
+      "total_damage_taken": 102901,
+      "average_vision_score": 30,
+      "total_wards_placed": 54,
+      "average_creep_score": 127,
+      "average_champion_experience": 10918,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4424148014"
+    },
+    "200": {
+      "total_gold_earned": 55735,
+      "total_gold_spent": 46125,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 80966,
+      "total_damage_dealt_to_objectives": 78675,
+      "total_damage_taken": 131016,
+      "average_vision_score": 23,
+      "total_wards_placed": 41,
+      "average_creep_score": 118,
+      "average_champion_experience": 13723,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Nilah",
+      "match_id": "NA1_4424148014"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 89978,
+      "total_gold_spent": 87378,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 186470,
+      "total_damage_dealt_to_objectives": 98877,
+      "total_damage_taken": 186563,
+      "average_vision_score": 26,
+      "total_wards_placed": 72,
+      "average_creep_score": 193,
+      "average_champion_experience": 22600,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4427856286"
+    },
+    "200": {
+      "total_gold_earned": 81704,
+      "total_gold_spent": 75388,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 44,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 152265,
+      "total_damage_dealt_to_objectives": 114982,
+      "total_damage_taken": 227606,
+      "average_vision_score": 30,
+      "total_wards_placed": 48,
+      "average_creep_score": 126,
+      "average_champion_experience": 18534,
+      "dmg_carry": "Sett",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4427856286"
+    }
+  }
+}

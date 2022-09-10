@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56736,
+      "total_gold_spent": 53166,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 98792,
+      "total_damage_dealt_to_objectives": 41267,
+      "total_damage_taken": 130216,
+      "average_vision_score": 24,
+      "total_wards_placed": 45,
+      "average_creep_score": 104,
+      "average_champion_experience": 12702,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4239582047"
+    },
+    "200": {
+      "total_gold_earned": 64682,
+      "total_gold_spent": 59055,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 56,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 107869,
+      "total_damage_dealt_to_objectives": 65122,
+      "total_damage_taken": 123404,
+      "average_vision_score": 31,
+      "total_wards_placed": 63,
+      "average_creep_score": 102,
+      "average_champion_experience": 14399,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Xayah",
+      "match_id": "NA1_4239582047"
+    }
+  }
+}

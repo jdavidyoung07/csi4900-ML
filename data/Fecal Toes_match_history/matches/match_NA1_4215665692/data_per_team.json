@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57544,
+      "total_gold_spent": 56375,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 111859,
+      "total_damage_dealt_to_objectives": 34233,
+      "total_damage_taken": 142169,
+      "average_vision_score": 31,
+      "total_wards_placed": 86,
+      "average_creep_score": 130,
+      "average_champion_experience": 14344,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4215665692"
+    },
+    "200": {
+      "total_gold_earned": 69365,
+      "total_gold_spent": 59608,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 110787,
+      "total_damage_dealt_to_objectives": 86752,
+      "total_damage_taken": 143049,
+      "average_vision_score": 36,
+      "total_wards_placed": 71,
+      "average_creep_score": 132,
+      "average_champion_experience": 16358,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4215665692"
+    }
+  }
+}

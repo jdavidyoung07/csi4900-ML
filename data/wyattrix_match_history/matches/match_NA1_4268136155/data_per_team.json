@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33680,
+      "total_gold_spent": 27230,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 12,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 30583,
+      "total_damage_dealt_to_objectives": 42553,
+      "total_damage_taken": 57836,
+      "average_vision_score": 14,
+      "total_wards_placed": 25,
+      "average_creep_score": 66,
+      "average_champion_experience": 6849,
+      "dmg_carry": "Malphite",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4268136155"
+    },
+    "200": {
+      "total_gold_earned": 28301,
+      "total_gold_spent": 22750,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 37075,
+      "total_damage_dealt_to_objectives": 10954,
+      "total_damage_taken": 45999,
+      "average_vision_score": 9,
+      "total_wards_placed": 22,
+      "average_creep_score": 60,
+      "average_champion_experience": 6203,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4268136155"
+    }
+  }
+}

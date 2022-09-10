@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65065,
+      "total_gold_spent": 62320,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 137778,
+      "total_damage_dealt_to_objectives": 45367,
+      "total_damage_taken": 167091,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 123,
+      "average_champion_experience": 14935,
+      "dmg_carry": "Swain",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4394039556"
+    },
+    "200": {
+      "total_gold_earned": 71345,
+      "total_gold_spent": 64575,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 141984,
+      "total_damage_dealt_to_objectives": 87947,
+      "total_damage_taken": 164180,
+      "average_vision_score": 27,
+      "total_wards_placed": 43,
+      "average_creep_score": 120,
+      "average_champion_experience": 17051,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4394039556"
+    }
+  }
+}

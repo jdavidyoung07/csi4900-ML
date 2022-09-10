@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37127,
+      "total_gold_spent": 33000,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 56310,
+      "total_damage_dealt_to_objectives": 19684,
+      "total_damage_taken": 92105,
+      "average_vision_score": 19,
+      "total_wards_placed": 44,
+      "average_creep_score": 89,
+      "average_champion_experience": 7954,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4389026167"
+    },
+    "200": {
+      "total_gold_earned": 49262,
+      "total_gold_spent": 46265,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 78519,
+      "total_damage_dealt_to_objectives": 68177,
+      "total_damage_taken": 79379,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 80,
+      "average_champion_experience": 10210,
+      "dmg_carry": "Swain",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4389026167"
+    }
+  }
+}

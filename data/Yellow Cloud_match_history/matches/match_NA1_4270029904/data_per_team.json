@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78615,
+      "total_gold_spent": 65060,
+      "team_comp": [
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 128043,
+      "total_damage_dealt_to_objectives": 109326,
+      "total_damage_taken": 123265,
+      "average_vision_score": 46,
+      "total_wards_placed": 91,
+      "average_creep_score": 127,
+      "average_champion_experience": 17722,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4270029904"
+    },
+    "200": {
+      "total_gold_earned": 70849,
+      "total_gold_spent": 65375,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 101025,
+      "total_damage_dealt_to_objectives": 64482,
+      "total_damage_taken": 157097,
+      "average_vision_score": 38,
+      "total_wards_placed": 86,
+      "average_creep_score": 132,
+      "average_champion_experience": 15954,
+      "dmg_carry": "Corki",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4270029904"
+    }
+  }
+}

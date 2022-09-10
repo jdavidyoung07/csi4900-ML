@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57805,
+      "total_gold_spent": 45375,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 95360,
+      "total_damage_dealt_to_objectives": 38704,
+      "total_damage_taken": 101907,
+      "average_vision_score": 28,
+      "total_wards_placed": 59,
+      "average_creep_score": 109,
+      "average_champion_experience": 13377,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4302920942"
+    },
+    "200": {
+      "total_gold_earned": 55082,
+      "total_gold_spent": 50060,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 75529,
+      "total_damage_dealt_to_objectives": 45428,
+      "total_damage_taken": 120706,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 119,
+      "average_champion_experience": 12664,
+      "dmg_carry": "Brand",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4302920942"
+    }
+  }
+}

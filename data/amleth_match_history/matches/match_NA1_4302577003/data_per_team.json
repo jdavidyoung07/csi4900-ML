@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52179,
+      "total_gold_spent": 48850,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 87254,
+      "total_damage_dealt_to_objectives": 37766,
+      "total_damage_taken": 98641,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 93,
+      "average_champion_experience": 10793,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4302577003"
+    },
+    "200": {
+      "total_gold_earned": 59032,
+      "total_gold_spent": 52760,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 85001,
+      "total_damage_dealt_to_objectives": 52416,
+      "total_damage_taken": 121923,
+      "average_vision_score": 17,
+      "total_wards_placed": 34,
+      "average_creep_score": 97,
+      "average_champion_experience": 11754,
+      "dmg_carry": "Samira",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4302577003"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87636,
+      "total_gold_spent": 87410,
+      "team_comp": [
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 57,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 186570,
+      "total_damage_dealt_to_objectives": 41085,
+      "total_damage_taken": 207380,
+      "average_vision_score": 33,
+      "total_wards_placed": 61,
+      "average_creep_score": 175,
+      "average_champion_experience": 23670,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Velkoz",
+      "match_id": "NA1_4362420439"
+    },
+    "200": {
+      "total_gold_earned": 87979,
+      "total_gold_spent": 88260,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 47,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 173268,
+      "total_damage_dealt_to_objectives": 102448,
+      "total_damage_taken": 229840,
+      "average_vision_score": 42,
+      "total_wards_placed": 70,
+      "average_creep_score": 167,
+      "average_champion_experience": 21386,
+      "dmg_carry": "Swain",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4362420439"
+    }
+  }
+}

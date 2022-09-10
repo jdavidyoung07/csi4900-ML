@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50616,
+      "total_gold_spent": 45425,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 59239,
+      "total_damage_dealt_to_objectives": 44204,
+      "total_damage_taken": 94561,
+      "average_vision_score": 18,
+      "total_wards_placed": 39,
+      "average_creep_score": 101,
+      "average_champion_experience": 12233,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4180442294"
+    },
+    "200": {
+      "total_gold_earned": 48107,
+      "total_gold_spent": 47060,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 68796,
+      "total_damage_dealt_to_objectives": 29994,
+      "total_damage_taken": 82222,
+      "average_vision_score": 20,
+      "total_wards_placed": 45,
+      "average_creep_score": 97,
+      "average_champion_experience": 10976,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4180442294"
+    }
+  }
+}

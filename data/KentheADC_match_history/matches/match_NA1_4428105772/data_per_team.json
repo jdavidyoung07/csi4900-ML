@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42232,
+      "total_gold_spent": 40400,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 61589,
+      "total_damage_dealt_to_objectives": 20243,
+      "total_damage_taken": 105789,
+      "average_vision_score": 15,
+      "total_wards_placed": 37,
+      "average_creep_score": 106,
+      "average_champion_experience": 10005,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4428105772"
+    },
+    "200": {
+      "total_gold_earned": 55151,
+      "total_gold_spent": 49850,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 82963,
+      "total_damage_dealt_to_objectives": 71748,
+      "total_damage_taken": 96023,
+      "average_vision_score": 30,
+      "total_wards_placed": 57,
+      "average_creep_score": 105,
+      "average_champion_experience": 12914,
+      "dmg_carry": "Varus",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4428105772"
+    }
+  }
+}

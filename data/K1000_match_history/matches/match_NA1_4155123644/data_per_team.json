@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61104,
+      "total_gold_spent": 57425,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 106709,
+      "total_damage_dealt_to_objectives": 67638,
+      "total_damage_taken": 133252,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 119,
+      "average_champion_experience": 14231,
+      "dmg_carry": "Diana",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4155123644"
+    },
+    "200": {
+      "total_gold_earned": 62957,
+      "total_gold_spent": 57285,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 101669,
+      "total_damage_dealt_to_objectives": 61962,
+      "total_damage_taken": 140214,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 139,
+      "average_champion_experience": 15290,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4155123644"
+    }
+  }
+}

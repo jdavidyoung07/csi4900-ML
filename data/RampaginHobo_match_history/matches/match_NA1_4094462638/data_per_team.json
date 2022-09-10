@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75768,
+      "total_gold_spent": 67073,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 146517,
+      "total_damage_dealt_to_objectives": 80273,
+      "total_damage_taken": 153100,
+      "average_vision_score": 28,
+      "total_wards_placed": 41,
+      "average_creep_score": 139,
+      "average_champion_experience": 19562,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4094462638"
+    },
+    "200": {
+      "total_gold_earned": 67463,
+      "total_gold_spent": 62150,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 115655,
+      "total_damage_dealt_to_objectives": 54326,
+      "total_damage_taken": 182867,
+      "average_vision_score": 31,
+      "total_wards_placed": 73,
+      "average_creep_score": 154,
+      "average_champion_experience": 16534,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4094462638"
+    }
+  }
+}

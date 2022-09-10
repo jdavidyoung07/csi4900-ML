@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60535,
+      "total_gold_spent": 55525,
+      "team_comp": [
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 82421,
+      "total_damage_dealt_to_objectives": 83635,
+      "total_damage_taken": 100038,
+      "average_vision_score": 27,
+      "total_wards_placed": 45,
+      "average_creep_score": 123,
+      "average_champion_experience": 14062,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4041104444"
+    },
+    "200": {
+      "total_gold_earned": 47680,
+      "total_gold_spent": 46335,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 77702,
+      "total_damage_dealt_to_objectives": 24332,
+      "total_damage_taken": 103522,
+      "average_vision_score": 16,
+      "total_wards_placed": 46,
+      "average_creep_score": 103,
+      "average_champion_experience": 11646,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4041104444"
+    }
+  }
+}

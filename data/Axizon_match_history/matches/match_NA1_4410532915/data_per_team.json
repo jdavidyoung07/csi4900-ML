@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83361,
+      "total_gold_spent": 74785,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 60,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 198806,
+      "total_damage_dealt_to_objectives": 95848,
+      "total_damage_taken": 159517,
+      "average_vision_score": 36,
+      "total_wards_placed": 89,
+      "average_creep_score": 144,
+      "average_champion_experience": 19775,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4410532915"
+    },
+    "200": {
+      "total_gold_earned": 76987,
+      "total_gold_spent": 72123,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 136163,
+      "total_damage_dealt_to_objectives": 42152,
+      "total_damage_taken": 225319,
+      "average_vision_score": 44,
+      "total_wards_placed": 83,
+      "average_creep_score": 148,
+      "average_champion_experience": 17157,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4410532915"
+    }
+  }
+}

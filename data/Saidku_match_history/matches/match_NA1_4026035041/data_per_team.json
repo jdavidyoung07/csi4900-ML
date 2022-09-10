@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 24,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42798,
+      "total_gold_spent": 42535,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 48388,
+      "total_damage_dealt_to_objectives": 13384,
+      "total_damage_taken": 100806,
+      "average_vision_score": 11,
+      "total_wards_placed": 31,
+      "average_creep_score": 95,
+      "average_champion_experience": 10359,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4026035041"
+    },
+    "200": {
+      "total_gold_earned": 55510,
+      "total_gold_spent": 48575,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 46,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 82153,
+      "total_damage_dealt_to_objectives": 75671,
+      "total_damage_taken": 89420,
+      "average_vision_score": 14,
+      "total_wards_placed": 31,
+      "average_creep_score": 93,
+      "average_champion_experience": 11415,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4026035041"
+    }
+  }
+}

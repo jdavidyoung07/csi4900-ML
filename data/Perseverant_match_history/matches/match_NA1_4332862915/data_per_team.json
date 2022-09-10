@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52750,
+      "total_gold_spent": 50368,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 97462,
+      "total_damage_dealt_to_objectives": 28017,
+      "total_damage_taken": 108998,
+      "average_vision_score": 28,
+      "total_wards_placed": 62,
+      "average_creep_score": 97,
+      "average_champion_experience": 11490,
+      "dmg_carry": "Darius",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4332862915"
+    },
+    "200": {
+      "total_gold_earned": 64706,
+      "total_gold_spent": 55775,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 91325,
+      "total_damage_dealt_to_objectives": 63318,
+      "total_damage_taken": 125170,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 116,
+      "average_champion_experience": 13795,
+      "dmg_carry": "Jhin",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4332862915"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45975,
+      "total_gold_spent": 44275,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 70663,
+      "total_damage_dealt_to_objectives": 17641,
+      "total_damage_taken": 107278,
+      "average_vision_score": 16,
+      "total_wards_placed": 37,
+      "average_creep_score": 85,
+      "average_champion_experience": 9966,
+      "dmg_carry": "Draven",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4279938831"
+    },
+    "200": {
+      "total_gold_earned": 54594,
+      "total_gold_spent": 45925,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 86169,
+      "total_damage_dealt_to_objectives": 47340,
+      "total_damage_taken": 100168,
+      "average_vision_score": 16,
+      "total_wards_placed": 36,
+      "average_creep_score": 105,
+      "average_champion_experience": 12045,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Qiyana",
+      "match_id": "NA1_4279938831"
+    }
+  }
+}

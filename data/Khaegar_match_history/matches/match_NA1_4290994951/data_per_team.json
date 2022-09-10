@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54509,
+      "total_gold_spent": 44350,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 64906,
+      "total_damage_dealt_to_objectives": 71403,
+      "total_damage_taken": 63347,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 111,
+      "average_champion_experience": 12930,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Xerath",
+      "match_id": "NA1_4290994951"
+    },
+    "200": {
+      "total_gold_earned": 46254,
+      "total_gold_spent": 41075,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 41692,
+      "total_damage_dealt_to_objectives": 25091,
+      "total_damage_taken": 92342,
+      "average_vision_score": 20,
+      "total_wards_placed": 42,
+      "average_creep_score": 104,
+      "average_champion_experience": 11063,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4290994951"
+    }
+  }
+}

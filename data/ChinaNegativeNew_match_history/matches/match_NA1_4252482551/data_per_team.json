@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67230,
+      "total_gold_spent": 63050,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 147983,
+      "total_damage_dealt_to_objectives": 29063,
+      "total_damage_taken": 172152,
+      "average_vision_score": 36,
+      "total_wards_placed": 74,
+      "average_creep_score": 134,
+      "average_champion_experience": 15503,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4252482551"
+    },
+    "200": {
+      "total_gold_earned": 79108,
+      "total_gold_spent": 71060,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 49,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 146174,
+      "total_damage_dealt_to_objectives": 96678,
+      "total_damage_taken": 181211,
+      "average_vision_score": 36,
+      "total_wards_placed": 85,
+      "average_creep_score": 117,
+      "average_champion_experience": 18094,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4252482551"
+    }
+  }
+}

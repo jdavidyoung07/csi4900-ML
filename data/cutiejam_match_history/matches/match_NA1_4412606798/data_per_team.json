@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85414,
+      "total_gold_spent": 81485,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 32,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 241187,
+      "total_damage_dealt_to_objectives": 107354,
+      "total_damage_taken": 324209,
+      "average_vision_score": 50,
+      "total_wards_placed": 104,
+      "average_creep_score": 183,
+      "average_champion_experience": 19631,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4412606798"
+    },
+    "200": {
+      "total_gold_earned": 93362,
+      "total_gold_spent": 80175,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 284113,
+      "total_damage_dealt_to_objectives": 117937,
+      "total_damage_taken": 293091,
+      "average_vision_score": 50,
+      "total_wards_placed": 93,
+      "average_creep_score": 212,
+      "average_champion_experience": 24882,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4412606798"
+    }
+  }
+}

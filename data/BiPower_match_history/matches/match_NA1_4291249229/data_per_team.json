@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62663,
+      "total_gold_spent": 56250,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 79075,
+      "total_damage_dealt_to_objectives": 36717,
+      "total_damage_taken": 132458,
+      "average_vision_score": 31,
+      "total_wards_placed": 55,
+      "average_creep_score": 136,
+      "average_champion_experience": 14173,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4291249229"
+    },
+    "200": {
+      "total_gold_earned": 62629,
+      "total_gold_spent": 54420,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 101589,
+      "total_damage_dealt_to_objectives": 82191,
+      "total_damage_taken": 109492,
+      "average_vision_score": 32,
+      "total_wards_placed": 84,
+      "average_creep_score": 125,
+      "average_champion_experience": 14834,
+      "dmg_carry": "Lux",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4291249229"
+    }
+  }
+}

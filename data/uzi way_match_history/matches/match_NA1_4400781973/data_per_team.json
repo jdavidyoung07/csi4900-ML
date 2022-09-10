@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64536,
+      "total_gold_spent": 62233,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 139188,
+      "total_damage_dealt_to_objectives": 61487,
+      "total_damage_taken": 171506,
+      "average_vision_score": 28,
+      "total_wards_placed": 68,
+      "average_creep_score": 96,
+      "average_champion_experience": 14763,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4400781973"
+    },
+    "200": {
+      "total_gold_earned": 71296,
+      "total_gold_spent": 66460,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 144167,
+      "total_damage_dealt_to_objectives": 85461,
+      "total_damage_taken": 172760,
+      "average_vision_score": 31,
+      "total_wards_placed": 64,
+      "average_creep_score": 118,
+      "average_champion_experience": 15642,
+      "dmg_carry": "Ornn",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4400781973"
+    }
+  }
+}

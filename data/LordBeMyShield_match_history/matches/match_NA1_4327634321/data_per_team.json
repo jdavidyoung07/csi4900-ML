@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53032,
+      "total_gold_spent": 51030,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 30,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 73011,
+      "total_damage_dealt_to_objectives": 72938,
+      "total_damage_taken": 99526,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 97,
+      "average_champion_experience": 11325,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4327634321"
+    },
+    "200": {
+      "total_gold_earned": 41742,
+      "total_gold_spent": 38410,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 63307,
+      "total_damage_dealt_to_objectives": 21322,
+      "total_damage_taken": 101553,
+      "average_vision_score": 15,
+      "total_wards_placed": 44,
+      "average_creep_score": 103,
+      "average_champion_experience": 10439,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4327634321"
+    }
+  }
+}

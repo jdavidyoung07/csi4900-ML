@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42018,
+      "total_gold_spent": 41180,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 45490,
+      "total_damage_dealt_to_objectives": 35592,
+      "total_damage_taken": 86010,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 108,
+      "average_champion_experience": 9892,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4416436762"
+    },
+    "200": {
+      "total_gold_earned": 51937,
+      "total_gold_spent": 47475,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 70061,
+      "total_damage_dealt_to_objectives": 73246,
+      "total_damage_taken": 72342,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 115,
+      "average_champion_experience": 11943,
+      "dmg_carry": "Zed",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4416436762"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79369,
+      "total_gold_spent": 73175,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 59,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 161434,
+      "total_damage_dealt_to_objectives": 66959,
+      "total_damage_taken": 182247,
+      "average_vision_score": 32,
+      "total_wards_placed": 64,
+      "average_creep_score": 126,
+      "average_champion_experience": 18139,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Cassiopeia",
+      "match_id": "NA1_4224678153"
+    },
+    "200": {
+      "total_gold_earned": 76805,
+      "total_gold_spent": 75716,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 146159,
+      "total_damage_dealt_to_objectives": 53875,
+      "total_damage_taken": 192680,
+      "average_vision_score": 32,
+      "total_wards_placed": 62,
+      "average_creep_score": 122,
+      "average_champion_experience": 16423,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4224678153"
+    }
+  }
+}

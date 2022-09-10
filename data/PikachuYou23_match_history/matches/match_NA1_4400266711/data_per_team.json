@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62772,
+      "total_gold_spent": 53635,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 97624,
+      "total_damage_dealt_to_objectives": 94549,
+      "total_damage_taken": 106874,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 123,
+      "average_champion_experience": 13664,
+      "dmg_carry": "Corki",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4400266711"
+    },
+    "200": {
+      "total_gold_earned": 47180,
+      "total_gold_spent": 45075,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 77811,
+      "total_damage_dealt_to_objectives": 27573,
+      "total_damage_taken": 118076,
+      "average_vision_score": 23,
+      "total_wards_placed": 67,
+      "average_creep_score": 107,
+      "average_champion_experience": 10822,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4400266711"
+    }
+  }
+}

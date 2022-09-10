@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68744,
+      "total_gold_spent": 68110,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 130528,
+      "total_damage_dealt_to_objectives": 36994,
+      "total_damage_taken": 148861,
+      "average_vision_score": 31,
+      "total_wards_placed": 60,
+      "average_creep_score": 147,
+      "average_champion_experience": 16796,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4278993878"
+    },
+    "200": {
+      "total_gold_earned": 74887,
+      "total_gold_spent": 68850,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 125129,
+      "total_damage_dealt_to_objectives": 79976,
+      "total_damage_taken": 180847,
+      "average_vision_score": 39,
+      "total_wards_placed": 78,
+      "average_creep_score": 150,
+      "average_champion_experience": 17870,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4278993878"
+    }
+  }
+}

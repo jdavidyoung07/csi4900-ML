@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50942,
+      "total_gold_spent": 48883,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 64053,
+      "total_damage_dealt_to_objectives": 29189,
+      "total_damage_taken": 117573,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 111,
+      "average_champion_experience": 11623,
+      "dmg_carry": "Corki",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4272735700"
+    },
+    "200": {
+      "total_gold_earned": 65299,
+      "total_gold_spent": 57960,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 94630,
+      "total_damage_dealt_to_objectives": 88417,
+      "total_damage_taken": 107911,
+      "average_vision_score": 27,
+      "total_wards_placed": 49,
+      "average_creep_score": 101,
+      "average_champion_experience": 13794,
+      "dmg_carry": "Lux",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4272735700"
+    }
+  }
+}

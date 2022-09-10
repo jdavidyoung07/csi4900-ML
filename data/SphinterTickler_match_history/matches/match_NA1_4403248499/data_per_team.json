@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54262,
+      "total_gold_spent": 51955,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 85618,
+      "total_damage_dealt_to_objectives": 27541,
+      "total_damage_taken": 123989,
+      "average_vision_score": 29,
+      "total_wards_placed": 67,
+      "average_creep_score": 139,
+      "average_champion_experience": 12486,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4403248499"
+    },
+    "200": {
+      "total_gold_earned": 63740,
+      "total_gold_spent": 57675,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 102833,
+      "total_damage_dealt_to_objectives": 91985,
+      "total_damage_taken": 114206,
+      "average_vision_score": 34,
+      "total_wards_placed": 61,
+      "average_creep_score": 125,
+      "average_champion_experience": 15106,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4403248499"
+    }
+  }
+}

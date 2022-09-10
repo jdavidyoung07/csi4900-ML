@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64914,
+      "total_gold_spent": 61358,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 119658,
+      "total_damage_dealt_to_objectives": 62294,
+      "total_damage_taken": 168786,
+      "average_vision_score": 24,
+      "total_wards_placed": 70,
+      "average_creep_score": 114,
+      "average_champion_experience": 15000,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4202102569"
+    },
+    "200": {
+      "total_gold_earned": 70280,
+      "total_gold_spent": 73010,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 143971,
+      "total_damage_dealt_to_objectives": 43740,
+      "total_damage_taken": 146600,
+      "average_vision_score": 27,
+      "total_wards_placed": 46,
+      "average_creep_score": 130,
+      "average_champion_experience": 16312,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4202102569"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48932,
+      "total_gold_spent": 47303,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 53721,
+      "total_damage_dealt_to_objectives": 27749,
+      "total_damage_taken": 126002,
+      "average_vision_score": 25,
+      "total_wards_placed": 65,
+      "average_creep_score": 110,
+      "average_champion_experience": 10789,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4284557350"
+    },
+    "200": {
+      "total_gold_earned": 56313,
+      "total_gold_spent": 51415,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 98639,
+      "total_damage_dealt_to_objectives": 77259,
+      "total_damage_taken": 80659,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 95,
+      "average_champion_experience": 13008,
+      "dmg_carry": "Darius",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4284557350"
+    }
+  }
+}

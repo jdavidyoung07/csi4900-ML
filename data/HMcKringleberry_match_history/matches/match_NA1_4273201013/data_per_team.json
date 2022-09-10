@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45224,
+      "total_gold_spent": 40625,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 63503,
+      "total_damage_dealt_to_objectives": 23835,
+      "total_damage_taken": 106663,
+      "average_vision_score": 21,
+      "total_wards_placed": 37,
+      "average_creep_score": 103,
+      "average_champion_experience": 10945,
+      "dmg_carry": "Katarina",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4273201013"
+    },
+    "200": {
+      "total_gold_earned": 53907,
+      "total_gold_spent": 46995,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 82978,
+      "total_damage_dealt_to_objectives": 38900,
+      "total_damage_taken": 103855,
+      "average_vision_score": 20,
+      "total_wards_placed": 46,
+      "average_creep_score": 109,
+      "average_champion_experience": 13152,
+      "dmg_carry": "Senna",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4273201013"
+    }
+  }
+}

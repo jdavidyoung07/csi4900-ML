@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87754,
+      "total_gold_spent": 86960,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 157910,
+      "total_damage_dealt_to_objectives": 69971,
+      "total_damage_taken": 234256,
+      "average_vision_score": 55,
+      "total_wards_placed": 89,
+      "average_creep_score": 166,
+      "average_champion_experience": 21501,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4306298565"
+    },
+    "200": {
+      "total_gold_earned": 91163,
+      "total_gold_spent": 80000,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 54,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 186512,
+      "total_damage_dealt_to_objectives": 98149,
+      "total_damage_taken": 194407,
+      "average_vision_score": 48,
+      "total_wards_placed": 109,
+      "average_creep_score": 164,
+      "average_champion_experience": 22303,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4306298565"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 34669,
+      "total_gold_spent": 33300,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 42758,
+      "total_damage_dealt_to_objectives": 34258,
+      "total_damage_taken": 66590,
+      "average_vision_score": 19,
+      "total_wards_placed": 55,
+      "average_creep_score": 87,
+      "average_champion_experience": 7941,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4022675609"
+    },
+    "200": {
+      "total_gold_earned": 41845,
+      "total_gold_spent": 37150,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 16,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 50276,
+      "total_damage_dealt_to_objectives": 41221,
+      "total_damage_taken": 64374,
+      "average_vision_score": 18,
+      "total_wards_placed": 31,
+      "average_creep_score": 102,
+      "average_champion_experience": 9375,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4022675609"
+    }
+  }
+}

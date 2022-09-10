@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53361,
+      "total_gold_spent": 46595,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 90524,
+      "total_damage_dealt_to_objectives": 53363,
+      "total_damage_taken": 105283,
+      "average_vision_score": 28,
+      "total_wards_placed": 54,
+      "average_creep_score": 92,
+      "average_champion_experience": 11933,
+      "dmg_carry": "Brand",
+      "obj_carry": "Ahri",
+      "match_id": "NA1_4330081510"
+    },
+    "200": {
+      "total_gold_earned": 54848,
+      "total_gold_spent": 49975,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 80062,
+      "total_damage_dealt_to_objectives": 35217,
+      "total_damage_taken": 122538,
+      "average_vision_score": 18,
+      "total_wards_placed": 49,
+      "average_creep_score": 102,
+      "average_champion_experience": 12485,
+      "dmg_carry": "Kennen",
+      "obj_carry": "Kennen",
+      "match_id": "NA1_4330081510"
+    }
+  }
+}

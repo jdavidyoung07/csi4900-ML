@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54607,
+      "total_gold_spent": 56945,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 93498,
+      "total_damage_dealt_to_objectives": 23445,
+      "total_damage_taken": 128759,
+      "average_vision_score": 30,
+      "total_wards_placed": 66,
+      "average_creep_score": 120,
+      "average_champion_experience": 13129,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4252748312"
+    },
+    "200": {
+      "total_gold_earned": 67631,
+      "total_gold_spent": 61660,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 114025,
+      "total_damage_dealt_to_objectives": 75226,
+      "total_damage_taken": 126271,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 125,
+      "average_champion_experience": 15614,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4252748312"
+    }
+  }
+}

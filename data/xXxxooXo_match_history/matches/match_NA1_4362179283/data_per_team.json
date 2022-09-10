@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51756,
+      "total_gold_spent": 48900,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 82525,
+      "total_damage_dealt_to_objectives": 19061,
+      "total_damage_taken": 106822,
+      "average_vision_score": 26,
+      "total_wards_placed": 44,
+      "average_creep_score": 122,
+      "average_champion_experience": 12439,
+      "dmg_carry": "Annie",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4362179283"
+    },
+    "200": {
+      "total_gold_earned": 58118,
+      "total_gold_spent": 51175,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 84966,
+      "total_damage_dealt_to_objectives": 69948,
+      "total_damage_taken": 114803,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 119,
+      "average_champion_experience": 13938,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4362179283"
+    }
+  }
+}

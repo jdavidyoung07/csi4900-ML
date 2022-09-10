@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50883,
+      "total_gold_spent": 46225,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 81509,
+      "total_damage_dealt_to_objectives": 26171,
+      "total_damage_taken": 108898,
+      "average_vision_score": 34,
+      "total_wards_placed": 77,
+      "average_creep_score": 125,
+      "average_champion_experience": 12267,
+      "dmg_carry": "Graves",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4424387315"
+    },
+    "200": {
+      "total_gold_earned": 56820,
+      "total_gold_spent": 52260,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 89966,
+      "total_damage_dealt_to_objectives": 84283,
+      "total_damage_taken": 113242,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 109,
+      "average_champion_experience": 12680,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4424387315"
+    }
+  }
+}

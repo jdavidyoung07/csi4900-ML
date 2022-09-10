@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50905,
+      "total_gold_spent": 47825,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 76646,
+      "total_damage_dealt_to_objectives": 20004,
+      "total_damage_taken": 105825,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 101,
+      "average_champion_experience": 11710,
+      "dmg_carry": "Corki",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4158415528"
+    },
+    "200": {
+      "total_gold_earned": 62040,
+      "total_gold_spent": 54365,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 86899,
+      "total_damage_dealt_to_objectives": 75430,
+      "total_damage_taken": 106862,
+      "average_vision_score": 29,
+      "total_wards_placed": 40,
+      "average_creep_score": 101,
+      "average_champion_experience": 14449,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4158415528"
+    }
+  }
+}

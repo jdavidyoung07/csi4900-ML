@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53663,
+      "total_gold_spent": 52055,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 76092,
+      "total_damage_dealt_to_objectives": 53177,
+      "total_damage_taken": 124155,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 105,
+      "average_champion_experience": 11299,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4304965580"
+    },
+    "200": {
+      "total_gold_earned": 64053,
+      "total_gold_spent": 58680,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 99082,
+      "total_damage_dealt_to_objectives": 66190,
+      "total_damage_taken": 102041,
+      "average_vision_score": 17,
+      "total_wards_placed": 47,
+      "average_creep_score": 107,
+      "average_champion_experience": 15035,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4304965580"
+    }
+  }
+}

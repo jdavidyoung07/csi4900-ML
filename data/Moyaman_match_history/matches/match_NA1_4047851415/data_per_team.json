@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 51,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 99275,
+      "total_gold_spent": 99975,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 172890,
+      "total_damage_dealt_to_objectives": 144400,
+      "total_damage_taken": 264848,
+      "average_vision_score": 48,
+      "total_wards_placed": 101,
+      "average_creep_score": 195,
+      "average_champion_experience": 25199,
+      "dmg_carry": "Azir",
+      "obj_carry": "Azir",
+      "match_id": "NA1_4047851415"
+    },
+    "200": {
+      "total_gold_earned": 96095,
+      "total_gold_spent": 84625,
+      "team_comp": [
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 5,
+      "total_kills": 50,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 214351,
+      "total_damage_dealt_to_objectives": 83081,
+      "total_damage_taken": 213369,
+      "average_vision_score": 62,
+      "total_wards_placed": 111,
+      "average_creep_score": 185,
+      "average_champion_experience": 23922,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4047851415"
+    }
+  }
+}

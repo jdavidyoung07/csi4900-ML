@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35554,
+      "total_gold_spent": 33360,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 34737,
+      "total_damage_dealt_to_objectives": 13665,
+      "total_damage_taken": 67762,
+      "average_vision_score": 19,
+      "total_wards_placed": 42,
+      "average_creep_score": 93,
+      "average_champion_experience": 9213,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4419270973"
+    },
+    "200": {
+      "total_gold_earned": 48058,
+      "total_gold_spent": 44540,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 23,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 53365,
+      "total_damage_dealt_to_objectives": 67774,
+      "total_damage_taken": 62506,
+      "average_vision_score": 18,
+      "total_wards_placed": 36,
+      "average_creep_score": 102,
+      "average_champion_experience": 10004,
+      "dmg_carry": "Draven",
+      "obj_carry": "Orianna",
+      "match_id": "NA1_4419270973"
+    }
+  }
+}

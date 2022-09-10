@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45590,
+      "total_gold_spent": 44300,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 68672,
+      "total_damage_dealt_to_objectives": 24636,
+      "total_damage_taken": 125378,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 107,
+      "average_champion_experience": 11238,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4318719185"
+    },
+    "200": {
+      "total_gold_earned": 56309,
+      "total_gold_spent": 49360,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 92775,
+      "total_damage_dealt_to_objectives": 70139,
+      "total_damage_taken": 93132,
+      "average_vision_score": 22,
+      "total_wards_placed": 39,
+      "average_creep_score": 108,
+      "average_champion_experience": 13017,
+      "dmg_carry": "Sion",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4318719185"
+    }
+  }
+}

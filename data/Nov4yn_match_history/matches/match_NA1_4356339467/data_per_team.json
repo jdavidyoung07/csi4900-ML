@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91620,
+      "total_gold_spent": 88418,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 52,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 156282,
+      "total_damage_dealt_to_objectives": 52160,
+      "total_damage_taken": 275673,
+      "average_vision_score": 27,
+      "total_wards_placed": 75,
+      "average_creep_score": 168,
+      "average_champion_experience": 22172,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4356339467"
+    },
+    "200": {
+      "total_gold_earned": 103434,
+      "total_gold_spent": 88060,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 5,
+      "total_kills": 63,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 242685,
+      "total_damage_dealt_to_objectives": 143772,
+      "total_damage_taken": 181246,
+      "average_vision_score": 39,
+      "total_wards_placed": 58,
+      "average_creep_score": 156,
+      "average_champion_experience": 24786,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4356339467"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55670,
+      "total_gold_spent": 47160,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 25,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 94990,
+      "total_damage_dealt_to_objectives": 74738,
+      "total_damage_taken": 90252,
+      "average_vision_score": 22,
+      "total_wards_placed": 60,
+      "average_creep_score": 127,
+      "average_champion_experience": 13233,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4404106389"
+    },
+    "200": {
+      "total_gold_earned": 50672,
+      "total_gold_spent": 48725,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 65985,
+      "total_damage_dealt_to_objectives": 53070,
+      "total_damage_taken": 120861,
+      "average_vision_score": 23,
+      "total_wards_placed": 37,
+      "average_creep_score": 109,
+      "average_champion_experience": 12603,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4404106389"
+    }
+  }
+}

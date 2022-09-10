@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93308,
+      "total_gold_spent": 88450,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 65,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 229590,
+      "total_damage_dealt_to_objectives": 144004,
+      "total_damage_taken": 245122,
+      "average_vision_score": 42,
+      "total_wards_placed": 72,
+      "average_creep_score": 141,
+      "average_champion_experience": 22393,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4392469576"
+    },
+    "200": {
+      "total_gold_earned": 91052,
+      "total_gold_spent": 85080,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 57,
+      "total_deaths": 65,
+      "total_damage_dealt_to_champions": 207711,
+      "total_damage_dealt_to_objectives": 44518,
+      "total_damage_taken": 268777,
+      "average_vision_score": 34,
+      "total_wards_placed": 62,
+      "average_creep_score": 191,
+      "average_champion_experience": 24063,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4392469576"
+    }
+  }
+}

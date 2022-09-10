@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56500,
+      "total_gold_spent": 53075,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 101786,
+      "total_damage_dealt_to_objectives": 22457,
+      "total_damage_taken": 157374,
+      "average_vision_score": 18,
+      "total_wards_placed": 47,
+      "average_creep_score": 116,
+      "average_champion_experience": 12587,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4395258438"
+    },
+    "200": {
+      "total_gold_earned": 66419,
+      "total_gold_spent": 59240,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 134038,
+      "total_damage_dealt_to_objectives": 95915,
+      "total_damage_taken": 149865,
+      "average_vision_score": 44,
+      "total_wards_placed": 65,
+      "average_creep_score": 115,
+      "average_champion_experience": 15098,
+      "dmg_carry": "Kled",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4395258438"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41365,
+      "total_gold_spent": 37250,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 10,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 44735,
+      "total_damage_dealt_to_objectives": 15062,
+      "total_damage_taken": 90262,
+      "average_vision_score": 20,
+      "total_wards_placed": 38,
+      "average_creep_score": 113,
+      "average_champion_experience": 10176,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4203786987"
+    },
+    "200": {
+      "total_gold_earned": 51649,
+      "total_gold_spent": 48615,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 27,
+      "total_deaths": 10,
+      "total_damage_dealt_to_champions": 61796,
+      "total_damage_dealt_to_objectives": 82636,
+      "total_damage_taken": 70663,
+      "average_vision_score": 23,
+      "total_wards_placed": 48,
+      "average_creep_score": 103,
+      "average_champion_experience": 11642,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4203786987"
+    }
+  }
+}

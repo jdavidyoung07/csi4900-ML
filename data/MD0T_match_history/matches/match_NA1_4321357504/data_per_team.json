@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60331,
+      "total_gold_spent": 53700,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 97550,
+      "total_damage_dealt_to_objectives": 66967,
+      "total_damage_taken": 120181,
+      "average_vision_score": 25,
+      "total_wards_placed": 53,
+      "average_creep_score": 126,
+      "average_champion_experience": 14021,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4321357504"
+    },
+    "200": {
+      "total_gold_earned": 52557,
+      "total_gold_spent": 51810,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 88630,
+      "total_damage_dealt_to_objectives": 52144,
+      "total_damage_taken": 123765,
+      "average_vision_score": 28,
+      "total_wards_placed": 72,
+      "average_creep_score": 97,
+      "average_champion_experience": 12109,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4321357504"
+    }
+  }
+}

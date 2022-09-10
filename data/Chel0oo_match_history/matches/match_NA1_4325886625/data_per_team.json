@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58365,
+      "total_gold_spent": 56305,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 101558,
+      "total_damage_dealt_to_objectives": 57234,
+      "total_damage_taken": 138347,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 114,
+      "average_champion_experience": 13872,
+      "dmg_carry": "Vex",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4325886625"
+    },
+    "200": {
+      "total_gold_earned": 66654,
+      "total_gold_spent": 58650,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 110788,
+      "total_damage_dealt_to_objectives": 82469,
+      "total_damage_taken": 123970,
+      "average_vision_score": 26,
+      "total_wards_placed": 69,
+      "average_creep_score": 111,
+      "average_champion_experience": 15717,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4325886625"
+    }
+  }
+}

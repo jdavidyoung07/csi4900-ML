@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45755,
+      "total_gold_spent": 44085,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 62857,
+      "total_damage_dealt_to_objectives": 35190,
+      "total_damage_taken": 98763,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 103,
+      "average_champion_experience": 10008,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4321243998"
+    },
+    "200": {
+      "total_gold_earned": 54436,
+      "total_gold_spent": 50075,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 80870,
+      "total_damage_dealt_to_objectives": 72630,
+      "total_damage_taken": 85275,
+      "average_vision_score": 17,
+      "total_wards_placed": 34,
+      "average_creep_score": 99,
+      "average_champion_experience": 12372,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4321243998"
+    }
+  }
+}

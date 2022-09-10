@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75377,
+      "total_gold_spent": 75108,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 165776,
+      "total_damage_dealt_to_objectives": 93468,
+      "total_damage_taken": 173066,
+      "average_vision_score": 24,
+      "total_wards_placed": 48,
+      "average_creep_score": 128,
+      "average_champion_experience": 16520,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4387626602"
+    },
+    "200": {
+      "total_gold_earned": 77747,
+      "total_gold_spent": 70200,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 145791,
+      "total_damage_dealt_to_objectives": 64355,
+      "total_damage_taken": 199332,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 134,
+      "average_champion_experience": 18541,
+      "dmg_carry": "Nilah",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4387626602"
+    }
+  }
+}

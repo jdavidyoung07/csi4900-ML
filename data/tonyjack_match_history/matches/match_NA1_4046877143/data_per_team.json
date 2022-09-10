@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51540,
+      "total_gold_spent": 49405,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 79327,
+      "total_damage_dealt_to_objectives": 21703,
+      "total_damage_taken": 118210,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 101,
+      "average_champion_experience": 12490,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4046877143"
+    },
+    "200": {
+      "total_gold_earned": 56782,
+      "total_gold_spent": 51910,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 94989,
+      "total_damage_dealt_to_objectives": 71496,
+      "total_damage_taken": 109625,
+      "average_vision_score": 27,
+      "total_wards_placed": 65,
+      "average_creep_score": 87,
+      "average_champion_experience": 12235,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4046877143"
+    }
+  }
+}

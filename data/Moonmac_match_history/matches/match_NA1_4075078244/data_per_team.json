@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 105257,
+      "total_gold_spent": 98500,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 7,
+      "total_kills": 60,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 219950,
+      "total_damage_dealt_to_objectives": 144523,
+      "total_damage_taken": 252380,
+      "average_vision_score": 46,
+      "total_wards_placed": 82,
+      "average_creep_score": 182,
+      "average_champion_experience": 26565,
+      "dmg_carry": "Diana",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4075078244"
+    },
+    "200": {
+      "total_gold_earned": 105998,
+      "total_gold_spent": 106975,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 63,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 197871,
+      "total_damage_dealt_to_objectives": 73784,
+      "total_damage_taken": 257467,
+      "average_vision_score": 40,
+      "total_wards_placed": 82,
+      "average_creep_score": 235,
+      "average_champion_experience": 26858,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4075078244"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67169,
+      "total_gold_spent": 64435,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 136836,
+      "total_damage_dealt_to_objectives": 55877,
+      "total_damage_taken": 162553,
+      "average_vision_score": 38,
+      "total_wards_placed": 81,
+      "average_creep_score": 150,
+      "average_champion_experience": 15922,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4429014175"
+    },
+    "200": {
+      "total_gold_earned": 70295,
+      "total_gold_spent": 62325,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 131571,
+      "total_damage_dealt_to_objectives": 97917,
+      "total_damage_taken": 176475,
+      "average_vision_score": 32,
+      "total_wards_placed": 71,
+      "average_creep_score": 149,
+      "average_champion_experience": 17199,
+      "dmg_carry": "DrMundo",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4429014175"
+    }
+  }
+}

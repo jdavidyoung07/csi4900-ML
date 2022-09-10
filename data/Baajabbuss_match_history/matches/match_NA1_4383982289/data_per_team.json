@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67816,
+      "total_gold_spent": 64355,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 160623,
+      "total_damage_dealt_to_objectives": 57851,
+      "total_damage_taken": 139640,
+      "average_vision_score": 32,
+      "total_wards_placed": 55,
+      "average_creep_score": 144,
+      "average_champion_experience": 16829,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4383982289"
+    },
+    "200": {
+      "total_gold_earned": 73759,
+      "total_gold_spent": 66790,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 115639,
+      "total_damage_dealt_to_objectives": 80224,
+      "total_damage_taken": 199305,
+      "average_vision_score": 30,
+      "total_wards_placed": 68,
+      "average_creep_score": 165,
+      "average_champion_experience": 17926,
+      "dmg_carry": "Graves",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4383982289"
+    }
+  }
+}

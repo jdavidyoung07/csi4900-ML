@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57861,
+      "total_gold_spent": 53475,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 132090,
+      "total_damage_dealt_to_objectives": 44747,
+      "total_damage_taken": 120998,
+      "average_vision_score": 35,
+      "total_wards_placed": 75,
+      "average_creep_score": 126,
+      "average_champion_experience": 13241,
+      "dmg_carry": "Lux",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4242451560"
+    },
+    "200": {
+      "total_gold_earned": 67655,
+      "total_gold_spent": 62205,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 91693,
+      "total_damage_dealt_to_objectives": 91488,
+      "total_damage_taken": 166029,
+      "average_vision_score": 35,
+      "total_wards_placed": 75,
+      "average_creep_score": 128,
+      "average_champion_experience": 16921,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4242451560"
+    }
+  }
+}

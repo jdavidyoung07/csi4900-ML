@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84286,
+      "total_gold_spent": 79250,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 155436,
+      "total_damage_dealt_to_objectives": 73781,
+      "total_damage_taken": 163661,
+      "average_vision_score": 41,
+      "total_wards_placed": 87,
+      "average_creep_score": 158,
+      "average_champion_experience": 18596,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4213270473"
+    },
+    "200": {
+      "total_gold_earned": 87220,
+      "total_gold_spent": 76975,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 134867,
+      "total_damage_dealt_to_objectives": 107589,
+      "total_damage_taken": 192373,
+      "average_vision_score": 36,
+      "total_wards_placed": 74,
+      "average_creep_score": 170,
+      "average_champion_experience": 20978,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Aphelios",
+      "match_id": "NA1_4213270473"
+    }
+  }
+}

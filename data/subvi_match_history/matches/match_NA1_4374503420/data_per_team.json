@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84118,
+      "total_gold_spent": 77470,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 39,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 195798,
+      "total_damage_dealt_to_objectives": 70624,
+      "total_damage_taken": 198889,
+      "average_vision_score": 35,
+      "total_wards_placed": 73,
+      "average_creep_score": 155,
+      "average_champion_experience": 20589,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4374503420"
+    },
+    "200": {
+      "total_gold_earned": 81146,
+      "total_gold_spent": 76260,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 155071,
+      "total_damage_dealt_to_objectives": 87611,
+      "total_damage_taken": 223590,
+      "average_vision_score": 39,
+      "total_wards_placed": 81,
+      "average_creep_score": 149,
+      "average_champion_experience": 21092,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4374503420"
+    }
+  }
+}

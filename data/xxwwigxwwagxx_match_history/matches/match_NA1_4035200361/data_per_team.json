@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62229,
+      "total_gold_spent": 55825,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 45,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 103727,
+      "total_damage_dealt_to_objectives": 78808,
+      "total_damage_taken": 101830,
+      "average_vision_score": 24,
+      "total_wards_placed": 53,
+      "average_creep_score": 103,
+      "average_champion_experience": 13860,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4035200361"
+    },
+    "200": {
+      "total_gold_earned": 48952,
+      "total_gold_spent": 46993,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 61014,
+      "total_damage_dealt_to_objectives": 13529,
+      "total_damage_taken": 133094,
+      "average_vision_score": 24,
+      "total_wards_placed": 37,
+      "average_creep_score": 112,
+      "average_champion_experience": 11996,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4035200361"
+    }
+  }
+}

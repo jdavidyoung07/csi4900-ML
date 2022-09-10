@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56999,
+      "total_gold_spent": 54475,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 87121,
+      "total_damage_dealt_to_objectives": 58876,
+      "total_damage_taken": 113504,
+      "average_vision_score": 28,
+      "total_wards_placed": 65,
+      "average_creep_score": 132,
+      "average_champion_experience": 13362,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4045133794"
+    },
+    "200": {
+      "total_gold_earned": 59282,
+      "total_gold_spent": 51750,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 86369,
+      "total_damage_dealt_to_objectives": 31856,
+      "total_damage_taken": 115510,
+      "average_vision_score": 36,
+      "total_wards_placed": 44,
+      "average_creep_score": 126,
+      "average_champion_experience": 14581,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4045133794"
+    }
+  }
+}

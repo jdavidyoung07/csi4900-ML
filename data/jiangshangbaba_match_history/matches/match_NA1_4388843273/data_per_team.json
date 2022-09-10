@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59470,
+      "total_gold_spent": 58085,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 104928,
+      "total_damage_dealt_to_objectives": 30862,
+      "total_damage_taken": 131185,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 127,
+      "average_champion_experience": 15071,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4388843273"
+    },
+    "200": {
+      "total_gold_earned": 72999,
+      "total_gold_spent": 67245,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 44,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 103520,
+      "total_damage_dealt_to_objectives": 108692,
+      "total_damage_taken": 147872,
+      "average_vision_score": 26,
+      "total_wards_placed": 53,
+      "average_creep_score": 125,
+      "average_champion_experience": 17248,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4388843273"
+    }
+  }
+}

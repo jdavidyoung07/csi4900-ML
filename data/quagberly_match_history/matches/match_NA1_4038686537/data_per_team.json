@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47572,
+      "total_gold_spent": 45605,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 73933,
+      "total_damage_dealt_to_objectives": 37198,
+      "total_damage_taken": 139351,
+      "average_vision_score": 22,
+      "total_wards_placed": 44,
+      "average_creep_score": 109,
+      "average_champion_experience": 11308,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4038686537"
+    },
+    "200": {
+      "total_gold_earned": 55837,
+      "total_gold_spent": 50035,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 109383,
+      "total_damage_dealt_to_objectives": 69963,
+      "total_damage_taken": 111182,
+      "average_vision_score": 18,
+      "total_wards_placed": 41,
+      "average_creep_score": 104,
+      "average_champion_experience": 13744,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4038686537"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54268,
+      "total_gold_spent": 49925,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 107682,
+      "total_damage_dealt_to_objectives": 14645,
+      "total_damage_taken": 155633,
+      "average_vision_score": 39,
+      "total_wards_placed": 72,
+      "average_creep_score": 129,
+      "average_champion_experience": 14486,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4047519273"
+    },
+    "200": {
+      "total_gold_earned": 69245,
+      "total_gold_spent": 62060,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 131719,
+      "total_damage_dealt_to_objectives": 65253,
+      "total_damage_taken": 148415,
+      "average_vision_score": 44,
+      "total_wards_placed": 81,
+      "average_creep_score": 145,
+      "average_champion_experience": 16829,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4047519273"
+    }
+  }
+}

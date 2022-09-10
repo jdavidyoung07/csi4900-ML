@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79583,
+      "total_gold_spent": 77050,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 57,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 186555,
+      "total_damage_dealt_to_objectives": 45697,
+      "total_damage_taken": 174381,
+      "average_vision_score": 40,
+      "total_wards_placed": 91,
+      "average_creep_score": 133,
+      "average_champion_experience": 19140,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4349348460"
+    },
+    "200": {
+      "total_gold_earned": 81373,
+      "total_gold_spent": 73643,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 154213,
+      "total_damage_dealt_to_objectives": 59691,
+      "total_damage_taken": 235330,
+      "average_vision_score": 42,
+      "total_wards_placed": 81,
+      "average_creep_score": 152,
+      "average_champion_experience": 19315,
+      "dmg_carry": "Sion",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4349348460"
+    }
+  }
+}

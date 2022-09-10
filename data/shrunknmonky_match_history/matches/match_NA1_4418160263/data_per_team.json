@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54925,
+      "total_gold_spent": 46325,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 86974,
+      "total_damage_dealt_to_objectives": 20722,
+      "total_damage_taken": 85622,
+      "average_vision_score": 12,
+      "total_wards_placed": 28,
+      "average_creep_score": 114,
+      "average_champion_experience": 13633,
+      "dmg_carry": "Annie",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4418160263"
+    },
+    "200": {
+      "total_gold_earned": 42997,
+      "total_gold_spent": 40300,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 59429,
+      "total_damage_dealt_to_objectives": 52232,
+      "total_damage_taken": 117883,
+      "average_vision_score": 13,
+      "total_wards_placed": 14,
+      "average_creep_score": 95,
+      "average_champion_experience": 10746,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4418160263"
+    }
+  }
+}

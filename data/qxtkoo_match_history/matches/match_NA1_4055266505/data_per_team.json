@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 26,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45266,
+      "total_gold_spent": 41370,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 42662,
+      "total_damage_dealt_to_objectives": 17822,
+      "total_damage_taken": 79532,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 107,
+      "average_champion_experience": 9691,
+      "dmg_carry": "Pyke",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4055266505"
+    },
+    "200": {
+      "total_gold_earned": 50098,
+      "total_gold_spent": 43925,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 62633,
+      "total_damage_dealt_to_objectives": 43028,
+      "total_damage_taken": 65661,
+      "average_vision_score": 23,
+      "total_wards_placed": 53,
+      "average_creep_score": 113,
+      "average_champion_experience": 11055,
+      "dmg_carry": "Zed",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4055266505"
+    }
+  }
+}

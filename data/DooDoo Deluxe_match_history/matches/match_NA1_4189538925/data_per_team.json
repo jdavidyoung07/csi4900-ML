@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67893,
+      "total_gold_spent": 62650,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 118344,
+      "total_damage_dealt_to_objectives": 71838,
+      "total_damage_taken": 115983,
+      "average_vision_score": 35,
+      "total_wards_placed": 67,
+      "average_creep_score": 135,
+      "average_champion_experience": 16660,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4189538925"
+    },
+    "200": {
+      "total_gold_earned": 56231,
+      "total_gold_spent": 54070,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 80335,
+      "total_damage_dealt_to_objectives": 26022,
+      "total_damage_taken": 148841,
+      "average_vision_score": 29,
+      "total_wards_placed": 68,
+      "average_creep_score": 136,
+      "average_champion_experience": 14601,
+      "dmg_carry": "Yone",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4189538925"
+    }
+  }
+}

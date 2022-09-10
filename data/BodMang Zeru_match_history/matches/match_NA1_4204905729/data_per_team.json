@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 99125,
+      "total_gold_spent": 83878,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 2,
+      "total_kills": 60,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 202967,
+      "total_damage_dealt_to_objectives": 128012,
+      "total_damage_taken": 223547,
+      "average_vision_score": 46,
+      "total_wards_placed": 74,
+      "average_creep_score": 150,
+      "average_champion_experience": 26788,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4204905729"
+    },
+    "200": {
+      "total_gold_earned": 91060,
+      "total_gold_spent": 84880,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 186646,
+      "total_damage_dealt_to_objectives": 87604,
+      "total_damage_taken": 256529,
+      "average_vision_score": 39,
+      "total_wards_placed": 111,
+      "average_creep_score": 166,
+      "average_champion_experience": 23112,
+      "dmg_carry": "Yone",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4204905729"
+    }
+  }
+}

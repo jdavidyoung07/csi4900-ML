@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30712,
+      "total_gold_spent": 29975,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 5,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 27478,
+      "total_damage_dealt_to_objectives": 13161,
+      "total_damage_taken": 49788,
+      "average_vision_score": 17,
+      "total_wards_placed": 33,
+      "average_creep_score": 79,
+      "average_champion_experience": 7364,
+      "dmg_carry": "Lux",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4407595085"
+    },
+    "200": {
+      "total_gold_earned": 35402,
+      "total_gold_spent": 34743,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 5,
+      "total_damage_dealt_to_champions": 33681,
+      "total_damage_dealt_to_objectives": 54658,
+      "total_damage_taken": 45115,
+      "average_vision_score": 14,
+      "total_wards_placed": 32,
+      "average_creep_score": 85,
+      "average_champion_experience": 7984,
+      "dmg_carry": "Draven",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4407595085"
+    }
+  }
+}

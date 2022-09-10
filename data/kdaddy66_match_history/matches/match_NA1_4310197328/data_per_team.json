@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66023,
+      "total_gold_spent": 58970,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 124723,
+      "total_damage_dealt_to_objectives": 73106,
+      "total_damage_taken": 139571,
+      "average_vision_score": 24,
+      "total_wards_placed": 44,
+      "average_creep_score": 105,
+      "average_champion_experience": 15448,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4310197328"
+    },
+    "200": {
+      "total_gold_earned": 62479,
+      "total_gold_spent": 59003,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 117085,
+      "total_damage_dealt_to_objectives": 31101,
+      "total_damage_taken": 148718,
+      "average_vision_score": 37,
+      "total_wards_placed": 62,
+      "average_creep_score": 100,
+      "average_champion_experience": 14086,
+      "dmg_carry": "Olaf",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4310197328"
+    }
+  }
+}

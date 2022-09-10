@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 93328,
+      "total_gold_spent": 85025,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 163705,
+      "total_damage_dealt_to_objectives": 43730,
+      "total_damage_taken": 217631,
+      "average_vision_score": 41,
+      "total_wards_placed": 76,
+      "average_creep_score": 206,
+      "average_champion_experience": 24998,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4113967353"
+    },
+    "200": {
+      "total_gold_earned": 92171,
+      "total_gold_spent": 84758,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 6,
+      "total_kills": 46,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 158296,
+      "total_damage_dealt_to_objectives": 137925,
+      "total_damage_taken": 208685,
+      "average_vision_score": 55,
+      "total_wards_placed": 94,
+      "average_creep_score": 153,
+      "average_champion_experience": 23787,
+      "dmg_carry": "Darius",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4113967353"
+    }
+  }
+}

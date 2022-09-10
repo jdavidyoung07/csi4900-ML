@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44233,
+      "total_gold_spent": 36800,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 71095,
+      "total_damage_dealt_to_objectives": 46182,
+      "total_damage_taken": 73504,
+      "average_vision_score": 16,
+      "total_wards_placed": 34,
+      "average_creep_score": 90,
+      "average_champion_experience": 10522,
+      "dmg_carry": "TahmKench",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4231687962"
+    },
+    "200": {
+      "total_gold_earned": 33792,
+      "total_gold_spent": 31805,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 44662,
+      "total_damage_dealt_to_objectives": 16028,
+      "total_damage_taken": 85925,
+      "average_vision_score": 12,
+      "total_wards_placed": 30,
+      "average_creep_score": 91,
+      "average_champion_experience": 7990,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4231687962"
+    }
+  }
+}

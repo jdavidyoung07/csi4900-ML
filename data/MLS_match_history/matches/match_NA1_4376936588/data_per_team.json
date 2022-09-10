@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49725,
+      "total_gold_spent": 47580,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 98687,
+      "total_damage_dealt_to_objectives": 29313,
+      "total_damage_taken": 141436,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 104,
+      "average_champion_experience": 11362,
+      "dmg_carry": "Vex",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4376936588"
+    },
+    "200": {
+      "total_gold_earned": 64777,
+      "total_gold_spent": 56440,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 114311,
+      "total_damage_dealt_to_objectives": 76691,
+      "total_damage_taken": 132471,
+      "average_vision_score": 33,
+      "total_wards_placed": 54,
+      "average_creep_score": 105,
+      "average_champion_experience": 14055,
+      "dmg_carry": "Sylas",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4376936588"
+    }
+  }
+}

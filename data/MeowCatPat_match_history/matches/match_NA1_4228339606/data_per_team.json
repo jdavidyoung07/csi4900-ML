@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78075,
+      "total_gold_spent": 76830,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 66,
+      "total_damage_dealt_to_champions": 192514,
+      "total_damage_dealt_to_objectives": 65387,
+      "total_damage_taken": 224990,
+      "average_vision_score": 39,
+      "total_wards_placed": 87,
+      "average_creep_score": 132,
+      "average_champion_experience": 17044,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4228339606"
+    },
+    "200": {
+      "total_gold_earned": 95132,
+      "total_gold_spent": 95135,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 66,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 192110,
+      "total_damage_dealt_to_objectives": 93770,
+      "total_damage_taken": 231511,
+      "average_vision_score": 33,
+      "total_wards_placed": 66,
+      "average_creep_score": 130,
+      "average_champion_experience": 20250,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4228339606"
+    }
+  }
+}

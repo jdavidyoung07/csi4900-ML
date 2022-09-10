@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55708,
+      "total_gold_spent": 51700,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 82546,
+      "total_damage_dealt_to_objectives": 59885,
+      "total_damage_taken": 116504,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 92,
+      "average_champion_experience": 12120,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4301677781"
+    },
+    "200": {
+      "total_gold_earned": 52729,
+      "total_gold_spent": 49825,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 79780,
+      "total_damage_dealt_to_objectives": 24457,
+      "total_damage_taken": 102004,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 102,
+      "average_champion_experience": 11772,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4301677781"
+    }
+  }
+}

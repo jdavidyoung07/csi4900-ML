@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53920,
+      "total_gold_spent": 51460,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 111416,
+      "total_damage_dealt_to_objectives": 25545,
+      "total_damage_taken": 114409,
+      "average_vision_score": 33,
+      "total_wards_placed": 74,
+      "average_creep_score": 105,
+      "average_champion_experience": 11975,
+      "dmg_carry": "Vex",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4387556610"
+    },
+    "200": {
+      "total_gold_earned": 61234,
+      "total_gold_spent": 55866,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 99415,
+      "total_damage_dealt_to_objectives": 80057,
+      "total_damage_taken": 138559,
+      "average_vision_score": 26,
+      "total_wards_placed": 55,
+      "average_creep_score": 108,
+      "average_champion_experience": 13411,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4387556610"
+    }
+  }
+}

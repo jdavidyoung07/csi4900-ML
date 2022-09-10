@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 88844,
+      "total_gold_spent": 82355,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 59,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 210000,
+      "total_damage_dealt_to_objectives": 88934,
+      "total_damage_taken": 240916,
+      "average_vision_score": 37,
+      "total_wards_placed": 75,
+      "average_creep_score": 132,
+      "average_champion_experience": 21620,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4385505843"
+    },
+    "200": {
+      "total_gold_earned": 87615,
+      "total_gold_spent": 81688,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 54,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 205515,
+      "total_damage_dealt_to_objectives": 88193,
+      "total_damage_taken": 249071,
+      "average_vision_score": 31,
+      "total_wards_placed": 61,
+      "average_creep_score": 133,
+      "average_champion_experience": 20901,
+      "dmg_carry": "Draven",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4385505843"
+    }
+  }
+}

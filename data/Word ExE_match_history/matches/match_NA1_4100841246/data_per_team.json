@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 92930,
+      "total_gold_spent": 85150,
+      "team_comp": [
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 157973,
+      "total_damage_dealt_to_objectives": 109926,
+      "total_damage_taken": 196861,
+      "average_vision_score": 44,
+      "total_wards_placed": 79,
+      "average_creep_score": 211,
+      "average_champion_experience": 24397,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4100841246"
+    },
+    "200": {
+      "total_gold_earned": 85397,
+      "total_gold_spent": 84775,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 159364,
+      "total_damage_dealt_to_objectives": 96716,
+      "total_damage_taken": 197734,
+      "average_vision_score": 51,
+      "total_wards_placed": 91,
+      "average_creep_score": 178,
+      "average_champion_experience": 21567,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nidalee",
+      "match_id": "NA1_4100841246"
+    }
+  }
+}

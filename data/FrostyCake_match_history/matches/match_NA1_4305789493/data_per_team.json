@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78956,
+      "total_gold_spent": 65450,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 134592,
+      "total_damage_dealt_to_objectives": 52343,
+      "total_damage_taken": 161173,
+      "average_vision_score": 32,
+      "total_wards_placed": 70,
+      "average_creep_score": 183,
+      "average_champion_experience": 19983,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4305789493"
+    },
+    "200": {
+      "total_gold_earned": 74553,
+      "total_gold_spent": 70575,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 26,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 122865,
+      "total_damage_dealt_to_objectives": 105065,
+      "total_damage_taken": 174076,
+      "average_vision_score": 49,
+      "total_wards_placed": 86,
+      "average_creep_score": 140,
+      "average_champion_experience": 17920,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4305789493"
+    }
+  }
+}

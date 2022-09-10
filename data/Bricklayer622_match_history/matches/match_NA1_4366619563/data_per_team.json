@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79375,
+      "total_gold_spent": 73825,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 190198,
+      "total_damage_dealt_to_objectives": 73118,
+      "total_damage_taken": 177054,
+      "average_vision_score": 40,
+      "total_wards_placed": 79,
+      "average_creep_score": 150,
+      "average_champion_experience": 20019,
+      "dmg_carry": "Corki",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4366619563"
+    },
+    "200": {
+      "total_gold_earned": 76277,
+      "total_gold_spent": 72250,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 145486,
+      "total_damage_dealt_to_objectives": 76381,
+      "total_damage_taken": 219360,
+      "average_vision_score": 44,
+      "total_wards_placed": 75,
+      "average_creep_score": 140,
+      "average_champion_experience": 18801,
+      "dmg_carry": "Garen",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4366619563"
+    }
+  }
+}

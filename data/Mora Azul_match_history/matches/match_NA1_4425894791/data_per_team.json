@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61208,
+      "total_gold_spent": 58835,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 98362,
+      "total_damage_dealt_to_objectives": 40759,
+      "total_damage_taken": 167874,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 123,
+      "average_champion_experience": 14898,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4425894791"
+    },
+    "200": {
+      "total_gold_earned": 66953,
+      "total_gold_spent": 59625,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 131990,
+      "total_damage_dealt_to_objectives": 78550,
+      "total_damage_taken": 139174,
+      "average_vision_score": 32,
+      "total_wards_placed": 61,
+      "average_creep_score": 126,
+      "average_champion_experience": 16446,
+      "dmg_carry": "Swain",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4425894791"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58061,
+      "total_gold_spent": 55125,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 101671,
+      "total_damage_dealt_to_objectives": 22397,
+      "total_damage_taken": 124011,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 134,
+      "average_champion_experience": 13861,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4400117434"
+    },
+    "200": {
+      "total_gold_earned": 68500,
+      "total_gold_spent": 64715,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 101767,
+      "total_damage_dealt_to_objectives": 119264,
+      "total_damage_taken": 135566,
+      "average_vision_score": 39,
+      "total_wards_placed": 59,
+      "average_creep_score": 125,
+      "average_champion_experience": 16075,
+      "dmg_carry": "Vex",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4400117434"
+    }
+  }
+}

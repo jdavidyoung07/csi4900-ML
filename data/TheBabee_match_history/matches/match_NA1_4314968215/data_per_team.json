@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44541,
+      "total_gold_spent": 44400,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 56780,
+      "total_damage_dealt_to_objectives": 11605,
+      "total_damage_taken": 102909,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 94,
+      "average_champion_experience": 9577,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4314968215"
+    },
+    "200": {
+      "total_gold_earned": 57435,
+      "total_gold_spent": 50375,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 35,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 82552,
+      "total_damage_dealt_to_objectives": 61204,
+      "total_damage_taken": 76460,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 97,
+      "average_champion_experience": 12289,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4314968215"
+    }
+  }
+}

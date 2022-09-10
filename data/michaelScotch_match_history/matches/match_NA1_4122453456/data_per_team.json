@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 102696,
+      "total_gold_spent": 104315,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 70,
+      "total_deaths": 73,
+      "total_damage_dealt_to_champions": 223476,
+      "total_damage_dealt_to_objectives": 118960,
+      "total_damage_taken": 256018,
+      "average_vision_score": 45,
+      "total_wards_placed": 88,
+      "average_creep_score": 172,
+      "average_champion_experience": 25954,
+      "dmg_carry": "JarvanIV",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4122453456"
+    },
+    "200": {
+      "total_gold_earned": 104364,
+      "total_gold_spent": 101635,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 73,
+      "total_deaths": 70,
+      "total_damage_dealt_to_champions": 216114,
+      "total_damage_dealt_to_objectives": 78304,
+      "total_damage_taken": 259008,
+      "average_vision_score": 53,
+      "total_wards_placed": 92,
+      "average_creep_score": 174,
+      "average_champion_experience": 25762,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4122453456"
+    }
+  }
+}

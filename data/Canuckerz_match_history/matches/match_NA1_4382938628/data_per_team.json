@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61294,
+      "total_gold_spent": 58005,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 103044,
+      "total_damage_dealt_to_objectives": 35118,
+      "total_damage_taken": 142236,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 128,
+      "average_champion_experience": 13349,
+      "dmg_carry": "Varus",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4382938628"
+    },
+    "200": {
+      "total_gold_earned": 68050,
+      "total_gold_spent": 60620,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 121161,
+      "total_damage_dealt_to_objectives": 96648,
+      "total_damage_taken": 124989,
+      "average_vision_score": 27,
+      "total_wards_placed": 53,
+      "average_creep_score": 112,
+      "average_champion_experience": 15795,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4382938628"
+    }
+  }
+}

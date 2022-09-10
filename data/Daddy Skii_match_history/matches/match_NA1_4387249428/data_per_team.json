@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58098,
+      "total_gold_spent": 54310,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 90062,
+      "total_damage_dealt_to_objectives": 19483,
+      "total_damage_taken": 97808,
+      "average_vision_score": 22,
+      "total_wards_placed": 52,
+      "average_creep_score": 132,
+      "average_champion_experience": 13669,
+      "dmg_carry": "Garen",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4387249428"
+    },
+    "200": {
+      "total_gold_earned": 64051,
+      "total_gold_spent": 56555,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 78467,
+      "total_damage_dealt_to_objectives": 95212,
+      "total_damage_taken": 117200,
+      "average_vision_score": 27,
+      "total_wards_placed": 56,
+      "average_creep_score": 133,
+      "average_champion_experience": 15188,
+      "dmg_carry": "Renekton",
+      "obj_carry": "Nilah",
+      "match_id": "NA1_4387249428"
+    }
+  }
+}

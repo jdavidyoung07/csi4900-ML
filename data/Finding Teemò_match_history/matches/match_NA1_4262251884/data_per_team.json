@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65701,
+      "total_gold_spent": 65025,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 106938,
+      "total_damage_dealt_to_objectives": 23562,
+      "total_damage_taken": 153437,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 144,
+      "average_champion_experience": 16518,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4262251884"
+    },
+    "200": {
+      "total_gold_earned": 70280,
+      "total_gold_spent": 70385,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 124751,
+      "total_damage_dealt_to_objectives": 102751,
+      "total_damage_taken": 139346,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 132,
+      "average_champion_experience": 17647,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4262251884"
+    }
+  }
+}

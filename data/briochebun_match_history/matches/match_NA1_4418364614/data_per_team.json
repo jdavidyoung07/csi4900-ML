@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77817,
+      "total_gold_spent": 73375,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 56,
+      "total_deaths": 67,
+      "total_damage_dealt_to_champions": 163883,
+      "total_damage_dealt_to_objectives": 55958,
+      "total_damage_taken": 233020,
+      "average_vision_score": 28,
+      "total_wards_placed": 74,
+      "average_creep_score": 131,
+      "average_champion_experience": 18420,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4418364614"
+    },
+    "200": {
+      "total_gold_earned": 83603,
+      "total_gold_spent": 77475,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 67,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 207435,
+      "total_damage_dealt_to_objectives": 139715,
+      "total_damage_taken": 205054,
+      "average_vision_score": 26,
+      "total_wards_placed": 41,
+      "average_creep_score": 100,
+      "average_champion_experience": 18722,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4418364614"
+    }
+  }
+}

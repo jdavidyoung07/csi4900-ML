@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47724,
+      "total_gold_spent": 45583,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 77238,
+      "total_damage_dealt_to_objectives": 38122,
+      "total_damage_taken": 90268,
+      "average_vision_score": 26,
+      "total_wards_placed": 48,
+      "average_creep_score": 96,
+      "average_champion_experience": 11081,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4420771233"
+    },
+    "200": {
+      "total_gold_earned": 52727,
+      "total_gold_spent": 46225,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 69836,
+      "total_damage_dealt_to_objectives": 63668,
+      "total_damage_taken": 99990,
+      "average_vision_score": 20,
+      "total_wards_placed": 52,
+      "average_creep_score": 113,
+      "average_champion_experience": 12094,
+      "dmg_carry": "Vex",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4420771233"
+    }
+  }
+}

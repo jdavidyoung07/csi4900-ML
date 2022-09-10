@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33770,
+      "total_gold_spent": 30435,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 43387,
+      "total_damage_dealt_to_objectives": 11210,
+      "total_damage_taken": 71461,
+      "average_vision_score": 8,
+      "total_wards_placed": 20,
+      "average_creep_score": 76,
+      "average_champion_experience": 8133,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4096083395"
+    },
+    "200": {
+      "total_gold_earned": 42218,
+      "total_gold_spent": 37925,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 56219,
+      "total_damage_dealt_to_objectives": 76841,
+      "total_damage_taken": 72916,
+      "average_vision_score": 10,
+      "total_wards_placed": 24,
+      "average_creep_score": 75,
+      "average_champion_experience": 8926,
+      "dmg_carry": "Talon",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4096083395"
+    }
+  }
+}

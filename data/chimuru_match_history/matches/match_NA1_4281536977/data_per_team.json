@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73983,
+      "total_gold_spent": 66655,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 109792,
+      "total_damage_dealt_to_objectives": 115694,
+      "total_damage_taken": 114546,
+      "average_vision_score": 48,
+      "total_wards_placed": 79,
+      "average_creep_score": 159,
+      "average_champion_experience": 19271,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4281536977"
+    },
+    "200": {
+      "total_gold_earned": 63123,
+      "total_gold_spent": 60155,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 84899,
+      "total_damage_dealt_to_objectives": 16984,
+      "total_damage_taken": 134987,
+      "average_vision_score": 34,
+      "total_wards_placed": 87,
+      "average_creep_score": 147,
+      "average_champion_experience": 16635,
+      "dmg_carry": "Annie",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4281536977"
+    }
+  }
+}

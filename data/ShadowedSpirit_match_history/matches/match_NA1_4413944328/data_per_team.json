@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80123,
+      "total_gold_spent": 75838,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 150227,
+      "total_damage_dealt_to_objectives": 69288,
+      "total_damage_taken": 238378,
+      "average_vision_score": 36,
+      "total_wards_placed": 85,
+      "average_creep_score": 147,
+      "average_champion_experience": 19483,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4413944328"
+    },
+    "200": {
+      "total_gold_earned": 85393,
+      "total_gold_spent": 77375,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 60,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 187998,
+      "total_damage_dealt_to_objectives": 136495,
+      "total_damage_taken": 187500,
+      "average_vision_score": 37,
+      "total_wards_placed": 53,
+      "average_creep_score": 142,
+      "average_champion_experience": 19569,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4413944328"
+    }
+  }
+}

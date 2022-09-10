@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75279,
+      "total_gold_spent": 72675,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 211751,
+      "total_damage_dealt_to_objectives": 57410,
+      "total_damage_taken": 207155,
+      "average_vision_score": 34,
+      "total_wards_placed": 65,
+      "average_creep_score": 138,
+      "average_champion_experience": 17152,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4339932329"
+    },
+    "200": {
+      "total_gold_earned": 82826,
+      "total_gold_spent": 73685,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 167766,
+      "total_damage_dealt_to_objectives": 106120,
+      "total_damage_taken": 249072,
+      "average_vision_score": 34,
+      "total_wards_placed": 79,
+      "average_creep_score": 128,
+      "average_champion_experience": 20496,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Aphelios",
+      "match_id": "NA1_4339932329"
+    }
+  }
+}

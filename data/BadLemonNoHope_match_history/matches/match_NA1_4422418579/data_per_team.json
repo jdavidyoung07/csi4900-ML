@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61030,
+      "total_gold_spent": 58750,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 148012,
+      "total_damage_dealt_to_objectives": 55424,
+      "total_damage_taken": 155508,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 109,
+      "average_champion_experience": 13217,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4422418579"
+    },
+    "200": {
+      "total_gold_earned": 71469,
+      "total_gold_spent": 63300,
+      "team_comp": [
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 136993,
+      "total_damage_dealt_to_objectives": 72453,
+      "total_damage_taken": 198394,
+      "average_vision_score": 33,
+      "total_wards_placed": 57,
+      "average_creep_score": 122,
+      "average_champion_experience": 16156,
+      "dmg_carry": "Sylas",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4422418579"
+    }
+  }
+}

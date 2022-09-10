@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33712,
+      "total_gold_spent": 29000,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 54457,
+      "total_damage_dealt_to_objectives": 26307,
+      "total_damage_taken": 67139,
+      "average_vision_score": 15,
+      "total_wards_placed": 35,
+      "average_creep_score": 72,
+      "average_champion_experience": 7408,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4422289146"
+    },
+    "200": {
+      "total_gold_earned": 41235,
+      "total_gold_spent": 35235,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 52069,
+      "total_damage_dealt_to_objectives": 35835,
+      "total_damage_taken": 70165,
+      "average_vision_score": 10,
+      "total_wards_placed": 24,
+      "average_creep_score": 77,
+      "average_champion_experience": 9555,
+      "dmg_carry": "Jax",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4422289146"
+    }
+  }
+}

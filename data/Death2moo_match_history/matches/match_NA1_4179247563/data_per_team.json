@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73313,
+      "total_gold_spent": 70750,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 142972,
+      "total_damage_dealt_to_objectives": 18523,
+      "total_damage_taken": 182114,
+      "average_vision_score": 42,
+      "total_wards_placed": 93,
+      "average_creep_score": 168,
+      "average_champion_experience": 18932,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4179247563"
+    },
+    "200": {
+      "total_gold_earned": 84955,
+      "total_gold_spent": 75975,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 6,
+      "total_kills": 40,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 147199,
+      "total_damage_dealt_to_objectives": 131143,
+      "total_damage_taken": 190460,
+      "average_vision_score": 41,
+      "total_wards_placed": 77,
+      "average_creep_score": 155,
+      "average_champion_experience": 21723,
+      "dmg_carry": "Maokai",
+      "obj_carry": "Malzahar",
+      "match_id": "NA1_4179247563"
+    }
+  }
+}

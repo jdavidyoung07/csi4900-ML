@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75747,
+      "total_gold_spent": 66480,
+      "team_comp": [
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 139421,
+      "total_damage_dealt_to_objectives": 51910,
+      "total_damage_taken": 160112,
+      "average_vision_score": 31,
+      "total_wards_placed": 60,
+      "average_creep_score": 141,
+      "average_champion_experience": 17782,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4371022669"
+    },
+    "200": {
+      "total_gold_earned": 73018,
+      "total_gold_spent": 69785,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 124036,
+      "total_damage_dealt_to_objectives": 104487,
+      "total_damage_taken": 175088,
+      "average_vision_score": 25,
+      "total_wards_placed": 59,
+      "average_creep_score": 132,
+      "average_champion_experience": 17220,
+      "dmg_carry": "Swain",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4371022669"
+    }
+  }
+}

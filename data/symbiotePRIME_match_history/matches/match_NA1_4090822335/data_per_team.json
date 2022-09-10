@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64237,
+      "total_gold_spent": 60695,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 160635,
+      "total_damage_dealt_to_objectives": 34858,
+      "total_damage_taken": 166150,
+      "average_vision_score": 35,
+      "total_wards_placed": 73,
+      "average_creep_score": 129,
+      "average_champion_experience": 14471,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4090822335"
+    },
+    "200": {
+      "total_gold_earned": 75411,
+      "total_gold_spent": 70250,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 56,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 141349,
+      "total_damage_dealt_to_objectives": 56647,
+      "total_damage_taken": 191893,
+      "average_vision_score": 39,
+      "total_wards_placed": 89,
+      "average_creep_score": 131,
+      "average_champion_experience": 17251,
+      "dmg_carry": "Syndra",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4090822335"
+    }
+  }
+}

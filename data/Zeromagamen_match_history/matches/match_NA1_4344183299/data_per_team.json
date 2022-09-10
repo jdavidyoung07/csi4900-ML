@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50313,
+      "total_gold_spent": 42635,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 26,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 76594,
+      "total_damage_dealt_to_objectives": 65320,
+      "total_damage_taken": 87065,
+      "average_vision_score": 19,
+      "total_wards_placed": 39,
+      "average_creep_score": 107,
+      "average_champion_experience": 11734,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4344183299"
+    },
+    "200": {
+      "total_gold_earned": 44524,
+      "total_gold_spent": 41783,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 62767,
+      "total_damage_dealt_to_objectives": 52714,
+      "total_damage_taken": 102673,
+      "average_vision_score": 14,
+      "total_wards_placed": 42,
+      "average_creep_score": 101,
+      "average_champion_experience": 10707,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4344183299"
+    }
+  }
+}

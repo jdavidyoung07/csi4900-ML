@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 18973,
+      "total_gold_spent": 13300,
+      "team_comp": [
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 16628,
+      "total_damage_dealt_to_objectives": 4390,
+      "total_damage_taken": 22418,
+      "average_vision_score": 6,
+      "total_wards_placed": 18,
+      "average_creep_score": 39,
+      "average_champion_experience": 3596,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4419534805"
+    },
+    "200": {
+      "total_gold_earned": 15096,
+      "total_gold_spent": 11645,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 15554,
+      "total_damage_dealt_to_objectives": 7193,
+      "total_damage_taken": 21510,
+      "average_vision_score": 5,
+      "total_wards_placed": 16,
+      "average_creep_score": 30,
+      "average_champion_experience": 3085,
+      "dmg_carry": "Brand",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4419534805"
+    }
+  }
+}

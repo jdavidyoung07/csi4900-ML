@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63175,
+      "total_gold_spent": 59800,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 135456,
+      "total_damage_dealt_to_objectives": 57757,
+      "total_damage_taken": 167114,
+      "average_vision_score": 38,
+      "total_wards_placed": 92,
+      "average_creep_score": 133,
+      "average_champion_experience": 15888,
+      "dmg_carry": "Kindred",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4388527299"
+    },
+    "200": {
+      "total_gold_earned": 73193,
+      "total_gold_spent": 64555,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 141681,
+      "total_damage_dealt_to_objectives": 90960,
+      "total_damage_taken": 177165,
+      "average_vision_score": 38,
+      "total_wards_placed": 71,
+      "average_creep_score": 129,
+      "average_champion_experience": 17922,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4388527299"
+    }
+  }
+}

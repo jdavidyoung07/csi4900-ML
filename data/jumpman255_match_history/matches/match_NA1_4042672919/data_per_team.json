@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54356,
+      "total_gold_spent": 52100,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 94188,
+      "total_damage_dealt_to_objectives": 25760,
+      "total_damage_taken": 172170,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 140,
+      "average_champion_experience": 13618,
+      "dmg_carry": "Singed",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4042672919"
+    },
+    "200": {
+      "total_gold_earned": 69677,
+      "total_gold_spent": 63175,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 143166,
+      "total_damage_dealt_to_objectives": 80152,
+      "total_damage_taken": 130684,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 133,
+      "average_champion_experience": 17191,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4042672919"
+    }
+  }
+}

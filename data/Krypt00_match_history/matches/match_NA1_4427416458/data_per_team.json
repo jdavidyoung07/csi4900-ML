@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67385,
+      "total_gold_spent": 62760,
+      "team_comp": [
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 131879,
+      "total_damage_dealt_to_objectives": 39215,
+      "total_damage_taken": 139346,
+      "average_vision_score": 35,
+      "total_wards_placed": 52,
+      "average_creep_score": 158,
+      "average_champion_experience": 16796,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4427416458"
+    },
+    "200": {
+      "total_gold_earned": 71407,
+      "total_gold_spent": 66110,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 34,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 107324,
+      "total_damage_dealt_to_objectives": 122806,
+      "total_damage_taken": 176980,
+      "average_vision_score": 28,
+      "total_wards_placed": 83,
+      "average_creep_score": 139,
+      "average_champion_experience": 17613,
+      "dmg_carry": "Annie",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4427416458"
+    }
+  }
+}

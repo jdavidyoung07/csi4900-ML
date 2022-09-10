@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43141,
+      "total_gold_spent": 37350,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 44808,
+      "total_damage_dealt_to_objectives": 28177,
+      "total_damage_taken": 83421,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 116,
+      "average_champion_experience": 10000,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4298195181"
+    },
+    "200": {
+      "total_gold_earned": 51440,
+      "total_gold_spent": 47300,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 60822,
+      "total_damage_dealt_to_objectives": 70117,
+      "total_damage_taken": 74731,
+      "average_vision_score": 29,
+      "total_wards_placed": 47,
+      "average_creep_score": 113,
+      "average_champion_experience": 12866,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Kassadin",
+      "match_id": "NA1_4298195181"
+    }
+  }
+}

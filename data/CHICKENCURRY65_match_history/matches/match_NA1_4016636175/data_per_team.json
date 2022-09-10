@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51502,
+      "total_gold_spent": 50185,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 114169,
+      "total_damage_dealt_to_objectives": 29142,
+      "total_damage_taken": 144266,
+      "average_vision_score": 28,
+      "total_wards_placed": 67,
+      "average_creep_score": 106,
+      "average_champion_experience": 11910,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4016636175"
+    },
+    "200": {
+      "total_gold_earned": 59258,
+      "total_gold_spent": 51295,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 119585,
+      "total_damage_dealt_to_objectives": 60666,
+      "total_damage_taken": 152206,
+      "average_vision_score": 29,
+      "total_wards_placed": 56,
+      "average_creep_score": 104,
+      "average_champion_experience": 13043,
+      "dmg_carry": "Sejuani",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4016636175"
+    }
+  }
+}

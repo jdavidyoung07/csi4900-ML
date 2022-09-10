@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64499,
+      "total_gold_spent": 59100,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 102599,
+      "total_damage_dealt_to_objectives": 55898,
+      "total_damage_taken": 108248,
+      "average_vision_score": 31,
+      "total_wards_placed": 49,
+      "average_creep_score": 123,
+      "average_champion_experience": 14889,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4405027002"
+    },
+    "200": {
+      "total_gold_earned": 55644,
+      "total_gold_spent": 53335,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 87211,
+      "total_damage_dealt_to_objectives": 57892,
+      "total_damage_taken": 131686,
+      "average_vision_score": 29,
+      "total_wards_placed": 73,
+      "average_creep_score": 124,
+      "average_champion_experience": 13004,
+      "dmg_carry": "Zoe",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4405027002"
+    }
+  }
+}

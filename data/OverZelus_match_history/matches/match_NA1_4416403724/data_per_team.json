@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61951,
+      "total_gold_spent": 67315,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 104702,
+      "total_damage_dealt_to_objectives": 46567,
+      "total_damage_taken": 150834,
+      "average_vision_score": 35,
+      "total_wards_placed": 62,
+      "average_creep_score": 131,
+      "average_champion_experience": 14333,
+      "dmg_carry": "Kalista",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4416403724"
+    },
+    "200": {
+      "total_gold_earned": 70550,
+      "total_gold_spent": 61145,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 124357,
+      "total_damage_dealt_to_objectives": 71013,
+      "total_damage_taken": 132484,
+      "average_vision_score": 33,
+      "total_wards_placed": 57,
+      "average_creep_score": 150,
+      "average_champion_experience": 16958,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4416403724"
+    }
+  }
+}

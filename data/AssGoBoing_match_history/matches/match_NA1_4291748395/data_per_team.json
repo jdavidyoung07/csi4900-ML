@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30815,
+      "total_gold_spent": 28550,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 31622,
+      "total_damage_dealt_to_objectives": 8618,
+      "total_damage_taken": 63217,
+      "average_vision_score": 16,
+      "total_wards_placed": 42,
+      "average_creep_score": 68,
+      "average_champion_experience": 6983,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4291748395"
+    },
+    "200": {
+      "total_gold_earned": 46404,
+      "total_gold_spent": 41000,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 51039,
+      "total_damage_dealt_to_objectives": 60595,
+      "total_damage_taken": 58050,
+      "average_vision_score": 13,
+      "total_wards_placed": 37,
+      "average_creep_score": 77,
+      "average_champion_experience": 8995,
+      "dmg_carry": "Jayce",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4291748395"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67350,
+      "total_gold_spent": 60575,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 132415,
+      "total_damage_dealt_to_objectives": 64119,
+      "total_damage_taken": 168625,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 139,
+      "average_champion_experience": 15909,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4414101681"
+    },
+    "200": {
+      "total_gold_earned": 63129,
+      "total_gold_spent": 61910,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 137238,
+      "total_damage_dealt_to_objectives": 51303,
+      "total_damage_taken": 165824,
+      "average_vision_score": 33,
+      "total_wards_placed": 67,
+      "average_creep_score": 127,
+      "average_champion_experience": 15204,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4414101681"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70865,
+      "total_gold_spent": 69290,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 122735,
+      "total_damage_dealt_to_objectives": 74211,
+      "total_damage_taken": 188579,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 139,
+      "average_champion_experience": 17454,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4365403422"
+    },
+    "200": {
+      "total_gold_earned": 76889,
+      "total_gold_spent": 70380,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 157422,
+      "total_damage_dealt_to_objectives": 74553,
+      "total_damage_taken": 154878,
+      "average_vision_score": 27,
+      "total_wards_placed": 60,
+      "average_creep_score": 141,
+      "average_champion_experience": 18019,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4365403422"
+    }
+  }
+}

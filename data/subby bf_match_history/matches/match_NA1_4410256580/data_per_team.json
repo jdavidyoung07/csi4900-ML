@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47809,
+      "total_gold_spent": 44728,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 88814,
+      "total_damage_dealt_to_objectives": 37180,
+      "total_damage_taken": 101167,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 110,
+      "average_champion_experience": 10794,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4410256580"
+    },
+    "200": {
+      "total_gold_earned": 58169,
+      "total_gold_spent": 51830,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 83505,
+      "total_damage_dealt_to_objectives": 77030,
+      "total_damage_taken": 111229,
+      "average_vision_score": 30,
+      "total_wards_placed": 60,
+      "average_creep_score": 111,
+      "average_champion_experience": 13222,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Veigar",
+      "match_id": "NA1_4410256580"
+    }
+  }
+}

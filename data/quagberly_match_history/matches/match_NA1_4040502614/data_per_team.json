@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53877,
+      "total_gold_spent": 51020,
+      "team_comp": [
+        {
+          "champName": "Alistar",
+          "champId": 12
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 85395,
+      "total_damage_dealt_to_objectives": 36873,
+      "total_damage_taken": 146781,
+      "average_vision_score": 21,
+      "total_wards_placed": 43,
+      "average_creep_score": 106,
+      "average_champion_experience": 13503,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Alistar",
+      "match_id": "NA1_4040502614"
+    },
+    "200": {
+      "total_gold_earned": 65858,
+      "total_gold_spent": 57135,
+      "team_comp": [
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 118548,
+      "total_damage_dealt_to_objectives": 91846,
+      "total_damage_taken": 123771,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 124,
+      "average_champion_experience": 15559,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4040502614"
+    }
+  }
+}

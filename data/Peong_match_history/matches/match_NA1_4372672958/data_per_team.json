@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56591,
+      "total_gold_spent": 54200,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 113081,
+      "total_damage_dealt_to_objectives": 21940,
+      "total_damage_taken": 173089,
+      "average_vision_score": 19,
+      "total_wards_placed": 48,
+      "average_creep_score": 114,
+      "average_champion_experience": 14745,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4372672958"
+    },
+    "200": {
+      "total_gold_earned": 67001,
+      "total_gold_spent": 62110,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 151698,
+      "total_damage_dealt_to_objectives": 68859,
+      "total_damage_taken": 145247,
+      "average_vision_score": 18,
+      "total_wards_placed": 32,
+      "average_creep_score": 111,
+      "average_champion_experience": 16265,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4372672958"
+    }
+  }
+}

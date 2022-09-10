@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66490,
+      "total_gold_spent": 63433,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 50,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 113994,
+      "total_damage_dealt_to_objectives": 52227,
+      "total_damage_taken": 155514,
+      "average_vision_score": 36,
+      "total_wards_placed": 63,
+      "average_creep_score": 113,
+      "average_champion_experience": 15590,
+      "dmg_carry": "Graves",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4284266904"
+    },
+    "200": {
+      "total_gold_earned": 68893,
+      "total_gold_spent": 62515,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 130993,
+      "total_damage_dealt_to_objectives": 55887,
+      "total_damage_taken": 138003,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 120,
+      "average_champion_experience": 16471,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4284266904"
+    }
+  }
+}

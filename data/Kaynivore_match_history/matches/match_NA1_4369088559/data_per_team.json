@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49093,
+      "total_gold_spent": 45560,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 92987,
+      "total_damage_dealt_to_objectives": 31548,
+      "total_damage_taken": 133281,
+      "average_vision_score": 29,
+      "total_wards_placed": 55,
+      "average_creep_score": 103,
+      "average_champion_experience": 11314,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4369088559"
+    },
+    "200": {
+      "total_gold_earned": 64088,
+      "total_gold_spent": 56350,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 111419,
+      "total_damage_dealt_to_objectives": 58513,
+      "total_damage_taken": 120877,
+      "average_vision_score": 27,
+      "total_wards_placed": 55,
+      "average_creep_score": 112,
+      "average_champion_experience": 14633,
+      "dmg_carry": "Amumu",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4369088559"
+    }
+  }
+}

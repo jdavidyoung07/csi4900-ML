@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 36,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66174,
+      "total_gold_spent": 61550,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 135291,
+      "total_damage_dealt_to_objectives": 53369,
+      "total_damage_taken": 163631,
+      "average_vision_score": 25,
+      "total_wards_placed": 60,
+      "average_creep_score": 114,
+      "average_champion_experience": 15606,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4028071532"
+    },
+    "200": {
+      "total_gold_earned": 71991,
+      "total_gold_spent": 63925,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 135198,
+      "total_damage_dealt_to_objectives": 75349,
+      "total_damage_taken": 178471,
+      "average_vision_score": 25,
+      "total_wards_placed": 67,
+      "average_creep_score": 113,
+      "average_champion_experience": 16948,
+      "dmg_carry": "Sylas",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4028071532"
+    }
+  }
+}

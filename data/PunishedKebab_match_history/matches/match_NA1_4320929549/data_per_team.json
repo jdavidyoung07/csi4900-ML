@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61198,
+      "total_gold_spent": 58700,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 82151,
+      "total_damage_dealt_to_objectives": 22027,
+      "total_damage_taken": 134133,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 157,
+      "average_champion_experience": 15659,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4320929549"
+    },
+    "200": {
+      "total_gold_earned": 74740,
+      "total_gold_spent": 66500,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 41,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 107827,
+      "total_damage_dealt_to_objectives": 106754,
+      "total_damage_taken": 126173,
+      "average_vision_score": 29,
+      "total_wards_placed": 40,
+      "average_creep_score": 143,
+      "average_champion_experience": 18131,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4320929549"
+    }
+  }
+}

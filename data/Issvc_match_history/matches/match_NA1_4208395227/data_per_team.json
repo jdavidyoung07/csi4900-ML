@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48950,
+      "total_gold_spent": 46975,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 70757,
+      "total_damage_dealt_to_objectives": 21975,
+      "total_damage_taken": 130522,
+      "average_vision_score": 27,
+      "total_wards_placed": 53,
+      "average_creep_score": 100,
+      "average_champion_experience": 11773,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4208395227"
+    },
+    "200": {
+      "total_gold_earned": 63817,
+      "total_gold_spent": 53325,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 106979,
+      "total_damage_dealt_to_objectives": 73822,
+      "total_damage_taken": 102919,
+      "average_vision_score": 21,
+      "total_wards_placed": 43,
+      "average_creep_score": 100,
+      "average_champion_experience": 13546,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Akshan",
+      "match_id": "NA1_4208395227"
+    }
+  }
+}

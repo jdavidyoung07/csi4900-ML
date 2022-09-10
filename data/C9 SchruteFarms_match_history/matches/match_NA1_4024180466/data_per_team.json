@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 44,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83151,
+      "total_gold_spent": 84425,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 63,
+      "total_deaths": 65,
+      "total_damage_dealt_to_champions": 184454,
+      "total_damage_dealt_to_objectives": 35141,
+      "total_damage_taken": 280185,
+      "average_vision_score": 41,
+      "total_wards_placed": 79,
+      "average_creep_score": 140,
+      "average_champion_experience": 20232,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4024180466"
+    },
+    "200": {
+      "total_gold_earned": 92203,
+      "total_gold_spent": 80625,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 1,
+      "total_kills": 65,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 236940,
+      "total_damage_dealt_to_objectives": 111688,
+      "total_damage_taken": 220477,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 129,
+      "average_champion_experience": 25292,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4024180466"
+    }
+  }
+}

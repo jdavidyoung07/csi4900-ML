@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81348,
+      "total_gold_spent": 80850,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 63,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 182574,
+      "total_damage_dealt_to_objectives": 81729,
+      "total_damage_taken": 209603,
+      "average_vision_score": 34,
+      "total_wards_placed": 83,
+      "average_creep_score": 115,
+      "average_champion_experience": 17306,
+      "dmg_carry": "Brand",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4298014972"
+    },
+    "200": {
+      "total_gold_earned": 81095,
+      "total_gold_spent": 72135,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 55,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 166831,
+      "total_damage_dealt_to_objectives": 67958,
+      "total_damage_taken": 208312,
+      "average_vision_score": 36,
+      "total_wards_placed": 73,
+      "average_creep_score": 147,
+      "average_champion_experience": 20014,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4298014972"
+    }
+  }
+}

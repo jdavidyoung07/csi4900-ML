@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55500,
+      "total_gold_spent": 53210,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 107774,
+      "total_damage_dealt_to_objectives": 67726,
+      "total_damage_taken": 84174,
+      "average_vision_score": 23,
+      "total_wards_placed": 46,
+      "average_creep_score": 103,
+      "average_champion_experience": 11540,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4417479111"
+    },
+    "200": {
+      "total_gold_earned": 43180,
+      "total_gold_spent": 40375,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 58306,
+      "total_damage_dealt_to_objectives": 13875,
+      "total_damage_taken": 122276,
+      "average_vision_score": 17,
+      "total_wards_placed": 48,
+      "average_creep_score": 80,
+      "average_champion_experience": 10048,
+      "dmg_carry": "Viego",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4417479111"
+    }
+  }
+}

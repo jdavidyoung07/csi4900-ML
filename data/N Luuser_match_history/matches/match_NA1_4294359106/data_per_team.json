@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62962,
+      "total_gold_spent": 53110,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 84561,
+      "total_damage_dealt_to_objectives": 64482,
+      "total_damage_taken": 118189,
+      "average_vision_score": 23,
+      "total_wards_placed": 42,
+      "average_creep_score": 103,
+      "average_champion_experience": 13060,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4294359106"
+    },
+    "200": {
+      "total_gold_earned": 53543,
+      "total_gold_spent": 57985,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 98613,
+      "total_damage_dealt_to_objectives": 15919,
+      "total_damage_taken": 105648,
+      "average_vision_score": 20,
+      "total_wards_placed": 36,
+      "average_creep_score": 103,
+      "average_champion_experience": 12616,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4294359106"
+    }
+  }
+}

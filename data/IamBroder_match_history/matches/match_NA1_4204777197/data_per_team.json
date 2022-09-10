@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68674,
+      "total_gold_spent": 60255,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 115165,
+      "total_damage_dealt_to_objectives": 68030,
+      "total_damage_taken": 180632,
+      "average_vision_score": 33,
+      "total_wards_placed": 78,
+      "average_creep_score": 105,
+      "average_champion_experience": 16544,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4204777197"
+    },
+    "200": {
+      "total_gold_earned": 63891,
+      "total_gold_spent": 59075,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 150035,
+      "total_damage_dealt_to_objectives": 84913,
+      "total_damage_taken": 166317,
+      "average_vision_score": 25,
+      "total_wards_placed": 51,
+      "average_creep_score": 103,
+      "average_champion_experience": 14195,
+      "dmg_carry": "Lux",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4204777197"
+    }
+  }
+}

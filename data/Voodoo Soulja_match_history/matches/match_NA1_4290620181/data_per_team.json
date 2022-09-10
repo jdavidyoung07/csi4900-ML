@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61071,
+      "total_gold_spent": 56935,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 83904,
+      "total_damage_dealt_to_objectives": 77550,
+      "total_damage_taken": 72464,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 99,
+      "average_champion_experience": 13293,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4290620181"
+    },
+    "200": {
+      "total_gold_earned": 48589,
+      "total_gold_spent": 46945,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 57590,
+      "total_damage_dealt_to_objectives": 9109,
+      "total_damage_taken": 107062,
+      "average_vision_score": 22,
+      "total_wards_placed": 51,
+      "average_creep_score": 109,
+      "average_champion_experience": 10989,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4290620181"
+    }
+  }
+}

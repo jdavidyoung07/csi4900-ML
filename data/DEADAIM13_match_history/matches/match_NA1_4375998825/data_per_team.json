@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75583,
+      "total_gold_spent": 70390,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 152069,
+      "total_damage_dealt_to_objectives": 49407,
+      "total_damage_taken": 169640,
+      "average_vision_score": 33,
+      "total_wards_placed": 82,
+      "average_creep_score": 141,
+      "average_champion_experience": 17874,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4375998825"
+    },
+    "200": {
+      "total_gold_earned": 77035,
+      "total_gold_spent": 72670,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 142088,
+      "total_damage_dealt_to_objectives": 83535,
+      "total_damage_taken": 186020,
+      "average_vision_score": 54,
+      "total_wards_placed": 71,
+      "average_creep_score": 136,
+      "average_champion_experience": 18381,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4375998825"
+    }
+  }
+}

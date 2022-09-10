@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60478,
+      "total_gold_spent": 51075,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 95538,
+      "total_damage_dealt_to_objectives": 58027,
+      "total_damage_taken": 113152,
+      "average_vision_score": 32,
+      "total_wards_placed": 66,
+      "average_creep_score": 121,
+      "average_champion_experience": 14272,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4057909154"
+    },
+    "200": {
+      "total_gold_earned": 51287,
+      "total_gold_spent": 48950,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 83215,
+      "total_damage_dealt_to_objectives": 35170,
+      "total_damage_taken": 120467,
+      "average_vision_score": 29,
+      "total_wards_placed": 68,
+      "average_creep_score": 113,
+      "average_champion_experience": 12236,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4057909154"
+    }
+  }
+}

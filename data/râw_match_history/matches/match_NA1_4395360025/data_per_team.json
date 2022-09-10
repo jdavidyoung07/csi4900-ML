@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43122,
+      "total_gold_spent": 40750,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 68032,
+      "total_damage_dealt_to_objectives": 29283,
+      "total_damage_taken": 96833,
+      "average_vision_score": 22,
+      "total_wards_placed": 52,
+      "average_creep_score": 111,
+      "average_champion_experience": 10141,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4395360025"
+    },
+    "200": {
+      "total_gold_earned": 54715,
+      "total_gold_spent": 47610,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 3,
+      "total_kills": 27,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 77734,
+      "total_damage_dealt_to_objectives": 59559,
+      "total_damage_taken": 98835,
+      "average_vision_score": 22,
+      "total_wards_placed": 43,
+      "average_creep_score": 111,
+      "average_champion_experience": 12728,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4395360025"
+    }
+  }
+}

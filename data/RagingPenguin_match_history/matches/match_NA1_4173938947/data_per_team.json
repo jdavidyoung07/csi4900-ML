@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60520,
+      "total_gold_spent": 56200,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 106281,
+      "total_damage_dealt_to_objectives": 25082,
+      "total_damage_taken": 104892,
+      "average_vision_score": 32,
+      "total_wards_placed": 66,
+      "average_creep_score": 134,
+      "average_champion_experience": 15031,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4173938947"
+    },
+    "200": {
+      "total_gold_earned": 68072,
+      "total_gold_spent": 63975,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 41,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 81453,
+      "total_damage_dealt_to_objectives": 90505,
+      "total_damage_taken": 140591,
+      "average_vision_score": 29,
+      "total_wards_placed": 62,
+      "average_creep_score": 123,
+      "average_champion_experience": 16323,
+      "dmg_carry": "Amumu",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4173938947"
+    }
+  }
+}

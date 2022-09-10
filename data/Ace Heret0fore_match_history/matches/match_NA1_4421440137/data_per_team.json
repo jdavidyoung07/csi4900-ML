@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43730,
+      "total_gold_spent": 40345,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 58397,
+      "total_damage_dealt_to_objectives": 43225,
+      "total_damage_taken": 79580,
+      "average_vision_score": 27,
+      "total_wards_placed": 41,
+      "average_creep_score": 93,
+      "average_champion_experience": 9726,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4421440137"
+    },
+    "200": {
+      "total_gold_earned": 48180,
+      "total_gold_spent": 40785,
+      "team_comp": [
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 56752,
+      "total_damage_dealt_to_objectives": 63510,
+      "total_damage_taken": 83898,
+      "average_vision_score": 19,
+      "total_wards_placed": 50,
+      "average_creep_score": 90,
+      "average_champion_experience": 11560,
+      "dmg_carry": "Viego",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4421440137"
+    }
+  }
+}

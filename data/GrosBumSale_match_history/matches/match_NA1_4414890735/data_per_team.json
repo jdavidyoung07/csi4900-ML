@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69128,
+      "total_gold_spent": 63985,
+      "team_comp": [
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 128025,
+      "total_damage_dealt_to_objectives": 68685,
+      "total_damage_taken": 161735,
+      "average_vision_score": 39,
+      "total_wards_placed": 80,
+      "average_creep_score": 127,
+      "average_champion_experience": 14932,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4414890735"
+    },
+    "200": {
+      "total_gold_earned": 69360,
+      "total_gold_spent": 59825,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 126921,
+      "total_damage_dealt_to_objectives": 78604,
+      "total_damage_taken": 160078,
+      "average_vision_score": 34,
+      "total_wards_placed": 57,
+      "average_creep_score": 138,
+      "average_champion_experience": 15953,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4414890735"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66809,
+      "total_gold_spent": 65950,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 123690,
+      "total_damage_dealt_to_objectives": 79174,
+      "total_damage_taken": 171358,
+      "average_vision_score": 31,
+      "total_wards_placed": 79,
+      "average_creep_score": 159,
+      "average_champion_experience": 16695,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4408477228"
+    },
+    "200": {
+      "total_gold_earned": 74886,
+      "total_gold_spent": 61260,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 45,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 137456,
+      "total_damage_dealt_to_objectives": 69859,
+      "total_damage_taken": 158697,
+      "average_vision_score": 34,
+      "total_wards_placed": 64,
+      "average_creep_score": 156,
+      "average_champion_experience": 19567,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4408477228"
+    }
+  }
+}

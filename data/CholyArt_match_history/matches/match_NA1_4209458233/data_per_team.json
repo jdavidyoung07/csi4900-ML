@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62196,
+      "total_gold_spent": 56795,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 127681,
+      "total_damage_dealt_to_objectives": 37612,
+      "total_damage_taken": 115072,
+      "average_vision_score": 33,
+      "total_wards_placed": 58,
+      "average_creep_score": 126,
+      "average_champion_experience": 15086,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4209458233"
+    },
+    "200": {
+      "total_gold_earned": 69303,
+      "total_gold_spent": 63350,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 89758,
+      "total_damage_dealt_to_objectives": 98036,
+      "total_damage_taken": 164995,
+      "average_vision_score": 29,
+      "total_wards_placed": 52,
+      "average_creep_score": 120,
+      "average_champion_experience": 16951,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4209458233"
+    }
+  }
+}

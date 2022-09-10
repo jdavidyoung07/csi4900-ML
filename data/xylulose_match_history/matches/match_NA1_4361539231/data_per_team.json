@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68518,
+      "total_gold_spent": 65775,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 135315,
+      "total_damage_dealt_to_objectives": 51206,
+      "total_damage_taken": 163567,
+      "average_vision_score": 31,
+      "total_wards_placed": 48,
+      "average_creep_score": 148,
+      "average_champion_experience": 17006,
+      "dmg_carry": "Corki",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4361539231"
+    },
+    "200": {
+      "total_gold_earned": 75793,
+      "total_gold_spent": 71408,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 4,
+      "total_kills": 35,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 125746,
+      "total_damage_dealt_to_objectives": 93668,
+      "total_damage_taken": 163517,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 152,
+      "average_champion_experience": 18703,
+      "dmg_carry": "Amumu",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4361539231"
+    }
+  }
+}

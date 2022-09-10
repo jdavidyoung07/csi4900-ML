@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55224,
+      "total_gold_spent": 48658,
+      "team_comp": [
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 79800,
+      "total_damage_dealt_to_objectives": 47747,
+      "total_damage_taken": 119716,
+      "average_vision_score": 30,
+      "total_wards_placed": 43,
+      "average_creep_score": 121,
+      "average_champion_experience": 13087,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4225107252"
+    },
+    "200": {
+      "total_gold_earned": 50907,
+      "total_gold_spent": 47850,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 89743,
+      "total_damage_dealt_to_objectives": 38610,
+      "total_damage_taken": 105345,
+      "average_vision_score": 23,
+      "total_wards_placed": 63,
+      "average_creep_score": 119,
+      "average_champion_experience": 12740,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4225107252"
+    }
+  }
+}

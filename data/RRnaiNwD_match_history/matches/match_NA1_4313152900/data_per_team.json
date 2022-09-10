@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59048,
+      "total_gold_spent": 56410,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 86765,
+      "total_damage_dealt_to_objectives": 19958,
+      "total_damage_taken": 138309,
+      "average_vision_score": 27,
+      "total_wards_placed": 47,
+      "average_creep_score": 130,
+      "average_champion_experience": 14566,
+      "dmg_carry": "Swain",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4313152900"
+    },
+    "200": {
+      "total_gold_earned": 67409,
+      "total_gold_spent": 62600,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 112367,
+      "total_damage_dealt_to_objectives": 97050,
+      "total_damage_taken": 115860,
+      "average_vision_score": 25,
+      "total_wards_placed": 57,
+      "average_creep_score": 130,
+      "average_champion_experience": 16263,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Azir",
+      "match_id": "NA1_4313152900"
+    }
+  }
+}

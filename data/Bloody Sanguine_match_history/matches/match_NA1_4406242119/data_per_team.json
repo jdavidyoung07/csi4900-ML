@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78045,
+      "total_gold_spent": 69108,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 121899,
+      "total_damage_dealt_to_objectives": 113408,
+      "total_damage_taken": 169199,
+      "average_vision_score": 35,
+      "total_wards_placed": 70,
+      "average_creep_score": 143,
+      "average_champion_experience": 18100,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Skarner",
+      "match_id": "NA1_4406242119"
+    },
+    "200": {
+      "total_gold_earned": 75232,
+      "total_gold_spent": 80860,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 49,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 130338,
+      "total_damage_dealt_to_objectives": 28129,
+      "total_damage_taken": 152219,
+      "average_vision_score": 32,
+      "total_wards_placed": 73,
+      "average_creep_score": 144,
+      "average_champion_experience": 18033,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4406242119"
+    }
+  }
+}

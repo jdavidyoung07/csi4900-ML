@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65300,
+      "total_gold_spent": 62060,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 86636,
+      "total_damage_dealt_to_objectives": 90989,
+      "total_damage_taken": 169424,
+      "average_vision_score": 34,
+      "total_wards_placed": 68,
+      "average_creep_score": 126,
+      "average_champion_experience": 14740,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4370596947"
+    },
+    "200": {
+      "total_gold_earned": 79054,
+      "total_gold_spent": 74305,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 134584,
+      "total_damage_dealt_to_objectives": 66560,
+      "total_damage_taken": 123232,
+      "average_vision_score": 37,
+      "total_wards_placed": 87,
+      "average_creep_score": 135,
+      "average_champion_experience": 17339,
+      "dmg_carry": "Corki",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4370596947"
+    }
+  }
+}

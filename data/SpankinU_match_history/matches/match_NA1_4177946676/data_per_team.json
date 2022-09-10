@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 95890,
+      "total_gold_spent": 88605,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 59,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 223924,
+      "total_damage_dealt_to_objectives": 91422,
+      "total_damage_taken": 189598,
+      "average_vision_score": 43,
+      "total_wards_placed": 110,
+      "average_creep_score": 171,
+      "average_champion_experience": 23083,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4177946676"
+    },
+    "200": {
+      "total_gold_earned": 96535,
+      "total_gold_spent": 90055,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 171667,
+      "total_damage_dealt_to_objectives": 99271,
+      "total_damage_taken": 278604,
+      "average_vision_score": 48,
+      "total_wards_placed": 95,
+      "average_creep_score": 201,
+      "average_champion_experience": 24570,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4177946676"
+    }
+  }
+}

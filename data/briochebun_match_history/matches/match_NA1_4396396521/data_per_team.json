@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64978,
+      "total_gold_spent": 61585,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 127076,
+      "total_damage_dealt_to_objectives": 47461,
+      "total_damage_taken": 152956,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 141,
+      "average_champion_experience": 15816,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4396396521"
+    },
+    "200": {
+      "total_gold_earned": 66947,
+      "total_gold_spent": 61380,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 113931,
+      "total_damage_dealt_to_objectives": 77603,
+      "total_damage_taken": 165089,
+      "average_vision_score": 34,
+      "total_wards_placed": 73,
+      "average_creep_score": 124,
+      "average_champion_experience": 16455,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4396396521"
+    }
+  }
+}

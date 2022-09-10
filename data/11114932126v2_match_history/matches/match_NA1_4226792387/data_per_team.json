@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56350,
+      "total_gold_spent": 52875,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 86556,
+      "total_damage_dealt_to_objectives": 36318,
+      "total_damage_taken": 114490,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 124,
+      "average_champion_experience": 13519,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4226792387"
+    },
+    "200": {
+      "total_gold_earned": 63911,
+      "total_gold_spent": 56770,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 95251,
+      "total_damage_dealt_to_objectives": 88929,
+      "total_damage_taken": 115496,
+      "average_vision_score": 32,
+      "total_wards_placed": 73,
+      "average_creep_score": 119,
+      "average_champion_experience": 15551,
+      "dmg_carry": "Graves",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4226792387"
+    }
+  }
+}

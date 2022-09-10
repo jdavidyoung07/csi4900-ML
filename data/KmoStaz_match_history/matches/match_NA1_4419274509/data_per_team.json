@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42461,
+      "total_gold_spent": 36700,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 49857,
+      "total_damage_dealt_to_objectives": 55775,
+      "total_damage_taken": 57899,
+      "average_vision_score": 19,
+      "total_wards_placed": 31,
+      "average_creep_score": 85,
+      "average_champion_experience": 8805,
+      "dmg_carry": "Samira",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4419274509"
+    },
+    "200": {
+      "total_gold_earned": 31946,
+      "total_gold_spent": 28435,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 36585,
+      "total_damage_dealt_to_objectives": 7860,
+      "total_damage_taken": 64108,
+      "average_vision_score": 12,
+      "total_wards_placed": 35,
+      "average_creep_score": 76,
+      "average_champion_experience": 7350,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4419274509"
+    }
+  }
+}

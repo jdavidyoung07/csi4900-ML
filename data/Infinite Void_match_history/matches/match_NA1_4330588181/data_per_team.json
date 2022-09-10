@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70363,
+      "total_gold_spent": 66075,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 133111,
+      "total_damage_dealt_to_objectives": 74578,
+      "total_damage_taken": 158750,
+      "average_vision_score": 32,
+      "total_wards_placed": 65,
+      "average_creep_score": 139,
+      "average_champion_experience": 16011,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4330588181"
+    },
+    "200": {
+      "total_gold_earned": 74462,
+      "total_gold_spent": 68510,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 128410,
+      "total_damage_dealt_to_objectives": 71221,
+      "total_damage_taken": 156680,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 139,
+      "average_champion_experience": 18215,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4330588181"
+    }
+  }
+}

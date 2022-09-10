@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66546,
+      "total_gold_spent": 65058,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 140788,
+      "total_damage_dealt_to_objectives": 52932,
+      "total_damage_taken": 164958,
+      "average_vision_score": 26,
+      "total_wards_placed": 62,
+      "average_creep_score": 165,
+      "average_champion_experience": 17452,
+      "dmg_carry": "Vex",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4428676681"
+    },
+    "200": {
+      "total_gold_earned": 75382,
+      "total_gold_spent": 66755,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 29,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 133569,
+      "total_damage_dealt_to_objectives": 126896,
+      "total_damage_taken": 176329,
+      "average_vision_score": 37,
+      "total_wards_placed": 77,
+      "average_creep_score": 163,
+      "average_champion_experience": 19742,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4428676681"
+    }
+  }
+}

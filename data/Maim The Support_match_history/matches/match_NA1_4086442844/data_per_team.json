@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43504,
+      "total_gold_spent": 41825,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 72750,
+      "total_damage_dealt_to_objectives": 3547,
+      "total_damage_taken": 91972,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 103,
+      "average_champion_experience": 11494,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4086442844"
+    },
+    "200": {
+      "total_gold_earned": 54959,
+      "total_gold_spent": 49375,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 70215,
+      "total_damage_dealt_to_objectives": 77508,
+      "total_damage_taken": 105892,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 111,
+      "average_champion_experience": 13124,
+      "dmg_carry": "Graves",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4086442844"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62615,
+      "total_gold_spent": 55325,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 39,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 95334,
+      "total_damage_dealt_to_objectives": 80710,
+      "total_damage_taken": 101032,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 108,
+      "average_champion_experience": 13643,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4351384503"
+    },
+    "200": {
+      "total_gold_earned": 51470,
+      "total_gold_spent": 48675,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 67547,
+      "total_damage_dealt_to_objectives": 16572,
+      "total_damage_taken": 112126,
+      "average_vision_score": 13,
+      "total_wards_placed": 30,
+      "average_creep_score": 120,
+      "average_champion_experience": 12160,
+      "dmg_carry": "Diana",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4351384503"
+    }
+  }
+}

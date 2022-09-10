@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 36,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81120,
+      "total_gold_spent": 75680,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 140365,
+      "total_damage_dealt_to_objectives": 66845,
+      "total_damage_taken": 182284,
+      "average_vision_score": 26,
+      "total_wards_placed": 56,
+      "average_creep_score": 124,
+      "average_champion_experience": 18469,
+      "dmg_carry": "Yone",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4038601517"
+    },
+    "200": {
+      "total_gold_earned": 66383,
+      "total_gold_spent": 62025,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 140700,
+      "total_damage_dealt_to_objectives": 69918,
+      "total_damage_taken": 168695,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 119,
+      "average_champion_experience": 17544,
+      "dmg_carry": "Gwen",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4038601517"
+    }
+  }
+}

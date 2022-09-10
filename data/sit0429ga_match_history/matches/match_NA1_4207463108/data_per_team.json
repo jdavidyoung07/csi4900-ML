@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62250,
+      "total_gold_spent": 51850,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 90337,
+      "total_damage_dealt_to_objectives": 61983,
+      "total_damage_taken": 115378,
+      "average_vision_score": 22,
+      "total_wards_placed": 54,
+      "average_creep_score": 113,
+      "average_champion_experience": 14395,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Rammus",
+      "match_id": "NA1_4207463108"
+    },
+    "200": {
+      "total_gold_earned": 52487,
+      "total_gold_spent": 50715,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 81034,
+      "total_damage_dealt_to_objectives": 49471,
+      "total_damage_taken": 108501,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 110,
+      "average_champion_experience": 12622,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4207463108"
+    }
+  }
+}

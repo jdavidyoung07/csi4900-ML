@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44844,
+      "total_gold_spent": 41610,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 69042,
+      "total_damage_dealt_to_objectives": 22165,
+      "total_damage_taken": 105008,
+      "average_vision_score": 21,
+      "total_wards_placed": 53,
+      "average_creep_score": 105,
+      "average_champion_experience": 10308,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4415634519"
+    },
+    "200": {
+      "total_gold_earned": 59140,
+      "total_gold_spent": 50785,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 5,
+      "total_kills": 37,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 85796,
+      "total_damage_dealt_to_objectives": 84299,
+      "total_damage_taken": 102388,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 103,
+      "average_champion_experience": 12550,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Veigar",
+      "match_id": "NA1_4415634519"
+    }
+  }
+}

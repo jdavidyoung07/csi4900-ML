@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 87986,
+      "total_gold_spent": 79235,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 57,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 170620,
+      "total_damage_dealt_to_objectives": 84659,
+      "total_damage_taken": 206408,
+      "average_vision_score": 38,
+      "total_wards_placed": 69,
+      "average_creep_score": 180,
+      "average_champion_experience": 23908,
+      "dmg_carry": "Riven",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4206984684"
+    },
+    "200": {
+      "total_gold_earned": 80765,
+      "total_gold_spent": 80050,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 4,
+      "total_kills": 42,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 163337,
+      "total_damage_dealt_to_objectives": 86832,
+      "total_damage_taken": 205161,
+      "average_vision_score": 38,
+      "total_wards_placed": 91,
+      "average_creep_score": 141,
+      "average_champion_experience": 18484,
+      "dmg_carry": "Zilean",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4206984684"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85548,
+      "total_gold_spent": 81750,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 58,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 226890,
+      "total_damage_dealt_to_objectives": 91755,
+      "total_damage_taken": 201778,
+      "average_vision_score": 47,
+      "total_wards_placed": 85,
+      "average_creep_score": 116,
+      "average_champion_experience": 18192,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4406325680"
+    },
+    "200": {
+      "total_gold_earned": 91366,
+      "total_gold_spent": 80450,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 54,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 172912,
+      "total_damage_dealt_to_objectives": 131021,
+      "total_damage_taken": 265153,
+      "average_vision_score": 47,
+      "total_wards_placed": 121,
+      "average_creep_score": 143,
+      "average_champion_experience": 22343,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4406325680"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91525,
+      "total_gold_spent": 77455,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 197126,
+      "total_damage_dealt_to_objectives": 147873,
+      "total_damage_taken": 224233,
+      "average_vision_score": 42,
+      "total_wards_placed": 85,
+      "average_creep_score": 173,
+      "average_champion_experience": 24757,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4423969991"
+    },
+    "200": {
+      "total_gold_earned": 87664,
+      "total_gold_spent": 82033,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 185855,
+      "total_damage_dealt_to_objectives": 58907,
+      "total_damage_taken": 225764,
+      "average_vision_score": 55,
+      "total_wards_placed": 128,
+      "average_creep_score": 217,
+      "average_champion_experience": 22276,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4423969991"
+    }
+  }
+}

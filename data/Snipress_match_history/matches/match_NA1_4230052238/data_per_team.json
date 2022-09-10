@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50750,
+      "total_gold_spent": 44765,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 28,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 51006,
+      "total_damage_dealt_to_objectives": 59684,
+      "total_damage_taken": 78267,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 95,
+      "average_champion_experience": 10861,
+      "dmg_carry": "Zed",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4230052238"
+    },
+    "200": {
+      "total_gold_earned": 34067,
+      "total_gold_spent": 30710,
+      "team_comp": [
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 36298,
+      "total_damage_dealt_to_objectives": 6818,
+      "total_damage_taken": 67539,
+      "average_vision_score": 17,
+      "total_wards_placed": 38,
+      "average_creep_score": 97,
+      "average_champion_experience": 8323,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Karma",
+      "match_id": "NA1_4230052238"
+    }
+  }
+}

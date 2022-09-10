@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 37,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73385,
+      "total_gold_spent": 65335,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 139505,
+      "total_damage_dealt_to_objectives": 83449,
+      "total_damage_taken": 155805,
+      "average_vision_score": 34,
+      "total_wards_placed": 66,
+      "average_creep_score": 136,
+      "average_champion_experience": 18051,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4050508323"
+    },
+    "200": {
+      "total_gold_earned": 64117,
+      "total_gold_spent": 62730,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 120219,
+      "total_damage_dealt_to_objectives": 61625,
+      "total_damage_taken": 165368,
+      "average_vision_score": 41,
+      "total_wards_placed": 79,
+      "average_creep_score": 123,
+      "average_champion_experience": 15431,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4050508323"
+    }
+  }
+}

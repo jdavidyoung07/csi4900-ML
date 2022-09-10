@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 121780,
+      "total_gold_spent": 109390,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 59,
+      "total_deaths": 65,
+      "total_damage_dealt_to_champions": 258650,
+      "total_damage_dealt_to_objectives": 176796,
+      "total_damage_taken": 257570,
+      "average_vision_score": 72,
+      "total_wards_placed": 124,
+      "average_creep_score": 220,
+      "average_champion_experience": 32061,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4220935320"
+    },
+    "200": {
+      "total_gold_earned": 110600,
+      "total_gold_spent": 111970,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 65,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 206047,
+      "total_damage_dealt_to_objectives": 112958,
+      "total_damage_taken": 301948,
+      "average_vision_score": 64,
+      "total_wards_placed": 115,
+      "average_creep_score": 212,
+      "average_champion_experience": 28268,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4220935320"
+    }
+  }
+}

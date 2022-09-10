@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72633,
+      "total_gold_spent": 67295,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 155825,
+      "total_damage_dealt_to_objectives": 43562,
+      "total_damage_taken": 167522,
+      "average_vision_score": 42,
+      "total_wards_placed": 99,
+      "average_creep_score": 146,
+      "average_champion_experience": 16107,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4314775443"
+    },
+    "200": {
+      "total_gold_earned": 81105,
+      "total_gold_spent": 74310,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 138948,
+      "total_damage_dealt_to_objectives": 115310,
+      "total_damage_taken": 203759,
+      "average_vision_score": 45,
+      "total_wards_placed": 96,
+      "average_creep_score": 137,
+      "average_champion_experience": 19061,
+      "dmg_carry": "Chogath",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4314775443"
+    }
+  }
+}

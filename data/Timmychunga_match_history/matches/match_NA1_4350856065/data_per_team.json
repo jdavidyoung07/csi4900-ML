@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57512,
+      "total_gold_spent": 55400,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 107515,
+      "total_damage_dealt_to_objectives": 54696,
+      "total_damage_taken": 136411,
+      "average_vision_score": 24,
+      "total_wards_placed": 48,
+      "average_creep_score": 107,
+      "average_champion_experience": 12071,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4350856065"
+    },
+    "200": {
+      "total_gold_earned": 61922,
+      "total_gold_spent": 55350,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 105832,
+      "total_damage_dealt_to_objectives": 56173,
+      "total_damage_taken": 131161,
+      "average_vision_score": 14,
+      "total_wards_placed": 34,
+      "average_creep_score": 98,
+      "average_champion_experience": 13472,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4350856065"
+    }
+  }
+}

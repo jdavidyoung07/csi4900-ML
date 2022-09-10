@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42575,
+      "total_gold_spent": 43665,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 69419,
+      "total_damage_dealt_to_objectives": 9030,
+      "total_damage_taken": 113815,
+      "average_vision_score": 22,
+      "total_wards_placed": 42,
+      "average_creep_score": 96,
+      "average_champion_experience": 10797,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4400869989"
+    },
+    "200": {
+      "total_gold_earned": 58032,
+      "total_gold_spent": 50358,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 97096,
+      "total_damage_dealt_to_objectives": 91935,
+      "total_damage_taken": 100496,
+      "average_vision_score": 29,
+      "total_wards_placed": 42,
+      "average_creep_score": 111,
+      "average_champion_experience": 13705,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4400869989"
+    }
+  }
+}

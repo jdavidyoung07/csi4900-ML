@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67750,
+      "total_gold_spent": 64800,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 119324,
+      "total_damage_dealt_to_objectives": 40401,
+      "total_damage_taken": 149178,
+      "average_vision_score": 32,
+      "total_wards_placed": 71,
+      "average_creep_score": 134,
+      "average_champion_experience": 15493,
+      "dmg_carry": "Vi",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4288130387"
+    },
+    "200": {
+      "total_gold_earned": 76486,
+      "total_gold_spent": 64038,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 128581,
+      "total_damage_dealt_to_objectives": 92233,
+      "total_damage_taken": 157191,
+      "average_vision_score": 39,
+      "total_wards_placed": 79,
+      "average_creep_score": 128,
+      "average_champion_experience": 17555,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4288130387"
+    }
+  }
+}

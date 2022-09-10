@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85082,
+      "total_gold_spent": 83250,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 58,
+      "total_deaths": 66,
+      "total_damage_dealt_to_champions": 153237,
+      "total_damage_dealt_to_objectives": 45008,
+      "total_damage_taken": 220659,
+      "average_vision_score": 37,
+      "total_wards_placed": 81,
+      "average_creep_score": 176,
+      "average_champion_experience": 21852,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4240732272"
+    },
+    "200": {
+      "total_gold_earned": 89716,
+      "total_gold_spent": 82835,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 6,
+      "total_kills": 66,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 178089,
+      "total_damage_dealt_to_objectives": 113837,
+      "total_damage_taken": 201377,
+      "average_vision_score": 34,
+      "total_wards_placed": 66,
+      "average_creep_score": 127,
+      "average_champion_experience": 22774,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4240732272"
+    }
+  }
+}

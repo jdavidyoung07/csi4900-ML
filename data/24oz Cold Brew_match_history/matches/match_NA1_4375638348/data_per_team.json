@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60120,
+      "total_gold_spent": 58100,
+      "team_comp": [
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 104923,
+      "total_damage_dealt_to_objectives": 60677,
+      "total_damage_taken": 146735,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 125,
+      "average_champion_experience": 14030,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4375638348"
+    },
+    "200": {
+      "total_gold_earned": 68581,
+      "total_gold_spent": 60683,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 120981,
+      "total_damage_dealt_to_objectives": 66688,
+      "total_damage_taken": 145289,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 127,
+      "average_champion_experience": 16927,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4375638348"
+    }
+  }
+}

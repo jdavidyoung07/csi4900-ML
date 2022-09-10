@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64085,
+      "total_gold_spent": 58395,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 98696,
+      "total_damage_dealt_to_objectives": 87285,
+      "total_damage_taken": 128776,
+      "average_vision_score": 28,
+      "total_wards_placed": 52,
+      "average_creep_score": 102,
+      "average_champion_experience": 15019,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4304483758"
+    },
+    "200": {
+      "total_gold_earned": 55325,
+      "total_gold_spent": 51625,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 93912,
+      "total_damage_dealt_to_objectives": 33586,
+      "total_damage_taken": 122892,
+      "average_vision_score": 22,
+      "total_wards_placed": 54,
+      "average_creep_score": 105,
+      "average_champion_experience": 13296,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4304483758"
+    }
+  }
+}

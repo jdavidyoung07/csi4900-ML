@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83660,
+      "total_gold_spent": 78850,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 133961,
+      "total_damage_dealt_to_objectives": 75649,
+      "total_damage_taken": 182500,
+      "average_vision_score": 47,
+      "total_wards_placed": 100,
+      "average_creep_score": 176,
+      "average_champion_experience": 20310,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4289769896"
+    },
+    "200": {
+      "total_gold_earned": 88571,
+      "total_gold_spent": 78000,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 136029,
+      "total_damage_dealt_to_objectives": 96677,
+      "total_damage_taken": 169835,
+      "average_vision_score": 42,
+      "total_wards_placed": 94,
+      "average_creep_score": 184,
+      "average_champion_experience": 21031,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4289769896"
+    }
+  }
+}

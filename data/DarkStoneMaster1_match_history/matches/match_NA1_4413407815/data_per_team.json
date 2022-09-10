@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57332,
+      "total_gold_spent": 55685,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 123554,
+      "total_damage_dealt_to_objectives": 29445,
+      "total_damage_taken": 174517,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 126,
+      "average_champion_experience": 12931,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4413407815"
+    },
+    "200": {
+      "total_gold_earned": 70051,
+      "total_gold_spent": 62550,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 153517,
+      "total_damage_dealt_to_objectives": 98249,
+      "total_damage_taken": 169218,
+      "average_vision_score": 32,
+      "total_wards_placed": 72,
+      "average_creep_score": 102,
+      "average_champion_experience": 16469,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4413407815"
+    }
+  }
+}

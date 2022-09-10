@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72119,
+      "total_gold_spent": 72700,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 40,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 129215,
+      "total_damage_dealt_to_objectives": 105989,
+      "total_damage_taken": 186975,
+      "average_vision_score": 40,
+      "total_wards_placed": 79,
+      "average_creep_score": 132,
+      "average_champion_experience": 16813,
+      "dmg_carry": "Akali",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4256300854"
+    },
+    "200": {
+      "total_gold_earned": 79773,
+      "total_gold_spent": 66885,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 144163,
+      "total_damage_dealt_to_objectives": 51109,
+      "total_damage_taken": 165448,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 167,
+      "average_champion_experience": 20555,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4256300854"
+    }
+  }
+}

@@ -1,5 +1,7 @@
 import json
 import os
+import sys
+import shutil
 
 #TEST_FILE = '../data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
 participants_key_subset = [
@@ -26,9 +28,9 @@ participants_key_subset = [
 TEAMS = [100,200]
 
 def get_players_list()-> list:
-    players_directory = '../data/'
+    players_directory = 'data'
     players_list = []
-    with os.scandir(players_directory) in iter:
+    with os.scandir(players_directory) as iter:
         for directory in iter:
             if not (directory.name.startswith('.') and directory.isfile()):
                 directory_name = directory.name.removesuffix('_match_history')
@@ -36,16 +38,14 @@ def get_players_list()-> list:
     return players_list
 
 
-def get_matches(players_list:list)-> list:
-    players_directory = '../data/'
+def get_matches(player_name:str)-> list:
+    player_directory = 'data/' + player_name + '_match_history/matches' 
     match_list = []
-    for player in players_list:
-        current_directory = players_directory + player + '_match_history/matches'
-        with os.scandir(current_directory) in iter:
-            for directory in iter:
-                if not (directory.name.startswith('.') and directory.isfile()):
-                    directory_name = directory.name.removeprefix('match_')
-                    match_list.append(directory_name)
+    with os.scandir(player_directory) as iter:
+        for directory in iter:
+            if not (directory.name.startswith('.') and directory.isfile()):
+                directory_name = directory.name.removeprefix('match_')
+                match_list.append(directory_name)
     return match_list
 
 
@@ -86,7 +86,11 @@ def compute_team_match_performance(teams_data,team_id,participants) -> None :
         
     team_size = len(teams_data['per_team'][team_id]['team_comp'])
     
-    teams_data['per_team'][team_id]['average_champion_experience'] //=  team_size
+    try:
+        teams_data['per_team'][team_id]['average_champion_experience'] //=  team_size
+    except:
+        print(teams_data)
+        sys.exit()
     teams_data['per_team'][team_id]['average_creep_score'] //= team_size
     teams_data['per_team'][team_id]['average_vision_score'] //=  team_size
     teams_data['per_team'][team_id]['dmg_carry'] = dmg_carry
@@ -119,6 +123,7 @@ def clean_json_match_data(match:dict) -> dict :
     participants = match['info']['participants']
     match_duration_in_millis = match['info']['gameDuration']
     match_duration_in_minutes = match_duration_in_millis/(1000*60)%60
+    match_id = match['metadata']['matchId']
 
     for i in range(len(participants)) :
         participants[i] = dict((k,participants[i][k]) for k in participants_key_subset if k in participants[i])
@@ -126,8 +131,7 @@ def clean_json_match_data(match:dict) -> dict :
     data_per_team = {'general':{},'per_team':{}}
 
     data_per_team['general']['gameLengthMin'] = int(match_duration_in_minutes)
-    
-    
+
     for team in TEAMS :
         data_per_team['per_team'][team] = {
             'total_gold_earned':0,
@@ -146,31 +150,35 @@ def clean_json_match_data(match:dict) -> dict :
             'average_creep_score':0,
             'average_champion_experience':0,
             'dmg_carry':"",
-            'obj_carry':""
+            'obj_carry':"",
+            'match_id': match_id
         }
         compute_team_match_performance(data_per_team,team,participants)
     
     data_per_team['general']['final_match_winner'] = get_winner(participants)
 
-    
     return data_per_team
 
 
 def run() :
     players_list = get_players_list()
-    matches_list = get_matches(players_list)
 
-    for player in players_list:
-        for match in matches_list:
-            match_directory = '..data/' + player + '_match_history/matches/match_' + match + '/' + match + '.json'
-            match_data_file_path = '..data/' + player + '_match_history/matches/match_' + match + '/data_per_team.json'
+    for p_index in range(len(players_list)):
+        matches_list = get_matches(players_list[p_index])
+        for m_index in range(len(matches_list)):
+            match_directory = 'data/' + players_list[p_index] + '_match_history/matches/match_' + matches_list[m_index] + '/' + matches_list[m_index] + '.json'
+            match_data_file_path = 'data/' + players_list[p_index] + '_match_history/matches/match_' + matches_list[m_index] + '/data_per_team.json'
             with open(match_directory, 'r') as file:
                 data = json.load(file)
-                match_data_per_team = clean_json_match_data(data)
-                match_data_json_string = json.dumps(match_data_per_team, indent=2)
-                match_data_json_file = open(match_data_file_path, 'w')
-                match_data_json_file.write(match_data_json_string)
-                match_data_json_file.close()
+                if data['info']['gameDuration'] == 0:
+                    file.close()
+                    shutil.rmtree('data/' + players_list[p_index] + '_match_history/matches/match_' + matches_list[m_index])
+                else:
+                    match_data_per_team = clean_json_match_data(data)
+                    match_data_json_string = json.dumps(match_data_per_team, indent=2)
+                    match_data_json_file = open(match_data_file_path, 'w')
+                    match_data_json_file.write(match_data_json_string)
+                    match_data_json_file.close()
     #with open(TEST_FILE, 'r') as f:
     #    data = json.load(f)
     #match_data_per_team = clean_json_match_data(data)

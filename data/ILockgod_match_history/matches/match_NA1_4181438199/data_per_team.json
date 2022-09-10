@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55228,
+      "total_gold_spent": 47275,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 84703,
+      "total_damage_dealt_to_objectives": 78497,
+      "total_damage_taken": 99391,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 108,
+      "average_champion_experience": 12688,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4181438199"
+    },
+    "200": {
+      "total_gold_earned": 44414,
+      "total_gold_spent": 44083,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 65738,
+      "total_damage_dealt_to_objectives": 13318,
+      "total_damage_taken": 101662,
+      "average_vision_score": 33,
+      "total_wards_placed": 86,
+      "average_creep_score": 91,
+      "average_champion_experience": 10718,
+      "dmg_carry": "Lux",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4181438199"
+    }
+  }
+}

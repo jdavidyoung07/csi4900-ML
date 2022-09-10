@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70373,
+      "total_gold_spent": 61610,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 122774,
+      "total_damage_dealt_to_objectives": 79741,
+      "total_damage_taken": 112813,
+      "average_vision_score": 31,
+      "total_wards_placed": 66,
+      "average_creep_score": 140,
+      "average_champion_experience": 16779,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4026510646"
+    },
+    "200": {
+      "total_gold_earned": 61847,
+      "total_gold_spent": 59365,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 84181,
+      "total_damage_dealt_to_objectives": 49484,
+      "total_damage_taken": 153488,
+      "average_vision_score": 31,
+      "total_wards_placed": 69,
+      "average_creep_score": 126,
+      "average_champion_experience": 13972,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4026510646"
+    }
+  }
+}

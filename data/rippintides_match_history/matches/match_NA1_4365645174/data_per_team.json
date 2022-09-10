@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53432,
+      "total_gold_spent": 52900,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 99012,
+      "total_damage_dealt_to_objectives": 24700,
+      "total_damage_taken": 145957,
+      "average_vision_score": 24,
+      "total_wards_placed": 58,
+      "average_creep_score": 125,
+      "average_champion_experience": 12733,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4365645174"
+    },
+    "200": {
+      "total_gold_earned": 66342,
+      "total_gold_spent": 57060,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 120653,
+      "total_damage_dealt_to_objectives": 92425,
+      "total_damage_taken": 130957,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 135,
+      "average_champion_experience": 15341,
+      "dmg_carry": "Fiora",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4365645174"
+    }
+  }
+}

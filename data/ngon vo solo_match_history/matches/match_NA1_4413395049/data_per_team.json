@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77070,
+      "total_gold_spent": 71945,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 153394,
+      "total_damage_dealt_to_objectives": 52115,
+      "total_damage_taken": 173173,
+      "average_vision_score": 41,
+      "total_wards_placed": 89,
+      "average_creep_score": 172,
+      "average_champion_experience": 17654,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4413395049"
+    },
+    "200": {
+      "total_gold_earned": 81244,
+      "total_gold_spent": 71825,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 42,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 137923,
+      "total_damage_dealt_to_objectives": 139471,
+      "total_damage_taken": 201044,
+      "average_vision_score": 53,
+      "total_wards_placed": 92,
+      "average_creep_score": 149,
+      "average_champion_experience": 20155,
+      "dmg_carry": "Vex",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4413395049"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65438,
+      "total_gold_spent": 57750,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 140162,
+      "total_damage_dealt_to_objectives": 54056,
+      "total_damage_taken": 141688,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 124,
+      "average_champion_experience": 16160,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4365616377"
+    },
+    "200": {
+      "total_gold_earned": 66568,
+      "total_gold_spent": 64975,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 121566,
+      "total_damage_dealt_to_objectives": 80694,
+      "total_damage_taken": 185099,
+      "average_vision_score": 30,
+      "total_wards_placed": 51,
+      "average_creep_score": 121,
+      "average_champion_experience": 14178,
+      "dmg_carry": "Samira",
+      "obj_carry": "Taric",
+      "match_id": "NA1_4365616377"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39583,
+      "total_gold_spent": 36585,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 44738,
+      "total_damage_dealt_to_objectives": 41947,
+      "total_damage_taken": 60792,
+      "average_vision_score": 11,
+      "total_wards_placed": 21,
+      "average_creep_score": 85,
+      "average_champion_experience": 8787,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4222194949"
+    },
+    "200": {
+      "total_gold_earned": 35026,
+      "total_gold_spent": 30950,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 36625,
+      "total_damage_dealt_to_objectives": 14715,
+      "total_damage_taken": 58342,
+      "average_vision_score": 15,
+      "total_wards_placed": 38,
+      "average_creep_score": 74,
+      "average_champion_experience": 7895,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4222194949"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65726,
+      "total_gold_spent": 63630,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 123410,
+      "total_damage_dealt_to_objectives": 80665,
+      "total_damage_taken": 135554,
+      "average_vision_score": 32,
+      "total_wards_placed": 65,
+      "average_creep_score": 101,
+      "average_champion_experience": 14610,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_3993906215"
+    },
+    "200": {
+      "total_gold_earned": 66931,
+      "total_gold_spent": 57925,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 113973,
+      "total_damage_dealt_to_objectives": 44647,
+      "total_damage_taken": 145650,
+      "average_vision_score": 30,
+      "total_wards_placed": 63,
+      "average_creep_score": 128,
+      "average_champion_experience": 15649,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_3993906215"
+    }
+  }
+}

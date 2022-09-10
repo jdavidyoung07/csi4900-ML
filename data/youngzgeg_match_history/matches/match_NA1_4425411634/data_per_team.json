@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47565,
+      "total_gold_spent": 46095,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 79834,
+      "total_damage_dealt_to_objectives": 28187,
+      "total_damage_taken": 110777,
+      "average_vision_score": 18,
+      "total_wards_placed": 37,
+      "average_creep_score": 121,
+      "average_champion_experience": 11939,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4425411634"
+    },
+    "200": {
+      "total_gold_earned": 58155,
+      "total_gold_spent": 46360,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 88559,
+      "total_damage_dealt_to_objectives": 71193,
+      "total_damage_taken": 108490,
+      "average_vision_score": 23,
+      "total_wards_placed": 50,
+      "average_creep_score": 115,
+      "average_champion_experience": 14525,
+      "dmg_carry": "Ahri",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4425411634"
+    }
+  }
+}

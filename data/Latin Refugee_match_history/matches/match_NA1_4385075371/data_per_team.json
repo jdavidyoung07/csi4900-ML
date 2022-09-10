@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73360,
+      "total_gold_spent": 65305,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 129984,
+      "total_damage_dealt_to_objectives": 91100,
+      "total_damage_taken": 124924,
+      "average_vision_score": 39,
+      "total_wards_placed": 72,
+      "average_creep_score": 156,
+      "average_champion_experience": 18095,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4385075371"
+    },
+    "200": {
+      "total_gold_earned": 62366,
+      "total_gold_spent": 58075,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 97102,
+      "total_damage_dealt_to_objectives": 38326,
+      "total_damage_taken": 160618,
+      "average_vision_score": 26,
+      "total_wards_placed": 50,
+      "average_creep_score": 160,
+      "average_champion_experience": 15715,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4385075371"
+    }
+  }
+}

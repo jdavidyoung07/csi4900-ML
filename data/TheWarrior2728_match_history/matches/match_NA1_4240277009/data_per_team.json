@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71214,
+      "total_gold_spent": 66233,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 129173,
+      "total_damage_dealt_to_objectives": 58269,
+      "total_damage_taken": 150059,
+      "average_vision_score": 32,
+      "total_wards_placed": 74,
+      "average_creep_score": 144,
+      "average_champion_experience": 17499,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4240277009"
+    },
+    "200": {
+      "total_gold_earned": 75312,
+      "total_gold_spent": 69410,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 123631,
+      "total_damage_dealt_to_objectives": 88159,
+      "total_damage_taken": 166592,
+      "average_vision_score": 37,
+      "total_wards_placed": 64,
+      "average_creep_score": 145,
+      "average_champion_experience": 18222,
+      "dmg_carry": "Lux",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4240277009"
+    }
+  }
+}

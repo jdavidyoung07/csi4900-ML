@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39546,
+      "total_gold_spent": 37690,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 57296,
+      "total_damage_dealt_to_objectives": 13411,
+      "total_damage_taken": 81943,
+      "average_vision_score": 15,
+      "total_wards_placed": 44,
+      "average_creep_score": 89,
+      "average_champion_experience": 9377,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4301031142"
+    },
+    "200": {
+      "total_gold_earned": 51261,
+      "total_gold_spent": 44233,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 62115,
+      "total_damage_dealt_to_objectives": 80510,
+      "total_damage_taken": 82369,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 90,
+      "average_champion_experience": 11685,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Bard",
+      "match_id": "NA1_4301031142"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55275,
+      "total_gold_spent": 52185,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 89389,
+      "total_damage_dealt_to_objectives": 41871,
+      "total_damage_taken": 114655,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 114,
+      "average_champion_experience": 13352,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4353777158"
+    },
+    "200": {
+      "total_gold_earned": 58598,
+      "total_gold_spent": 52033,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 89611,
+      "total_damage_dealt_to_objectives": 64253,
+      "total_damage_taken": 120354,
+      "average_vision_score": 26,
+      "total_wards_placed": 46,
+      "average_creep_score": 110,
+      "average_champion_experience": 12645,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4353777158"
+    }
+  }
+}

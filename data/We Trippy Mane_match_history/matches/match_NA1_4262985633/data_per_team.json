@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52631,
+      "total_gold_spent": 48210,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 87047,
+      "total_damage_dealt_to_objectives": 44454,
+      "total_damage_taken": 84695,
+      "average_vision_score": 18,
+      "total_wards_placed": 34,
+      "average_creep_score": 110,
+      "average_champion_experience": 11704,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4262985633"
+    },
+    "200": {
+      "total_gold_earned": 47877,
+      "total_gold_spent": 45110,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 65599,
+      "total_damage_dealt_to_objectives": 14609,
+      "total_damage_taken": 106196,
+      "average_vision_score": 22,
+      "total_wards_placed": 51,
+      "average_creep_score": 104,
+      "average_champion_experience": 10911,
+      "dmg_carry": "Sylas",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4262985633"
+    }
+  }
+}

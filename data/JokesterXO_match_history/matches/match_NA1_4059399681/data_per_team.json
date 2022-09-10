@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 36,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66679,
+      "total_gold_spent": 61280,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 97203,
+      "total_damage_dealt_to_objectives": 64908,
+      "total_damage_taken": 154737,
+      "average_vision_score": 36,
+      "total_wards_placed": 66,
+      "average_creep_score": 129,
+      "average_champion_experience": 16150,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4059399681"
+    },
+    "200": {
+      "total_gold_earned": 74952,
+      "total_gold_spent": 68035,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 127865,
+      "total_damage_dealt_to_objectives": 64272,
+      "total_damage_taken": 126026,
+      "average_vision_score": 33,
+      "total_wards_placed": 81,
+      "average_creep_score": 142,
+      "average_champion_experience": 18197,
+      "dmg_carry": "Varus",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4059399681"
+    }
+  }
+}

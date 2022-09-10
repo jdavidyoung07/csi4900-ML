@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68005,
+      "total_gold_spent": 67730,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 137187,
+      "total_damage_dealt_to_objectives": 33708,
+      "total_damage_taken": 191058,
+      "average_vision_score": 28,
+      "total_wards_placed": 60,
+      "average_creep_score": 133,
+      "average_champion_experience": 15757,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4404574465"
+    },
+    "200": {
+      "total_gold_earned": 75947,
+      "total_gold_spent": 69025,
+      "team_comp": [
+        {
+          "champName": "Alistar",
+          "champId": 12
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 160766,
+      "total_damage_dealt_to_objectives": 99427,
+      "total_damage_taken": 196352,
+      "average_vision_score": 35,
+      "total_wards_placed": 84,
+      "average_creep_score": 128,
+      "average_champion_experience": 18886,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4404574465"
+    }
+  }
+}

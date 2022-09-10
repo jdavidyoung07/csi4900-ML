@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56867,
+      "total_gold_spent": 52360,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 77806,
+      "total_damage_dealt_to_objectives": 50929,
+      "total_damage_taken": 147954,
+      "average_vision_score": 27,
+      "total_wards_placed": 53,
+      "average_creep_score": 123,
+      "average_champion_experience": 12803,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4207565470"
+    },
+    "200": {
+      "total_gold_earned": 66162,
+      "total_gold_spent": 56875,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 46,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 115559,
+      "total_damage_dealt_to_objectives": 47939,
+      "total_damage_taken": 104150,
+      "average_vision_score": 22,
+      "total_wards_placed": 65,
+      "average_creep_score": 126,
+      "average_champion_experience": 14188,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4207565470"
+    }
+  }
+}

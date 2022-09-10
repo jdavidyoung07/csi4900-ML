@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58222,
+      "total_gold_spent": 55708,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 131488,
+      "total_damage_dealt_to_objectives": 40696,
+      "total_damage_taken": 141488,
+      "average_vision_score": 33,
+      "total_wards_placed": 65,
+      "average_creep_score": 114,
+      "average_champion_experience": 12017,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4336537232"
+    },
+    "200": {
+      "total_gold_earned": 63066,
+      "total_gold_spent": 56810,
+      "team_comp": [
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 116812,
+      "total_damage_dealt_to_objectives": 81572,
+      "total_damage_taken": 160147,
+      "average_vision_score": 28,
+      "total_wards_placed": 64,
+      "average_creep_score": 104,
+      "average_champion_experience": 13753,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4336537232"
+    }
+  }
+}

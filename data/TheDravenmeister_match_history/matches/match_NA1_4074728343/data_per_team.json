@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62866,
+      "total_gold_spent": 59000,
+      "team_comp": [
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 120829,
+      "total_damage_dealt_to_objectives": 32632,
+      "total_damage_taken": 141003,
+      "average_vision_score": 30,
+      "total_wards_placed": 72,
+      "average_creep_score": 131,
+      "average_champion_experience": 15528,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4074728343"
+    },
+    "200": {
+      "total_gold_earned": 71661,
+      "total_gold_spent": 67250,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 42,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 112893,
+      "total_damage_dealt_to_objectives": 109234,
+      "total_damage_taken": 163710,
+      "average_vision_score": 29,
+      "total_wards_placed": 54,
+      "average_creep_score": 124,
+      "average_champion_experience": 18352,
+      "dmg_carry": "Yone",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4074728343"
+    }
+  }
+}

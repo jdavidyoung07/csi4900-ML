@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78717,
+      "total_gold_spent": 71025,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 165329,
+      "total_damage_dealt_to_objectives": 126103,
+      "total_damage_taken": 185583,
+      "average_vision_score": 34,
+      "total_wards_placed": 65,
+      "average_creep_score": 135,
+      "average_champion_experience": 19307,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "RekSai",
+      "match_id": "NA1_4323316531"
+    },
+    "200": {
+      "total_gold_earned": 67728,
+      "total_gold_spent": 62675,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 144073,
+      "total_damage_dealt_to_objectives": 23182,
+      "total_damage_taken": 192763,
+      "average_vision_score": 33,
+      "total_wards_placed": 73,
+      "average_creep_score": 158,
+      "average_champion_experience": 16995,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4323316531"
+    }
+  }
+}

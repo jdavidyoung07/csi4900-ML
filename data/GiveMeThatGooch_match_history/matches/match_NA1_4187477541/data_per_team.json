@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80736,
+      "total_gold_spent": 73055,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 206486,
+      "total_damage_dealt_to_objectives": 89941,
+      "total_damage_taken": 176906,
+      "average_vision_score": 33,
+      "total_wards_placed": 61,
+      "average_creep_score": 154,
+      "average_champion_experience": 19919,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4187477541"
+    },
+    "200": {
+      "total_gold_earned": 84186,
+      "total_gold_spent": 83520,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 145748,
+      "total_damage_dealt_to_objectives": 79132,
+      "total_damage_taken": 253849,
+      "average_vision_score": 37,
+      "total_wards_placed": 81,
+      "average_creep_score": 131,
+      "average_champion_experience": 19300,
+      "dmg_carry": "Akali",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4187477541"
+    }
+  }
+}

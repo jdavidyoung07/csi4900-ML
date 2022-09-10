@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70095,
+      "total_gold_spent": 64400,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 171784,
+      "total_damage_dealt_to_objectives": 26623,
+      "total_damage_taken": 219989,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 158,
+      "average_champion_experience": 17730,
+      "dmg_carry": "Corki",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4187113315"
+    },
+    "200": {
+      "total_gold_earned": 80167,
+      "total_gold_spent": 72770,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 48,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 156736,
+      "total_damage_dealt_to_objectives": 103515,
+      "total_damage_taken": 182336,
+      "average_vision_score": 39,
+      "total_wards_placed": 75,
+      "average_creep_score": 131,
+      "average_champion_experience": 20459,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4187113315"
+    }
+  }
+}

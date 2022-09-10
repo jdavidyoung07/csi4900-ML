@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37989,
+      "total_gold_spent": 35875,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 51306,
+      "total_damage_dealt_to_objectives": 33023,
+      "total_damage_taken": 84376,
+      "average_vision_score": 17,
+      "total_wards_placed": 33,
+      "average_creep_score": 91,
+      "average_champion_experience": 8620,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4415850059"
+    },
+    "200": {
+      "total_gold_earned": 52103,
+      "total_gold_spent": 43660,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 69825,
+      "total_damage_dealt_to_objectives": 70585,
+      "total_damage_taken": 81232,
+      "average_vision_score": 16,
+      "total_wards_placed": 43,
+      "average_creep_score": 106,
+      "average_champion_experience": 11489,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4415850059"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68478,
+      "total_gold_spent": 60910,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 118014,
+      "total_damage_dealt_to_objectives": 64907,
+      "total_damage_taken": 117863,
+      "average_vision_score": 30,
+      "total_wards_placed": 62,
+      "average_creep_score": 138,
+      "average_champion_experience": 17604,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4217412659"
+    },
+    "200": {
+      "total_gold_earned": 60324,
+      "total_gold_spent": 56475,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 84102,
+      "total_damage_dealt_to_objectives": 41738,
+      "total_damage_taken": 141993,
+      "average_vision_score": 17,
+      "total_wards_placed": 39,
+      "average_creep_score": 144,
+      "average_champion_experience": 15398,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4217412659"
+    }
+  }
+}

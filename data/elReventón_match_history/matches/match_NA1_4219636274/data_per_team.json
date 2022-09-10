@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81008,
+      "total_gold_spent": 79590,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 161262,
+      "total_damage_dealt_to_objectives": 55313,
+      "total_damage_taken": 176616,
+      "average_vision_score": 50,
+      "total_wards_placed": 92,
+      "average_creep_score": 195,
+      "average_champion_experience": 21749,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4219636274"
+    },
+    "200": {
+      "total_gold_earned": 89338,
+      "total_gold_spent": 80268,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 147373,
+      "total_damage_dealt_to_objectives": 102195,
+      "total_damage_taken": 206408,
+      "average_vision_score": 53,
+      "total_wards_placed": 78,
+      "average_creep_score": 185,
+      "average_champion_experience": 22233,
+      "dmg_carry": "Zed",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4219636274"
+    }
+  }
+}

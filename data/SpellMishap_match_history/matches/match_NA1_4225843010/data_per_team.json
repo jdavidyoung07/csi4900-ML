@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60025,
+      "total_gold_spent": 56880,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 105865,
+      "total_damage_dealt_to_objectives": 36457,
+      "total_damage_taken": 135546,
+      "average_vision_score": 30,
+      "total_wards_placed": 55,
+      "average_creep_score": 122,
+      "average_champion_experience": 14198,
+      "dmg_carry": "Akali",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4225843010"
+    },
+    "200": {
+      "total_gold_earned": 62848,
+      "total_gold_spent": 56025,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 106570,
+      "total_damage_dealt_to_objectives": 80018,
+      "total_damage_taken": 149831,
+      "average_vision_score": 31,
+      "total_wards_placed": 81,
+      "average_creep_score": 118,
+      "average_champion_experience": 14661,
+      "dmg_carry": "Vex",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4225843010"
+    }
+  }
+}

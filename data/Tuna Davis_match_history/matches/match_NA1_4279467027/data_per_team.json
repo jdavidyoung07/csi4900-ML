@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74066,
+      "total_gold_spent": 67175,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 114089,
+      "total_damage_dealt_to_objectives": 25521,
+      "total_damage_taken": 137568,
+      "average_vision_score": 28,
+      "total_wards_placed": 71,
+      "average_creep_score": 152,
+      "average_champion_experience": 16708,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4279467027"
+    },
+    "200": {
+      "total_gold_earned": 77280,
+      "total_gold_spent": 70160,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 113891,
+      "total_damage_dealt_to_objectives": 93423,
+      "total_damage_taken": 145211,
+      "average_vision_score": 49,
+      "total_wards_placed": 89,
+      "average_creep_score": 144,
+      "average_champion_experience": 19022,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4279467027"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60412,
+      "total_gold_spent": 58975,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 105952,
+      "total_damage_dealt_to_objectives": 59643,
+      "total_damage_taken": 154162,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 133,
+      "average_champion_experience": 14875,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4405421286"
+    },
+    "200": {
+      "total_gold_earned": 67974,
+      "total_gold_spent": 61610,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 122953,
+      "total_damage_dealt_to_objectives": 60784,
+      "total_damage_taken": 143340,
+      "average_vision_score": 29,
+      "total_wards_placed": 82,
+      "average_creep_score": 140,
+      "average_champion_experience": 18040,
+      "dmg_carry": "Swain",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4405421286"
+    }
+  }
+}

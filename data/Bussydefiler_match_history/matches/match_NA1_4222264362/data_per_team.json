@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 26481,
+      "total_gold_spent": 16750,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 1,
+      "total_damage_dealt_to_champions": 25882,
+      "total_damage_dealt_to_objectives": 24649,
+      "total_damage_taken": 27741,
+      "average_vision_score": 10,
+      "total_wards_placed": 26,
+      "average_creep_score": 63,
+      "average_champion_experience": 6115,
+      "dmg_carry": "Renekton",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4222264362"
+    },
+    "200": {
+      "total_gold_earned": 18360,
+      "total_gold_spent": 17010,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 1,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 14037,
+      "total_damage_dealt_to_objectives": 3684,
+      "total_damage_taken": 36318,
+      "average_vision_score": 8,
+      "total_wards_placed": 24,
+      "average_creep_score": 52,
+      "average_champion_experience": 4731,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4222264362"
+    }
+  }
+}

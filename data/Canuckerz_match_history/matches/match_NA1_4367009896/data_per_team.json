@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85680,
+      "total_gold_spent": 78690,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 54,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 177906,
+      "total_damage_dealt_to_objectives": 95952,
+      "total_damage_taken": 246298,
+      "average_vision_score": 42,
+      "total_wards_placed": 84,
+      "average_creep_score": 144,
+      "average_champion_experience": 21946,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4367009896"
+    },
+    "200": {
+      "total_gold_earned": 83038,
+      "total_gold_spent": 85718,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 218895,
+      "total_damage_dealt_to_objectives": 79861,
+      "total_damage_taken": 211468,
+      "average_vision_score": 46,
+      "total_wards_placed": 79,
+      "average_creep_score": 142,
+      "average_champion_experience": 20071,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4367009896"
+    }
+  }
+}

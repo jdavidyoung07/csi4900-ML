@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 90237,
+      "total_gold_spent": 80300,
+      "team_comp": [
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 168122,
+      "total_damage_dealt_to_objectives": 91287,
+      "total_damage_taken": 161798,
+      "average_vision_score": 49,
+      "total_wards_placed": 99,
+      "average_creep_score": 197,
+      "average_champion_experience": 22843,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4087589367"
+    },
+    "200": {
+      "total_gold_earned": 86420,
+      "total_gold_spent": 80705,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 134381,
+      "total_damage_dealt_to_objectives": 88477,
+      "total_damage_taken": 211964,
+      "average_vision_score": 40,
+      "total_wards_placed": 86,
+      "average_creep_score": 178,
+      "average_champion_experience": 22033,
+      "dmg_carry": "Ryze",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4087589367"
+    }
+  }
+}

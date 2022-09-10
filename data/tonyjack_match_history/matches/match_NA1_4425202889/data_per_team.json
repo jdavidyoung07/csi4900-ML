@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39397,
+      "total_gold_spent": 37100,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 63687,
+      "total_damage_dealt_to_objectives": 19122,
+      "total_damage_taken": 86156,
+      "average_vision_score": 22,
+      "total_wards_placed": 51,
+      "average_creep_score": 114,
+      "average_champion_experience": 9578,
+      "dmg_carry": "Orianna",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4425202889"
+    },
+    "200": {
+      "total_gold_earned": 48810,
+      "total_gold_spent": 44085,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 67811,
+      "total_damage_dealt_to_objectives": 69633,
+      "total_damage_taken": 90673,
+      "average_vision_score": 20,
+      "total_wards_placed": 47,
+      "average_creep_score": 91,
+      "average_champion_experience": 11337,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4425202889"
+    }
+  }
+}

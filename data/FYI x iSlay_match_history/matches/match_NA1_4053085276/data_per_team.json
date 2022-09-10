@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 35,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67770,
+      "total_gold_spent": 62875,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 22,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 110102,
+      "total_damage_dealt_to_objectives": 91695,
+      "total_damage_taken": 143120,
+      "average_vision_score": 38,
+      "total_wards_placed": 72,
+      "average_creep_score": 154,
+      "average_champion_experience": 16994,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4053085276"
+    },
+    "200": {
+      "total_gold_earned": 63213,
+      "total_gold_spent": 59650,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 101824,
+      "total_damage_dealt_to_objectives": 48124,
+      "total_damage_taken": 150692,
+      "average_vision_score": 40,
+      "total_wards_placed": 89,
+      "average_creep_score": 153,
+      "average_champion_experience": 16173,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4053085276"
+    }
+  }
+}

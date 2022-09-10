@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64530,
+      "total_gold_spent": 57900,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 104367,
+      "total_damage_dealt_to_objectives": 93928,
+      "total_damage_taken": 120820,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 126,
+      "average_champion_experience": 15173,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4396623612"
+    },
+    "200": {
+      "total_gold_earned": 56474,
+      "total_gold_spent": 53760,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 90020,
+      "total_damage_dealt_to_objectives": 24679,
+      "total_damage_taken": 123802,
+      "average_vision_score": 31,
+      "total_wards_placed": 58,
+      "average_creep_score": 133,
+      "average_champion_experience": 12998,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4396623612"
+    }
+  }
+}

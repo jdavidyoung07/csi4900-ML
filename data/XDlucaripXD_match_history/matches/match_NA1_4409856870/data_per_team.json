@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 104561,
+      "total_gold_spent": 108368,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 64,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 255562,
+      "total_damage_dealt_to_objectives": 115950,
+      "total_damage_taken": 280960,
+      "average_vision_score": 58,
+      "total_wards_placed": 113,
+      "average_creep_score": 167,
+      "average_champion_experience": 25428,
+      "dmg_carry": "Annie",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4409856870"
+    },
+    "200": {
+      "total_gold_earned": 109105,
+      "total_gold_spent": 100450,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 61,
+      "total_deaths": 64,
+      "total_damage_dealt_to_champions": 246782,
+      "total_damage_dealt_to_objectives": 138227,
+      "total_damage_taken": 313364,
+      "average_vision_score": 32,
+      "total_wards_placed": 49,
+      "average_creep_score": 222,
+      "average_champion_experience": 28497,
+      "dmg_carry": "Swain",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4409856870"
+    }
+  }
+}

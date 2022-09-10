@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57133,
+      "total_gold_spent": 54385,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 97814,
+      "total_damage_dealt_to_objectives": 27283,
+      "total_damage_taken": 117497,
+      "average_vision_score": 26,
+      "total_wards_placed": 50,
+      "average_creep_score": 143,
+      "average_champion_experience": 13657,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4187865853"
+    },
+    "200": {
+      "total_gold_earned": 64912,
+      "total_gold_spent": 58925,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 93530,
+      "total_damage_dealt_to_objectives": 84732,
+      "total_damage_taken": 129597,
+      "average_vision_score": 21,
+      "total_wards_placed": 53,
+      "average_creep_score": 139,
+      "average_champion_experience": 15321,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4187865853"
+    }
+  }
+}

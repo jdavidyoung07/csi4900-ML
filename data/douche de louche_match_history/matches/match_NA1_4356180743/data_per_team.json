@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35750,
+      "total_gold_spent": 30145,
+      "team_comp": [
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 54193,
+      "total_damage_dealt_to_objectives": 21745,
+      "total_damage_taken": 56301,
+      "average_vision_score": 13,
+      "total_wards_placed": 34,
+      "average_creep_score": 86,
+      "average_champion_experience": 8844,
+      "dmg_carry": "Evelynn",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4356180743"
+    },
+    "200": {
+      "total_gold_earned": 34832,
+      "total_gold_spent": 30800,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 39202,
+      "total_damage_dealt_to_objectives": 22651,
+      "total_damage_taken": 72166,
+      "average_vision_score": 15,
+      "total_wards_placed": 30,
+      "average_creep_score": 85,
+      "average_champion_experience": 8665,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4356180743"
+    }
+  }
+}

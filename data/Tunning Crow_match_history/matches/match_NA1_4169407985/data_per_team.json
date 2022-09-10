@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80656,
+      "total_gold_spent": 77990,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 148876,
+      "total_damage_dealt_to_objectives": 59529,
+      "total_damage_taken": 166250,
+      "average_vision_score": 45,
+      "total_wards_placed": 104,
+      "average_creep_score": 154,
+      "average_champion_experience": 19816,
+      "dmg_carry": "AurelionSol",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4169407985"
+    },
+    "200": {
+      "total_gold_earned": 84261,
+      "total_gold_spent": 79010,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 42,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 135970,
+      "total_damage_dealt_to_objectives": 89022,
+      "total_damage_taken": 182553,
+      "average_vision_score": 45,
+      "total_wards_placed": 85,
+      "average_creep_score": 177,
+      "average_champion_experience": 21692,
+      "dmg_carry": "JarvanIV",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4169407985"
+    }
+  }
+}

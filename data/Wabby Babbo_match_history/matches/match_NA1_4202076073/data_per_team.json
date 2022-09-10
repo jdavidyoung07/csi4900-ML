@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66306,
+      "total_gold_spent": 60585,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 92860,
+      "total_damage_dealt_to_objectives": 82095,
+      "total_damage_taken": 117591,
+      "average_vision_score": 34,
+      "total_wards_placed": 61,
+      "average_creep_score": 113,
+      "average_champion_experience": 16441,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4202076073"
+    },
+    "200": {
+      "total_gold_earned": 54688,
+      "total_gold_spent": 53405,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 74524,
+      "total_damage_dealt_to_objectives": 31797,
+      "total_damage_taken": 111307,
+      "average_vision_score": 21,
+      "total_wards_placed": 48,
+      "average_creep_score": 124,
+      "average_champion_experience": 12992,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4202076073"
+    }
+  }
+}

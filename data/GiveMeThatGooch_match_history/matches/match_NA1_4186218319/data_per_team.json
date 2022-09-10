@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73660,
+      "total_gold_spent": 64300,
+      "team_comp": [
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 43,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 116709,
+      "total_damage_dealt_to_objectives": 101337,
+      "total_damage_taken": 119165,
+      "average_vision_score": 35,
+      "total_wards_placed": 75,
+      "average_creep_score": 153,
+      "average_champion_experience": 18597,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4186218319"
+    },
+    "200": {
+      "total_gold_earned": 69288,
+      "total_gold_spent": 64985,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 96571,
+      "total_damage_dealt_to_objectives": 41159,
+      "total_damage_taken": 153928,
+      "average_vision_score": 25,
+      "total_wards_placed": 46,
+      "average_creep_score": 147,
+      "average_champion_experience": 16690,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4186218319"
+    }
+  }
+}

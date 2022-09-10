@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 22,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35514,
+      "total_gold_spent": 34575,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 45738,
+      "total_damage_dealt_to_objectives": 6871,
+      "total_damage_taken": 73494,
+      "average_vision_score": 17,
+      "total_wards_placed": 35,
+      "average_creep_score": 79,
+      "average_champion_experience": 7877,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4024671325"
+    },
+    "200": {
+      "total_gold_earned": 39670,
+      "total_gold_spent": 35245,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 61873,
+      "total_damage_dealt_to_objectives": 31147,
+      "total_damage_taken": 62792,
+      "average_vision_score": 15,
+      "total_wards_placed": 45,
+      "average_creep_score": 71,
+      "average_champion_experience": 8738,
+      "dmg_carry": "Karma",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4024671325"
+    }
+  }
+}

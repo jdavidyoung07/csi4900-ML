@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 23,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 32415,
+      "total_gold_spent": 29885,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 9,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 27172,
+      "total_damage_dealt_to_objectives": 34650,
+      "total_damage_taken": 60868,
+      "average_vision_score": 17,
+      "total_wards_placed": 42,
+      "average_creep_score": 71,
+      "average_champion_experience": 7525,
+      "dmg_carry": "Jax",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4023784244"
+    },
+    "200": {
+      "total_gold_earned": 44885,
+      "total_gold_spent": 40950,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 20,
+      "total_deaths": 9,
+      "total_damage_dealt_to_champions": 45426,
+      "total_damage_dealt_to_objectives": 65243,
+      "total_damage_taken": 67768,
+      "average_vision_score": 11,
+      "total_wards_placed": 30,
+      "average_creep_score": 100,
+      "average_champion_experience": 10079,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4023784244"
+    }
+  }
+}

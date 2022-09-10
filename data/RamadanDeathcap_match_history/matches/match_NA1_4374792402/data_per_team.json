@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61131,
+      "total_gold_spent": 60230,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 101701,
+      "total_damage_dealt_to_objectives": 45941,
+      "total_damage_taken": 133231,
+      "average_vision_score": 29,
+      "total_wards_placed": 69,
+      "average_creep_score": 115,
+      "average_champion_experience": 13921,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4374792402"
+    },
+    "200": {
+      "total_gold_earned": 65174,
+      "total_gold_spent": 59000,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 111190,
+      "total_damage_dealt_to_objectives": 71235,
+      "total_damage_taken": 130214,
+      "average_vision_score": 32,
+      "total_wards_placed": 73,
+      "average_creep_score": 111,
+      "average_champion_experience": 14593,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4374792402"
+    }
+  }
+}

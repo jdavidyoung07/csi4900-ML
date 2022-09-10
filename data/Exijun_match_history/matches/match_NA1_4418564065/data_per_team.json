@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72399,
+      "total_gold_spent": 67150,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 180149,
+      "total_damage_dealt_to_objectives": 66691,
+      "total_damage_taken": 188579,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 128,
+      "average_champion_experience": 16449,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4418564065"
+    },
+    "200": {
+      "total_gold_earned": 79596,
+      "total_gold_spent": 70575,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 54,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 159309,
+      "total_damage_dealt_to_objectives": 102606,
+      "total_damage_taken": 212576,
+      "average_vision_score": 22,
+      "total_wards_placed": 53,
+      "average_creep_score": 135,
+      "average_champion_experience": 19598,
+      "dmg_carry": "Swain",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4418564065"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68044,
+      "total_gold_spent": 65700,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 115758,
+      "total_damage_dealt_to_objectives": 30606,
+      "total_damage_taken": 139743,
+      "average_vision_score": 25,
+      "total_wards_placed": 65,
+      "average_creep_score": 104,
+      "average_champion_experience": 15572,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4264956014"
+    },
+    "200": {
+      "total_gold_earned": 66862,
+      "total_gold_spent": 61710,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 114626,
+      "total_damage_dealt_to_objectives": 58856,
+      "total_damage_taken": 149531,
+      "average_vision_score": 30,
+      "total_wards_placed": 54,
+      "average_creep_score": 123,
+      "average_champion_experience": 14807,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4264956014"
+    }
+  }
+}

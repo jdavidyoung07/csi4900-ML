@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 82628,
+      "total_gold_spent": 75290,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 52,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 184924,
+      "total_damage_dealt_to_objectives": 72652,
+      "total_damage_taken": 172088,
+      "average_vision_score": 34,
+      "total_wards_placed": 64,
+      "average_creep_score": 161,
+      "average_champion_experience": 20177,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4405310230"
+    },
+    "200": {
+      "total_gold_earned": 77807,
+      "total_gold_spent": 74575,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 138134,
+      "total_damage_dealt_to_objectives": 92643,
+      "total_damage_taken": 217419,
+      "average_vision_score": 32,
+      "total_wards_placed": 67,
+      "average_creep_score": 146,
+      "average_champion_experience": 18359,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4405310230"
+    }
+  }
+}

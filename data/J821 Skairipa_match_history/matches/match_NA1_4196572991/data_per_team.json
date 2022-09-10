@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 104395,
+      "total_gold_spent": 95465,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 63,
+      "total_deaths": 65,
+      "total_damage_dealt_to_champions": 308057,
+      "total_damage_dealt_to_objectives": 115299,
+      "total_damage_taken": 274904,
+      "average_vision_score": 50,
+      "total_wards_placed": 113,
+      "average_creep_score": 179,
+      "average_champion_experience": 25915,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4196572991"
+    },
+    "200": {
+      "total_gold_earned": 107414,
+      "total_gold_spent": 102530,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 65,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 227858,
+      "total_damage_dealt_to_objectives": 117577,
+      "total_damage_taken": 353769,
+      "average_vision_score": 47,
+      "total_wards_placed": 84,
+      "average_creep_score": 180,
+      "average_champion_experience": 27051,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4196572991"
+    }
+  }
+}

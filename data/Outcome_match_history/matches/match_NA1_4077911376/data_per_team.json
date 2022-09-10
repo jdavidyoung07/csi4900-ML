@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40400,
+      "total_gold_spent": 38045,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 62652,
+      "total_damage_dealt_to_objectives": 23895,
+      "total_damage_taken": 69609,
+      "average_vision_score": 20,
+      "total_wards_placed": 42,
+      "average_creep_score": 92,
+      "average_champion_experience": 9441,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4077911376"
+    },
+    "200": {
+      "total_gold_earned": 44057,
+      "total_gold_spent": 38275,
+      "team_comp": [
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 53328,
+      "total_damage_dealt_to_objectives": 24420,
+      "total_damage_taken": 77827,
+      "average_vision_score": 18,
+      "total_wards_placed": 44,
+      "average_creep_score": 91,
+      "average_champion_experience": 10048,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Karma",
+      "match_id": "NA1_4077911376"
+    }
+  }
+}

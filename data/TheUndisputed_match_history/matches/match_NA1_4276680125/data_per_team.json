@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56922,
+      "total_gold_spent": 51013,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 77635,
+      "total_damage_dealt_to_objectives": 79372,
+      "total_damage_taken": 111497,
+      "average_vision_score": 18,
+      "total_wards_placed": 41,
+      "average_creep_score": 117,
+      "average_champion_experience": 12392,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4276680125"
+    },
+    "200": {
+      "total_gold_earned": 42242,
+      "total_gold_spent": 40385,
+      "team_comp": [
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 73361,
+      "total_damage_dealt_to_objectives": 10509,
+      "total_damage_taken": 92768,
+      "average_vision_score": 21,
+      "total_wards_placed": 43,
+      "average_creep_score": 91,
+      "average_champion_experience": 10284,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4276680125"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50505,
+      "total_gold_spent": 48968,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 73111,
+      "total_damage_dealt_to_objectives": 28889,
+      "total_damage_taken": 105522,
+      "average_vision_score": 23,
+      "total_wards_placed": 62,
+      "average_creep_score": 122,
+      "average_champion_experience": 12180,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4403479207"
+    },
+    "200": {
+      "total_gold_earned": 62218,
+      "total_gold_spent": 53125,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 83331,
+      "total_damage_dealt_to_objectives": 83809,
+      "total_damage_taken": 97076,
+      "average_vision_score": 32,
+      "total_wards_placed": 56,
+      "average_creep_score": 143,
+      "average_champion_experience": 14905,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4403479207"
+    }
+  }
+}

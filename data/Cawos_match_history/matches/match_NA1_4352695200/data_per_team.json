@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54081,
+      "total_gold_spent": 51730,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 105614,
+      "total_damage_dealt_to_objectives": 14474,
+      "total_damage_taken": 158885,
+      "average_vision_score": 14,
+      "total_wards_placed": 37,
+      "average_creep_score": 102,
+      "average_champion_experience": 12485,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4352695200"
+    },
+    "200": {
+      "total_gold_earned": 65561,
+      "total_gold_spent": 56933,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 54,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 123048,
+      "total_damage_dealt_to_objectives": 83037,
+      "total_damage_taken": 137602,
+      "average_vision_score": 23,
+      "total_wards_placed": 43,
+      "average_creep_score": 100,
+      "average_champion_experience": 14818,
+      "dmg_carry": "Jax",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4352695200"
+    }
+  }
+}

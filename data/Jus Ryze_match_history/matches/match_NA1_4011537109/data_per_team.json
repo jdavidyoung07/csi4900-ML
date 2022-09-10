@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56701,
+      "total_gold_spent": 51015,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 84587,
+      "total_damage_dealt_to_objectives": 62369,
+      "total_damage_taken": 93328,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 122,
+      "average_champion_experience": 13037,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4011537109"
+    },
+    "200": {
+      "total_gold_earned": 45541,
+      "total_gold_spent": 44360,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 59789,
+      "total_damage_dealt_to_objectives": 30709,
+      "total_damage_taken": 108598,
+      "average_vision_score": 32,
+      "total_wards_placed": 58,
+      "average_creep_score": 96,
+      "average_champion_experience": 10450,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "FiddleSticks",
+      "match_id": "NA1_4011537109"
+    }
+  }
+}

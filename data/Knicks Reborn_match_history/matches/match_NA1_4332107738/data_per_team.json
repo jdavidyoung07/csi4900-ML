@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42606,
+      "total_gold_spent": 39675,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 61718,
+      "total_damage_dealt_to_objectives": 27055,
+      "total_damage_taken": 90189,
+      "average_vision_score": 18,
+      "total_wards_placed": 39,
+      "average_creep_score": 80,
+      "average_champion_experience": 9134,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4332107738"
+    },
+    "200": {
+      "total_gold_earned": 48433,
+      "total_gold_spent": 44890,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 72361,
+      "total_damage_dealt_to_objectives": 39634,
+      "total_damage_taken": 87548,
+      "average_vision_score": 15,
+      "total_wards_placed": 39,
+      "average_creep_score": 92,
+      "average_champion_experience": 11353,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4332107738"
+    }
+  }
+}

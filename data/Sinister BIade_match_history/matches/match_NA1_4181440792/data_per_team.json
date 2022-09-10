@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56972,
+      "total_gold_spent": 52150,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 77979,
+      "total_damage_dealt_to_objectives": 75536,
+      "total_damage_taken": 115897,
+      "average_vision_score": 21,
+      "total_wards_placed": 44,
+      "average_creep_score": 107,
+      "average_champion_experience": 13977,
+      "dmg_carry": "Akali",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4181440792"
+    },
+    "200": {
+      "total_gold_earned": 48660,
+      "total_gold_spent": 47555,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 75032,
+      "total_damage_dealt_to_objectives": 17003,
+      "total_damage_taken": 105769,
+      "average_vision_score": 23,
+      "total_wards_placed": 55,
+      "average_creep_score": 117,
+      "average_champion_experience": 11922,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4181440792"
+    }
+  }
+}

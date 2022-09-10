@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62275,
+      "total_gold_spent": 60175,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 125173,
+      "total_damage_dealt_to_objectives": 54408,
+      "total_damage_taken": 143528,
+      "average_vision_score": 20,
+      "total_wards_placed": 36,
+      "average_creep_score": 134,
+      "average_champion_experience": 14985,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4416311862"
+    },
+    "200": {
+      "total_gold_earned": 69418,
+      "total_gold_spent": 57528,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 113916,
+      "total_damage_dealt_to_objectives": 103600,
+      "total_damage_taken": 157586,
+      "average_vision_score": 28,
+      "total_wards_placed": 78,
+      "average_creep_score": 120,
+      "average_champion_experience": 16326,
+      "dmg_carry": "Sett",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4416311862"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66400,
+      "total_gold_spent": 59400,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 124665,
+      "total_damage_dealt_to_objectives": 48740,
+      "total_damage_taken": 129925,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 130,
+      "average_champion_experience": 16223,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4374353497"
+    },
+    "200": {
+      "total_gold_earned": 63675,
+      "total_gold_spent": 61500,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Syndra",
+          "champId": 134
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 104555,
+      "total_damage_dealt_to_objectives": 57605,
+      "total_damage_taken": 153132,
+      "average_vision_score": 33,
+      "total_wards_placed": 68,
+      "average_creep_score": 130,
+      "average_champion_experience": 15702,
+      "dmg_carry": "Syndra",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4374353497"
+    }
+  }
+}

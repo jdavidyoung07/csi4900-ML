@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54871,
+      "total_gold_spent": 51430,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 120850,
+      "total_damage_dealt_to_objectives": 30507,
+      "total_damage_taken": 135908,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 126,
+      "average_champion_experience": 13488,
+      "dmg_carry": "Diana",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4428249276"
+    },
+    "200": {
+      "total_gold_earned": 69790,
+      "total_gold_spent": 65050,
+      "team_comp": [
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 106934,
+      "total_damage_dealt_to_objectives": 103013,
+      "total_damage_taken": 160136,
+      "average_vision_score": 20,
+      "total_wards_placed": 51,
+      "average_creep_score": 114,
+      "average_champion_experience": 16096,
+      "dmg_carry": "Zac",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4428249276"
+    }
+  }
+}

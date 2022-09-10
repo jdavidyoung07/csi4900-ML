@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75428,
+      "total_gold_spent": 70830,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 134476,
+      "total_damage_dealt_to_objectives": 65941,
+      "total_damage_taken": 151947,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 143,
+      "average_champion_experience": 18557,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4251052184"
+    },
+    "200": {
+      "total_gold_earned": 70776,
+      "total_gold_spent": 68600,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 117381,
+      "total_damage_dealt_to_objectives": 70943,
+      "total_damage_taken": 165662,
+      "average_vision_score": 37,
+      "total_wards_placed": 66,
+      "average_creep_score": 132,
+      "average_champion_experience": 16984,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4251052184"
+    }
+  }
+}

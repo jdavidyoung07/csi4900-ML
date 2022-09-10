@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68300,
+      "total_gold_spent": 62385,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 112701,
+      "total_damage_dealt_to_objectives": 103862,
+      "total_damage_taken": 103036,
+      "average_vision_score": 27,
+      "total_wards_placed": 57,
+      "average_creep_score": 121,
+      "average_champion_experience": 16308,
+      "dmg_carry": "Senna",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4388316275"
+    },
+    "200": {
+      "total_gold_earned": 54110,
+      "total_gold_spent": 49500,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 70709,
+      "total_damage_dealt_to_objectives": 36641,
+      "total_damage_taken": 138103,
+      "average_vision_score": 18,
+      "total_wards_placed": 53,
+      "average_creep_score": 125,
+      "average_champion_experience": 13532,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4388316275"
+    }
+  }
+}

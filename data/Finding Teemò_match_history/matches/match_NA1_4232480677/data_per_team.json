@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91534,
+      "total_gold_spent": 89561,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 169237,
+      "total_damage_dealt_to_objectives": 102749,
+      "total_damage_taken": 183900,
+      "average_vision_score": 45,
+      "total_wards_placed": 80,
+      "average_creep_score": 207,
+      "average_champion_experience": 22804,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4232480677"
+    },
+    "200": {
+      "total_gold_earned": 92638,
+      "total_gold_spent": 82390,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 143549,
+      "total_damage_dealt_to_objectives": 88275,
+      "total_damage_taken": 199311,
+      "average_vision_score": 47,
+      "total_wards_placed": 110,
+      "average_creep_score": 205,
+      "average_champion_experience": 25413,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4232480677"
+    }
+  }
+}

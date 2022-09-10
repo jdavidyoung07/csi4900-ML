@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 100493,
+      "total_gold_spent": 108225,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 61,
+      "total_damage_dealt_to_champions": 218637,
+      "total_damage_dealt_to_objectives": 84739,
+      "total_damage_taken": 290598,
+      "average_vision_score": 52,
+      "total_wards_placed": 121,
+      "average_creep_score": 201,
+      "average_champion_experience": 25297,
+      "dmg_carry": "Azir",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4331365810"
+    },
+    "200": {
+      "total_gold_earned": 102924,
+      "total_gold_spent": 98286,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 5,
+      "total_kills": 61,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 245545,
+      "total_damage_dealt_to_objectives": 109545,
+      "total_damage_taken": 261902,
+      "average_vision_score": 43,
+      "total_wards_placed": 97,
+      "average_creep_score": 179,
+      "average_champion_experience": 25130,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4331365810"
+    }
+  }
+}

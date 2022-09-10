@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57521,
+      "total_gold_spent": 55545,
+      "team_comp": [
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 98568,
+      "total_damage_dealt_to_objectives": 21142,
+      "total_damage_taken": 153579,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 119,
+      "average_champion_experience": 14454,
+      "dmg_carry": "Brand",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4301368084"
+    },
+    "200": {
+      "total_gold_earned": 70673,
+      "total_gold_spent": 63850,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 59,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 126478,
+      "total_damage_dealt_to_objectives": 102938,
+      "total_damage_taken": 137947,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 112,
+      "average_champion_experience": 16530,
+      "dmg_carry": "Sylas",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4301368084"
+    }
+  }
+}

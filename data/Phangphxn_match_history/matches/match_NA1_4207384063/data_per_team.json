@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62237,
+      "total_gold_spent": 52775,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 87586,
+      "total_damage_dealt_to_objectives": 72027,
+      "total_damage_taken": 106007,
+      "average_vision_score": 31,
+      "total_wards_placed": 58,
+      "average_creep_score": 125,
+      "average_champion_experience": 15027,
+      "dmg_carry": "Vex",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4207384063"
+    },
+    "200": {
+      "total_gold_earned": 51044,
+      "total_gold_spent": 47775,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 76859,
+      "total_damage_dealt_to_objectives": 24380,
+      "total_damage_taken": 108409,
+      "average_vision_score": 21,
+      "total_wards_placed": 52,
+      "average_creep_score": 129,
+      "average_champion_experience": 12496,
+      "dmg_carry": "Jinx",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4207384063"
+    }
+  }
+}

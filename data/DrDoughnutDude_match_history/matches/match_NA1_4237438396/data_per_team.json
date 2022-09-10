@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67825,
+      "total_gold_spent": 65035,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 104475,
+      "total_damage_dealt_to_objectives": 64472,
+      "total_damage_taken": 116966,
+      "average_vision_score": 29,
+      "total_wards_placed": 79,
+      "average_creep_score": 144,
+      "average_champion_experience": 15397,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4237438396"
+    },
+    "200": {
+      "total_gold_earned": 65682,
+      "total_gold_spent": 62010,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 86114,
+      "total_damage_dealt_to_objectives": 63598,
+      "total_damage_taken": 130400,
+      "average_vision_score": 31,
+      "total_wards_placed": 75,
+      "average_creep_score": 134,
+      "average_champion_experience": 16886,
+      "dmg_carry": "Yone",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4237438396"
+    }
+  }
+}

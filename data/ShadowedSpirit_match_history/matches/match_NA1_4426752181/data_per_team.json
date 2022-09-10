@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 35097,
+      "total_gold_spent": 33325,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 32604,
+      "total_damage_dealt_to_objectives": 16265,
+      "total_damage_taken": 74347,
+      "average_vision_score": 15,
+      "total_wards_placed": 40,
+      "average_creep_score": 89,
+      "average_champion_experience": 8679,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4426752181"
+    },
+    "200": {
+      "total_gold_earned": 47594,
+      "total_gold_spent": 41800,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 53509,
+      "total_damage_dealt_to_objectives": 73488,
+      "total_damage_taken": 63011,
+      "average_vision_score": 24,
+      "total_wards_placed": 49,
+      "average_creep_score": 80,
+      "average_champion_experience": 10075,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4426752181"
+    }
+  }
+}

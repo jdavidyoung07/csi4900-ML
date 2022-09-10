@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59119,
+      "total_gold_spent": 56450,
+      "team_comp": [
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 113213,
+      "total_damage_dealt_to_objectives": 22191,
+      "total_damage_taken": 117582,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 115,
+      "average_champion_experience": 14011,
+      "dmg_carry": "Corki",
+      "obj_carry": "Corki",
+      "match_id": "NA1_4287452493"
+    },
+    "200": {
+      "total_gold_earned": 65182,
+      "total_gold_spent": 56825,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 99905,
+      "total_damage_dealt_to_objectives": 75010,
+      "total_damage_taken": 152348,
+      "average_vision_score": 36,
+      "total_wards_placed": 76,
+      "average_creep_score": 140,
+      "average_champion_experience": 15600,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Xayah",
+      "match_id": "NA1_4287452493"
+    }
+  }
+}

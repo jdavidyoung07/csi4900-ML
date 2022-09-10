@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70515,
+      "total_gold_spent": 66830,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 101395,
+      "total_damage_dealt_to_objectives": 30296,
+      "total_damage_taken": 169056,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 149,
+      "average_champion_experience": 17998,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4264641718"
+    },
+    "200": {
+      "total_gold_earned": 72080,
+      "total_gold_spent": 67510,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 44,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 130771,
+      "total_damage_dealt_to_objectives": 93707,
+      "total_damage_taken": 148226,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 111,
+      "average_champion_experience": 17026,
+      "dmg_carry": "Senna",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4264641718"
+    }
+  }
+}

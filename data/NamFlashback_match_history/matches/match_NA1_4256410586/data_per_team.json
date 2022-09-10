@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48172,
+      "total_gold_spent": 41085,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 69435,
+      "total_damage_dealt_to_objectives": 60140,
+      "total_damage_taken": 79459,
+      "average_vision_score": 16,
+      "total_wards_placed": 38,
+      "average_creep_score": 86,
+      "average_champion_experience": 10197,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4256410586"
+    },
+    "200": {
+      "total_gold_earned": 37579,
+      "total_gold_spent": 35700,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 53387,
+      "total_damage_dealt_to_objectives": 16079,
+      "total_damage_taken": 89491,
+      "average_vision_score": 14,
+      "total_wards_placed": 46,
+      "average_creep_score": 88,
+      "average_champion_experience": 8141,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4256410586"
+    }
+  }
+}

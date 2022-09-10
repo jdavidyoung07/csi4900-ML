@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61559,
+      "total_gold_spent": 57225,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 90856,
+      "total_damage_dealt_to_objectives": 50520,
+      "total_damage_taken": 131372,
+      "average_vision_score": 29,
+      "total_wards_placed": 52,
+      "average_creep_score": 132,
+      "average_champion_experience": 13670,
+      "dmg_carry": "Draven",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4178017480"
+    },
+    "200": {
+      "total_gold_earned": 64395,
+      "total_gold_spent": 55400,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 101447,
+      "total_damage_dealt_to_objectives": 73522,
+      "total_damage_taken": 120128,
+      "average_vision_score": 30,
+      "total_wards_placed": 70,
+      "average_creep_score": 121,
+      "average_champion_experience": 16558,
+      "dmg_carry": "Talon",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4178017480"
+    }
+  }
+}

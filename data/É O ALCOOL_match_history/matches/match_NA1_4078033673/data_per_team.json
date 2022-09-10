@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56902,
+      "total_gold_spent": 54350,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 105487,
+      "total_damage_dealt_to_objectives": 38018,
+      "total_damage_taken": 128520,
+      "average_vision_score": 35,
+      "total_wards_placed": 58,
+      "average_creep_score": 117,
+      "average_champion_experience": 13681,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4078033673"
+    },
+    "200": {
+      "total_gold_earned": 66804,
+      "total_gold_spent": 61175,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 105526,
+      "total_damage_dealt_to_objectives": 78661,
+      "total_damage_taken": 153899,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 125,
+      "average_champion_experience": 14964,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4078033673"
+    }
+  }
+}

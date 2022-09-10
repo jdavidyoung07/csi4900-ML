@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45678,
+      "total_gold_spent": 42235,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 82573,
+      "total_damage_dealt_to_objectives": 39928,
+      "total_damage_taken": 107389,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 88,
+      "average_champion_experience": 10165,
+      "dmg_carry": "Gnar",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4142384211"
+    },
+    "200": {
+      "total_gold_earned": 45431,
+      "total_gold_spent": 40235,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 86605,
+      "total_damage_dealt_to_objectives": 15596,
+      "total_damage_taken": 105575,
+      "average_vision_score": 22,
+      "total_wards_placed": 56,
+      "average_creep_score": 84,
+      "average_champion_experience": 11190,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4142384211"
+    }
+  }
+}

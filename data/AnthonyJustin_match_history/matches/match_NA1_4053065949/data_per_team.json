@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 39,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83505,
+      "total_gold_spent": 82000,
+      "team_comp": [
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 49,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 144667,
+      "total_damage_dealt_to_objectives": 98796,
+      "total_damage_taken": 182328,
+      "average_vision_score": 28,
+      "total_wards_placed": 65,
+      "average_creep_score": 134,
+      "average_champion_experience": 18752,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4053065949"
+    },
+    "200": {
+      "total_gold_earned": 79075,
+      "total_gold_spent": 71425,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 57,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 141150,
+      "total_damage_dealt_to_objectives": 59988,
+      "total_damage_taken": 168704,
+      "average_vision_score": 29,
+      "total_wards_placed": 79,
+      "average_creep_score": 144,
+      "average_champion_experience": 20479,
+      "dmg_carry": "Samira",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4053065949"
+    }
+  }
+}

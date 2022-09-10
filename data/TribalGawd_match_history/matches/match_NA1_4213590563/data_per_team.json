@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63256,
+      "total_gold_spent": 60945,
+      "team_comp": [
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 110832,
+      "total_damage_dealt_to_objectives": 44695,
+      "total_damage_taken": 118015,
+      "average_vision_score": 36,
+      "total_wards_placed": 69,
+      "average_creep_score": 133,
+      "average_champion_experience": 15979,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4213590563"
+    },
+    "200": {
+      "total_gold_earned": 68119,
+      "total_gold_spent": 61285,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 94585,
+      "total_damage_dealt_to_objectives": 67162,
+      "total_damage_taken": 143714,
+      "average_vision_score": 36,
+      "total_wards_placed": 72,
+      "average_creep_score": 144,
+      "average_champion_experience": 16690,
+      "dmg_carry": "Samira",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4213590563"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54350,
+      "total_gold_spent": 48760,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 13,
+      "total_damage_dealt_to_champions": 66468,
+      "total_damage_dealt_to_objectives": 75024,
+      "total_damage_taken": 78275,
+      "average_vision_score": 23,
+      "total_wards_placed": 60,
+      "average_creep_score": 99,
+      "average_champion_experience": 11709,
+      "dmg_carry": "Neeko",
+      "obj_carry": "Neeko",
+      "match_id": "NA1_4371903677"
+    },
+    "200": {
+      "total_gold_earned": 43171,
+      "total_gold_spent": 41883,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 13,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 54026,
+      "total_damage_dealt_to_objectives": 20352,
+      "total_damage_taken": 91155,
+      "average_vision_score": 26,
+      "total_wards_placed": 42,
+      "average_creep_score": 107,
+      "average_champion_experience": 9624,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4371903677"
+    }
+  }
+}

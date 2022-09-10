@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76761,
+      "total_gold_spent": 72205,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 128413,
+      "total_damage_dealt_to_objectives": 84811,
+      "total_damage_taken": 152655,
+      "average_vision_score": 30,
+      "total_wards_placed": 81,
+      "average_creep_score": 168,
+      "average_champion_experience": 19670,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4363440990"
+    },
+    "200": {
+      "total_gold_earned": 68839,
+      "total_gold_spent": 62490,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 24,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 114800,
+      "total_damage_dealt_to_objectives": 128395,
+      "total_damage_taken": 171199,
+      "average_vision_score": 37,
+      "total_wards_placed": 75,
+      "average_creep_score": 150,
+      "average_champion_experience": 17712,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4363440990"
+    }
+  }
+}

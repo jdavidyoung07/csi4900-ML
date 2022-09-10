@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 83732,
+      "total_gold_spent": 74950,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 56,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 175136,
+      "total_damage_dealt_to_objectives": 76579,
+      "total_damage_taken": 243071,
+      "average_vision_score": 31,
+      "total_wards_placed": 59,
+      "average_creep_score": 169,
+      "average_champion_experience": 20057,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4427086077"
+    },
+    "200": {
+      "total_gold_earned": 84888,
+      "total_gold_spent": 93755,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 199846,
+      "total_damage_dealt_to_objectives": 63793,
+      "total_damage_taken": 215277,
+      "average_vision_score": 29,
+      "total_wards_placed": 55,
+      "average_creep_score": 167,
+      "average_champion_experience": 21118,
+      "dmg_carry": "Trundle",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4427086077"
+    }
+  }
+}

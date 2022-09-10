@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67656,
+      "total_gold_spent": 68300,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 130490,
+      "total_damage_dealt_to_objectives": 49495,
+      "total_damage_taken": 176115,
+      "average_vision_score": 28,
+      "total_wards_placed": 59,
+      "average_creep_score": 129,
+      "average_champion_experience": 14889,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4396803244"
+    },
+    "200": {
+      "total_gold_earned": 69935,
+      "total_gold_spent": 63700,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 146241,
+      "total_damage_dealt_to_objectives": 75240,
+      "total_damage_taken": 161174,
+      "average_vision_score": 34,
+      "total_wards_placed": 64,
+      "average_creep_score": 127,
+      "average_champion_experience": 17201,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4396803244"
+    }
+  }
+}

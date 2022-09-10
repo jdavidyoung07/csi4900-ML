@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52875,
+      "total_gold_spent": 50425,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 94707,
+      "total_damage_dealt_to_objectives": 25066,
+      "total_damage_taken": 114518,
+      "average_vision_score": 29,
+      "total_wards_placed": 75,
+      "average_creep_score": 114,
+      "average_champion_experience": 13004,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4413436741"
+    },
+    "200": {
+      "total_gold_earned": 64597,
+      "total_gold_spent": 57595,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 93166,
+      "total_damage_dealt_to_objectives": 113908,
+      "total_damage_taken": 136754,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 108,
+      "average_champion_experience": 15314,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Nilah",
+      "match_id": "NA1_4413436741"
+    }
+  }
+}

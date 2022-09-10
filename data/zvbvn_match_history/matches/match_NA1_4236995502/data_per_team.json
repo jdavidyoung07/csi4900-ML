@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53636,
+      "total_gold_spent": 53445,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 75804,
+      "total_damage_dealt_to_objectives": 15587,
+      "total_damage_taken": 97168,
+      "average_vision_score": 20,
+      "total_wards_placed": 56,
+      "average_creep_score": 119,
+      "average_champion_experience": 12529,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4236995502"
+    },
+    "200": {
+      "total_gold_earned": 56674,
+      "total_gold_spent": 52238,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 28,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 71289,
+      "total_damage_dealt_to_objectives": 95652,
+      "total_damage_taken": 109639,
+      "average_vision_score": 25,
+      "total_wards_placed": 40,
+      "average_creep_score": 107,
+      "average_champion_experience": 12663,
+      "dmg_carry": "Hecarim",
+      "obj_carry": "Veigar",
+      "match_id": "NA1_4236995502"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 22615,
+      "total_gold_spent": 20375,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 30878,
+      "total_damage_dealt_to_objectives": 7560,
+      "total_damage_taken": 40180,
+      "average_vision_score": 9,
+      "total_wards_placed": 27,
+      "average_creep_score": 48,
+      "average_champion_experience": 4810,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Pantheon",
+      "match_id": "NA1_4329383234"
+    },
+    "200": {
+      "total_gold_earned": 31528,
+      "total_gold_spent": 22020,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 29951,
+      "total_damage_dealt_to_objectives": 26890,
+      "total_damage_taken": 42193,
+      "average_vision_score": 14,
+      "total_wards_placed": 26,
+      "average_creep_score": 61,
+      "average_champion_experience": 6173,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4329383234"
+    }
+  }
+}

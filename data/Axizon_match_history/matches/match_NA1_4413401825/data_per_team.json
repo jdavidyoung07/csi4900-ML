@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57699,
+      "total_gold_spent": 54035,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 91452,
+      "total_damage_dealt_to_objectives": 41486,
+      "total_damage_taken": 157734,
+      "average_vision_score": 24,
+      "total_wards_placed": 44,
+      "average_creep_score": 124,
+      "average_champion_experience": 13348,
+      "dmg_carry": "Swain",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4413401825"
+    },
+    "200": {
+      "total_gold_earned": 65376,
+      "total_gold_spent": 60725,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 48,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 134400,
+      "total_damage_dealt_to_objectives": 64339,
+      "total_damage_taken": 122741,
+      "average_vision_score": 20,
+      "total_wards_placed": 53,
+      "average_creep_score": 114,
+      "average_champion_experience": 15494,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4413401825"
+    }
+  }
+}

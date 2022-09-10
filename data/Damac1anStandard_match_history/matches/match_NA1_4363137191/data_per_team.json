@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66470,
+      "total_gold_spent": 62693,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 145773,
+      "total_damage_dealt_to_objectives": 39628,
+      "total_damage_taken": 141846,
+      "average_vision_score": 37,
+      "total_wards_placed": 59,
+      "average_creep_score": 150,
+      "average_champion_experience": 16570,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4363137191"
+    },
+    "200": {
+      "total_gold_earned": 77746,
+      "total_gold_spent": 73350,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 37,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 116710,
+      "total_damage_dealt_to_objectives": 102585,
+      "total_damage_taken": 199487,
+      "average_vision_score": 34,
+      "total_wards_placed": 71,
+      "average_creep_score": 156,
+      "average_champion_experience": 19588,
+      "dmg_carry": "Yone",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4363137191"
+    }
+  }
+}

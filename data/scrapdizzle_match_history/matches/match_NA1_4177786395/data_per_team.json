@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57230,
+      "total_gold_spent": 53100,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 107548,
+      "total_damage_dealt_to_objectives": 50404,
+      "total_damage_taken": 119773,
+      "average_vision_score": 34,
+      "total_wards_placed": 70,
+      "average_creep_score": 99,
+      "average_champion_experience": 13787,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4177786395"
+    },
+    "200": {
+      "total_gold_earned": 61270,
+      "total_gold_spent": 52050,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 95321,
+      "total_damage_dealt_to_objectives": 55085,
+      "total_damage_taken": 137871,
+      "average_vision_score": 25,
+      "total_wards_placed": 54,
+      "average_creep_score": 113,
+      "average_champion_experience": 13455,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4177786395"
+    }
+  }
+}

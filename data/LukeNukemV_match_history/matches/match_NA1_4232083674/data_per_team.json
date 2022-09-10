@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70532,
+      "total_gold_spent": 63185,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 98235,
+      "total_damage_dealt_to_objectives": 40831,
+      "total_damage_taken": 180903,
+      "average_vision_score": 29,
+      "total_wards_placed": 69,
+      "average_creep_score": 157,
+      "average_champion_experience": 18230,
+      "dmg_carry": "Draven",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4232083674"
+    },
+    "200": {
+      "total_gold_earned": 75173,
+      "total_gold_spent": 68508,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 147572,
+      "total_damage_dealt_to_objectives": 109725,
+      "total_damage_taken": 126756,
+      "average_vision_score": 42,
+      "total_wards_placed": 75,
+      "average_creep_score": 156,
+      "average_champion_experience": 17955,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4232083674"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47220,
+      "total_gold_spent": 44825,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 66273,
+      "total_damage_dealt_to_objectives": 31716,
+      "total_damage_taken": 110454,
+      "average_vision_score": 17,
+      "total_wards_placed": 48,
+      "average_creep_score": 104,
+      "average_champion_experience": 11396,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4162546156"
+    },
+    "200": {
+      "total_gold_earned": 59307,
+      "total_gold_spent": 52075,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 89071,
+      "total_damage_dealt_to_objectives": 90045,
+      "total_damage_taken": 90623,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 118,
+      "average_champion_experience": 14144,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4162546156"
+    }
+  }
+}

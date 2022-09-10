@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58820,
+      "total_gold_spent": 57950,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 96328,
+      "total_damage_dealt_to_objectives": 26634,
+      "total_damage_taken": 139984,
+      "average_vision_score": 27,
+      "total_wards_placed": 76,
+      "average_creep_score": 125,
+      "average_champion_experience": 14345,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4102308668"
+    },
+    "200": {
+      "total_gold_earned": 69644,
+      "total_gold_spent": 64100,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 51,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 118135,
+      "total_damage_dealt_to_objectives": 96764,
+      "total_damage_taken": 139696,
+      "average_vision_score": 30,
+      "total_wards_placed": 52,
+      "average_creep_score": 127,
+      "average_champion_experience": 16690,
+      "dmg_carry": "Zed",
+      "obj_carry": "Poppy",
+      "match_id": "NA1_4102308668"
+    }
+  }
+}

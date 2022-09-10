@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62335,
+      "total_gold_spent": 61075,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 124009,
+      "total_damage_dealt_to_objectives": 59585,
+      "total_damage_taken": 145292,
+      "average_vision_score": 31,
+      "total_wards_placed": 50,
+      "average_creep_score": 132,
+      "average_champion_experience": 14752,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4389011432"
+    },
+    "200": {
+      "total_gold_earned": 68929,
+      "total_gold_spent": 62390,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 117873,
+      "total_damage_dealt_to_objectives": 75769,
+      "total_damage_taken": 165061,
+      "average_vision_score": 29,
+      "total_wards_placed": 55,
+      "average_creep_score": 125,
+      "average_champion_experience": 16292,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4389011432"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50865,
+      "total_gold_spent": 48110,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 105018,
+      "total_damage_dealt_to_objectives": 15653,
+      "total_damage_taken": 104436,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 100,
+      "average_champion_experience": 11870,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4136404770"
+    },
+    "200": {
+      "total_gold_earned": 60973,
+      "total_gold_spent": 52035,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 86749,
+      "total_damage_dealt_to_objectives": 79130,
+      "total_damage_taken": 142167,
+      "average_vision_score": 21,
+      "total_wards_placed": 50,
+      "average_creep_score": 104,
+      "average_champion_experience": 14188,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4136404770"
+    }
+  }
+}

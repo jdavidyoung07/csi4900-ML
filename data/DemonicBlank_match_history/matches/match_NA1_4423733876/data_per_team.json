@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 42531,
+      "total_gold_spent": 41025,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 49308,
+      "total_damage_dealt_to_objectives": 25291,
+      "total_damage_taken": 100084,
+      "average_vision_score": 20,
+      "total_wards_placed": 42,
+      "average_creep_score": 92,
+      "average_champion_experience": 9240,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4423733876"
+    },
+    "200": {
+      "total_gold_earned": 52422,
+      "total_gold_spent": 45650,
+      "team_comp": [
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 83265,
+      "total_damage_dealt_to_objectives": 69339,
+      "total_damage_taken": 81270,
+      "average_vision_score": 17,
+      "total_wards_placed": 41,
+      "average_creep_score": 94,
+      "average_champion_experience": 12247,
+      "dmg_carry": "Brand",
+      "obj_carry": "Nilah",
+      "match_id": "NA1_4423733876"
+    }
+  }
+}

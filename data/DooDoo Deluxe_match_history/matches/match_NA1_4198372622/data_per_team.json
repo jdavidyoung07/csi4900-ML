@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56561,
+      "total_gold_spent": 49750,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 104953,
+      "total_damage_dealt_to_objectives": 49281,
+      "total_damage_taken": 122955,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 90,
+      "average_champion_experience": 12728,
+      "dmg_carry": "Brand",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4198372622"
+    },
+    "200": {
+      "total_gold_earned": 52378,
+      "total_gold_spent": 47905,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 89738,
+      "total_damage_dealt_to_objectives": 34705,
+      "total_damage_taken": 123578,
+      "average_vision_score": 33,
+      "total_wards_placed": 62,
+      "average_creep_score": 98,
+      "average_champion_experience": 11634,
+      "dmg_carry": "AurelionSol",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4198372622"
+    }
+  }
+}

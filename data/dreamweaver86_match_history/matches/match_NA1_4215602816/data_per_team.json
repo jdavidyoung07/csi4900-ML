@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60955,
+      "total_gold_spent": 57575,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 32,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 77966,
+      "total_damage_dealt_to_objectives": 73775,
+      "total_damage_taken": 99039,
+      "average_vision_score": 19,
+      "total_wards_placed": 44,
+      "average_creep_score": 125,
+      "average_champion_experience": 14616,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "RekSai",
+      "match_id": "NA1_4215602816"
+    },
+    "200": {
+      "total_gold_earned": 53677,
+      "total_gold_spent": 50800,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 72532,
+      "total_damage_dealt_to_objectives": 21635,
+      "total_damage_taken": 100756,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 112,
+      "average_champion_experience": 12792,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4215602816"
+    }
+  }
+}

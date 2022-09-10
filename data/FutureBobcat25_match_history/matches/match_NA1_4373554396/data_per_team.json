@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62785,
+      "total_gold_spent": 53050,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 34,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 108950,
+      "total_damage_dealt_to_objectives": 77650,
+      "total_damage_taken": 116275,
+      "average_vision_score": 31,
+      "total_wards_placed": 54,
+      "average_creep_score": 113,
+      "average_champion_experience": 14884,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4373554396"
+    },
+    "200": {
+      "total_gold_earned": 55317,
+      "total_gold_spent": 51850,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 82672,
+      "total_damage_dealt_to_objectives": 24852,
+      "total_damage_taken": 137004,
+      "average_vision_score": 21,
+      "total_wards_placed": 60,
+      "average_creep_score": 106,
+      "average_champion_experience": 11921,
+      "dmg_carry": "Warwick",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4373554396"
+    }
+  }
+}

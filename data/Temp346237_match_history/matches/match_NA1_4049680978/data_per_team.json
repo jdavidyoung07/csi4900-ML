@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47800,
+      "total_gold_spent": 45283,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 71381,
+      "total_damage_dealt_to_objectives": 47547,
+      "total_damage_taken": 95115,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 119,
+      "average_champion_experience": 10872,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4049680978"
+    },
+    "200": {
+      "total_gold_earned": 57703,
+      "total_gold_spent": 53375,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 65949,
+      "total_damage_dealt_to_objectives": 81392,
+      "total_damage_taken": 98578,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 102,
+      "average_champion_experience": 14465,
+      "dmg_carry": "Vi",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4049680978"
+    }
+  }
+}

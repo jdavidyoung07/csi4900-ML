@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 86769,
+      "total_gold_spent": 79660,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 54,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 241259,
+      "total_damage_dealt_to_objectives": 99536,
+      "total_damage_taken": 212056,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 147,
+      "average_champion_experience": 20909,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Renekton",
+      "match_id": "NA1_4418232180"
+    },
+    "200": {
+      "total_gold_earned": 79175,
+      "total_gold_spent": 77925,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 53,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 175730,
+      "total_damage_dealt_to_objectives": 101872,
+      "total_damage_taken": 283777,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 118,
+      "average_champion_experience": 16952,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Kalista",
+      "match_id": "NA1_4418232180"
+    }
+  }
+}

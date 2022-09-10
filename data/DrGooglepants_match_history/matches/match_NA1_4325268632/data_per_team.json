@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63326,
+      "total_gold_spent": 58600,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 143316,
+      "total_damage_dealt_to_objectives": 50454,
+      "total_damage_taken": 134793,
+      "average_vision_score": 33,
+      "total_wards_placed": 68,
+      "average_creep_score": 124,
+      "average_champion_experience": 15635,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4325268632"
+    },
+    "200": {
+      "total_gold_earned": 68941,
+      "total_gold_spent": 63358,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 114159,
+      "total_damage_dealt_to_objectives": 77902,
+      "total_damage_taken": 193487,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 122,
+      "average_champion_experience": 16171,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4325268632"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57026,
+      "total_gold_spent": 53760,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 20,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 103143,
+      "total_damage_dealt_to_objectives": 43462,
+      "total_damage_taken": 119109,
+      "average_vision_score": 26,
+      "total_wards_placed": 62,
+      "average_creep_score": 123,
+      "average_champion_experience": 14256,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4081465012"
+    },
+    "200": {
+      "total_gold_earned": 56388,
+      "total_gold_spent": 53125,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 82345,
+      "total_damage_dealt_to_objectives": 57670,
+      "total_damage_taken": 137053,
+      "average_vision_score": 29,
+      "total_wards_placed": 65,
+      "average_creep_score": 115,
+      "average_champion_experience": 14081,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4081465012"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33588,
+      "total_gold_spent": 31510,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 42714,
+      "total_damage_dealt_to_objectives": 6747,
+      "total_damage_taken": 71459,
+      "average_vision_score": 15,
+      "total_wards_placed": 35,
+      "average_creep_score": 81,
+      "average_champion_experience": 7402,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4396268150"
+    },
+    "200": {
+      "total_gold_earned": 46990,
+      "total_gold_spent": 42388,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 59583,
+      "total_damage_dealt_to_objectives": 66524,
+      "total_damage_taken": 62741,
+      "average_vision_score": 18,
+      "total_wards_placed": 46,
+      "average_creep_score": 79,
+      "average_champion_experience": 9271,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4396268150"
+    }
+  }
+}

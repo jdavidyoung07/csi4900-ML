@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71911,
+      "total_gold_spent": 63815,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 153020,
+      "total_damage_dealt_to_objectives": 68829,
+      "total_damage_taken": 149038,
+      "average_vision_score": 42,
+      "total_wards_placed": 90,
+      "average_creep_score": 126,
+      "average_champion_experience": 16592,
+      "dmg_carry": "Brand",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4179108633"
+    },
+    "200": {
+      "total_gold_earned": 76847,
+      "total_gold_spent": 71205,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Xayah",
+          "champId": 498
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 122319,
+      "total_damage_dealt_to_objectives": 75932,
+      "total_damage_taken": 178379,
+      "average_vision_score": 33,
+      "total_wards_placed": 79,
+      "average_creep_score": 137,
+      "average_champion_experience": 17661,
+      "dmg_carry": "Xayah",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4179108633"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73411,
+      "total_gold_spent": 67625,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 47,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 131109,
+      "total_damage_dealt_to_objectives": 62720,
+      "total_damage_taken": 151896,
+      "average_vision_score": 35,
+      "total_wards_placed": 54,
+      "average_creep_score": 147,
+      "average_champion_experience": 17701,
+      "dmg_carry": "Samira",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4151162446"
+    },
+    "200": {
+      "total_gold_earned": 73899,
+      "total_gold_spent": 78485,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 43,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 125942,
+      "total_damage_dealt_to_objectives": 73125,
+      "total_damage_taken": 171241,
+      "average_vision_score": 24,
+      "total_wards_placed": 55,
+      "average_creep_score": 136,
+      "average_champion_experience": 17228,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4151162446"
+    }
+  }
+}

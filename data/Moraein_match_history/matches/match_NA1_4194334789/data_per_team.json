@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53585,
+      "total_gold_spent": 48170,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 112715,
+      "total_damage_dealt_to_objectives": 27794,
+      "total_damage_taken": 120585,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 97,
+      "average_champion_experience": 12839,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4194334789"
+    },
+    "200": {
+      "total_gold_earned": 65582,
+      "total_gold_spent": 59825,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 100842,
+      "total_damage_dealt_to_objectives": 87324,
+      "total_damage_taken": 150545,
+      "average_vision_score": 26,
+      "total_wards_placed": 51,
+      "average_creep_score": 111,
+      "average_champion_experience": 15382,
+      "dmg_carry": "Zeri",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4194334789"
+    }
+  }
+}

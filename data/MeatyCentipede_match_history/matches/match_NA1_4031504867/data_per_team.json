@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53608,
+      "total_gold_spent": 51525,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 76005,
+      "total_damage_dealt_to_objectives": 28633,
+      "total_damage_taken": 144450,
+      "average_vision_score": 25,
+      "total_wards_placed": 49,
+      "average_creep_score": 126,
+      "average_champion_experience": 12264,
+      "dmg_carry": "Graves",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4031504867"
+    },
+    "200": {
+      "total_gold_earned": 63529,
+      "total_gold_spent": 61345,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 110663,
+      "total_damage_dealt_to_objectives": 81834,
+      "total_damage_taken": 96774,
+      "average_vision_score": 24,
+      "total_wards_placed": 58,
+      "average_creep_score": 119,
+      "average_champion_experience": 14698,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4031504867"
+    }
+  }
+}

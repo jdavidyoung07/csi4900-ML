@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72087,
+      "total_gold_spent": 69900,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 148823,
+      "total_damage_dealt_to_objectives": 100891,
+      "total_damage_taken": 176875,
+      "average_vision_score": 30,
+      "total_wards_placed": 70,
+      "average_creep_score": 117,
+      "average_champion_experience": 17511,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4268222959"
+    },
+    "200": {
+      "total_gold_earned": 73469,
+      "total_gold_spent": 65275,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 144369,
+      "total_damage_dealt_to_objectives": 44424,
+      "total_damage_taken": 183840,
+      "average_vision_score": 22,
+      "total_wards_placed": 57,
+      "average_creep_score": 144,
+      "average_champion_experience": 18294,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4268222959"
+    }
+  }
+}

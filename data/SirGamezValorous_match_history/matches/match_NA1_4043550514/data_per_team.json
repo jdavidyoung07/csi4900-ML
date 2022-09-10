@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 26,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46048,
+      "total_gold_spent": 43520,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 82710,
+      "total_damage_dealt_to_objectives": 20682,
+      "total_damage_taken": 132297,
+      "average_vision_score": 18,
+      "total_wards_placed": 42,
+      "average_creep_score": 104,
+      "average_champion_experience": 11300,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4043550514"
+    },
+    "200": {
+      "total_gold_earned": 60757,
+      "total_gold_spent": 52350,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 109907,
+      "total_damage_dealt_to_objectives": 86178,
+      "total_damage_taken": 117782,
+      "average_vision_score": 26,
+      "total_wards_placed": 56,
+      "average_creep_score": 103,
+      "average_champion_experience": 12794,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4043550514"
+    }
+  }
+}

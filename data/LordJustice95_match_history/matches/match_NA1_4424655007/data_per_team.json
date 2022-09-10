@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43085,
+      "total_gold_spent": 34731,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 56552,
+      "total_damage_dealt_to_objectives": 42633,
+      "total_damage_taken": 82441,
+      "average_vision_score": 19,
+      "total_wards_placed": 35,
+      "average_creep_score": 90,
+      "average_champion_experience": 10207,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4424655007"
+    },
+    "200": {
+      "total_gold_earned": 37742,
+      "total_gold_spent": 35085,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 63909,
+      "total_damage_dealt_to_objectives": 19620,
+      "total_damage_taken": 70970,
+      "average_vision_score": 13,
+      "total_wards_placed": 32,
+      "average_creep_score": 88,
+      "average_champion_experience": 8509,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4424655007"
+    }
+  }
+}

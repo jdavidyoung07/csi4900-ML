@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45167,
+      "total_gold_spent": 42589,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 65777,
+      "total_damage_dealt_to_objectives": 35585,
+      "total_damage_taken": 75650,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 93,
+      "average_champion_experience": 10282,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4170898265"
+    },
+    "200": {
+      "total_gold_earned": 56683,
+      "total_gold_spent": 50355,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 61307,
+      "total_damage_dealt_to_objectives": 68847,
+      "total_damage_taken": 99337,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 111,
+      "average_champion_experience": 12644,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4170898265"
+    }
+  }
+}

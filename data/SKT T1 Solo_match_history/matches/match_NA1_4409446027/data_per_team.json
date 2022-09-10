@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58982,
+      "total_gold_spent": 52250,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 99424,
+      "total_damage_dealt_to_objectives": 92154,
+      "total_damage_taken": 133272,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 130,
+      "average_champion_experience": 13314,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4409446027"
+    },
+    "200": {
+      "total_gold_earned": 60873,
+      "total_gold_spent": 56850,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 105416,
+      "total_damage_dealt_to_objectives": 76125,
+      "total_damage_taken": 138060,
+      "average_vision_score": 27,
+      "total_wards_placed": 44,
+      "average_creep_score": 112,
+      "average_champion_experience": 15070,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4409446027"
+    }
+  }
+}

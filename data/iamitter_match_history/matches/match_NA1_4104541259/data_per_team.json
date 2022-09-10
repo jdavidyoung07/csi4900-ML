@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68249,
+      "total_gold_spent": 66785,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 140358,
+      "total_damage_dealt_to_objectives": 46093,
+      "total_damage_taken": 192666,
+      "average_vision_score": 36,
+      "total_wards_placed": 68,
+      "average_creep_score": 123,
+      "average_champion_experience": 16807,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4104541259"
+    },
+    "200": {
+      "total_gold_earned": 75980,
+      "total_gold_spent": 65325,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 59,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 160633,
+      "total_damage_dealt_to_objectives": 82071,
+      "total_damage_taken": 171683,
+      "average_vision_score": 29,
+      "total_wards_placed": 73,
+      "average_creep_score": 126,
+      "average_champion_experience": 18142,
+      "dmg_carry": "Lux",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4104541259"
+    }
+  }
+}

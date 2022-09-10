@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79178,
+      "total_gold_spent": 74780,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 41,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 129756,
+      "total_damage_dealt_to_objectives": 91963,
+      "total_damage_taken": 187657,
+      "average_vision_score": 37,
+      "total_wards_placed": 81,
+      "average_creep_score": 153,
+      "average_champion_experience": 19470,
+      "dmg_carry": "Quinn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4223379137"
+    },
+    "200": {
+      "total_gold_earned": 78106,
+      "total_gold_spent": 85115,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 154378,
+      "total_damage_dealt_to_objectives": 55546,
+      "total_damage_taken": 169779,
+      "average_vision_score": 33,
+      "total_wards_placed": 73,
+      "average_creep_score": 158,
+      "average_champion_experience": 19373,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4223379137"
+    }
+  }
+}

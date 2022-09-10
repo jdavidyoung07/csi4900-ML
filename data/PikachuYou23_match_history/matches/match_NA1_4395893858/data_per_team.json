@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66695,
+      "total_gold_spent": 61460,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 121281,
+      "total_damage_dealt_to_objectives": 101599,
+      "total_damage_taken": 126250,
+      "average_vision_score": 31,
+      "total_wards_placed": 62,
+      "average_creep_score": 127,
+      "average_champion_experience": 15060,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4395893858"
+    },
+    "200": {
+      "total_gold_earned": 57486,
+      "total_gold_spent": 54385,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 98499,
+      "total_damage_dealt_to_objectives": 58244,
+      "total_damage_taken": 146427,
+      "average_vision_score": 38,
+      "total_wards_placed": 86,
+      "average_creep_score": 113,
+      "average_champion_experience": 12378,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4395893858"
+    }
+  }
+}

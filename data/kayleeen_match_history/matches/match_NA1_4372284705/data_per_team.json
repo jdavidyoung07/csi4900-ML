@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66842,
+      "total_gold_spent": 60850,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 133349,
+      "total_damage_dealt_to_objectives": 64289,
+      "total_damage_taken": 162714,
+      "average_vision_score": 32,
+      "total_wards_placed": 70,
+      "average_creep_score": 124,
+      "average_champion_experience": 14285,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4372284705"
+    },
+    "200": {
+      "total_gold_earned": 64691,
+      "total_gold_spent": 58143,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 124142,
+      "total_damage_dealt_to_objectives": 47689,
+      "total_damage_taken": 158319,
+      "average_vision_score": 26,
+      "total_wards_placed": 64,
+      "average_creep_score": 111,
+      "average_champion_experience": 14345,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4372284705"
+    }
+  }
+}

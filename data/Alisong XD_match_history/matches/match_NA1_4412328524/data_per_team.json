@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65098,
+      "total_gold_spent": 58960,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 128573,
+      "total_damage_dealt_to_objectives": 78579,
+      "total_damage_taken": 154074,
+      "average_vision_score": 27,
+      "total_wards_placed": 60,
+      "average_creep_score": 119,
+      "average_champion_experience": 15436,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4412328524"
+    },
+    "200": {
+      "total_gold_earned": 61320,
+      "total_gold_spent": 59925,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 117893,
+      "total_damage_dealt_to_objectives": 58153,
+      "total_damage_taken": 156211,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 123,
+      "average_champion_experience": 15043,
+      "dmg_carry": "Chogath",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4412328524"
+    }
+  }
+}

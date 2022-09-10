@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56768,
+      "total_gold_spent": 49645,
+      "team_comp": [
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 78543,
+      "total_damage_dealt_to_objectives": 76287,
+      "total_damage_taken": 81617,
+      "average_vision_score": 29,
+      "total_wards_placed": 49,
+      "average_creep_score": 86,
+      "average_champion_experience": 11877,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4280837459"
+    },
+    "200": {
+      "total_gold_earned": 44322,
+      "total_gold_spent": 40728,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 54585,
+      "total_damage_dealt_to_objectives": 29692,
+      "total_damage_taken": 95643,
+      "average_vision_score": 16,
+      "total_wards_placed": 44,
+      "average_creep_score": 108,
+      "average_champion_experience": 9316,
+      "dmg_carry": "Corki",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4280837459"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43536,
+      "total_gold_spent": 41785,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 50981,
+      "total_damage_dealt_to_objectives": 21439,
+      "total_damage_taken": 109098,
+      "average_vision_score": 16,
+      "total_wards_placed": 40,
+      "average_creep_score": 110,
+      "average_champion_experience": 10878,
+      "dmg_carry": "Irelia",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4239784088"
+    },
+    "200": {
+      "total_gold_earned": 59101,
+      "total_gold_spent": 52945,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 38,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 86900,
+      "total_damage_dealt_to_objectives": 72497,
+      "total_damage_taken": 81117,
+      "average_vision_score": 18,
+      "total_wards_placed": 35,
+      "average_creep_score": 128,
+      "average_champion_experience": 14105,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4239784088"
+    }
+  }
+}

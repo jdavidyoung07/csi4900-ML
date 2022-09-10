@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 57187,
+      "total_gold_spent": 51335,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 92309,
+      "total_damage_dealt_to_objectives": 33563,
+      "total_damage_taken": 87605,
+      "average_vision_score": 30,
+      "total_wards_placed": 65,
+      "average_creep_score": 126,
+      "average_champion_experience": 14130,
+      "dmg_carry": "Kassadin",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4280318602"
+    },
+    "200": {
+      "total_gold_earned": 61650,
+      "total_gold_spent": 58260,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 66184,
+      "total_damage_dealt_to_objectives": 73414,
+      "total_damage_taken": 120899,
+      "average_vision_score": 23,
+      "total_wards_placed": 56,
+      "average_creep_score": 141,
+      "average_champion_experience": 13931,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4280318602"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66564,
+      "total_gold_spent": 61875,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 129236,
+      "total_damage_dealt_to_objectives": 61001,
+      "total_damage_taken": 159848,
+      "average_vision_score": 39,
+      "total_wards_placed": 87,
+      "average_creep_score": 124,
+      "average_champion_experience": 14834,
+      "dmg_carry": "Annie",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4277307505"
+    },
+    "200": {
+      "total_gold_earned": 67230,
+      "total_gold_spent": 61380,
+      "team_comp": [
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 123394,
+      "total_damage_dealt_to_objectives": 59132,
+      "total_damage_taken": 162779,
+      "average_vision_score": 33,
+      "total_wards_placed": 77,
+      "average_creep_score": 115,
+      "average_champion_experience": 16221,
+      "dmg_carry": "Vex",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4277307505"
+    }
+  }
+}

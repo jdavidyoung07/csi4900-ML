@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63501,
+      "total_gold_spent": 61723,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 115233,
+      "total_damage_dealt_to_objectives": 69948,
+      "total_damage_taken": 172045,
+      "average_vision_score": 38,
+      "total_wards_placed": 82,
+      "average_creep_score": 113,
+      "average_champion_experience": 15284,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4383171508"
+    },
+    "200": {
+      "total_gold_earned": 71045,
+      "total_gold_spent": 59825,
+      "team_comp": [
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 138845,
+      "total_damage_dealt_to_objectives": 65576,
+      "total_damage_taken": 145732,
+      "average_vision_score": 34,
+      "total_wards_placed": 62,
+      "average_creep_score": 125,
+      "average_champion_experience": 16404,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4383171508"
+    }
+  }
+}

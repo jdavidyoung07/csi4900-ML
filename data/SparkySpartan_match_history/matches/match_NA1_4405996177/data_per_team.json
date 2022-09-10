@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 71073,
+      "total_gold_spent": 67225,
+      "team_comp": [
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 173760,
+      "total_damage_dealt_to_objectives": 70522,
+      "total_damage_taken": 201089,
+      "average_vision_score": 28,
+      "total_wards_placed": 61,
+      "average_creep_score": 123,
+      "average_champion_experience": 16943,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4405996177"
+    },
+    "200": {
+      "total_gold_earned": 77399,
+      "total_gold_spent": 69920,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 54,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 165041,
+      "total_damage_dealt_to_objectives": 107199,
+      "total_damage_taken": 204760,
+      "average_vision_score": 33,
+      "total_wards_placed": 57,
+      "average_creep_score": 109,
+      "average_champion_experience": 18471,
+      "dmg_carry": "Samira",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4405996177"
+    }
+  }
+}

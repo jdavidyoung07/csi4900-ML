@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55505,
+      "total_gold_spent": 53750,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 17,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 78024,
+      "total_damage_dealt_to_objectives": 42924,
+      "total_damage_taken": 144297,
+      "average_vision_score": 17,
+      "total_wards_placed": 40,
+      "average_creep_score": 143,
+      "average_champion_experience": 13893,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4429288433"
+    },
+    "200": {
+      "total_gold_earned": 62692,
+      "total_gold_spent": 56740,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 17,
+      "total_damage_dealt_to_champions": 107264,
+      "total_damage_dealt_to_objectives": 97665,
+      "total_damage_taken": 112958,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 124,
+      "average_champion_experience": 15470,
+      "dmg_carry": "Vex",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4429288433"
+    }
+  }
+}

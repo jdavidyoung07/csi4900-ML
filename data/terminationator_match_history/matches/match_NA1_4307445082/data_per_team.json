@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52677,
+      "total_gold_spent": 48950,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 74497,
+      "total_damage_dealt_to_objectives": 40996,
+      "total_damage_taken": 83605,
+      "average_vision_score": 16,
+      "total_wards_placed": 38,
+      "average_creep_score": 89,
+      "average_champion_experience": 10994,
+      "dmg_carry": "Varus",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4307445082"
+    },
+    "200": {
+      "total_gold_earned": 44140,
+      "total_gold_spent": 41360,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 60813,
+      "total_damage_dealt_to_objectives": 24414,
+      "total_damage_taken": 88610,
+      "average_vision_score": 17,
+      "total_wards_placed": 34,
+      "average_creep_score": 83,
+      "average_champion_experience": 9133,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4307445082"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63084,
+      "total_gold_spent": 61055,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 99650,
+      "total_damage_dealt_to_objectives": 48016,
+      "total_damage_taken": 132608,
+      "average_vision_score": 38,
+      "total_wards_placed": 62,
+      "average_creep_score": 128,
+      "average_champion_experience": 14685,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4090488314"
+    },
+    "200": {
+      "total_gold_earned": 70940,
+      "total_gold_spent": 64700,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 34,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 108267,
+      "total_damage_dealt_to_objectives": 97450,
+      "total_damage_taken": 135415,
+      "average_vision_score": 26,
+      "total_wards_placed": 60,
+      "average_creep_score": 134,
+      "average_champion_experience": 17391,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4090488314"
+    }
+  }
+}

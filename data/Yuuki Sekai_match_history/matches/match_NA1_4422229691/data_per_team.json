@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43075,
+      "total_gold_spent": 39875,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 69280,
+      "total_damage_dealt_to_objectives": 54507,
+      "total_damage_taken": 74449,
+      "average_vision_score": 17,
+      "total_wards_placed": 30,
+      "average_creep_score": 74,
+      "average_champion_experience": 9259,
+      "dmg_carry": "Akali",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4422229691"
+    },
+    "200": {
+      "total_gold_earned": 36395,
+      "total_gold_spent": 32800,
+      "team_comp": [
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 50933,
+      "total_damage_dealt_to_objectives": 18082,
+      "total_damage_taken": 85254,
+      "average_vision_score": 14,
+      "total_wards_placed": 38,
+      "average_creep_score": 95,
+      "average_champion_experience": 7911,
+      "dmg_carry": "JarvanIV",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4422229691"
+    }
+  }
+}

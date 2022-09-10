@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 88098,
+      "total_gold_spent": 75213,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 62,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 190469,
+      "total_damage_dealt_to_objectives": 92434,
+      "total_damage_taken": 219963,
+      "average_vision_score": 43,
+      "total_wards_placed": 93,
+      "average_creep_score": 131,
+      "average_champion_experience": 20373,
+      "dmg_carry": "Samira",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4260433759"
+    },
+    "200": {
+      "total_gold_earned": 76118,
+      "total_gold_spent": 79723,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 53,
+      "total_deaths": 62,
+      "total_damage_dealt_to_champions": 179216,
+      "total_damage_dealt_to_objectives": 47044,
+      "total_damage_taken": 226275,
+      "average_vision_score": 32,
+      "total_wards_placed": 87,
+      "average_creep_score": 122,
+      "average_champion_experience": 18458,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4260433759"
+    }
+  }
+}

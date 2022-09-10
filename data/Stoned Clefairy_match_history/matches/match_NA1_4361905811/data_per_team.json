@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75145,
+      "total_gold_spent": 73430,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 153365,
+      "total_damage_dealt_to_objectives": 88822,
+      "total_damage_taken": 165769,
+      "average_vision_score": 36,
+      "total_wards_placed": 84,
+      "average_creep_score": 135,
+      "average_champion_experience": 16611,
+      "dmg_carry": "Jhin",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4361905811"
+    },
+    "200": {
+      "total_gold_earned": 77590,
+      "total_gold_spent": 71215,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 134215,
+      "total_damage_dealt_to_objectives": 68722,
+      "total_damage_taken": 190865,
+      "average_vision_score": 34,
+      "total_wards_placed": 63,
+      "average_creep_score": 139,
+      "average_champion_experience": 19113,
+      "dmg_carry": "Yone",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4361905811"
+    }
+  }
+}

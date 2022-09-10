@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66054,
+      "total_gold_spent": 59475,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 34,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 124204,
+      "total_damage_dealt_to_objectives": 48086,
+      "total_damage_taken": 148943,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 121,
+      "average_champion_experience": 15729,
+      "dmg_carry": "Viego",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4384608032"
+    },
+    "200": {
+      "total_gold_earned": 62050,
+      "total_gold_spent": 59618,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 120922,
+      "total_damage_dealt_to_objectives": 64947,
+      "total_damage_taken": 158548,
+      "average_vision_score": 34,
+      "total_wards_placed": 59,
+      "average_creep_score": 102,
+      "average_champion_experience": 14427,
+      "dmg_carry": "Nunu",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4384608032"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66330,
+      "total_gold_spent": 62075,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 118472,
+      "total_damage_dealt_to_objectives": 34220,
+      "total_damage_taken": 140507,
+      "average_vision_score": 24,
+      "total_wards_placed": 45,
+      "average_creep_score": 132,
+      "average_champion_experience": 15287,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4422186770"
+    },
+    "200": {
+      "total_gold_earned": 67142,
+      "total_gold_spent": 62950,
+      "team_comp": [
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 46,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 111927,
+      "total_damage_dealt_to_objectives": 77732,
+      "total_damage_taken": 143336,
+      "average_vision_score": 26,
+      "total_wards_placed": 51,
+      "average_creep_score": 128,
+      "average_champion_experience": 15947,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4422186770"
+    }
+  }
+}

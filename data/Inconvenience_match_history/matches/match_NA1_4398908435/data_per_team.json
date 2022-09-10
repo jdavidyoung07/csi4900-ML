@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50368,
+      "total_gold_spent": 46410,
+      "team_comp": [
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 91606,
+      "total_damage_dealt_to_objectives": 7485,
+      "total_damage_taken": 108072,
+      "average_vision_score": 25,
+      "total_wards_placed": 66,
+      "average_creep_score": 109,
+      "average_champion_experience": 13296,
+      "dmg_carry": "Yone",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4398908435"
+    },
+    "200": {
+      "total_gold_earned": 56145,
+      "total_gold_spent": 54550,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 27,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 83607,
+      "total_damage_dealt_to_objectives": 86263,
+      "total_damage_taken": 122415,
+      "average_vision_score": 23,
+      "total_wards_placed": 52,
+      "average_creep_score": 107,
+      "average_champion_experience": 12650,
+      "dmg_carry": "Azir",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4398908435"
+    }
+  }
+}

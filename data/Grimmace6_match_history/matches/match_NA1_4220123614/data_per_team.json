@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 43336,
+      "total_gold_spent": 41850,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 74589,
+      "total_damage_dealt_to_objectives": 18913,
+      "total_damage_taken": 102861,
+      "average_vision_score": 22,
+      "total_wards_placed": 63,
+      "average_creep_score": 74,
+      "average_champion_experience": 9321,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4220123614"
+    },
+    "200": {
+      "total_gold_earned": 50090,
+      "total_gold_spent": 45600,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 82275,
+      "total_damage_dealt_to_objectives": 55119,
+      "total_damage_taken": 96785,
+      "average_vision_score": 21,
+      "total_wards_placed": 39,
+      "average_creep_score": 85,
+      "average_champion_experience": 11296,
+      "dmg_carry": "Pantheon",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4220123614"
+    }
+  }
+}

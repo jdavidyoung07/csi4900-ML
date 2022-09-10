@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50936,
+      "total_gold_spent": 48925,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 61006,
+      "total_damage_dealt_to_objectives": 54463,
+      "total_damage_taken": 130172,
+      "average_vision_score": 22,
+      "total_wards_placed": 58,
+      "average_creep_score": 117,
+      "average_champion_experience": 12618,
+      "dmg_carry": "Tryndamere",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4195274347"
+    },
+    "200": {
+      "total_gold_earned": 55527,
+      "total_gold_spent": 48368,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 99900,
+      "total_damage_dealt_to_objectives": 53894,
+      "total_damage_taken": 82459,
+      "average_vision_score": 22,
+      "total_wards_placed": 39,
+      "average_creep_score": 124,
+      "average_champion_experience": 13308,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4195274347"
+    }
+  }
+}

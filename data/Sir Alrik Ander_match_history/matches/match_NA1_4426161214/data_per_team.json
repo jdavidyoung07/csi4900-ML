@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91072,
+      "total_gold_spent": 88475,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Ivern",
+          "champId": 427
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 57,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 206114,
+      "total_damage_dealt_to_objectives": 112266,
+      "total_damage_taken": 224039,
+      "average_vision_score": 54,
+      "total_wards_placed": 92,
+      "average_creep_score": 155,
+      "average_champion_experience": 21781,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4426161214"
+    },
+    "200": {
+      "total_gold_earned": 85564,
+      "total_gold_spent": 75365,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 181850,
+      "total_damage_dealt_to_objectives": 88944,
+      "total_damage_taken": 239700,
+      "average_vision_score": 40,
+      "total_wards_placed": 81,
+      "average_creep_score": 139,
+      "average_champion_experience": 20248,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4426161214"
+    }
+  }
+}

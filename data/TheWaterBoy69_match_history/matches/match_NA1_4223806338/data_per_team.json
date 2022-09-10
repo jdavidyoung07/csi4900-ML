@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51734,
+      "total_gold_spent": 48383,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 59885,
+      "total_damage_dealt_to_objectives": 67974,
+      "total_damage_taken": 77203,
+      "average_vision_score": 20,
+      "total_wards_placed": 40,
+      "average_creep_score": 92,
+      "average_champion_experience": 11219,
+      "dmg_carry": "Brand",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4223806338"
+    },
+    "200": {
+      "total_gold_earned": 43332,
+      "total_gold_spent": 39480,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 55657,
+      "total_damage_dealt_to_objectives": 12192,
+      "total_damage_taken": 83260,
+      "average_vision_score": 18,
+      "total_wards_placed": 47,
+      "average_creep_score": 95,
+      "average_champion_experience": 9739,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4223806338"
+    }
+  }
+}

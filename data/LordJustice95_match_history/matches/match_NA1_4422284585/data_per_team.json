@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31200,
+      "total_gold_spent": 28150,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 36508,
+      "total_damage_dealt_to_objectives": 7199,
+      "total_damage_taken": 72570,
+      "average_vision_score": 6,
+      "total_wards_placed": 23,
+      "average_creep_score": 76,
+      "average_champion_experience": 7377,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4422284585"
+    },
+    "200": {
+      "total_gold_earned": 41167,
+      "total_gold_spent": 36675,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 57903,
+      "total_damage_dealt_to_objectives": 46885,
+      "total_damage_taken": 58032,
+      "average_vision_score": 18,
+      "total_wards_placed": 36,
+      "average_creep_score": 71,
+      "average_champion_experience": 8499,
+      "dmg_carry": "Varus",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4422284585"
+    }
+  }
+}

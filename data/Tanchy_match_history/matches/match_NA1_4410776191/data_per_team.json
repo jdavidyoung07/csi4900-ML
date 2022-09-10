@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 36825,
+      "total_gold_spent": 33195,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 8,
+      "total_damage_dealt_to_champions": 47753,
+      "total_damage_dealt_to_objectives": 4285,
+      "total_damage_taken": 49376,
+      "average_vision_score": 16,
+      "total_wards_placed": 40,
+      "average_creep_score": 88,
+      "average_champion_experience": 8695,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4410776191"
+    },
+    "200": {
+      "total_gold_earned": 31228,
+      "total_gold_spent": 29075,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 8,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 32466,
+      "total_damage_dealt_to_objectives": 9448,
+      "total_damage_taken": 62600,
+      "average_vision_score": 18,
+      "total_wards_placed": 38,
+      "average_creep_score": 95,
+      "average_champion_experience": 7746,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4410776191"
+    }
+  }
+}

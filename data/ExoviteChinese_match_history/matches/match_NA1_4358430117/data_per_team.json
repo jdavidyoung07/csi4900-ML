@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37916,
+      "total_gold_spent": 36900,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 45591,
+      "total_damage_dealt_to_objectives": 15118,
+      "total_damage_taken": 89153,
+      "average_vision_score": 17,
+      "total_wards_placed": 43,
+      "average_creep_score": 86,
+      "average_champion_experience": 8773,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4358430117"
+    },
+    "200": {
+      "total_gold_earned": 53247,
+      "total_gold_spent": 48625,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 73079,
+      "total_damage_dealt_to_objectives": 64057,
+      "total_damage_taken": 67219,
+      "average_vision_score": 21,
+      "total_wards_placed": 39,
+      "average_creep_score": 92,
+      "average_champion_experience": 10980,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4358430117"
+    }
+  }
+}

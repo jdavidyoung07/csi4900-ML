@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65621,
+      "total_gold_spent": 65350,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 95953,
+      "total_damage_dealt_to_objectives": 81263,
+      "total_damage_taken": 105363,
+      "average_vision_score": 26,
+      "total_wards_placed": 58,
+      "average_creep_score": 129,
+      "average_champion_experience": 15787,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4042786382"
+    },
+    "200": {
+      "total_gold_earned": 57356,
+      "total_gold_spent": 54805,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 73501,
+      "total_damage_dealt_to_objectives": 24622,
+      "total_damage_taken": 119557,
+      "average_vision_score": 25,
+      "total_wards_placed": 55,
+      "average_creep_score": 136,
+      "average_champion_experience": 14080,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4042786382"
+    }
+  }
+}

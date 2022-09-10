@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47382,
+      "total_gold_spent": 44075,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 59432,
+      "total_damage_dealt_to_objectives": 31070,
+      "total_damage_taken": 100076,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 117,
+      "average_champion_experience": 11944,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Gragas",
+      "match_id": "NA1_4169621418"
+    },
+    "200": {
+      "total_gold_earned": 56824,
+      "total_gold_spent": 49645,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 77932,
+      "total_damage_dealt_to_objectives": 65263,
+      "total_damage_taken": 88052,
+      "average_vision_score": 24,
+      "total_wards_placed": 50,
+      "average_creep_score": 112,
+      "average_champion_experience": 13596,
+      "dmg_carry": "Annie",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4169621418"
+    }
+  }
+}

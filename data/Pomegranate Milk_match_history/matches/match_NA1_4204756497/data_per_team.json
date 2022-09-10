@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52350,
+      "total_gold_spent": 47045,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 73860,
+      "total_damage_dealt_to_objectives": 16056,
+      "total_damage_taken": 104662,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 116,
+      "average_champion_experience": 11768,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4204756497"
+    },
+    "200": {
+      "total_gold_earned": 54725,
+      "total_gold_spent": 49300,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 82543,
+      "total_damage_dealt_to_objectives": 55973,
+      "total_damage_taken": 109316,
+      "average_vision_score": 31,
+      "total_wards_placed": 66,
+      "average_creep_score": 114,
+      "average_champion_experience": 13037,
+      "dmg_carry": "Talon",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4204756497"
+    }
+  }
+}

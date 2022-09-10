@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50923,
+      "total_gold_spent": 48500,
+      "team_comp": [
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 87747,
+      "total_damage_dealt_to_objectives": 48357,
+      "total_damage_taken": 111374,
+      "average_vision_score": 33,
+      "total_wards_placed": 60,
+      "average_creep_score": 134,
+      "average_champion_experience": 11218,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4379864236"
+    },
+    "200": {
+      "total_gold_earned": 60907,
+      "total_gold_spent": 53260,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 78817,
+      "total_damage_dealt_to_objectives": 68305,
+      "total_damage_taken": 120350,
+      "average_vision_score": 25,
+      "total_wards_placed": 65,
+      "average_creep_score": 126,
+      "average_champion_experience": 15103,
+      "dmg_carry": "Azir",
+      "obj_carry": "Azir",
+      "match_id": "NA1_4379864236"
+    }
+  }
+}

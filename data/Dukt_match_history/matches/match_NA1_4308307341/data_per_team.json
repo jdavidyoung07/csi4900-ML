@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49222,
+      "total_gold_spent": 46733,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 82581,
+      "total_damage_dealt_to_objectives": 28654,
+      "total_damage_taken": 105495,
+      "average_vision_score": 20,
+      "total_wards_placed": 46,
+      "average_creep_score": 89,
+      "average_champion_experience": 11478,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4308307341"
+    },
+    "200": {
+      "total_gold_earned": 60813,
+      "total_gold_spent": 54760,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 89529,
+      "total_damage_dealt_to_objectives": 81169,
+      "total_damage_taken": 111222,
+      "average_vision_score": 21,
+      "total_wards_placed": 45,
+      "average_creep_score": 109,
+      "average_champion_experience": 14107,
+      "dmg_carry": "Sylas",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4308307341"
+    }
+  }
+}

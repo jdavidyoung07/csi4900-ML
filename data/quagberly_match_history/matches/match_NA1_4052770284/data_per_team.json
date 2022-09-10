@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54522,
+      "total_gold_spent": 47525,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 68459,
+      "total_damage_dealt_to_objectives": 36295,
+      "total_damage_taken": 117928,
+      "average_vision_score": 20,
+      "total_wards_placed": 38,
+      "average_creep_score": 107,
+      "average_champion_experience": 12328,
+      "dmg_carry": "Olaf",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4052770284"
+    },
+    "200": {
+      "total_gold_earned": 62187,
+      "total_gold_spent": 52600,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zoe",
+          "champId": 142
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 33,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 86480,
+      "total_damage_dealt_to_objectives": 77457,
+      "total_damage_taken": 96489,
+      "average_vision_score": 18,
+      "total_wards_placed": 38,
+      "average_creep_score": 114,
+      "average_champion_experience": 14255,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4052770284"
+    }
+  }
+}

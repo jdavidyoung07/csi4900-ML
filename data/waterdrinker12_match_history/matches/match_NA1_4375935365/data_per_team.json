@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 102576,
+      "total_gold_spent": 108838,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 56,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 222378,
+      "total_damage_dealt_to_objectives": 77925,
+      "total_damage_taken": 187232,
+      "average_vision_score": 47,
+      "total_wards_placed": 111,
+      "average_creep_score": 217,
+      "average_champion_experience": 27044,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4375935365"
+    },
+    "200": {
+      "total_gold_earned": 95410,
+      "total_gold_spent": 96800,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 6,
+      "total_inhibitor_kils": 10,
+      "total_kills": 39,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 148487,
+      "total_damage_dealt_to_objectives": 122772,
+      "total_damage_taken": 272433,
+      "average_vision_score": 55,
+      "total_wards_placed": 123,
+      "average_creep_score": 174,
+      "average_champion_experience": 23456,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4375935365"
+    }
+  }
+}

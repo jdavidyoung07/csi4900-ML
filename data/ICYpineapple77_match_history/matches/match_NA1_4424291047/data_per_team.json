@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63975,
+      "total_gold_spent": 59675,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 131222,
+      "total_damage_dealt_to_objectives": 41934,
+      "total_damage_taken": 157116,
+      "average_vision_score": 37,
+      "total_wards_placed": 85,
+      "average_creep_score": 133,
+      "average_champion_experience": 15461,
+      "dmg_carry": "Viktor",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4424291047"
+    },
+    "200": {
+      "total_gold_earned": 74015,
+      "total_gold_spent": 64058,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 129237,
+      "total_damage_dealt_to_objectives": 79030,
+      "total_damage_taken": 168014,
+      "average_vision_score": 29,
+      "total_wards_placed": 74,
+      "average_creep_score": 142,
+      "average_champion_experience": 17177,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4424291047"
+    }
+  }
+}

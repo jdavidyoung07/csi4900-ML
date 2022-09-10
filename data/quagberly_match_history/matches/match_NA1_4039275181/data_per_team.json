@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 23,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39290,
+      "total_gold_spent": 37560,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 67680,
+      "total_damage_dealt_to_objectives": 5793,
+      "total_damage_taken": 93975,
+      "average_vision_score": 9,
+      "total_wards_placed": 30,
+      "average_creep_score": 83,
+      "average_champion_experience": 9663,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4039275181"
+    },
+    "200": {
+      "total_gold_earned": 52111,
+      "total_gold_spent": 46300,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 77036,
+      "total_damage_dealt_to_objectives": 67480,
+      "total_damage_taken": 99339,
+      "average_vision_score": 19,
+      "total_wards_placed": 41,
+      "average_creep_score": 95,
+      "average_champion_experience": 12050,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Jhin",
+      "match_id": "NA1_4039275181"
+    }
+  }
+}

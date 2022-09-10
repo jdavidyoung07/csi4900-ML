@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66116,
+      "total_gold_spent": 64215,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 134409,
+      "total_damage_dealt_to_objectives": 94248,
+      "total_damage_taken": 141645,
+      "average_vision_score": 30,
+      "total_wards_placed": 67,
+      "average_creep_score": 112,
+      "average_champion_experience": 14575,
+      "dmg_carry": "Urgot",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4423316664"
+    },
+    "200": {
+      "total_gold_earned": 68963,
+      "total_gold_spent": 60125,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 107682,
+      "total_damage_dealt_to_objectives": 58272,
+      "total_damage_taken": 171804,
+      "average_vision_score": 27,
+      "total_wards_placed": 56,
+      "average_creep_score": 117,
+      "average_champion_experience": 16700,
+      "dmg_carry": "Yone",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4423316664"
+    }
+  }
+}

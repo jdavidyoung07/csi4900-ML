@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52878,
+      "total_gold_spent": 50925,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 96050,
+      "total_damage_dealt_to_objectives": 65715,
+      "total_damage_taken": 117750,
+      "average_vision_score": 21,
+      "total_wards_placed": 45,
+      "average_creep_score": 106,
+      "average_champion_experience": 11617,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4418613773"
+    },
+    "200": {
+      "total_gold_earned": 56447,
+      "total_gold_spent": 50810,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 93823,
+      "total_damage_dealt_to_objectives": 37682,
+      "total_damage_taken": 111526,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 108,
+      "average_champion_experience": 13829,
+      "dmg_carry": "Vex",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4418613773"
+    }
+  }
+}

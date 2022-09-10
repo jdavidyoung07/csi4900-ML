@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85719,
+      "total_gold_spent": 76350,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 171657,
+      "total_damage_dealt_to_objectives": 86187,
+      "total_damage_taken": 202185,
+      "average_vision_score": 49,
+      "total_wards_placed": 89,
+      "average_creep_score": 200,
+      "average_champion_experience": 23443,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4243616020"
+    },
+    "200": {
+      "total_gold_earned": 83669,
+      "total_gold_spent": 79880,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 33,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 150664,
+      "total_damage_dealt_to_objectives": 105878,
+      "total_damage_taken": 212734,
+      "average_vision_score": 39,
+      "total_wards_placed": 79,
+      "average_creep_score": 170,
+      "average_champion_experience": 22337,
+      "dmg_carry": "Annie",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4243616020"
+    }
+  }
+}

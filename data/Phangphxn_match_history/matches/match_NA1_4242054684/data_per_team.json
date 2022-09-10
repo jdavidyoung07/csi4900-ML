@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65224,
+      "total_gold_spent": 62310,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 98963,
+      "total_damage_dealt_to_objectives": 79082,
+      "total_damage_taken": 145605,
+      "average_vision_score": 32,
+      "total_wards_placed": 77,
+      "average_creep_score": 127,
+      "average_champion_experience": 14724,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4242054684"
+    },
+    "200": {
+      "total_gold_earned": 63521,
+      "total_gold_spent": 57130,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 109965,
+      "total_damage_dealt_to_objectives": 58171,
+      "total_damage_taken": 132178,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 113,
+      "average_champion_experience": 15458,
+      "dmg_carry": "Aphelios",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4242054684"
+    }
+  }
+}

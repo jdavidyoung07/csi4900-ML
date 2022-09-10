@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 46680,
+      "total_gold_spent": 37410,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 72150,
+      "total_damage_dealt_to_objectives": 59055,
+      "total_damage_taken": 65842,
+      "average_vision_score": 9,
+      "total_wards_placed": 19,
+      "average_creep_score": 79,
+      "average_champion_experience": 10010,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4129342818"
+    },
+    "200": {
+      "total_gold_earned": 35699,
+      "total_gold_spent": 33850,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 42694,
+      "total_damage_dealt_to_objectives": 13938,
+      "total_damage_taken": 87236,
+      "average_vision_score": 12,
+      "total_wards_placed": 24,
+      "average_creep_score": 60,
+      "average_champion_experience": 8449,
+      "dmg_carry": "Leblanc",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4129342818"
+    }
+  }
+}

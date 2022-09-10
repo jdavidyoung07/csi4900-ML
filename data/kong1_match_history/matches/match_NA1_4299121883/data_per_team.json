@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62924,
+      "total_gold_spent": 62085,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 95295,
+      "total_damage_dealt_to_objectives": 66141,
+      "total_damage_taken": 111083,
+      "average_vision_score": 36,
+      "total_wards_placed": 89,
+      "average_creep_score": 139,
+      "average_champion_experience": 15736,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4299121883"
+    },
+    "200": {
+      "total_gold_earned": 64695,
+      "total_gold_spent": 58355,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 22,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 73866,
+      "total_damage_dealt_to_objectives": 57673,
+      "total_damage_taken": 124887,
+      "average_vision_score": 31,
+      "total_wards_placed": 73,
+      "average_creep_score": 146,
+      "average_champion_experience": 14860,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4299121883"
+    }
+  }
+}

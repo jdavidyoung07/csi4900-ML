@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78778,
+      "total_gold_spent": 72925,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 140223,
+      "total_damage_dealt_to_objectives": 52143,
+      "total_damage_taken": 174414,
+      "average_vision_score": 31,
+      "total_wards_placed": 63,
+      "average_creep_score": 171,
+      "average_champion_experience": 20281,
+      "dmg_carry": "MonkeyKing",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4369992769"
+    },
+    "200": {
+      "total_gold_earned": 77214,
+      "total_gold_spent": 71510,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 31,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 136294,
+      "total_damage_dealt_to_objectives": 100227,
+      "total_damage_taken": 181805,
+      "average_vision_score": 48,
+      "total_wards_placed": 129,
+      "average_creep_score": 160,
+      "average_champion_experience": 18470,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4369992769"
+    }
+  }
+}

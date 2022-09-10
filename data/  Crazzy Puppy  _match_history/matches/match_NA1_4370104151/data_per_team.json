@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81651,
+      "total_gold_spent": 76060,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 7,
+      "total_kills": 49,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 159259,
+      "total_damage_dealt_to_objectives": 108827,
+      "total_damage_taken": 176240,
+      "average_vision_score": 42,
+      "total_wards_placed": 71,
+      "average_creep_score": 138,
+      "average_champion_experience": 19425,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4370104151"
+    },
+    "200": {
+      "total_gold_earned": 69873,
+      "total_gold_spent": 68105,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 129445,
+      "total_damage_dealt_to_objectives": 22585,
+      "total_damage_taken": 193722,
+      "average_vision_score": 32,
+      "total_wards_placed": 77,
+      "average_creep_score": 156,
+      "average_champion_experience": 17940,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4370104151"
+    }
+  }
+}

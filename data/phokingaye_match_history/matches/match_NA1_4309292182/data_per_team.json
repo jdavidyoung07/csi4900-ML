@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62721,
+      "total_gold_spent": 59200,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 33,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 105834,
+      "total_damage_dealt_to_objectives": 52876,
+      "total_damage_taken": 153696,
+      "average_vision_score": 29,
+      "total_wards_placed": 61,
+      "average_creep_score": 126,
+      "average_champion_experience": 14806,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4309292182"
+    },
+    "200": {
+      "total_gold_earned": 62832,
+      "total_gold_spent": 59400,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 121290,
+      "total_damage_dealt_to_objectives": 49088,
+      "total_damage_taken": 138239,
+      "average_vision_score": 31,
+      "total_wards_placed": 84,
+      "average_creep_score": 112,
+      "average_champion_experience": 15648,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4309292182"
+    }
+  }
+}

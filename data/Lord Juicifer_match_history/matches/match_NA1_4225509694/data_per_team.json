@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70673,
+      "total_gold_spent": 60925,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 134906,
+      "total_damage_dealt_to_objectives": 60078,
+      "total_damage_taken": 144777,
+      "average_vision_score": 34,
+      "total_wards_placed": 77,
+      "average_creep_score": 124,
+      "average_champion_experience": 16516,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4225509694"
+    },
+    "200": {
+      "total_gold_earned": 64554,
+      "total_gold_spent": 61475,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 115391,
+      "total_damage_dealt_to_objectives": 35037,
+      "total_damage_taken": 158480,
+      "average_vision_score": 43,
+      "total_wards_placed": 86,
+      "average_creep_score": 119,
+      "average_champion_experience": 14333,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4225509694"
+    }
+  }
+}

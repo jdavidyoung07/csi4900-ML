@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 85218,
+      "total_gold_spent": 81850,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 43,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 173936,
+      "total_damage_dealt_to_objectives": 54022,
+      "total_damage_taken": 199037,
+      "average_vision_score": 42,
+      "total_wards_placed": 83,
+      "average_creep_score": 176,
+      "average_champion_experience": 21198,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4259860949"
+    },
+    "200": {
+      "total_gold_earned": 89294,
+      "total_gold_spent": 80860,
+      "team_comp": [
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 6,
+      "total_kills": 55,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 167613,
+      "total_damage_dealt_to_objectives": 103973,
+      "total_damage_taken": 214417,
+      "average_vision_score": 37,
+      "total_wards_placed": 66,
+      "average_creep_score": 162,
+      "average_champion_experience": 20669,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Lucian",
+      "match_id": "NA1_4259860949"
+    }
+  }
+}

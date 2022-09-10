@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58879,
+      "total_gold_spent": 55280,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 107548,
+      "total_damage_dealt_to_objectives": 48922,
+      "total_damage_taken": 132821,
+      "average_vision_score": 14,
+      "total_wards_placed": 35,
+      "average_creep_score": 125,
+      "average_champion_experience": 15795,
+      "dmg_carry": "Varus",
+      "obj_carry": "Varus",
+      "match_id": "NA1_4379855871"
+    },
+    "200": {
+      "total_gold_earned": 64138,
+      "total_gold_spent": 57760,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 96274,
+      "total_damage_dealt_to_objectives": 53851,
+      "total_damage_taken": 143596,
+      "average_vision_score": 24,
+      "total_wards_placed": 57,
+      "average_creep_score": 142,
+      "average_champion_experience": 16130,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4379855871"
+    }
+  }
+}

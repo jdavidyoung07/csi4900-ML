@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55270,
+      "total_gold_spent": 53200,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 111132,
+      "total_damage_dealt_to_objectives": 33493,
+      "total_damage_taken": 136359,
+      "average_vision_score": 23,
+      "total_wards_placed": 45,
+      "average_creep_score": 126,
+      "average_champion_experience": 13002,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4363620970"
+    },
+    "200": {
+      "total_gold_earned": 68926,
+      "total_gold_spent": 63775,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 109670,
+      "total_damage_dealt_to_objectives": 78323,
+      "total_damage_taken": 144889,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 119,
+      "average_champion_experience": 16011,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4363620970"
+    }
+  }
+}

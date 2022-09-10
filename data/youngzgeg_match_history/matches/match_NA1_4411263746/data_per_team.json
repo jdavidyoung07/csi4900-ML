@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59905,
+      "total_gold_spent": 56660,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 128793,
+      "total_damage_dealt_to_objectives": 28537,
+      "total_damage_taken": 151004,
+      "average_vision_score": 33,
+      "total_wards_placed": 62,
+      "average_creep_score": 123,
+      "average_champion_experience": 13758,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4411263746"
+    },
+    "200": {
+      "total_gold_earned": 72318,
+      "total_gold_spent": 65383,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 49,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 114775,
+      "total_damage_dealt_to_objectives": 123888,
+      "total_damage_taken": 156198,
+      "average_vision_score": 28,
+      "total_wards_placed": 54,
+      "average_creep_score": 126,
+      "average_champion_experience": 17405,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4411263746"
+    }
+  }
+}

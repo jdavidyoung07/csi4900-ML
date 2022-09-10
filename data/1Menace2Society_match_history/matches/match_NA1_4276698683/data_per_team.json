@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67229,
+      "total_gold_spent": 59650,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 104237,
+      "total_damage_dealt_to_objectives": 76995,
+      "total_damage_taken": 120742,
+      "average_vision_score": 37,
+      "total_wards_placed": 74,
+      "average_creep_score": 109,
+      "average_champion_experience": 15824,
+      "dmg_carry": "Zed",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4276698683"
+    },
+    "200": {
+      "total_gold_earned": 61236,
+      "total_gold_spent": 59975,
+      "team_comp": [
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 85256,
+      "total_damage_dealt_to_objectives": 27298,
+      "total_damage_taken": 129080,
+      "average_vision_score": 26,
+      "total_wards_placed": 58,
+      "average_creep_score": 119,
+      "average_champion_experience": 15336,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Gragas",
+      "match_id": "NA1_4276698683"
+    }
+  }
+}

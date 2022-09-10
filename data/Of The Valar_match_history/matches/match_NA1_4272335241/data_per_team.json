@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65042,
+      "total_gold_spent": 58550,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 126303,
+      "total_damage_dealt_to_objectives": 60783,
+      "total_damage_taken": 109634,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 110,
+      "average_champion_experience": 15020,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4272335241"
+    },
+    "200": {
+      "total_gold_earned": 53780,
+      "total_gold_spent": 50600,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 32,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 86408,
+      "total_damage_dealt_to_objectives": 51646,
+      "total_damage_taken": 152799,
+      "average_vision_score": 18,
+      "total_wards_placed": 42,
+      "average_creep_score": 112,
+      "average_champion_experience": 12208,
+      "dmg_carry": "Yone",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4272335241"
+    }
+  }
+}

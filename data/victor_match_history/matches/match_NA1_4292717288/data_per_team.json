@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64762,
+      "total_gold_spent": 51001,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 23,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 87041,
+      "total_damage_dealt_to_objectives": 69831,
+      "total_damage_taken": 124700,
+      "average_vision_score": 27,
+      "total_wards_placed": 67,
+      "average_creep_score": 152,
+      "average_champion_experience": 15402,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4292717288"
+    },
+    "200": {
+      "total_gold_earned": 59613,
+      "total_gold_spent": 56665,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 95897,
+      "total_damage_dealt_to_objectives": 54316,
+      "total_damage_taken": 112093,
+      "average_vision_score": 35,
+      "total_wards_placed": 61,
+      "average_creep_score": 133,
+      "average_champion_experience": 14606,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4292717288"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 73944,
+      "total_gold_spent": 68590,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 46,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 130283,
+      "total_damage_dealt_to_objectives": 68379,
+      "total_damage_taken": 127754,
+      "average_vision_score": 54,
+      "total_wards_placed": 104,
+      "average_creep_score": 140,
+      "average_champion_experience": 18467,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4246671732"
+    },
+    "200": {
+      "total_gold_earned": 68892,
+      "total_gold_spent": 64010,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 41,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 102119,
+      "total_damage_dealt_to_objectives": 77645,
+      "total_damage_taken": 150543,
+      "average_vision_score": 38,
+      "total_wards_placed": 80,
+      "average_creep_score": 139,
+      "average_champion_experience": 15917,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4246671732"
+    }
+  }
+}

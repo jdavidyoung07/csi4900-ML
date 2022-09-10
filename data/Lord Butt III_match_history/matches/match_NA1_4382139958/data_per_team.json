@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67776,
+      "total_gold_spent": 61685,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 142706,
+      "total_damage_dealt_to_objectives": 64874,
+      "total_damage_taken": 174623,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 107,
+      "average_champion_experience": 15091,
+      "dmg_carry": "Swain",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4382139958"
+    },
+    "200": {
+      "total_gold_earned": 61722,
+      "total_gold_spent": 60875,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 150054,
+      "total_damage_dealt_to_objectives": 52499,
+      "total_damage_taken": 167679,
+      "average_vision_score": 35,
+      "total_wards_placed": 60,
+      "average_creep_score": 107,
+      "average_champion_experience": 13033,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4382139958"
+    }
+  }
+}

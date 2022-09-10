@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56899,
+      "total_gold_spent": 55585,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 79068,
+      "total_damage_dealt_to_objectives": 29532,
+      "total_damage_taken": 107755,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 135,
+      "average_champion_experience": 13288,
+      "dmg_carry": "Ekko",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4205085597"
+    },
+    "200": {
+      "total_gold_earned": 67081,
+      "total_gold_spent": 62210,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 91404,
+      "total_damage_dealt_to_objectives": 100753,
+      "total_damage_taken": 118579,
+      "average_vision_score": 32,
+      "total_wards_placed": 69,
+      "average_creep_score": 126,
+      "average_champion_experience": 16099,
+      "dmg_carry": "Kled",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4205085597"
+    }
+  }
+}

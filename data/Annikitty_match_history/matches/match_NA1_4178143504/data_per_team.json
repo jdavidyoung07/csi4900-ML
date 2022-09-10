@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68776,
+      "total_gold_spent": 65270,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 102419,
+      "total_damage_dealt_to_objectives": 57148,
+      "total_damage_taken": 155248,
+      "average_vision_score": 30,
+      "total_wards_placed": 69,
+      "average_creep_score": 118,
+      "average_champion_experience": 16398,
+      "dmg_carry": "Brand",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4178143504"
+    },
+    "200": {
+      "total_gold_earned": 72520,
+      "total_gold_spent": 66880,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 55,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 134513,
+      "total_damage_dealt_to_objectives": 91679,
+      "total_damage_taken": 133086,
+      "average_vision_score": 33,
+      "total_wards_placed": 60,
+      "average_creep_score": 107,
+      "average_champion_experience": 16640,
+      "dmg_carry": "Corki",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4178143504"
+    }
+  }
+}

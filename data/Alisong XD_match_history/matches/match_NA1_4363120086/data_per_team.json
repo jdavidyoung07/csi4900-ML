@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62226,
+      "total_gold_spent": 58435,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 124327,
+      "total_damage_dealt_to_objectives": 51667,
+      "total_damage_taken": 144537,
+      "average_vision_score": 30,
+      "total_wards_placed": 66,
+      "average_creep_score": 125,
+      "average_champion_experience": 13664,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4363120086"
+    },
+    "200": {
+      "total_gold_earned": 67917,
+      "total_gold_spent": 60800,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 116422,
+      "total_damage_dealt_to_objectives": 79547,
+      "total_damage_taken": 162188,
+      "average_vision_score": 27,
+      "total_wards_placed": 57,
+      "average_creep_score": 128,
+      "average_champion_experience": 16279,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4363120086"
+    }
+  }
+}

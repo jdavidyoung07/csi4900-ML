@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69965,
+      "total_gold_spent": 65235,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 132261,
+      "total_damage_dealt_to_objectives": 19480,
+      "total_damage_taken": 197687,
+      "average_vision_score": 27,
+      "total_wards_placed": 69,
+      "average_creep_score": 166,
+      "average_champion_experience": 18180,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4374251364"
+    },
+    "200": {
+      "total_gold_earned": 85032,
+      "total_gold_spent": 81130,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 54,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 178640,
+      "total_damage_dealt_to_objectives": 128066,
+      "total_damage_taken": 164129,
+      "average_vision_score": 36,
+      "total_wards_placed": 65,
+      "average_creep_score": 130,
+      "average_champion_experience": 19336,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4374251364"
+    }
+  }
+}

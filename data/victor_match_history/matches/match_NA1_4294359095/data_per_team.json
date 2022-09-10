@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65200,
+      "total_gold_spent": 62703,
+      "team_comp": [
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 122092,
+      "total_damage_dealt_to_objectives": 54584,
+      "total_damage_taken": 168765,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 111,
+      "average_champion_experience": 14524,
+      "dmg_carry": "Swain",
+      "obj_carry": "Swain",
+      "match_id": "NA1_4294359095"
+    },
+    "200": {
+      "total_gold_earned": 73239,
+      "total_gold_spent": 65730,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 47,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 135065,
+      "total_damage_dealt_to_objectives": 74070,
+      "total_damage_taken": 151329,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 130,
+      "average_champion_experience": 17081,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4294359095"
+    }
+  }
+}

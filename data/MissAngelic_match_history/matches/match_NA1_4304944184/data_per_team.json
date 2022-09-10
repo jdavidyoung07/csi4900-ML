@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55005,
+      "total_gold_spent": 52500,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 90294,
+      "total_damage_dealt_to_objectives": 22295,
+      "total_damage_taken": 142104,
+      "average_vision_score": 16,
+      "total_wards_placed": 44,
+      "average_creep_score": 120,
+      "average_champion_experience": 13512,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Singed",
+      "match_id": "NA1_4304944184"
+    },
+    "200": {
+      "total_gold_earned": 68112,
+      "total_gold_spent": 62710,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 115107,
+      "total_damage_dealt_to_objectives": 86915,
+      "total_damage_taken": 125861,
+      "average_vision_score": 26,
+      "total_wards_placed": 44,
+      "average_creep_score": 142,
+      "average_champion_experience": 15865,
+      "dmg_carry": "Lux",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4304944184"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65050,
+      "total_gold_spent": 54875,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 100654,
+      "total_damage_dealt_to_objectives": 76968,
+      "total_damage_taken": 131281,
+      "average_vision_score": 22,
+      "total_wards_placed": 47,
+      "average_creep_score": 130,
+      "average_champion_experience": 16192,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4381261944"
+    },
+    "200": {
+      "total_gold_earned": 50863,
+      "total_gold_spent": 50358,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 93603,
+      "total_damage_dealt_to_objectives": 49433,
+      "total_damage_taken": 123327,
+      "average_vision_score": 29,
+      "total_wards_placed": 65,
+      "average_creep_score": 120,
+      "average_champion_experience": 12522,
+      "dmg_carry": "Akali",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4381261944"
+    }
+  }
+}

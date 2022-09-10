@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79915,
+      "total_gold_spent": 70175,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 58,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 135571,
+      "total_damage_dealt_to_objectives": 112094,
+      "total_damage_taken": 170604,
+      "average_vision_score": 34,
+      "total_wards_placed": 87,
+      "average_creep_score": 110,
+      "average_champion_experience": 19747,
+      "dmg_carry": "Zed",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4224706268"
+    },
+    "200": {
+      "total_gold_earned": 73475,
+      "total_gold_spent": 71125,
+      "team_comp": [
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 143843,
+      "total_damage_dealt_to_objectives": 46574,
+      "total_damage_taken": 163103,
+      "average_vision_score": 33,
+      "total_wards_placed": 63,
+      "average_creep_score": 101,
+      "average_champion_experience": 16591,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4224706268"
+    }
+  }
+}

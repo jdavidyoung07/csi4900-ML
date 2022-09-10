@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 64641,
+      "total_gold_spent": 61200,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 102027,
+      "total_damage_dealt_to_objectives": 67544,
+      "total_damage_taken": 156951,
+      "average_vision_score": 34,
+      "total_wards_placed": 73,
+      "average_creep_score": 120,
+      "average_champion_experience": 15116,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4280320480"
+    },
+    "200": {
+      "total_gold_earned": 74017,
+      "total_gold_spent": 67178,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 127049,
+      "total_damage_dealt_to_objectives": 72627,
+      "total_damage_taken": 127215,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 152,
+      "average_champion_experience": 17574,
+      "dmg_carry": "Annie",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4280320480"
+    }
+  }
+}

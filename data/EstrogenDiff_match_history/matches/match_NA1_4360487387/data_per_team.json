@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48059,
+      "total_gold_spent": 45625,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 73130,
+      "total_damage_dealt_to_objectives": 23090,
+      "total_damage_taken": 129521,
+      "average_vision_score": 35,
+      "total_wards_placed": 48,
+      "average_creep_score": 123,
+      "average_champion_experience": 10940,
+      "dmg_carry": "FiddleSticks",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4360487387"
+    },
+    "200": {
+      "total_gold_earned": 59009,
+      "total_gold_spent": 55248,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 97482,
+      "total_damage_dealt_to_objectives": 82625,
+      "total_damage_taken": 101834,
+      "average_vision_score": 27,
+      "total_wards_placed": 71,
+      "average_creep_score": 119,
+      "average_champion_experience": 14224,
+      "dmg_carry": "Diana",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4360487387"
+    }
+  }
+}

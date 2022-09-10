@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52906,
+      "total_gold_spent": 50956,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 2,
+      "total_kills": 22,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 78834,
+      "total_damage_dealt_to_objectives": 61602,
+      "total_damage_taken": 117373,
+      "average_vision_score": 23,
+      "total_wards_placed": 50,
+      "average_creep_score": 110,
+      "average_champion_experience": 11125,
+      "dmg_carry": "Azir",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4403952337"
+    },
+    "200": {
+      "total_gold_earned": 62793,
+      "total_gold_spent": 55650,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 95090,
+      "total_damage_dealt_to_objectives": 82087,
+      "total_damage_taken": 113657,
+      "average_vision_score": 22,
+      "total_wards_placed": 50,
+      "average_creep_score": 108,
+      "average_champion_experience": 14827,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4403952337"
+    }
+  }
+}

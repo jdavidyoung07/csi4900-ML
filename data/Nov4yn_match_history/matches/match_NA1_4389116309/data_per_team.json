@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74394,
+      "total_gold_spent": 72115,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 162661,
+      "total_damage_dealt_to_objectives": 79362,
+      "total_damage_taken": 185443,
+      "average_vision_score": 36,
+      "total_wards_placed": 66,
+      "average_creep_score": 142,
+      "average_champion_experience": 17637,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4389116309"
+    },
+    "200": {
+      "total_gold_earned": 81224,
+      "total_gold_spent": 73333,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 55,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 154041,
+      "total_damage_dealt_to_objectives": 103799,
+      "total_damage_taken": 210059,
+      "average_vision_score": 35,
+      "total_wards_placed": 82,
+      "average_creep_score": 139,
+      "average_champion_experience": 19427,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4389116309"
+    }
+  }
+}

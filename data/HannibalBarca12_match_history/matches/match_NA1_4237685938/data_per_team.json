@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75639,
+      "total_gold_spent": 66525,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 162336,
+      "total_damage_dealt_to_objectives": 44642,
+      "total_damage_taken": 170710,
+      "average_vision_score": 35,
+      "total_wards_placed": 55,
+      "average_creep_score": 151,
+      "average_champion_experience": 19315,
+      "dmg_carry": "Vayne",
+      "obj_carry": "DrMundo",
+      "match_id": "NA1_4237685938"
+    },
+    "200": {
+      "total_gold_earned": 77651,
+      "total_gold_spent": 75160,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 140425,
+      "total_damage_dealt_to_objectives": 62630,
+      "total_damage_taken": 200717,
+      "average_vision_score": 30,
+      "total_wards_placed": 71,
+      "average_creep_score": 129,
+      "average_champion_experience": 18366,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4237685938"
+    }
+  }
+}

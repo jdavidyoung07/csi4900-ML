@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58123,
+      "total_gold_spent": 55500,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 91820,
+      "total_damage_dealt_to_objectives": 22894,
+      "total_damage_taken": 103282,
+      "average_vision_score": 28,
+      "total_wards_placed": 68,
+      "average_creep_score": 138,
+      "average_champion_experience": 14138,
+      "dmg_carry": "Lux",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4170998189"
+    },
+    "200": {
+      "total_gold_earned": 68383,
+      "total_gold_spent": 56810,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 84701,
+      "total_damage_dealt_to_objectives": 100430,
+      "total_damage_taken": 137729,
+      "average_vision_score": 37,
+      "total_wards_placed": 61,
+      "average_creep_score": 116,
+      "average_champion_experience": 16543,
+      "dmg_carry": "Ahri",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4170998189"
+    }
+  }
+}

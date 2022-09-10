@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80249,
+      "total_gold_spent": 75050,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 144820,
+      "total_damage_dealt_to_objectives": 85477,
+      "total_damage_taken": 180599,
+      "average_vision_score": 33,
+      "total_wards_placed": 67,
+      "average_creep_score": 147,
+      "average_champion_experience": 18932,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4348114648"
+    },
+    "200": {
+      "total_gold_earned": 81725,
+      "total_gold_spent": 76265,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 54,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 141309,
+      "total_damage_dealt_to_objectives": 52662,
+      "total_damage_taken": 182632,
+      "average_vision_score": 32,
+      "total_wards_placed": 65,
+      "average_creep_score": 164,
+      "average_champion_experience": 20739,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4348114648"
+    }
+  }
+}

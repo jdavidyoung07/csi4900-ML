@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50290,
+      "total_gold_spent": 48055,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 71971,
+      "total_damage_dealt_to_objectives": 49248,
+      "total_damage_taken": 105782,
+      "average_vision_score": 24,
+      "total_wards_placed": 63,
+      "average_creep_score": 112,
+      "average_champion_experience": 11451,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4416283179"
+    },
+    "200": {
+      "total_gold_earned": 55070,
+      "total_gold_spent": 52910,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Singed",
+          "champId": 27
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 82873,
+      "total_damage_dealt_to_objectives": 67223,
+      "total_damage_taken": 110532,
+      "average_vision_score": 21,
+      "total_wards_placed": 55,
+      "average_creep_score": 107,
+      "average_champion_experience": 12618,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Ornn",
+      "match_id": "NA1_4416283179"
+    }
+  }
+}

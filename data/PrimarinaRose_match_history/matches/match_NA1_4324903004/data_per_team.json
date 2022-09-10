@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59200,
+      "total_gold_spent": 52385,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 87922,
+      "total_damage_dealt_to_objectives": 83907,
+      "total_damage_taken": 128666,
+      "average_vision_score": 20,
+      "total_wards_placed": 52,
+      "average_creep_score": 97,
+      "average_champion_experience": 13183,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Ahri",
+      "match_id": "NA1_4324903004"
+    },
+    "200": {
+      "total_gold_earned": 51469,
+      "total_gold_spent": 48258,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 83552,
+      "total_damage_dealt_to_objectives": 30885,
+      "total_damage_taken": 109842,
+      "average_vision_score": 24,
+      "total_wards_placed": 54,
+      "average_creep_score": 85,
+      "average_champion_experience": 10898,
+      "dmg_carry": "Bard",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4324903004"
+    }
+  }
+}

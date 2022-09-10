@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45597,
+      "total_gold_spent": 44690,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 72520,
+      "total_damage_dealt_to_objectives": 20425,
+      "total_damage_taken": 106372,
+      "average_vision_score": 22,
+      "total_wards_placed": 57,
+      "average_creep_score": 118,
+      "average_champion_experience": 11151,
+      "dmg_carry": "Lux",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4258301555"
+    },
+    "200": {
+      "total_gold_earned": 57814,
+      "total_gold_spent": 48193,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 37,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 91009,
+      "total_damage_dealt_to_objectives": 66570,
+      "total_damage_taken": 109304,
+      "average_vision_score": 22,
+      "total_wards_placed": 39,
+      "average_creep_score": 121,
+      "average_champion_experience": 14034,
+      "dmg_carry": "Zed",
+      "obj_carry": "Sejuani",
+      "match_id": "NA1_4258301555"
+    }
+  }
+}

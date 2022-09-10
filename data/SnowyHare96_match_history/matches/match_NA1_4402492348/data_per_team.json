@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60319,
+      "total_gold_spent": 54795,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 75844,
+      "total_damage_dealt_to_objectives": 83803,
+      "total_damage_taken": 65956,
+      "average_vision_score": 15,
+      "total_wards_placed": 40,
+      "average_creep_score": 113,
+      "average_champion_experience": 13110,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Jinx",
+      "match_id": "NA1_4402492348"
+    },
+    "200": {
+      "total_gold_earned": 41542,
+      "total_gold_spent": 39553,
+      "team_comp": [
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Neeko",
+          "champId": 518
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 45489,
+      "total_damage_dealt_to_objectives": 21587,
+      "total_damage_taken": 97609,
+      "average_vision_score": 16,
+      "total_wards_placed": 46,
+      "average_creep_score": 98,
+      "average_champion_experience": 10335,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4402492348"
+    }
+  }
+}

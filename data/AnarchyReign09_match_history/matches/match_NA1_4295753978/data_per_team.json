@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48800,
+      "total_gold_spent": 43975,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 69094,
+      "total_damage_dealt_to_objectives": 55757,
+      "total_damage_taken": 71969,
+      "average_vision_score": 15,
+      "total_wards_placed": 45,
+      "average_creep_score": 105,
+      "average_champion_experience": 10815,
+      "dmg_carry": "Chogath",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4295753978"
+    },
+    "200": {
+      "total_gold_earned": 39306,
+      "total_gold_spent": 37325,
+      "team_comp": [
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 53830,
+      "total_damage_dealt_to_objectives": 13467,
+      "total_damage_taken": 92165,
+      "average_vision_score": 19,
+      "total_wards_placed": 31,
+      "average_creep_score": 91,
+      "average_champion_experience": 9493,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4295753978"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77210,
+      "total_gold_spent": 70650,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 31,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 136550,
+      "total_damage_dealt_to_objectives": 80836,
+      "total_damage_taken": 141405,
+      "average_vision_score": 40,
+      "total_wards_placed": 67,
+      "average_creep_score": 162,
+      "average_champion_experience": 18834,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4340315913"
+    },
+    "200": {
+      "total_gold_earned": 72539,
+      "total_gold_spent": 71043,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 108538,
+      "total_damage_dealt_to_objectives": 75922,
+      "total_damage_taken": 157592,
+      "average_vision_score": 40,
+      "total_wards_placed": 95,
+      "average_creep_score": 138,
+      "average_champion_experience": 18018,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Shaco",
+      "match_id": "NA1_4340315913"
+    }
+  }
+}

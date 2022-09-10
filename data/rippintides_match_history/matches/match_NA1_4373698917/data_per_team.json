@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49845,
+      "total_gold_spent": 49975,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 74209,
+      "total_damage_dealt_to_objectives": 23360,
+      "total_damage_taken": 128305,
+      "average_vision_score": 15,
+      "total_wards_placed": 35,
+      "average_creep_score": 111,
+      "average_champion_experience": 12156,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4373698917"
+    },
+    "200": {
+      "total_gold_earned": 61922,
+      "total_gold_spent": 54230,
+      "team_comp": [
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 104768,
+      "total_damage_dealt_to_objectives": 89516,
+      "total_damage_taken": 107612,
+      "average_vision_score": 22,
+      "total_wards_placed": 51,
+      "average_creep_score": 99,
+      "average_champion_experience": 14559,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4373698917"
+    }
+  }
+}

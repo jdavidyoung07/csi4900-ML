@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52517,
+      "total_gold_spent": 50500,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 89739,
+      "total_damage_dealt_to_objectives": 34744,
+      "total_damage_taken": 103583,
+      "average_vision_score": 28,
+      "total_wards_placed": 59,
+      "average_creep_score": 104,
+      "average_champion_experience": 12220,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4288234389"
+    },
+    "200": {
+      "total_gold_earned": 59614,
+      "total_gold_spent": 52350,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 42,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 84489,
+      "total_damage_dealt_to_objectives": 48486,
+      "total_damage_taken": 116968,
+      "average_vision_score": 28,
+      "total_wards_placed": 55,
+      "average_creep_score": 118,
+      "average_champion_experience": 13853,
+      "dmg_carry": "Akali",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4288234389"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53649,
+      "total_gold_spent": 50135,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 33,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 119375,
+      "total_damage_dealt_to_objectives": 60090,
+      "total_damage_taken": 140467,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 85,
+      "average_champion_experience": 10661,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4388544829"
+    },
+    "200": {
+      "total_gold_earned": 57914,
+      "total_gold_spent": 51885,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 113304,
+      "total_damage_dealt_to_objectives": 55388,
+      "total_damage_taken": 141827,
+      "average_vision_score": 22,
+      "total_wards_placed": 50,
+      "average_creep_score": 87,
+      "average_champion_experience": 12655,
+      "dmg_carry": "Sylas",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4388544829"
+    }
+  }
+}

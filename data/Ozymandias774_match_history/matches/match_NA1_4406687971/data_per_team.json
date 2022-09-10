@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58911,
+      "total_gold_spent": 51600,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 110702,
+      "total_damage_dealt_to_objectives": 52116,
+      "total_damage_taken": 113662,
+      "average_vision_score": 16,
+      "total_wards_placed": 44,
+      "average_creep_score": 100,
+      "average_champion_experience": 13439,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4406687971"
+    },
+    "200": {
+      "total_gold_earned": 54839,
+      "total_gold_spent": 52075,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Bard",
+          "champId": 432
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 87987,
+      "total_damage_dealt_to_objectives": 68172,
+      "total_damage_taken": 141109,
+      "average_vision_score": 18,
+      "total_wards_placed": 33,
+      "average_creep_score": 97,
+      "average_champion_experience": 11330,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4406687971"
+    }
+  }
+}

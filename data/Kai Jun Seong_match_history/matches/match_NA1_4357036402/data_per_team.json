@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80079,
+      "total_gold_spent": 74425,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 56,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 204320,
+      "total_damage_dealt_to_objectives": 117092,
+      "total_damage_taken": 200486,
+      "average_vision_score": 44,
+      "total_wards_placed": 96,
+      "average_creep_score": 134,
+      "average_champion_experience": 19711,
+      "dmg_carry": "Akali",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4357036402"
+    },
+    "200": {
+      "total_gold_earned": 76741,
+      "total_gold_spent": 71185,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 48,
+      "total_deaths": 56,
+      "total_damage_dealt_to_champions": 157779,
+      "total_damage_dealt_to_objectives": 41923,
+      "total_damage_taken": 230282,
+      "average_vision_score": 30,
+      "total_wards_placed": 79,
+      "average_creep_score": 141,
+      "average_champion_experience": 19729,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4357036402"
+    }
+  }
+}

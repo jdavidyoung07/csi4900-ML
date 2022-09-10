@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75907,
+      "total_gold_spent": 67700,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 143132,
+      "total_damage_dealt_to_objectives": 85322,
+      "total_damage_taken": 163057,
+      "average_vision_score": 42,
+      "total_wards_placed": 73,
+      "average_creep_score": 135,
+      "average_champion_experience": 18430,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4223117513"
+    },
+    "200": {
+      "total_gold_earned": 76495,
+      "total_gold_spent": 70450,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 125301,
+      "total_damage_dealt_to_objectives": 92684,
+      "total_damage_taken": 185514,
+      "average_vision_score": 34,
+      "total_wards_placed": 58,
+      "average_creep_score": 144,
+      "average_champion_experience": 19301,
+      "dmg_carry": "Zed",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4223117513"
+    }
+  }
+}

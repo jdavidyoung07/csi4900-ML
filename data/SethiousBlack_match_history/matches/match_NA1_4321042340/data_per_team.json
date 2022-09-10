@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62673,
+      "total_gold_spent": 55955,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 100291,
+      "total_damage_dealt_to_objectives": 75432,
+      "total_damage_taken": 136864,
+      "average_vision_score": 34,
+      "total_wards_placed": 68,
+      "average_creep_score": 117,
+      "average_champion_experience": 14483,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4321042340"
+    },
+    "200": {
+      "total_gold_earned": 49704,
+      "total_gold_spent": 46445,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 102048,
+      "total_damage_dealt_to_objectives": 21111,
+      "total_damage_taken": 123967,
+      "average_vision_score": 22,
+      "total_wards_placed": 48,
+      "average_creep_score": 104,
+      "average_champion_experience": 11280,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Gnar",
+      "match_id": "NA1_4321042340"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 74027,
+      "total_gold_spent": 66550,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 123094,
+      "total_damage_dealt_to_objectives": 91820,
+      "total_damage_taken": 138062,
+      "average_vision_score": 36,
+      "total_wards_placed": 82,
+      "average_creep_score": 122,
+      "average_champion_experience": 16988,
+      "dmg_carry": "Elise",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4300040473"
+    },
+    "200": {
+      "total_gold_earned": 66200,
+      "total_gold_spent": 62843,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 2,
+      "total_kills": 40,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 113713,
+      "total_damage_dealt_to_objectives": 58875,
+      "total_damage_taken": 167835,
+      "average_vision_score": 26,
+      "total_wards_placed": 67,
+      "average_creep_score": 133,
+      "average_champion_experience": 15053,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Akali",
+      "match_id": "NA1_4300040473"
+    }
+  }
+}

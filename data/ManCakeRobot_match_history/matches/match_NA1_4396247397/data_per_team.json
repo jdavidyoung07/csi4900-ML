@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70041,
+      "total_gold_spent": 63445,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 156269,
+      "total_damage_dealt_to_objectives": 23525,
+      "total_damage_taken": 135867,
+      "average_vision_score": 38,
+      "total_wards_placed": 79,
+      "average_creep_score": 154,
+      "average_champion_experience": 16690,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4396247397"
+    },
+    "200": {
+      "total_gold_earned": 79473,
+      "total_gold_spent": 70950,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 43,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 118013,
+      "total_damage_dealt_to_objectives": 133250,
+      "total_damage_taken": 211490,
+      "average_vision_score": 38,
+      "total_wards_placed": 75,
+      "average_creep_score": 150,
+      "average_champion_experience": 19641,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4396247397"
+    }
+  }
+}

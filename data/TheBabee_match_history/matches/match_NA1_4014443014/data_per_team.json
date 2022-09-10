@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 38,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 76080,
+      "total_gold_spent": 68235,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 157989,
+      "total_damage_dealt_to_objectives": 101629,
+      "total_damage_taken": 123758,
+      "average_vision_score": 31,
+      "total_wards_placed": 68,
+      "average_creep_score": 155,
+      "average_champion_experience": 18973,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4014443014"
+    },
+    "200": {
+      "total_gold_earned": 67855,
+      "total_gold_spent": 66490,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 95913,
+      "total_damage_dealt_to_objectives": 59638,
+      "total_damage_taken": 189997,
+      "average_vision_score": 37,
+      "total_wards_placed": 83,
+      "average_creep_score": 144,
+      "average_champion_experience": 15505,
+      "dmg_carry": "Swain",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4014443014"
+    }
+  }
+}

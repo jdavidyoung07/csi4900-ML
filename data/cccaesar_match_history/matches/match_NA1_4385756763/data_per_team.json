@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67112,
+      "total_gold_spent": 65360,
+      "team_comp": [
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 108914,
+      "total_damage_dealt_to_objectives": 48891,
+      "total_damage_taken": 170859,
+      "average_vision_score": 35,
+      "total_wards_placed": 64,
+      "average_creep_score": 148,
+      "average_champion_experience": 16351,
+      "dmg_carry": "Azir",
+      "obj_carry": "Morgana",
+      "match_id": "NA1_4385756763"
+    },
+    "200": {
+      "total_gold_earned": 71974,
+      "total_gold_spent": 61360,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 29,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 143100,
+      "total_damage_dealt_to_objectives": 100751,
+      "total_damage_taken": 147518,
+      "average_vision_score": 29,
+      "total_wards_placed": 68,
+      "average_creep_score": 145,
+      "average_champion_experience": 18101,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4385756763"
+    }
+  }
+}

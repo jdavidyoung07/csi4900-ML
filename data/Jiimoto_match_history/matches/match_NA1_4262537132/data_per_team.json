@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53563,
+      "total_gold_spent": 48575,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 24,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 57253,
+      "total_damage_dealt_to_objectives": 83367,
+      "total_damage_taken": 102884,
+      "average_vision_score": 21,
+      "total_wards_placed": 49,
+      "average_creep_score": 119,
+      "average_champion_experience": 11615,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4262537132"
+    },
+    "200": {
+      "total_gold_earned": 45946,
+      "total_gold_spent": 42035,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 73275,
+      "total_damage_dealt_to_objectives": 12874,
+      "total_damage_taken": 79094,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 106,
+      "average_champion_experience": 11022,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4262537132"
+    }
+  }
+}

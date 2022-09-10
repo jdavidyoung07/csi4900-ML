@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79230,
+      "total_gold_spent": 68425,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 63,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 173441,
+      "total_damage_dealt_to_objectives": 50203,
+      "total_damage_taken": 187855,
+      "average_vision_score": 20,
+      "total_wards_placed": 36,
+      "average_creep_score": 131,
+      "average_champion_experience": 19048,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4217063865"
+    },
+    "200": {
+      "total_gold_earned": 74384,
+      "total_gold_spent": 70343,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 49,
+      "total_deaths": 63,
+      "total_damage_dealt_to_champions": 154045,
+      "total_damage_dealt_to_objectives": 57769,
+      "total_damage_taken": 198900,
+      "average_vision_score": 20,
+      "total_wards_placed": 59,
+      "average_creep_score": 106,
+      "average_champion_experience": 17103,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4217063865"
+    }
+  }
+}

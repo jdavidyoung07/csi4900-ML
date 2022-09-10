@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80603,
+      "total_gold_spent": 70965,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 52,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 174364,
+      "total_damage_dealt_to_objectives": 105687,
+      "total_damage_taken": 190829,
+      "average_vision_score": 20,
+      "total_wards_placed": 49,
+      "average_creep_score": 138,
+      "average_champion_experience": 19679,
+      "dmg_carry": "Kayle",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4385868824"
+    },
+    "200": {
+      "total_gold_earned": 71671,
+      "total_gold_spent": 73895,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 3,
+      "total_kills": 41,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 144347,
+      "total_damage_dealt_to_objectives": 45668,
+      "total_damage_taken": 206116,
+      "average_vision_score": 31,
+      "total_wards_placed": 88,
+      "average_creep_score": 140,
+      "average_champion_experience": 16654,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4385868824"
+    }
+  }
+}

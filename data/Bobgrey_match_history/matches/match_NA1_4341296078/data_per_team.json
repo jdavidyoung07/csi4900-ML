@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52724,
+      "total_gold_spent": 48500,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 108422,
+      "total_damage_dealt_to_objectives": 31897,
+      "total_damage_taken": 134380,
+      "average_vision_score": 39,
+      "total_wards_placed": 56,
+      "average_creep_score": 110,
+      "average_champion_experience": 12178,
+      "dmg_carry": "Viktor",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4341296078"
+    },
+    "200": {
+      "total_gold_earned": 63284,
+      "total_gold_spent": 56675,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 106340,
+      "total_damage_dealt_to_objectives": 80797,
+      "total_damage_taken": 148234,
+      "average_vision_score": 28,
+      "total_wards_placed": 52,
+      "average_creep_score": 105,
+      "average_champion_experience": 14868,
+      "dmg_carry": "Camille",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4341296078"
+    }
+  }
+}

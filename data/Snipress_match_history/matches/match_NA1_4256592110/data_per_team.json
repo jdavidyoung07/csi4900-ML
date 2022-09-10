@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70054,
+      "total_gold_spent": 70525,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 103150,
+      "total_damage_dealt_to_objectives": 49527,
+      "total_damage_taken": 145645,
+      "average_vision_score": 49,
+      "total_wards_placed": 68,
+      "average_creep_score": 168,
+      "average_champion_experience": 17122,
+      "dmg_carry": "Zed",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4256592110"
+    },
+    "200": {
+      "total_gold_earned": 76859,
+      "total_gold_spent": 70166,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 111650,
+      "total_damage_dealt_to_objectives": 104038,
+      "total_damage_taken": 140025,
+      "average_vision_score": 44,
+      "total_wards_placed": 87,
+      "average_creep_score": 155,
+      "average_champion_experience": 19266,
+      "dmg_carry": "Azir",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4256592110"
+    }
+  }
+}

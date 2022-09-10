@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52554,
+      "total_gold_spent": 50225,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 61074,
+      "total_damage_dealt_to_objectives": 33206,
+      "total_damage_taken": 130351,
+      "average_vision_score": 26,
+      "total_wards_placed": 59,
+      "average_creep_score": 116,
+      "average_champion_experience": 12560,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4015278419"
+    },
+    "200": {
+      "total_gold_earned": 58941,
+      "total_gold_spent": 49975,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 104554,
+      "total_damage_dealt_to_objectives": 67069,
+      "total_damage_taken": 87816,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 109,
+      "average_champion_experience": 13767,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4015278419"
+    }
+  }
+}

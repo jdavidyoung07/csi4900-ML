@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 30680,
+      "total_gold_spent": 26385,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 29444,
+      "total_damage_dealt_to_objectives": 33288,
+      "total_damage_taken": 50107,
+      "average_vision_score": 9,
+      "total_wards_placed": 25,
+      "average_creep_score": 61,
+      "average_champion_experience": 6184,
+      "dmg_carry": "Ekko",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4317864118"
+    },
+    "200": {
+      "total_gold_earned": 29351,
+      "total_gold_spent": 27835,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 35649,
+      "total_damage_dealt_to_objectives": 5187,
+      "total_damage_taken": 42962,
+      "average_vision_score": 6,
+      "total_wards_placed": 19,
+      "average_creep_score": 57,
+      "average_champion_experience": 5820,
+      "dmg_carry": "Draven",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4317864118"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65426,
+      "total_gold_spent": 57850,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 129138,
+      "total_damage_dealt_to_objectives": 73477,
+      "total_damage_taken": 136485,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 109,
+      "average_champion_experience": 14324,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Tryndamere",
+      "match_id": "NA1_4402528118"
+    },
+    "200": {
+      "total_gold_earned": 59527,
+      "total_gold_spent": 54810,
+      "team_comp": [
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 25,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 106779,
+      "total_damage_dealt_to_objectives": 37956,
+      "total_damage_taken": 150879,
+      "average_vision_score": 18,
+      "total_wards_placed": 41,
+      "average_creep_score": 116,
+      "average_champion_experience": 13435,
+      "dmg_carry": "Akali",
+      "obj_carry": "Karthus",
+      "match_id": "NA1_4402528118"
+    }
+  }
+}

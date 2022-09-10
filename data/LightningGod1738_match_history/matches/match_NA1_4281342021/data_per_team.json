@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 39925,
+      "total_gold_spent": 38850,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 57186,
+      "total_damage_dealt_to_objectives": 17545,
+      "total_damage_taken": 88177,
+      "average_vision_score": 17,
+      "total_wards_placed": 39,
+      "average_creep_score": 84,
+      "average_champion_experience": 8901,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4281342021"
+    },
+    "200": {
+      "total_gold_earned": 49445,
+      "total_gold_spent": 42685,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 75012,
+      "total_damage_dealt_to_objectives": 55161,
+      "total_damage_taken": 81912,
+      "average_vision_score": 16,
+      "total_wards_placed": 37,
+      "average_creep_score": 86,
+      "average_champion_experience": 10177,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Olaf",
+      "match_id": "NA1_4281342021"
+    }
+  }
+}

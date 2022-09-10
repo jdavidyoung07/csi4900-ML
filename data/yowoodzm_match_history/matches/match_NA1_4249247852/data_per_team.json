@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 47449,
+      "total_gold_spent": 44885,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 53502,
+      "total_damage_dealt_to_objectives": 30059,
+      "total_damage_taken": 121080,
+      "average_vision_score": 18,
+      "total_wards_placed": 38,
+      "average_creep_score": 113,
+      "average_champion_experience": 11269,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4249247852"
+    },
+    "200": {
+      "total_gold_earned": 58152,
+      "total_gold_spent": 49435,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 34,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 93317,
+      "total_damage_dealt_to_objectives": 65908,
+      "total_damage_taken": 78420,
+      "average_vision_score": 25,
+      "total_wards_placed": 50,
+      "average_creep_score": 112,
+      "average_champion_experience": 13742,
+      "dmg_carry": "Yorick",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4249247852"
+    }
+  }
+}

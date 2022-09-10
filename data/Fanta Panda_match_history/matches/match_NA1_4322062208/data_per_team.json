@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61660,
+      "total_gold_spent": 58050,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 121824,
+      "total_damage_dealt_to_objectives": 73494,
+      "total_damage_taken": 138767,
+      "average_vision_score": 33,
+      "total_wards_placed": 63,
+      "average_creep_score": 127,
+      "average_champion_experience": 14258,
+      "dmg_carry": "Gwen",
+      "obj_carry": "Gwen",
+      "match_id": "NA1_4322062208"
+    },
+    "200": {
+      "total_gold_earned": 67698,
+      "total_gold_spent": 61710,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 40,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 111053,
+      "total_damage_dealt_to_objectives": 51666,
+      "total_damage_taken": 156165,
+      "average_vision_score": 29,
+      "total_wards_placed": 65,
+      "average_creep_score": 131,
+      "average_champion_experience": 17028,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4322062208"
+    }
+  }
+}

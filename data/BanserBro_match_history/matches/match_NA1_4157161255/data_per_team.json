@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61498,
+      "total_gold_spent": 60180,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 114136,
+      "total_damage_dealt_to_objectives": 34232,
+      "total_damage_taken": 111637,
+      "average_vision_score": 36,
+      "total_wards_placed": 65,
+      "average_creep_score": 148,
+      "average_champion_experience": 13958,
+      "dmg_carry": "Lux",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4157161255"
+    },
+    "200": {
+      "total_gold_earned": 73975,
+      "total_gold_spent": 67105,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 44,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 96879,
+      "total_damage_dealt_to_objectives": 109857,
+      "total_damage_taken": 153020,
+      "average_vision_score": 29,
+      "total_wards_placed": 61,
+      "average_creep_score": 132,
+      "average_champion_experience": 17701,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Skarner",
+      "match_id": "NA1_4157161255"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62820,
+      "total_gold_spent": 54550,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 30,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 102710,
+      "total_damage_dealt_to_objectives": 89833,
+      "total_damage_taken": 99893,
+      "average_vision_score": 22,
+      "total_wards_placed": 49,
+      "average_creep_score": 128,
+      "average_champion_experience": 15587,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4259543365"
+    },
+    "200": {
+      "total_gold_earned": 52642,
+      "total_gold_spent": 50983,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 70933,
+      "total_damage_dealt_to_objectives": 24482,
+      "total_damage_taken": 128649,
+      "average_vision_score": 28,
+      "total_wards_placed": 58,
+      "average_creep_score": 122,
+      "average_champion_experience": 12567,
+      "dmg_carry": "Nidalee",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4259543365"
+    }
+  }
+}

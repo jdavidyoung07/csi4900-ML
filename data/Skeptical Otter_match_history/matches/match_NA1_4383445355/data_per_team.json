@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 27659,
+      "total_gold_spent": 24860,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 4,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 37322,
+      "total_damage_dealt_to_objectives": 16608,
+      "total_damage_taken": 69148,
+      "average_vision_score": 16,
+      "total_wards_placed": 41,
+      "average_creep_score": 70,
+      "average_champion_experience": 6704,
+      "dmg_carry": "Swain",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4383445355"
+    },
+    "200": {
+      "total_gold_earned": 44184,
+      "total_gold_spent": 38618,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 4,
+      "total_damage_dealt_to_champions": 54148,
+      "total_damage_dealt_to_objectives": 50395,
+      "total_damage_taken": 57484,
+      "average_vision_score": 12,
+      "total_wards_placed": 25,
+      "average_creep_score": 89,
+      "average_champion_experience": 9473,
+      "dmg_carry": "KogMaw",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4383445355"
+    }
+  }
+}

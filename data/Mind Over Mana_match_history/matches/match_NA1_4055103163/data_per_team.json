@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 37,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68300,
+      "total_gold_spent": 73480,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 47,
+      "total_deaths": 55,
+      "total_damage_dealt_to_champions": 182584,
+      "total_damage_dealt_to_objectives": 49933,
+      "total_damage_taken": 184683,
+      "average_vision_score": 27,
+      "total_wards_placed": 60,
+      "average_creep_score": 111,
+      "average_champion_experience": 15743,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4055103163"
+    },
+    "200": {
+      "total_gold_earned": 78053,
+      "total_gold_spent": 69585,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 55,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 154659,
+      "total_damage_dealt_to_objectives": 94114,
+      "total_damage_taken": 235982,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 122,
+      "average_champion_experience": 17707,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4055103163"
+    }
+  }
+}

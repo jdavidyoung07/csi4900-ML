@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45564,
+      "total_gold_spent": 35855,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 60621,
+      "total_damage_dealt_to_objectives": 40949,
+      "total_damage_taken": 68888,
+      "average_vision_score": 17,
+      "total_wards_placed": 26,
+      "average_creep_score": 88,
+      "average_champion_experience": 10355,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4083035103"
+    },
+    "200": {
+      "total_gold_earned": 35523,
+      "total_gold_spent": 33093,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 50436,
+      "total_damage_dealt_to_objectives": 40036,
+      "total_damage_taken": 75352,
+      "average_vision_score": 17,
+      "total_wards_placed": 52,
+      "average_creep_score": 82,
+      "average_champion_experience": 8585,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4083035103"
+    }
+  }
+}

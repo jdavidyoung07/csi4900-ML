@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78557,
+      "total_gold_spent": 72905,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 45,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 137990,
+      "total_damage_dealt_to_objectives": 72439,
+      "total_damage_taken": 168997,
+      "average_vision_score": 35,
+      "total_wards_placed": 53,
+      "average_creep_score": 157,
+      "average_champion_experience": 19708,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4085572305"
+    },
+    "200": {
+      "total_gold_earned": 75343,
+      "total_gold_spent": 70830,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 39,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 123920,
+      "total_damage_dealt_to_objectives": 87643,
+      "total_damage_taken": 185759,
+      "average_vision_score": 31,
+      "total_wards_placed": 75,
+      "average_creep_score": 142,
+      "average_champion_experience": 18694,
+      "dmg_carry": "Corki",
+      "obj_carry": "Sion",
+      "match_id": "NA1_4085572305"
+    }
+  }
+}

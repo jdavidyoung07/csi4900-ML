@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 37514,
+      "total_gold_spent": 35085,
+      "team_comp": [
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 16,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 50335,
+      "total_damage_dealt_to_objectives": 8619,
+      "total_damage_taken": 89603,
+      "average_vision_score": 15,
+      "total_wards_placed": 41,
+      "average_creep_score": 83,
+      "average_champion_experience": 8804,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4107221387"
+    },
+    "200": {
+      "total_gold_earned": 51481,
+      "total_gold_spent": 46708,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 16,
+      "total_damage_dealt_to_champions": 71620,
+      "total_damage_dealt_to_objectives": 78373,
+      "total_damage_taken": 80408,
+      "average_vision_score": 18,
+      "total_wards_placed": 38,
+      "average_creep_score": 83,
+      "average_champion_experience": 11876,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Heimerdinger",
+      "match_id": "NA1_4107221387"
+    }
+  }
+}

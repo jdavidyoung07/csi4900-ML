@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51916,
+      "total_gold_spent": 50915,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 91649,
+      "total_damage_dealt_to_objectives": 19478,
+      "total_damage_taken": 134770,
+      "average_vision_score": 24,
+      "total_wards_placed": 58,
+      "average_creep_score": 104,
+      "average_champion_experience": 13061,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4422555684"
+    },
+    "200": {
+      "total_gold_earned": 62983,
+      "total_gold_spent": 54083,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 41,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 118206,
+      "total_damage_dealt_to_objectives": 77009,
+      "total_damage_taken": 128113,
+      "average_vision_score": 21,
+      "total_wards_placed": 53,
+      "average_creep_score": 107,
+      "average_champion_experience": 14896,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Darius",
+      "match_id": "NA1_4422555684"
+    }
+  }
+}

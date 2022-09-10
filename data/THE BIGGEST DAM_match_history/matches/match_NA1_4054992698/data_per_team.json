@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 32,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62109,
+      "total_gold_spent": 53130,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 112437,
+      "total_damage_dealt_to_objectives": 57040,
+      "total_damage_taken": 119853,
+      "average_vision_score": 20,
+      "total_wards_placed": 50,
+      "average_creep_score": 124,
+      "average_champion_experience": 16173,
+      "dmg_carry": "Morgana",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4054992698"
+    },
+    "200": {
+      "total_gold_earned": 62019,
+      "total_gold_spent": 57360,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 96036,
+      "total_damage_dealt_to_objectives": 47078,
+      "total_damage_taken": 149362,
+      "average_vision_score": 21,
+      "total_wards_placed": 47,
+      "average_creep_score": 122,
+      "average_champion_experience": 14145,
+      "dmg_carry": "Samira",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4054992698"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52375,
+      "total_gold_spent": 49500,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 92865,
+      "total_damage_dealt_to_objectives": 34189,
+      "total_damage_taken": 129319,
+      "average_vision_score": 21,
+      "total_wards_placed": 46,
+      "average_creep_score": 99,
+      "average_champion_experience": 13001,
+      "dmg_carry": "TahmKench",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4048527989"
+    },
+    "200": {
+      "total_gold_earned": 68069,
+      "total_gold_spent": 58435,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 110651,
+      "total_damage_dealt_to_objectives": 84618,
+      "total_damage_taken": 138796,
+      "average_vision_score": 29,
+      "total_wards_placed": 64,
+      "average_creep_score": 133,
+      "average_champion_experience": 16525,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4048527989"
+    }
+  }
+}

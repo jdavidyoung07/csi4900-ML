@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60307,
+      "total_gold_spent": 57775,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 123085,
+      "total_damage_dealt_to_objectives": 22615,
+      "total_damage_taken": 177061,
+      "average_vision_score": 30,
+      "total_wards_placed": 69,
+      "average_creep_score": 140,
+      "average_champion_experience": 14927,
+      "dmg_carry": "Swain",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4396005717"
+    },
+    "200": {
+      "total_gold_earned": 77661,
+      "total_gold_spent": 70145,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 5,
+      "total_kills": 49,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 150967,
+      "total_damage_dealt_to_objectives": 113047,
+      "total_damage_taken": 169601,
+      "average_vision_score": 34,
+      "total_wards_placed": 66,
+      "average_creep_score": 134,
+      "average_champion_experience": 17900,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Senna",
+      "match_id": "NA1_4396005717"
+    }
+  }
+}

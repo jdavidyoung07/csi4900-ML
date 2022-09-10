@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49365,
+      "total_gold_spent": 44445,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 90495,
+      "total_damage_dealt_to_objectives": 21157,
+      "total_damage_taken": 143805,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 89,
+      "average_champion_experience": 11516,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4277463483"
+    },
+    "200": {
+      "total_gold_earned": 66746,
+      "total_gold_spent": 54675,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 129821,
+      "total_damage_dealt_to_objectives": 67598,
+      "total_damage_taken": 127849,
+      "average_vision_score": 22,
+      "total_wards_placed": 41,
+      "average_creep_score": 99,
+      "average_champion_experience": 14375,
+      "dmg_carry": "Senna",
+      "obj_carry": "Zed",
+      "match_id": "NA1_4277463483"
+    }
+  }
+}

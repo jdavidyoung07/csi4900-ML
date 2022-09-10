@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 26166,
+      "total_gold_spent": 24483,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 26453,
+      "total_damage_dealt_to_objectives": 16810,
+      "total_damage_taken": 53387,
+      "average_vision_score": 12,
+      "total_wards_placed": 36,
+      "average_creep_score": 64,
+      "average_champion_experience": 5982,
+      "dmg_carry": "Lissandra",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4309013770"
+    },
+    "200": {
+      "total_gold_earned": 40705,
+      "total_gold_spent": 35395,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 43649,
+      "total_damage_dealt_to_objectives": 41891,
+      "total_damage_taken": 49168,
+      "average_vision_score": 15,
+      "total_wards_placed": 29,
+      "average_creep_score": 87,
+      "average_champion_experience": 8583,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Akshan",
+      "match_id": "NA1_4309013770"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 88689,
+      "total_gold_spent": 84253,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 51,
+      "total_deaths": 58,
+      "total_damage_dealt_to_champions": 156070,
+      "total_damage_dealt_to_objectives": 123791,
+      "total_damage_taken": 247054,
+      "average_vision_score": 43,
+      "total_wards_placed": 87,
+      "average_creep_score": 168,
+      "average_champion_experience": 21964,
+      "dmg_carry": "Veigar",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4415845364"
+    },
+    "200": {
+      "total_gold_earned": 90898,
+      "total_gold_spent": 87975,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 58,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 213351,
+      "total_damage_dealt_to_objectives": 93734,
+      "total_damage_taken": 203336,
+      "average_vision_score": 45,
+      "total_wards_placed": 81,
+      "average_creep_score": 155,
+      "average_champion_experience": 23017,
+      "dmg_carry": "Shaco",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4415845364"
+    }
+  }
+}

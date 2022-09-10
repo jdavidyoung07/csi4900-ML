@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48918,
+      "total_gold_spent": 41725,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 68313,
+      "total_damage_dealt_to_objectives": 58991,
+      "total_damage_taken": 99242,
+      "average_vision_score": 23,
+      "total_wards_placed": 49,
+      "average_creep_score": 110,
+      "average_champion_experience": 12171,
+      "dmg_carry": "Orianna",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4408420792"
+    },
+    "200": {
+      "total_gold_earned": 46320,
+      "total_gold_spent": 42963,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "FiddleSticks",
+          "champId": 9
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 79574,
+      "total_damage_dealt_to_objectives": 31351,
+      "total_damage_taken": 89037,
+      "average_vision_score": 29,
+      "total_wards_placed": 47,
+      "average_creep_score": 104,
+      "average_champion_experience": 11531,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4408420792"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 29,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44913,
+      "total_gold_spent": 40610,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "AurelionSol",
+          "champId": 136
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 83483,
+      "total_damage_dealt_to_objectives": 8738,
+      "total_damage_taken": 94706,
+      "average_vision_score": 18,
+      "total_wards_placed": 43,
+      "average_creep_score": 90,
+      "average_champion_experience": 10567,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "MonkeyKing",
+      "match_id": "NA1_4033078913"
+    },
+    "200": {
+      "total_gold_earned": 55905,
+      "total_gold_spent": 51200,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 29,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 73346,
+      "total_damage_dealt_to_objectives": 75908,
+      "total_damage_taken": 120591,
+      "average_vision_score": 22,
+      "total_wards_placed": 55,
+      "average_creep_score": 108,
+      "average_champion_experience": 13200,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Chogath",
+      "match_id": "NA1_4033078913"
+    }
+  }
+}

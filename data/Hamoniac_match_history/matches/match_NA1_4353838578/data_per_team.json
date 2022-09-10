@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 41635,
+      "total_gold_spent": 39675,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 69658,
+      "total_damage_dealt_to_objectives": 7476,
+      "total_damage_taken": 93690,
+      "average_vision_score": 18,
+      "total_wards_placed": 47,
+      "average_creep_score": 88,
+      "average_champion_experience": 9709,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4353838578"
+    },
+    "200": {
+      "total_gold_earned": 54814,
+      "total_gold_spent": 49460,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 81097,
+      "total_damage_dealt_to_objectives": 50252,
+      "total_damage_taken": 91468,
+      "average_vision_score": 18,
+      "total_wards_placed": 35,
+      "average_creep_score": 109,
+      "average_champion_experience": 11956,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Zeri",
+      "match_id": "NA1_4353838578"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53333,
+      "total_gold_spent": 46010,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 76483,
+      "total_damage_dealt_to_objectives": 68387,
+      "total_damage_taken": 82106,
+      "average_vision_score": 19,
+      "total_wards_placed": 43,
+      "average_creep_score": 96,
+      "average_champion_experience": 13367,
+      "dmg_carry": "Sett",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4089264101"
+    },
+    "200": {
+      "total_gold_earned": 43886,
+      "total_gold_spent": 41145,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 57301,
+      "total_damage_dealt_to_objectives": 20028,
+      "total_damage_taken": 95265,
+      "average_vision_score": 20,
+      "total_wards_placed": 46,
+      "average_creep_score": 106,
+      "average_champion_experience": 10568,
+      "dmg_carry": "Anivia",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4089264101"
+    }
+  }
+}

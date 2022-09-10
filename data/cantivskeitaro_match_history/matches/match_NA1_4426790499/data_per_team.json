@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 72400,
+      "total_gold_spent": 69450,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 117388,
+      "total_damage_dealt_to_objectives": 52260,
+      "total_damage_taken": 187667,
+      "average_vision_score": 29,
+      "total_wards_placed": 74,
+      "average_creep_score": 170,
+      "average_champion_experience": 18443,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4426790499"
+    },
+    "200": {
+      "total_gold_earned": 82441,
+      "total_gold_spent": 75910,
+      "team_comp": [
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 5,
+      "total_kills": 47,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 147311,
+      "total_damage_dealt_to_objectives": 135769,
+      "total_damage_taken": 168309,
+      "average_vision_score": 40,
+      "total_wards_placed": 81,
+      "average_creep_score": 177,
+      "average_champion_experience": 21081,
+      "dmg_carry": "Zed",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4426790499"
+    }
+  }
+}

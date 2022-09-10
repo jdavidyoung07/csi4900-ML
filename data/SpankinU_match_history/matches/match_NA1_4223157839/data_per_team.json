@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50530,
+      "total_gold_spent": 49005,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 67744,
+      "total_damage_dealt_to_objectives": 50617,
+      "total_damage_taken": 109562,
+      "average_vision_score": 24,
+      "total_wards_placed": 47,
+      "average_creep_score": 95,
+      "average_champion_experience": 11264,
+      "dmg_carry": "Rumble",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4223157839"
+    },
+    "200": {
+      "total_gold_earned": 56013,
+      "total_gold_spent": 51368,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 89067,
+      "total_damage_dealt_to_objectives": 29214,
+      "total_damage_taken": 92738,
+      "average_vision_score": 23,
+      "total_wards_placed": 51,
+      "average_creep_score": 114,
+      "average_champion_experience": 12501,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Camille",
+      "match_id": "NA1_4223157839"
+    }
+  }
+}

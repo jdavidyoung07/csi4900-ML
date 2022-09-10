@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60787,
+      "total_gold_spent": 55808,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 126748,
+      "total_damage_dealt_to_objectives": 41931,
+      "total_damage_taken": 149055,
+      "average_vision_score": 27,
+      "total_wards_placed": 61,
+      "average_creep_score": 102,
+      "average_champion_experience": 13203,
+      "dmg_carry": "Lux",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4395938133"
+    },
+    "200": {
+      "total_gold_earned": 65337,
+      "total_gold_spent": 57075,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 39,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 121705,
+      "total_damage_dealt_to_objectives": 78378,
+      "total_damage_taken": 149456,
+      "average_vision_score": 26,
+      "total_wards_placed": 61,
+      "average_creep_score": 98,
+      "average_champion_experience": 14378,
+      "dmg_carry": "Mordekaiser",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4395938133"
+    }
+  }
+}

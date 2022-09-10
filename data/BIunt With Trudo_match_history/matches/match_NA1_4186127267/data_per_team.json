@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55756,
+      "total_gold_spent": 53600,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 91956,
+      "total_damage_dealt_to_objectives": 27285,
+      "total_damage_taken": 162901,
+      "average_vision_score": 24,
+      "total_wards_placed": 59,
+      "average_creep_score": 112,
+      "average_champion_experience": 13408,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4186127267"
+    },
+    "200": {
+      "total_gold_earned": 71570,
+      "total_gold_spent": 67587,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 137839,
+      "total_damage_dealt_to_objectives": 103657,
+      "total_damage_taken": 136453,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 111,
+      "average_champion_experience": 16803,
+      "dmg_carry": "Kled",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4186127267"
+    }
+  }
+}

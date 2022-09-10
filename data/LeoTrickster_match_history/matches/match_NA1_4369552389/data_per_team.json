@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 66768,
+      "total_gold_spent": 63725,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 139620,
+      "total_damage_dealt_to_objectives": 52879,
+      "total_damage_taken": 167109,
+      "average_vision_score": 48,
+      "total_wards_placed": 88,
+      "average_creep_score": 165,
+      "average_champion_experience": 16556,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4369552389"
+    },
+    "200": {
+      "total_gold_earned": 78898,
+      "total_gold_spent": 68875,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Sejuani",
+          "champId": 113
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 142216,
+      "total_damage_dealt_to_objectives": 78078,
+      "total_damage_taken": 180855,
+      "average_vision_score": 42,
+      "total_wards_placed": 107,
+      "average_creep_score": 185,
+      "average_champion_experience": 19899,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4369552389"
+    }
+  }
+}

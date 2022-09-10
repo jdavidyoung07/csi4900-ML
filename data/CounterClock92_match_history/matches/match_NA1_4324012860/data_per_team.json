@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45191,
+      "total_gold_spent": 39275,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 19,
+      "total_damage_dealt_to_champions": 62308,
+      "total_damage_dealt_to_objectives": 36498,
+      "total_damage_taken": 64466,
+      "average_vision_score": 11,
+      "total_wards_placed": 32,
+      "average_creep_score": 80,
+      "average_champion_experience": 9305,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4324012860"
+    },
+    "200": {
+      "total_gold_earned": 36363,
+      "total_gold_spent": 33068,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 19,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 45218,
+      "total_damage_dealt_to_objectives": 45904,
+      "total_damage_taken": 84486,
+      "average_vision_score": 14,
+      "total_wards_placed": 40,
+      "average_creep_score": 78,
+      "average_champion_experience": 7378,
+      "dmg_carry": "Shyvana",
+      "obj_carry": "Nocturne",
+      "match_id": "NA1_4324012860"
+    }
+  }
+}

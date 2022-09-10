@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63938,
+      "total_gold_spent": 62455,
+      "team_comp": [
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 119630,
+      "total_damage_dealt_to_objectives": 44634,
+      "total_damage_taken": 134642,
+      "average_vision_score": 31,
+      "total_wards_placed": 92,
+      "average_creep_score": 110,
+      "average_champion_experience": 15643,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4082750497"
+    },
+    "200": {
+      "total_gold_earned": 78987,
+      "total_gold_spent": 72860,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 48,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 104287,
+      "total_damage_dealt_to_objectives": 106619,
+      "total_damage_taken": 160509,
+      "average_vision_score": 43,
+      "total_wards_placed": 57,
+      "average_creep_score": 122,
+      "average_champion_experience": 17345,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4082750497"
+    }
+  }
+}

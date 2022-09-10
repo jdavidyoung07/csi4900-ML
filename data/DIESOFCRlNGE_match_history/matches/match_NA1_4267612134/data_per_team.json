@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65341,
+      "total_gold_spent": 63015,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 119049,
+      "total_damage_dealt_to_objectives": 101035,
+      "total_damage_taken": 144598,
+      "average_vision_score": 35,
+      "total_wards_placed": 70,
+      "average_creep_score": 141,
+      "average_champion_experience": 16212,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4267612134"
+    },
+    "200": {
+      "total_gold_earned": 73485,
+      "total_gold_spent": 67150,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 44,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 114506,
+      "total_damage_dealt_to_objectives": 99482,
+      "total_damage_taken": 151091,
+      "average_vision_score": 35,
+      "total_wards_placed": 77,
+      "average_creep_score": 141,
+      "average_champion_experience": 19160,
+      "dmg_carry": "Gnar",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4267612134"
+    }
+  }
+}

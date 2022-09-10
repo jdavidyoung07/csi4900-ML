@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 49125,
+      "total_gold_spent": 46685,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 81865,
+      "total_damage_dealt_to_objectives": 39478,
+      "total_damage_taken": 139912,
+      "average_vision_score": 28,
+      "total_wards_placed": 66,
+      "average_creep_score": 109,
+      "average_champion_experience": 11970,
+      "dmg_carry": "Akali",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4407334155"
+    },
+    "200": {
+      "total_gold_earned": 59311,
+      "total_gold_spent": 50375,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 114590,
+      "total_damage_dealt_to_objectives": 52040,
+      "total_damage_taken": 113687,
+      "average_vision_score": 28,
+      "total_wards_placed": 48,
+      "average_creep_score": 116,
+      "average_champion_experience": 14523,
+      "dmg_carry": "Khazix",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4407334155"
+    }
+  }
+}

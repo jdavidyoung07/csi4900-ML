@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 40,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75504,
+      "total_gold_spent": 74000,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Gragas",
+          "champId": 79
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Alistar",
+          "champId": 12
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 44,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 137232,
+      "total_damage_dealt_to_objectives": 49056,
+      "total_damage_taken": 234652,
+      "average_vision_score": 34,
+      "total_wards_placed": 76,
+      "average_creep_score": 161,
+      "average_champion_experience": 18739,
+      "dmg_carry": "Illaoi",
+      "obj_carry": "Illaoi",
+      "match_id": "NA1_4034556948"
+    },
+    "200": {
+      "total_gold_earned": 82002,
+      "total_gold_spent": 72785,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 47,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 193856,
+      "total_damage_dealt_to_objectives": 114987,
+      "total_damage_taken": 178464,
+      "average_vision_score": 39,
+      "total_wards_placed": 77,
+      "average_creep_score": 113,
+      "average_champion_experience": 20119,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4034556948"
+    }
+  }
+}

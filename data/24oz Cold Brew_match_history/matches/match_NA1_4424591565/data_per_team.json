@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 79251,
+      "total_gold_spent": 69960,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 52,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 178708,
+      "total_damage_dealt_to_objectives": 115707,
+      "total_damage_taken": 179525,
+      "average_vision_score": 30,
+      "total_wards_placed": 60,
+      "average_creep_score": 135,
+      "average_champion_experience": 19425,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4424591565"
+    },
+    "200": {
+      "total_gold_earned": 65793,
+      "total_gold_spent": 61400,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 133448,
+      "total_damage_dealt_to_objectives": 45008,
+      "total_damage_taken": 208537,
+      "average_vision_score": 31,
+      "total_wards_placed": 63,
+      "average_creep_score": 130,
+      "average_champion_experience": 16242,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Sylas",
+      "match_id": "NA1_4424591565"
+    }
+  }
+}

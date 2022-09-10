@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 24216,
+      "total_gold_spent": 22375,
+      "team_comp": [
+        {
+          "champName": "Olaf",
+          "champId": 2
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 20599,
+      "total_damage_dealt_to_objectives": 9212,
+      "total_damage_taken": 40523,
+      "average_vision_score": 9,
+      "total_wards_placed": 27,
+      "average_creep_score": 65,
+      "average_champion_experience": 5659,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Hecarim",
+      "match_id": "NA1_4390879416"
+    },
+    "200": {
+      "total_gold_earned": 30171,
+      "total_gold_spent": 25710,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 26829,
+      "total_damage_dealt_to_objectives": 31405,
+      "total_damage_taken": 32861,
+      "average_vision_score": 9,
+      "total_wards_placed": 24,
+      "average_creep_score": 71,
+      "average_champion_experience": 6122,
+      "dmg_carry": "Draven",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4390879416"
+    }
+  }
+}

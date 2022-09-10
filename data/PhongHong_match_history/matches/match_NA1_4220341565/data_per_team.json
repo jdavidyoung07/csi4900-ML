@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 63300,
+      "total_gold_spent": 61610,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 96387,
+      "total_damage_dealt_to_objectives": 36396,
+      "total_damage_taken": 144704,
+      "average_vision_score": 37,
+      "total_wards_placed": 72,
+      "average_creep_score": 125,
+      "average_champion_experience": 14305,
+      "dmg_carry": "Lux",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4220341565"
+    },
+    "200": {
+      "total_gold_earned": 72832,
+      "total_gold_spent": 65935,
+      "team_comp": [
+        {
+          "champName": "Gwen",
+          "champId": 887
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 117403,
+      "total_damage_dealt_to_objectives": 77986,
+      "total_damage_taken": 129082,
+      "average_vision_score": 33,
+      "total_wards_placed": 67,
+      "average_creep_score": 142,
+      "average_champion_experience": 17668,
+      "dmg_carry": "Corki",
+      "obj_carry": "Corki",
+      "match_id": "NA1_4220341565"
+    }
+  }
+}

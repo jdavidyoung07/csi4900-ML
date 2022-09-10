@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60798,
+      "total_gold_spent": 56925,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 97804,
+      "total_damage_dealt_to_objectives": 31727,
+      "total_damage_taken": 145094,
+      "average_vision_score": 19,
+      "total_wards_placed": 46,
+      "average_creep_score": 128,
+      "average_champion_experience": 13645,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_4400744030"
+    },
+    "200": {
+      "total_gold_earned": 74798,
+      "total_gold_spent": 67810,
+      "team_comp": [
+        {
+          "champName": "Gnar",
+          "champId": 150
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 54,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 122807,
+      "total_damage_dealt_to_objectives": 100772,
+      "total_damage_taken": 127570,
+      "average_vision_score": 35,
+      "total_wards_placed": 64,
+      "average_creep_score": 109,
+      "average_champion_experience": 16029,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4400744030"
+    }
+  }
+}

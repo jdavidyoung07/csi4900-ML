@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 89100,
+      "total_gold_spent": 87675,
+      "team_comp": [
+        {
+          "champName": "Shyvana",
+          "champId": 102
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 66,
+      "total_deaths": 71,
+      "total_damage_dealt_to_champions": 187557,
+      "total_damage_dealt_to_objectives": 63321,
+      "total_damage_taken": 209044,
+      "average_vision_score": 30,
+      "total_wards_placed": 64,
+      "average_creep_score": 135,
+      "average_champion_experience": 19390,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Shyvana",
+      "match_id": "NA1_4285969597"
+    },
+    "200": {
+      "total_gold_earned": 95296,
+      "total_gold_spent": 82100,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 71,
+      "total_deaths": 66,
+      "total_damage_dealt_to_champions": 181053,
+      "total_damage_dealt_to_objectives": 100294,
+      "total_damage_taken": 219138,
+      "average_vision_score": 31,
+      "total_wards_placed": 60,
+      "average_creep_score": 136,
+      "average_champion_experience": 23070,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4285969597"
+    }
+  }
+}

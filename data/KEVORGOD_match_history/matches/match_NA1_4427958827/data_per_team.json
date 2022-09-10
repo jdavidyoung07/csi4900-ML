@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70120,
+      "total_gold_spent": 66475,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 141839,
+      "total_damage_dealt_to_objectives": 52591,
+      "total_damage_taken": 152776,
+      "average_vision_score": 24,
+      "total_wards_placed": 53,
+      "average_creep_score": 111,
+      "average_champion_experience": 15873,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4427958827"
+    },
+    "200": {
+      "total_gold_earned": 69424,
+      "total_gold_spent": 68850,
+      "team_comp": [
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Renata",
+          "champId": 888
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 122089,
+      "total_damage_dealt_to_objectives": 89283,
+      "total_damage_taken": 168555,
+      "average_vision_score": 24,
+      "total_wards_placed": 56,
+      "average_creep_score": 109,
+      "average_champion_experience": 16469,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4427958827"
+    }
+  }
+}

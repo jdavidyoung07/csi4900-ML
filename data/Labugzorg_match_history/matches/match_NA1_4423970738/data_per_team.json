@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67941,
+      "total_gold_spent": 64625,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 134023,
+      "total_damage_dealt_to_objectives": 89862,
+      "total_damage_taken": 167774,
+      "average_vision_score": 34,
+      "total_wards_placed": 73,
+      "average_creep_score": 114,
+      "average_champion_experience": 15288,
+      "dmg_carry": "Anivia",
+      "obj_carry": "Anivia",
+      "match_id": "NA1_4423970738"
+    },
+    "200": {
+      "total_gold_earned": 69569,
+      "total_gold_spent": 62660,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 132526,
+      "total_damage_dealt_to_objectives": 65022,
+      "total_damage_taken": 163715,
+      "average_vision_score": 24,
+      "total_wards_placed": 60,
+      "average_creep_score": 129,
+      "average_champion_experience": 15897,
+      "dmg_carry": "Vex",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4423970738"
+    }
+  }
+}

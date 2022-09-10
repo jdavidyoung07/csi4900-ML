@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33493,
+      "total_gold_spent": 29060,
+      "team_comp": [
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 37800,
+      "total_damage_dealt_to_objectives": 10458,
+      "total_damage_taken": 70567,
+      "average_vision_score": 12,
+      "total_wards_placed": 31,
+      "average_creep_score": 78,
+      "average_champion_experience": 8354,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4231185717"
+    },
+    "200": {
+      "total_gold_earned": 47298,
+      "total_gold_spent": 40725,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 49295,
+      "total_damage_dealt_to_objectives": 73024,
+      "total_damage_taken": 67719,
+      "average_vision_score": 16,
+      "total_wards_placed": 39,
+      "average_creep_score": 83,
+      "average_champion_experience": 10963,
+      "dmg_carry": "Katarina",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4231185717"
+    }
+  }
+}

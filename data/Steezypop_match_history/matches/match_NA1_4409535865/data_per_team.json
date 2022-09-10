@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70825,
+      "total_gold_spent": 65185,
+      "team_comp": [
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 45,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 138974,
+      "total_damage_dealt_to_objectives": 107565,
+      "total_damage_taken": 144560,
+      "average_vision_score": 29,
+      "total_wards_placed": 55,
+      "average_creep_score": 111,
+      "average_champion_experience": 17046,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Akshan",
+      "match_id": "NA1_4409535865"
+    },
+    "200": {
+      "total_gold_earned": 61617,
+      "total_gold_spent": 60820,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 110204,
+      "total_damage_dealt_to_objectives": 43693,
+      "total_damage_taken": 164743,
+      "average_vision_score": 23,
+      "total_wards_placed": 64,
+      "average_creep_score": 132,
+      "average_champion_experience": 15378,
+      "dmg_carry": "Sivir",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4409535865"
+    }
+  }
+}

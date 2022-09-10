@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54708,
+      "total_gold_spent": 50850,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 91773,
+      "total_damage_dealt_to_objectives": 37640,
+      "total_damage_taken": 102919,
+      "average_vision_score": 31,
+      "total_wards_placed": 51,
+      "average_creep_score": 140,
+      "average_champion_experience": 12954,
+      "dmg_carry": "Aatrox",
+      "obj_carry": "Diana",
+      "match_id": "NA1_4181738879"
+    },
+    "200": {
+      "total_gold_earned": 60037,
+      "total_gold_spent": 53760,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 27,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 77126,
+      "total_damage_dealt_to_objectives": 72690,
+      "total_damage_taken": 124966,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 133,
+      "average_champion_experience": 14254,
+      "dmg_carry": "Corki",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4181738879"
+    }
+  }
+}

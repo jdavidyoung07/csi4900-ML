@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70022,
+      "total_gold_spent": 65235,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 50,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 163378,
+      "total_damage_dealt_to_objectives": 82223,
+      "total_damage_taken": 134123,
+      "average_vision_score": 26,
+      "total_wards_placed": 51,
+      "average_creep_score": 94,
+      "average_champion_experience": 15396,
+      "dmg_carry": "Heimerdinger",
+      "obj_carry": "Kayle",
+      "match_id": "NA1_4354416622"
+    },
+    "200": {
+      "total_gold_earned": 63055,
+      "total_gold_spent": 60340,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 42,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 106832,
+      "total_damage_dealt_to_objectives": 44817,
+      "total_damage_taken": 191229,
+      "average_vision_score": 24,
+      "total_wards_placed": 58,
+      "average_creep_score": 97,
+      "average_champion_experience": 13580,
+      "dmg_carry": "Fizz",
+      "obj_carry": "Nunu",
+      "match_id": "NA1_4354416622"
+    }
+  }
+}

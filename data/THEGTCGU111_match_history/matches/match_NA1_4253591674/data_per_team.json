@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58772,
+      "total_gold_spent": 55375,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 26,
+      "total_deaths": 21,
+      "total_damage_dealt_to_champions": 85287,
+      "total_damage_dealt_to_objectives": 75315,
+      "total_damage_taken": 108998,
+      "average_vision_score": 32,
+      "total_wards_placed": 59,
+      "average_creep_score": 121,
+      "average_champion_experience": 13971,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Viktor",
+      "match_id": "NA1_4253591674"
+    },
+    "200": {
+      "total_gold_earned": 52915,
+      "total_gold_spent": 49525,
+      "team_comp": [
+        {
+          "champName": "Kled",
+          "champId": 240
+        },
+        {
+          "champName": "Skarner",
+          "champId": 72
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 21,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 74391,
+      "total_damage_dealt_to_objectives": 31158,
+      "total_damage_taken": 124629,
+      "average_vision_score": 29,
+      "total_wards_placed": 63,
+      "average_creep_score": 133,
+      "average_champion_experience": 12786,
+      "dmg_carry": "Akali",
+      "obj_carry": "Kled",
+      "match_id": "NA1_4253591674"
+    }
+  }
+}

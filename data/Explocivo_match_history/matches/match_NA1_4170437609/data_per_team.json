@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 31112,
+      "total_gold_spent": 29340,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 38875,
+      "total_damage_dealt_to_objectives": 24650,
+      "total_damage_taken": 63581,
+      "average_vision_score": 10,
+      "total_wards_placed": 24,
+      "average_creep_score": 71,
+      "average_champion_experience": 7286,
+      "dmg_carry": "Vex",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4170437609"
+    },
+    "200": {
+      "total_gold_earned": 39514,
+      "total_gold_spent": 34810,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 50381,
+      "total_damage_dealt_to_objectives": 19859,
+      "total_damage_taken": 53474,
+      "average_vision_score": 11,
+      "total_wards_placed": 29,
+      "average_creep_score": 70,
+      "average_champion_experience": 8577,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Elise",
+      "match_id": "NA1_4170437609"
+    }
+  }
+}

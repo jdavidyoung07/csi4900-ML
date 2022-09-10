@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 62539,
+      "total_gold_spent": 53250,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 96830,
+      "total_damage_dealt_to_objectives": 40194,
+      "total_damage_taken": 123568,
+      "average_vision_score": 18,
+      "total_wards_placed": 48,
+      "average_creep_score": 110,
+      "average_champion_experience": 14389,
+      "dmg_carry": "Draven",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4119795280"
+    },
+    "200": {
+      "total_gold_earned": 55707,
+      "total_gold_spent": 54958,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "JarvanIV",
+          "champId": 59
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 81037,
+      "total_damage_dealt_to_objectives": 59506,
+      "total_damage_taken": 126029,
+      "average_vision_score": 22,
+      "total_wards_placed": 54,
+      "average_creep_score": 108,
+      "average_champion_experience": 13789,
+      "dmg_carry": "Zed",
+      "obj_carry": "JarvanIV",
+      "match_id": "NA1_4119795280"
+    }
+  }
+}

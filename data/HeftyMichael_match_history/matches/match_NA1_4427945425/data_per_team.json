@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 36787,
+      "total_gold_spent": 34550,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 14,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 46667,
+      "total_damage_dealt_to_objectives": 7145,
+      "total_damage_taken": 79619,
+      "average_vision_score": 17,
+      "total_wards_placed": 33,
+      "average_creep_score": 77,
+      "average_champion_experience": 8468,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4427945425"
+    },
+    "200": {
+      "total_gold_earned": 46922,
+      "total_gold_spent": 40235,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 30,
+      "total_deaths": 14,
+      "total_damage_dealt_to_champions": 63857,
+      "total_damage_dealt_to_objectives": 51593,
+      "total_damage_taken": 68879,
+      "average_vision_score": 17,
+      "total_wards_placed": 46,
+      "average_creep_score": 88,
+      "average_champion_experience": 10335,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4427945425"
+    }
+  }
+}

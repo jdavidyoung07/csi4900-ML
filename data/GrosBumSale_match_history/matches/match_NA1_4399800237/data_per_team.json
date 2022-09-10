@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 84658,
+      "total_gold_spent": 81150,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 48,
+      "total_deaths": 62,
+      "total_damage_dealt_to_champions": 259890,
+      "total_damage_dealt_to_objectives": 73308,
+      "total_damage_taken": 226931,
+      "average_vision_score": 48,
+      "total_wards_placed": 105,
+      "average_creep_score": 143,
+      "average_champion_experience": 19333,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4399800237"
+    },
+    "200": {
+      "total_gold_earned": 90123,
+      "total_gold_spent": 81880,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        },
+        {
+          "champName": "Taliyah",
+          "champId": 163
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 62,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 191713,
+      "total_damage_dealt_to_objectives": 93403,
+      "total_damage_taken": 289935,
+      "average_vision_score": 44,
+      "total_wards_placed": 96,
+      "average_creep_score": 134,
+      "average_champion_experience": 20677,
+      "dmg_carry": "Taliyah",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4399800237"
+    }
+  }
+}

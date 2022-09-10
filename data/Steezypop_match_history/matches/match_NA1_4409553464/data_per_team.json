@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58643,
+      "total_gold_spent": 55025,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Leblanc",
+          "champId": 7
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Leona",
+          "champId": 89
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 107067,
+      "total_damage_dealt_to_objectives": 31320,
+      "total_damage_taken": 145468,
+      "average_vision_score": 20,
+      "total_wards_placed": 43,
+      "average_creep_score": 112,
+      "average_champion_experience": 13334,
+      "dmg_carry": "Warwick",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4409553464"
+    },
+    "200": {
+      "total_gold_earned": 61887,
+      "total_gold_spent": 58283,
+      "team_comp": [
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 39,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 117457,
+      "total_damage_dealt_to_objectives": 78322,
+      "total_damage_taken": 132687,
+      "average_vision_score": 18,
+      "total_wards_placed": 51,
+      "average_creep_score": 105,
+      "average_champion_experience": 13516,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4409553464"
+    }
+  }
+}

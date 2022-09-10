@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 105342,
+      "total_gold_spent": 111468,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 7,
+      "total_kills": 51,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 246736,
+      "total_damage_dealt_to_objectives": 125757,
+      "total_damage_taken": 259979,
+      "average_vision_score": 57,
+      "total_wards_placed": 107,
+      "average_creep_score": 205,
+      "average_champion_experience": 26793,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4412731907"
+    },
+    "200": {
+      "total_gold_earned": 115697,
+      "total_gold_spent": 112200,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 54,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 224153,
+      "total_damage_dealt_to_objectives": 150889,
+      "total_damage_taken": 316027,
+      "average_vision_score": 57,
+      "total_wards_placed": 110,
+      "average_creep_score": 246,
+      "average_champion_experience": 31631,
+      "dmg_carry": "Qiyana",
+      "obj_carry": "KogMaw",
+      "match_id": "NA1_4412731907"
+    }
+  }
+}

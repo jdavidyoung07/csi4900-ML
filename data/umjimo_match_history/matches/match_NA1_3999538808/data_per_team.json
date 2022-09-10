@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 34,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61660,
+      "total_gold_spent": 59355,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Varus",
+          "champId": 110
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 35,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 127110,
+      "total_damage_dealt_to_objectives": 34792,
+      "total_damage_taken": 179480,
+      "average_vision_score": 29,
+      "total_wards_placed": 71,
+      "average_creep_score": 122,
+      "average_champion_experience": 13818,
+      "dmg_carry": "Varus",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_3999538808"
+    },
+    "200": {
+      "total_gold_earned": 69118,
+      "total_gold_spent": 63550,
+      "team_comp": [
+        {
+          "champName": "Alistar",
+          "champId": 12
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 43,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 148032,
+      "total_damage_dealt_to_objectives": 73773,
+      "total_damage_taken": 150944,
+      "average_vision_score": 28,
+      "total_wards_placed": 56,
+      "average_creep_score": 122,
+      "average_champion_experience": 16529,
+      "dmg_carry": "Tristana",
+      "obj_carry": "Vi",
+      "match_id": "NA1_3999538808"
+    }
+  }
+}

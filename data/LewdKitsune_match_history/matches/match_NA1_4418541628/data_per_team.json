@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70502,
+      "total_gold_spent": 64428,
+      "team_comp": [
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 45,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 124500,
+      "total_damage_dealt_to_objectives": 56580,
+      "total_damage_taken": 155383,
+      "average_vision_score": 24,
+      "total_wards_placed": 63,
+      "average_creep_score": 147,
+      "average_champion_experience": 17933,
+      "dmg_carry": "Rengar",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4418541628"
+    },
+    "200": {
+      "total_gold_earned": 69337,
+      "total_gold_spent": 64200,
+      "team_comp": [
+        {
+          "champName": "Sion",
+          "champId": 14
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 4,
+      "total_kills": 31,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 117327,
+      "total_damage_dealt_to_objectives": 93792,
+      "total_damage_taken": 158596,
+      "average_vision_score": 29,
+      "total_wards_placed": 53,
+      "average_creep_score": 135,
+      "average_champion_experience": 15584,
+      "dmg_carry": "Senna",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4418541628"
+    }
+  }
+}

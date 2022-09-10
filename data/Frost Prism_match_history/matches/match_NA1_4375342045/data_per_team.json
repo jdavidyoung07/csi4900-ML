@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 91962,
+      "total_gold_spent": 78875,
+      "team_comp": [
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 4,
+      "total_kills": 47,
+      "total_deaths": 60,
+      "total_damage_dealt_to_champions": 219996,
+      "total_damage_dealt_to_objectives": 88032,
+      "total_damage_taken": 270385,
+      "average_vision_score": 48,
+      "total_wards_placed": 101,
+      "average_creep_score": 149,
+      "average_champion_experience": 22624,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Ashe",
+      "match_id": "NA1_4375342045"
+    },
+    "200": {
+      "total_gold_earned": 94187,
+      "total_gold_spent": 90595,
+      "team_comp": [
+        {
+          "champName": "Morgana",
+          "champId": 25
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 60,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 221227,
+      "total_damage_dealt_to_objectives": 86798,
+      "total_damage_taken": 247813,
+      "average_vision_score": 35,
+      "total_wards_placed": 85,
+      "average_creep_score": 177,
+      "average_champion_experience": 25431,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Morgana",
+      "match_id": "NA1_4375342045"
+    }
+  }
+}

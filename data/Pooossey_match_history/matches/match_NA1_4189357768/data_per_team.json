@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78107,
+      "total_gold_spent": 65383,
+      "team_comp": [
+        {
+          "champName": "Singed",
+          "champId": 27
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 4,
+      "total_kills": 40,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 118513,
+      "total_damage_dealt_to_objectives": 61673,
+      "total_damage_taken": 129601,
+      "average_vision_score": 24,
+      "total_wards_placed": 57,
+      "average_creep_score": 112,
+      "average_champion_experience": 15341,
+      "dmg_carry": "Zeri",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4189357768"
+    },
+    "200": {
+      "total_gold_earned": 58807,
+      "total_gold_spent": 54150,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 27,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 96442,
+      "total_damage_dealt_to_objectives": 52870,
+      "total_damage_taken": 149021,
+      "average_vision_score": 28,
+      "total_wards_placed": 58,
+      "average_creep_score": 119,
+      "average_champion_experience": 12918,
+      "dmg_carry": "Jinx",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4189357768"
+    }
+  }
+}

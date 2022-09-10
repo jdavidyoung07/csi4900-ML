@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65046,
+      "total_gold_spent": 58925,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Rammus",
+          "champId": 33
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Teemo",
+          "champId": 17
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 127384,
+      "total_damage_dealt_to_objectives": 63771,
+      "total_damage_taken": 148126,
+      "average_vision_score": 35,
+      "total_wards_placed": 68,
+      "average_creep_score": 153,
+      "average_champion_experience": 16644,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Shen",
+      "match_id": "NA1_4376248703"
+    },
+    "200": {
+      "total_gold_earned": 70747,
+      "total_gold_spent": 61080,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 4,
+      "total_kills": 32,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 121108,
+      "total_damage_dealt_to_objectives": 96309,
+      "total_damage_taken": 178940,
+      "average_vision_score": 37,
+      "total_wards_placed": 76,
+      "average_creep_score": 139,
+      "average_champion_experience": 16673,
+      "dmg_carry": "Azir",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4376248703"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 77100,
+      "total_gold_spent": 70668,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 110575,
+      "total_damage_dealt_to_objectives": 68994,
+      "total_damage_taken": 177668,
+      "average_vision_score": 31,
+      "total_wards_placed": 65,
+      "average_creep_score": 151,
+      "average_champion_experience": 18334,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4232141816"
+    },
+    "200": {
+      "total_gold_earned": 79772,
+      "total_gold_spent": 75030,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 43,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 147193,
+      "total_damage_dealt_to_objectives": 77803,
+      "total_damage_taken": 145883,
+      "average_vision_score": 38,
+      "total_wards_placed": 82,
+      "average_creep_score": 159,
+      "average_champion_experience": 19733,
+      "dmg_carry": "Annie",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4232141816"
+    }
+  }
+}

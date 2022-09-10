@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 28,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61406,
+      "total_gold_spent": 54850,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 50,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 97663,
+      "total_damage_dealt_to_objectives": 89145,
+      "total_damage_taken": 102753,
+      "average_vision_score": 16,
+      "total_wards_placed": 29,
+      "average_creep_score": 92,
+      "average_champion_experience": 12693,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4046443586"
+    },
+    "200": {
+      "total_gold_earned": 47703,
+      "total_gold_spent": 43475,
+      "team_comp": [
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Shaco",
+          "champId": 35
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 72805,
+      "total_damage_dealt_to_objectives": 8192,
+      "total_damage_taken": 115689,
+      "average_vision_score": 18,
+      "total_wards_placed": 47,
+      "average_creep_score": 92,
+      "average_champion_experience": 11317,
+      "dmg_carry": "Viego",
+      "obj_carry": "Malzahar",
+      "match_id": "NA1_4046443586"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 69111,
+      "total_gold_spent": 68455,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "TwistedFate",
+          "champId": 4
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 36,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 104143,
+      "total_damage_dealt_to_objectives": 57189,
+      "total_damage_taken": 149827,
+      "average_vision_score": 42,
+      "total_wards_placed": 91,
+      "average_creep_score": 145,
+      "average_champion_experience": 18044,
+      "dmg_carry": "Garen",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4201989775"
+    },
+    "200": {
+      "total_gold_earned": 78567,
+      "total_gold_spent": 69700,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 36,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 111285,
+      "total_damage_dealt_to_objectives": 113624,
+      "total_damage_taken": 138457,
+      "average_vision_score": 34,
+      "total_wards_placed": 68,
+      "average_creep_score": 163,
+      "average_champion_experience": 20064,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Yasuo",
+      "match_id": "NA1_4201989775"
+    }
+  }
+}

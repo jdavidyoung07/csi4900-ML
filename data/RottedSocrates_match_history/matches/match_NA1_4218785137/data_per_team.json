@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55828,
+      "total_gold_spent": 52010,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 24,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 91954,
+      "total_damage_dealt_to_objectives": 48976,
+      "total_damage_taken": 116996,
+      "average_vision_score": 25,
+      "total_wards_placed": 58,
+      "average_creep_score": 116,
+      "average_champion_experience": 13937,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Kindred",
+      "match_id": "NA1_4218785137"
+    },
+    "200": {
+      "total_gold_earned": 66434,
+      "total_gold_spent": 60858,
+      "team_comp": [
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Vex",
+          "champId": 711
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 87499,
+      "total_damage_dealt_to_objectives": 67402,
+      "total_damage_taken": 125596,
+      "average_vision_score": 30,
+      "total_wards_placed": 61,
+      "average_creep_score": 111,
+      "average_champion_experience": 16285,
+      "dmg_carry": "Vex",
+      "obj_carry": "Zac",
+      "match_id": "NA1_4218785137"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 75491,
+      "total_gold_spent": 69835,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 137404,
+      "total_damage_dealt_to_objectives": 108601,
+      "total_damage_taken": 177386,
+      "average_vision_score": 37,
+      "total_wards_placed": 101,
+      "average_creep_score": 140,
+      "average_champion_experience": 18598,
+      "dmg_carry": "Ziggs",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4413186192"
+    },
+    "200": {
+      "total_gold_earned": 72725,
+      "total_gold_spent": 69910,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Karthus",
+          "champId": 30
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Kalista",
+          "champId": 429
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 150965,
+      "total_damage_dealt_to_objectives": 62159,
+      "total_damage_taken": 164175,
+      "average_vision_score": 35,
+      "total_wards_placed": 77,
+      "average_creep_score": 140,
+      "average_champion_experience": 17020,
+      "dmg_carry": "Karthus",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4413186192"
+    }
+  }
+}

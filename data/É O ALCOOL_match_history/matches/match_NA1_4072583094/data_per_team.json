@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44609,
+      "total_gold_spent": 39860,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 74856,
+      "total_damage_dealt_to_objectives": 42010,
+      "total_damage_taken": 94647,
+      "average_vision_score": 27,
+      "total_wards_placed": 45,
+      "average_creep_score": 97,
+      "average_champion_experience": 10047,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4072583094"
+    },
+    "200": {
+      "total_gold_earned": 47527,
+      "total_gold_spent": 41910,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Annie",
+          "champId": 1
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 70015,
+      "total_damage_dealt_to_objectives": 44737,
+      "total_damage_taken": 92442,
+      "average_vision_score": 20,
+      "total_wards_placed": 48,
+      "average_creep_score": 94,
+      "average_champion_experience": 11641,
+      "dmg_carry": "Annie",
+      "obj_carry": "Talon",
+      "match_id": "NA1_4072583094"
+    }
+  }
+}

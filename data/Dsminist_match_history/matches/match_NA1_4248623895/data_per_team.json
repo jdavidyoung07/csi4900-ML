@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 70728,
+      "total_gold_spent": 68985,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 32,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 99777,
+      "total_damage_dealt_to_objectives": 59331,
+      "total_damage_taken": 166025,
+      "average_vision_score": 39,
+      "total_wards_placed": 85,
+      "average_creep_score": 140,
+      "average_champion_experience": 17267,
+      "dmg_carry": "Teemo",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4248623895"
+    },
+    "200": {
+      "total_gold_earned": 78018,
+      "total_gold_spent": 65483,
+      "team_comp": [
+        {
+          "champName": "Jayce",
+          "champId": 126
+        },
+        {
+          "champName": "Hecarim",
+          "champId": 120
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 139607,
+      "total_damage_dealt_to_objectives": 72808,
+      "total_damage_taken": 126164,
+      "average_vision_score": 41,
+      "total_wards_placed": 99,
+      "average_creep_score": 150,
+      "average_champion_experience": 18645,
+      "dmg_carry": "Jayce",
+      "obj_carry": "Jayce",
+      "match_id": "NA1_4248623895"
+    }
+  }
+}

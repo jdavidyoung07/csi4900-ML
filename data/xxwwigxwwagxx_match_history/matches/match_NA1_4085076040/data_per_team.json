@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 48842,
+      "total_gold_spent": 45520,
+      "team_comp": [
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 87534,
+      "total_damage_dealt_to_objectives": 43870,
+      "total_damage_taken": 89706,
+      "average_vision_score": 28,
+      "total_wards_placed": 63,
+      "average_creep_score": 108,
+      "average_champion_experience": 11739,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Amumu",
+      "match_id": "NA1_4085076040"
+    },
+    "200": {
+      "total_gold_earned": 55904,
+      "total_gold_spent": 51335,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 29,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 72116,
+      "total_damage_dealt_to_objectives": 69005,
+      "total_damage_taken": 132528,
+      "average_vision_score": 23,
+      "total_wards_placed": 52,
+      "average_creep_score": 110,
+      "average_champion_experience": 14100,
+      "dmg_carry": "Veigar",
+      "obj_carry": "Caitlyn",
+      "match_id": "NA1_4085076040"
+    }
+  }
+}

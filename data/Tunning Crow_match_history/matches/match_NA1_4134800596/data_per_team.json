@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 61262,
+      "total_gold_spent": 58225,
+      "team_comp": [
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 151258,
+      "total_damage_dealt_to_objectives": 15626,
+      "total_damage_taken": 143780,
+      "average_vision_score": 24,
+      "total_wards_placed": 59,
+      "average_creep_score": 113,
+      "average_champion_experience": 13678,
+      "dmg_carry": "Corki",
+      "obj_carry": "Yone",
+      "match_id": "NA1_4134800596"
+    },
+    "200": {
+      "total_gold_earned": 70136,
+      "total_gold_spent": 59055,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Nunu",
+          "champId": 20
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 54,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 123710,
+      "total_damage_dealt_to_objectives": 88013,
+      "total_damage_taken": 184017,
+      "average_vision_score": 28,
+      "total_wards_placed": 52,
+      "average_creep_score": 115,
+      "average_champion_experience": 16824,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4134800596"
+    }
+  }
+}

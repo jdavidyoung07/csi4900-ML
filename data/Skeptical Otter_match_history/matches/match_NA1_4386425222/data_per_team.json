@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80601,
+      "total_gold_spent": 83685,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 0,
+      "total_kills": 54,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 198366,
+      "total_damage_dealt_to_objectives": 59322,
+      "total_damage_taken": 191393,
+      "average_vision_score": 39,
+      "total_wards_placed": 76,
+      "average_creep_score": 144,
+      "average_champion_experience": 19168,
+      "dmg_carry": "MasterYi",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4386425222"
+    },
+    "200": {
+      "total_gold_earned": 78330,
+      "total_gold_spent": 72135,
+      "team_comp": [
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 54,
+      "total_damage_dealt_to_champions": 155812,
+      "total_damage_dealt_to_objectives": 86241,
+      "total_damage_taken": 237232,
+      "average_vision_score": 31,
+      "total_wards_placed": 78,
+      "average_creep_score": 139,
+      "average_champion_experience": 18663,
+      "dmg_carry": "Maokai",
+      "obj_carry": "Tristana",
+      "match_id": "NA1_4386425222"
+    }
+  }
+}

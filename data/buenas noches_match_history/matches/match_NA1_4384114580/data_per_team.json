@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 33306,
+      "total_gold_spent": 31060,
+      "team_comp": [
+        {
+          "champName": "Yorick",
+          "champId": 83
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Braum",
+          "champId": 201
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 11,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 49495,
+      "total_damage_dealt_to_objectives": 14785,
+      "total_damage_taken": 81297,
+      "average_vision_score": 13,
+      "total_wards_placed": 33,
+      "average_creep_score": 76,
+      "average_champion_experience": 7821,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Yorick",
+      "match_id": "NA1_4384114580"
+    },
+    "200": {
+      "total_gold_earned": 43554,
+      "total_gold_spent": 42025,
+      "team_comp": [
+        {
+          "champName": "Renekton",
+          "champId": 58
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 28,
+      "total_deaths": 11,
+      "total_damage_dealt_to_champions": 66687,
+      "total_damage_dealt_to_objectives": 55059,
+      "total_damage_taken": 80030,
+      "average_vision_score": 15,
+      "total_wards_placed": 41,
+      "average_creep_score": 67,
+      "average_champion_experience": 9890,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Anivia",
+      "match_id": "NA1_4384114580"
+    }
+  }
+}

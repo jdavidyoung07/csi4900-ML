@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53487,
+      "total_gold_spent": 52460,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 23,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 82905,
+      "total_damage_dealt_to_objectives": 40847,
+      "total_damage_taken": 147566,
+      "average_vision_score": 26,
+      "total_wards_placed": 64,
+      "average_creep_score": 115,
+      "average_champion_experience": 12335,
+      "dmg_carry": "Ashe",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4180702892"
+    },
+    "200": {
+      "total_gold_earned": 63505,
+      "total_gold_spent": 56000,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "RekSai",
+          "champId": 421
+        },
+        {
+          "champName": "Katarina",
+          "champId": 55
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 23,
+      "total_damage_dealt_to_champions": 115964,
+      "total_damage_dealt_to_objectives": 68766,
+      "total_damage_taken": 121284,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 116,
+      "average_champion_experience": 15859,
+      "dmg_carry": "Warwick",
+      "obj_carry": "MissFortune",
+      "match_id": "NA1_4180702892"
+    }
+  }
+}

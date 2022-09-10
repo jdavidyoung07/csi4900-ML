@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 48,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81503,
+      "total_gold_spent": 74250,
+      "team_comp": [
+        {
+          "champName": "Sylas",
+          "champId": 517
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 211444,
+      "total_damage_dealt_to_objectives": 73490,
+      "total_damage_taken": 240592,
+      "average_vision_score": 44,
+      "total_wards_placed": 100,
+      "average_creep_score": 157,
+      "average_champion_experience": 21023,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4021015865"
+    },
+    "200": {
+      "total_gold_earned": 89229,
+      "total_gold_spent": 73520,
+      "team_comp": [
+        {
+          "champName": "Malphite",
+          "champId": 54
+        },
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 57,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 197185,
+      "total_damage_dealt_to_objectives": 75928,
+      "total_damage_taken": 250306,
+      "average_vision_score": 41,
+      "total_wards_placed": 93,
+      "average_creep_score": 153,
+      "average_champion_experience": 22087,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Malphite",
+      "match_id": "NA1_4021015865"
+    }
+  }
+}

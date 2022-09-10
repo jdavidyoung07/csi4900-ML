@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 60937,
+      "total_gold_spent": 57580,
+      "team_comp": [
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Akshan",
+          "champId": 166
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 101482,
+      "total_damage_dealt_to_objectives": 47849,
+      "total_damage_taken": 148900,
+      "average_vision_score": 25,
+      "total_wards_placed": 57,
+      "average_creep_score": 128,
+      "average_champion_experience": 15105,
+      "dmg_carry": "Akshan",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4331951011"
+    },
+    "200": {
+      "total_gold_earned": 62786,
+      "total_gold_spent": 55835,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 31,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 114434,
+      "total_damage_dealt_to_objectives": 78051,
+      "total_damage_taken": 138320,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 121,
+      "average_champion_experience": 14774,
+      "dmg_carry": "Nasus",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4331951011"
+    }
+  }
+}

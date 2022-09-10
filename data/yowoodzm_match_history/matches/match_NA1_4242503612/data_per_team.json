@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 45471,
+      "total_gold_spent": 42350,
+      "team_comp": [
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 20,
+      "total_deaths": 43,
+      "total_damage_dealt_to_champions": 66850,
+      "total_damage_dealt_to_objectives": 30737,
+      "total_damage_taken": 98097,
+      "average_vision_score": 24,
+      "total_wards_placed": 46,
+      "average_creep_score": 93,
+      "average_champion_experience": 11280,
+      "dmg_carry": "Brand",
+      "obj_carry": "Malzahar",
+      "match_id": "NA1_4242503612"
+    },
+    "200": {
+      "total_gold_earned": 55816,
+      "total_gold_spent": 52050,
+      "team_comp": [
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 43,
+      "total_deaths": 20,
+      "total_damage_dealt_to_champions": 76209,
+      "total_damage_dealt_to_objectives": 66167,
+      "total_damage_taken": 94938,
+      "average_vision_score": 16,
+      "total_wards_placed": 28,
+      "average_creep_score": 86,
+      "average_champion_experience": 13532,
+      "dmg_carry": "Rumble",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4242503612"
+    }
+  }
+}

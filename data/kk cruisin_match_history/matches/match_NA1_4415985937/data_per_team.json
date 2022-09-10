@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 58574,
+      "total_gold_spent": 56725,
+      "team_comp": [
+        {
+          "champName": "Kennen",
+          "champId": 85
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 52,
+      "total_damage_dealt_to_champions": 130410,
+      "total_damage_dealt_to_objectives": 28419,
+      "total_damage_taken": 162141,
+      "average_vision_score": 26,
+      "total_wards_placed": 63,
+      "average_creep_score": 110,
+      "average_champion_experience": 14116,
+      "dmg_carry": "Zed",
+      "obj_carry": "Kennen",
+      "match_id": "NA1_4415985937"
+    },
+    "200": {
+      "total_gold_earned": 71501,
+      "total_gold_spent": 66233,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 52,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 137479,
+      "total_damage_dealt_to_objectives": 112112,
+      "total_damage_taken": 168124,
+      "average_vision_score": 26,
+      "total_wards_placed": 50,
+      "average_creep_score": 102,
+      "average_champion_experience": 16142,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "Rengar",
+      "match_id": "NA1_4415985937"
+    }
+  }
+}

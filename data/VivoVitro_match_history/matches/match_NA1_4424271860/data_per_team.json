@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 89025,
+      "total_gold_spent": 88345,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Fizz",
+          "champId": 105
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 51,
+      "total_deaths": 59,
+      "total_damage_dealt_to_champions": 240046,
+      "total_damage_dealt_to_objectives": 83899,
+      "total_damage_taken": 235382,
+      "average_vision_score": 38,
+      "total_wards_placed": 79,
+      "average_creep_score": 184,
+      "average_champion_experience": 22923,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4424271860"
+    },
+    "200": {
+      "total_gold_earned": 94401,
+      "total_gold_spent": 90091,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 3,
+      "total_kills": 59,
+      "total_deaths": 51,
+      "total_damage_dealt_to_champions": 206981,
+      "total_damage_dealt_to_objectives": 130829,
+      "total_damage_taken": 278365,
+      "average_vision_score": 37,
+      "total_wards_placed": 71,
+      "average_creep_score": 180,
+      "average_champion_experience": 24516,
+      "dmg_carry": "Ezreal",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4424271860"
+    }
+  }
+}

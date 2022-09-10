@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 44228,
+      "total_gold_spent": 41635,
+      "team_comp": [
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Nidalee",
+          "champId": 76
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 15,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 49129,
+      "total_damage_dealt_to_objectives": 25841,
+      "total_damage_taken": 94223,
+      "average_vision_score": 22,
+      "total_wards_placed": 45,
+      "average_creep_score": 94,
+      "average_champion_experience": 9651,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4283607169"
+    },
+    "200": {
+      "total_gold_earned": 56657,
+      "total_gold_spent": 48000,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 38,
+      "total_deaths": 15,
+      "total_damage_dealt_to_champions": 72906,
+      "total_damage_dealt_to_objectives": 77133,
+      "total_damage_taken": 90237,
+      "average_vision_score": 21,
+      "total_wards_placed": 47,
+      "average_creep_score": 101,
+      "average_champion_experience": 12450,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vayne",
+      "match_id": "NA1_4283607169"
+    }
+  }
+}

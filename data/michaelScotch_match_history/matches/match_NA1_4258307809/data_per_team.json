@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 53567,
+      "total_gold_spent": 50885,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 22,
+      "total_deaths": 32,
+      "total_damage_dealt_to_champions": 84317,
+      "total_damage_dealt_to_objectives": 22266,
+      "total_damage_taken": 125409,
+      "average_vision_score": 17,
+      "total_wards_placed": 48,
+      "average_creep_score": 112,
+      "average_champion_experience": 13048,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4258307809"
+    },
+    "200": {
+      "total_gold_earned": 60475,
+      "total_gold_spent": 58550,
+      "team_comp": [
+        {
+          "champName": "Poppy",
+          "champId": 78
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Ziggs",
+          "champId": 115
+        },
+        {
+          "champName": "Janna",
+          "champId": 40
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 32,
+      "total_deaths": 22,
+      "total_damage_dealt_to_champions": 99567,
+      "total_damage_dealt_to_objectives": 90462,
+      "total_damage_taken": 112669,
+      "average_vision_score": 30,
+      "total_wards_placed": 58,
+      "average_creep_score": 109,
+      "average_champion_experience": 14063,
+      "dmg_carry": "Samira",
+      "obj_carry": "Ziggs",
+      "match_id": "NA1_4258307809"
+    }
+  }
+}

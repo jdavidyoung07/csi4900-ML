@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59730,
+      "total_gold_spent": 55450,
+      "team_comp": [
+        {
+          "champName": "Gangplank",
+          "champId": 41
+        },
+        {
+          "champName": "Heimerdinger",
+          "champId": 74
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 24,
+      "total_deaths": 42,
+      "total_damage_dealt_to_champions": 111892,
+      "total_damage_dealt_to_objectives": 36384,
+      "total_damage_taken": 135860,
+      "average_vision_score": 23,
+      "total_wards_placed": 59,
+      "average_creep_score": 123,
+      "average_champion_experience": 12502,
+      "dmg_carry": "Gangplank",
+      "obj_carry": "Gangplank",
+      "match_id": "NA1_4317493073"
+    },
+    "200": {
+      "total_gold_earned": 69506,
+      "total_gold_spent": 60910,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 1,
+      "total_kills": 42,
+      "total_deaths": 24,
+      "total_damage_dealt_to_champions": 111212,
+      "total_damage_dealt_to_objectives": 102064,
+      "total_damage_taken": 143778,
+      "average_vision_score": 29,
+      "total_wards_placed": 57,
+      "average_creep_score": 111,
+      "average_champion_experience": 15745,
+      "dmg_carry": "Kaisa",
+      "obj_carry": "Kaisa",
+      "match_id": "NA1_4317493073"
+    }
+  }
+}

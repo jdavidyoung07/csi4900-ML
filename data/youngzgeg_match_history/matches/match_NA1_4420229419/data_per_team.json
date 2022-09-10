@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 80435,
+      "total_gold_spent": 64775,
+      "team_comp": [
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 53,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 188009,
+      "total_damage_dealt_to_objectives": 96692,
+      "total_damage_taken": 173972,
+      "average_vision_score": 37,
+      "total_wards_placed": 83,
+      "average_creep_score": 131,
+      "average_champion_experience": 18586,
+      "dmg_carry": "Zed",
+      "obj_carry": "Udyr",
+      "match_id": "NA1_4420229419"
+    },
+    "200": {
+      "total_gold_earned": 69611,
+      "total_gold_spent": 68125,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 27,
+      "total_deaths": 53,
+      "total_damage_dealt_to_champions": 124509,
+      "total_damage_dealt_to_objectives": 52607,
+      "total_damage_taken": 213007,
+      "average_vision_score": 33,
+      "total_wards_placed": 68,
+      "average_creep_score": 134,
+      "average_champion_experience": 15790,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4420229419"
+    }
+  }
+}

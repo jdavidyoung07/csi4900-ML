@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 10,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 14634,
+      "total_gold_spent": 9625,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 7,
+      "total_damage_dealt_to_champions": 15813,
+      "total_damage_dealt_to_objectives": 1856,
+      "total_damage_taken": 18638,
+      "average_vision_score": 4,
+      "total_wards_placed": 12,
+      "average_creep_score": 30,
+      "average_champion_experience": 3486,
+      "dmg_carry": "TahmKench",
+      "obj_carry": "TahmKench",
+      "match_id": "NA1_4052732086"
+    },
+    "200": {
+      "total_gold_earned": 18414,
+      "total_gold_spent": 16325,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Orianna",
+          "champId": 61
+        },
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Lulu",
+          "champId": 117
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 7,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 12865,
+      "total_damage_dealt_to_objectives": 18196,
+      "total_damage_taken": 27626,
+      "average_vision_score": 4,
+      "total_wards_placed": 13,
+      "average_creep_score": 40,
+      "average_champion_experience": 4020,
+      "dmg_carry": "Garen",
+      "obj_carry": "Viego",
+      "match_id": "NA1_4052732086"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56018,
+      "total_gold_spent": 54000,
+      "team_comp": [
+        {
+          "champName": "Urgot",
+          "champId": 6
+        },
+        {
+          "champName": "Elise",
+          "champId": 60
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Kaisa",
+          "champId": 145
+        },
+        {
+          "champName": "MissFortune",
+          "champId": 21
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 26,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 106756,
+      "total_damage_dealt_to_objectives": 59682,
+      "total_damage_taken": 132524,
+      "average_vision_score": 35,
+      "total_wards_placed": 59,
+      "average_creep_score": 108,
+      "average_champion_experience": 11840,
+      "dmg_carry": "MissFortune",
+      "obj_carry": "Urgot",
+      "match_id": "NA1_4399300032"
+    },
+    "200": {
+      "total_gold_earned": 64480,
+      "total_gold_spent": 57975,
+      "team_comp": [
+        {
+          "champName": "TahmKench",
+          "champId": 223
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Veigar",
+          "champId": 45
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 103794,
+      "total_damage_dealt_to_objectives": 67113,
+      "total_damage_taken": 133215,
+      "average_vision_score": 33,
+      "total_wards_placed": 76,
+      "average_creep_score": 119,
+      "average_champion_experience": 15309,
+      "dmg_carry": "Zyra",
+      "obj_carry": "Sivir",
+      "match_id": "NA1_4399300032"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54965,
+      "total_gold_spent": 53270,
+      "team_comp": [
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Diana",
+          "champId": 131
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 38,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 115841,
+      "total_damage_dealt_to_objectives": 47504,
+      "total_damage_taken": 121073,
+      "average_vision_score": 22,
+      "total_wards_placed": 47,
+      "average_creep_score": 105,
+      "average_champion_experience": 12174,
+      "dmg_carry": "Lucian",
+      "obj_carry": "Lillia",
+      "match_id": "NA1_4411480886"
+    },
+    "200": {
+      "total_gold_earned": 61128,
+      "total_gold_spent": 54190,
+      "team_comp": [
+        {
+          "champName": "DrMundo",
+          "champId": 36
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 41,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 103563,
+      "total_damage_dealt_to_objectives": 65819,
+      "total_damage_taken": 137024,
+      "average_vision_score": 25,
+      "total_wards_placed": 56,
+      "average_creep_score": 106,
+      "average_champion_experience": 13985,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4411480886"
+    }
+  }
+}

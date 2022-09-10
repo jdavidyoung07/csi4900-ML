@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56313,
+      "total_gold_spent": 53560,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Anivia",
+          "champId": 34
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 29,
+      "total_deaths": 35,
+      "total_damage_dealt_to_champions": 104682,
+      "total_damage_dealt_to_objectives": 40195,
+      "total_damage_taken": 130562,
+      "average_vision_score": 27,
+      "total_wards_placed": 59,
+      "average_creep_score": 108,
+      "average_champion_experience": 13041,
+      "dmg_carry": "Senna",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4228162667"
+    },
+    "200": {
+      "total_gold_earned": 64045,
+      "total_gold_spent": 55550,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Evelynn",
+          "champId": 28
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 35,
+      "total_deaths": 29,
+      "total_damage_dealt_to_champions": 99763,
+      "total_damage_dealt_to_objectives": 81065,
+      "total_damage_taken": 136158,
+      "average_vision_score": 22,
+      "total_wards_placed": 44,
+      "average_creep_score": 100,
+      "average_champion_experience": 14948,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Evelynn",
+      "match_id": "NA1_4228162667"
+    }
+  }
+}

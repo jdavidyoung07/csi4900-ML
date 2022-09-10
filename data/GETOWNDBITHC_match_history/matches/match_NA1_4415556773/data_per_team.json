@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 23206,
+      "total_gold_spent": 20375,
+      "team_comp": [
+        {
+          "champName": "Tryndamere",
+          "champId": 23
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Nocturne",
+          "champId": 56
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 6,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 20711,
+      "total_damage_dealt_to_objectives": 20422,
+      "total_damage_taken": 44713,
+      "average_vision_score": 9,
+      "total_wards_placed": 25,
+      "average_creep_score": 62,
+      "average_champion_experience": 5370,
+      "dmg_carry": "Nocturne",
+      "obj_carry": "Volibear",
+      "match_id": "NA1_4415556773"
+    },
+    "200": {
+      "total_gold_earned": 26514,
+      "total_gold_spent": 21075,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Aphelios",
+          "champId": 523
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 6,
+      "total_damage_dealt_to_champions": 30716,
+      "total_damage_dealt_to_objectives": 15033,
+      "total_damage_taken": 37253,
+      "average_vision_score": 6,
+      "total_wards_placed": 20,
+      "average_creep_score": 67,
+      "average_champion_experience": 6800,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Aatrox",
+      "match_id": "NA1_4415556773"
+    }
+  }
+}

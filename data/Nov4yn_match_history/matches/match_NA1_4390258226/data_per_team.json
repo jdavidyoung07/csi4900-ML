@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67056,
+      "total_gold_spent": 65915,
+      "team_comp": [
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Velkoz",
+          "champId": 161
+        },
+        {
+          "champName": "Lucian",
+          "champId": 236
+        },
+        {
+          "champName": "Zilean",
+          "champId": 26
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 34,
+      "total_deaths": 48,
+      "total_damage_dealt_to_champions": 157033,
+      "total_damage_dealt_to_objectives": 42922,
+      "total_damage_taken": 175806,
+      "average_vision_score": 34,
+      "total_wards_placed": 77,
+      "average_creep_score": 126,
+      "average_champion_experience": 15746,
+      "dmg_carry": "Velkoz",
+      "obj_carry": "Draven",
+      "match_id": "NA1_4390258226"
+    },
+    "200": {
+      "total_gold_earned": 73289,
+      "total_gold_spent": 65130,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Rell",
+          "champId": 526
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 48,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 150269,
+      "total_damage_dealt_to_objectives": 115680,
+      "total_damage_taken": 208979,
+      "average_vision_score": 36,
+      "total_wards_placed": 71,
+      "average_creep_score": 133,
+      "average_champion_experience": 17936,
+      "dmg_carry": "Vladimir",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4390258226"
+    }
+  }
+}

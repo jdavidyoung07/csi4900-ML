@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 81610,
+      "total_gold_spent": 76260,
+      "team_comp": [
+        {
+          "champName": "Illaoi",
+          "champId": 420
+        },
+        {
+          "champName": "Kindred",
+          "champId": 203
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 3,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 3,
+      "total_kills": 34,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 166790,
+      "total_damage_dealt_to_objectives": 113684,
+      "total_damage_taken": 185923,
+      "average_vision_score": 40,
+      "total_wards_placed": 70,
+      "average_creep_score": 177,
+      "average_champion_experience": 22023,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Ezreal",
+      "match_id": "NA1_4324199023"
+    },
+    "200": {
+      "total_gold_earned": 82981,
+      "total_gold_spent": 77060,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Chogath",
+          "champId": 31
+        },
+        {
+          "champName": "Kayle",
+          "champId": 10
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 2,
+      "total_kills": 35,
+      "total_deaths": 34,
+      "total_damage_dealt_to_champions": 143949,
+      "total_damage_dealt_to_objectives": 88122,
+      "total_damage_taken": 200421,
+      "average_vision_score": 32,
+      "total_wards_placed": 70,
+      "average_creep_score": 194,
+      "average_champion_experience": 21393,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4324199023"
+    }
+  }
+}

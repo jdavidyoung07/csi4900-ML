@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 56373,
+      "total_gold_spent": 54995,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Tristana",
+          "champId": 18
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 96765,
+      "total_damage_dealt_to_objectives": 23638,
+      "total_damage_taken": 121040,
+      "average_vision_score": 26,
+      "total_wards_placed": 57,
+      "average_creep_score": 113,
+      "average_champion_experience": 13459,
+      "dmg_carry": "Brand",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4103002010"
+    },
+    "200": {
+      "total_gold_earned": 61357,
+      "total_gold_spent": 53835,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Azir",
+          "champId": 268
+        },
+        {
+          "champName": "Samira",
+          "champId": 360
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 36,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 97129,
+      "total_damage_dealt_to_objectives": 94440,
+      "total_damage_taken": 124591,
+      "average_vision_score": 19,
+      "total_wards_placed": 51,
+      "average_creep_score": 119,
+      "average_champion_experience": 15439,
+      "dmg_carry": "Samira",
+      "obj_carry": "Samira",
+      "match_id": "NA1_4103002010"
+    }
+  }
+}

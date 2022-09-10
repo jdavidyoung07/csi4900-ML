@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 67520,
+      "total_gold_spent": 65105,
+      "team_comp": [
+        {
+          "champName": "Shen",
+          "champId": 98
+        },
+        {
+          "champName": "Vi",
+          "champId": 254
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 46,
+      "total_deaths": 49,
+      "total_damage_dealt_to_champions": 132705,
+      "total_damage_dealt_to_objectives": 38931,
+      "total_damage_taken": 178870,
+      "average_vision_score": 25,
+      "total_wards_placed": 65,
+      "average_creep_score": 103,
+      "average_champion_experience": 14972,
+      "dmg_carry": "Vayne",
+      "obj_carry": "Vi",
+      "match_id": "NA1_4308340236"
+    },
+    "200": {
+      "total_gold_earned": 75128,
+      "total_gold_spent": 68725,
+      "team_comp": [
+        {
+          "champName": "Khazix",
+          "champId": 121
+        },
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 49,
+      "total_deaths": 46,
+      "total_damage_dealt_to_champions": 156990,
+      "total_damage_dealt_to_objectives": 81927,
+      "total_damage_taken": 171558,
+      "average_vision_score": 27,
+      "total_wards_placed": 64,
+      "average_creep_score": 120,
+      "average_champion_experience": 16558,
+      "dmg_carry": "Swain",
+      "obj_carry": "Khazix",
+      "match_id": "NA1_4308340236"
+    }
+  }
+}

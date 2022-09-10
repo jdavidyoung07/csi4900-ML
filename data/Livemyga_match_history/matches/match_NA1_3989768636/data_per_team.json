@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 30,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 51844,
+      "total_gold_spent": 49725,
+      "team_comp": [
+        {
+          "champName": "Quinn",
+          "champId": 133
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 76321,
+      "total_damage_dealt_to_objectives": 19524,
+      "total_damage_taken": 131895,
+      "average_vision_score": 22,
+      "total_wards_placed": 53,
+      "average_creep_score": 122,
+      "average_champion_experience": 13304,
+      "dmg_carry": "Kayn",
+      "obj_carry": "Quinn",
+      "match_id": "NA1_3989768636"
+    },
+    "200": {
+      "total_gold_earned": 64886,
+      "total_gold_spent": 57208,
+      "team_comp": [
+        {
+          "champName": "Ryze",
+          "champId": 13
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Jinx",
+          "champId": 222
+        },
+        {
+          "champName": "Zyra",
+          "champId": 143
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 38,
+      "total_deaths": 27,
+      "total_damage_dealt_to_champions": 111567,
+      "total_damage_dealt_to_objectives": 72520,
+      "total_damage_taken": 116356,
+      "average_vision_score": 34,
+      "total_wards_placed": 59,
+      "average_creep_score": 133,
+      "average_champion_experience": 15441,
+      "dmg_carry": "Irelia",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_3989768636"
+    }
+  }
+}

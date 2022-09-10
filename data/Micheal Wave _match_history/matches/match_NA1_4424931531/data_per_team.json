@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 65740,
+      "total_gold_spent": 67165,
+      "team_comp": [
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Sivir",
+          "champId": 15
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 40,
+      "total_deaths": 37,
+      "total_damage_dealt_to_champions": 144147,
+      "total_damage_dealt_to_objectives": 56948,
+      "total_damage_taken": 132484,
+      "average_vision_score": 36,
+      "total_wards_placed": 70,
+      "average_creep_score": 113,
+      "average_champion_experience": 14495,
+      "dmg_carry": "Zed",
+      "obj_carry": "Irelia",
+      "match_id": "NA1_4424931531"
+    },
+    "200": {
+      "total_gold_earned": 64692,
+      "total_gold_spent": 60725,
+      "team_comp": [
+        {
+          "champName": "Riven",
+          "champId": 92
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Taric",
+          "champId": 44
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 37,
+      "total_deaths": 40,
+      "total_damage_dealt_to_champions": 107178,
+      "total_damage_dealt_to_objectives": 49021,
+      "total_damage_taken": 167963,
+      "average_vision_score": 25,
+      "total_wards_placed": 63,
+      "average_creep_score": 117,
+      "average_champion_experience": 14524,
+      "dmg_carry": "Akali",
+      "obj_carry": "Riven",
+      "match_id": "NA1_4424931531"
+    }
+  }
+}

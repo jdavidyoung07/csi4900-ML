@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 88603,
+      "total_gold_spent": 81600,
+      "team_comp": [
+        {
+          "champName": "Vladimir",
+          "champId": 8
+        },
+        {
+          "champName": "Rengar",
+          "champId": 107
+        },
+        {
+          "champName": "Akali",
+          "champId": 84
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Morgana",
+          "champId": 25
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 72,
+      "total_deaths": 70,
+      "total_damage_dealt_to_champions": 193479,
+      "total_damage_dealt_to_objectives": 64813,
+      "total_damage_taken": 217138,
+      "average_vision_score": 32,
+      "total_wards_placed": 75,
+      "average_creep_score": 129,
+      "average_champion_experience": 19372,
+      "dmg_carry": "Jhin",
+      "obj_carry": "Vladimir",
+      "match_id": "NA1_4280255832"
+    },
+    "200": {
+      "total_gold_earned": 88954,
+      "total_gold_spent": 73568,
+      "team_comp": [
+        {
+          "champName": "Camille",
+          "champId": 164
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Galio",
+          "champId": 3
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 2,
+      "total_kills": 70,
+      "total_deaths": 73,
+      "total_damage_dealt_to_champions": 188600,
+      "total_damage_dealt_to_objectives": 91683,
+      "total_damage_taken": 233426,
+      "average_vision_score": 33,
+      "total_wards_placed": 80,
+      "average_creep_score": 110,
+      "average_champion_experience": 20063,
+      "dmg_carry": "LeeSin",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4280255832"
+    }
+  }
+}

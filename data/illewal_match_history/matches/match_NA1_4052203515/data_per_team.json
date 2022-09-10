@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 31,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54278,
+      "total_gold_spent": 51675,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Ekko",
+          "champId": 245
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        },
+        {
+          "champName": "KogMaw",
+          "champId": 96
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 28,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 103512,
+      "total_damage_dealt_to_objectives": 42366,
+      "total_damage_taken": 117464,
+      "average_vision_score": 29,
+      "total_wards_placed": 59,
+      "average_creep_score": 114,
+      "average_champion_experience": 12391,
+      "dmg_carry": "Seraphine",
+      "obj_carry": "Ekko",
+      "match_id": "NA1_4052203515"
+    },
+    "200": {
+      "total_gold_earned": 58980,
+      "total_gold_spent": 54203,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Lux",
+          "champId": 99
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 2,
+      "total_kills": 30,
+      "total_deaths": 28,
+      "total_damage_dealt_to_champions": 86552,
+      "total_damage_dealt_to_objectives": 47104,
+      "total_damage_taken": 135915,
+      "average_vision_score": 25,
+      "total_wards_placed": 62,
+      "average_creep_score": 109,
+      "average_champion_experience": 14112,
+      "dmg_carry": "Maokai",
+      "obj_carry": "Fiora",
+      "match_id": "NA1_4052203515"
+    }
+  }
+}

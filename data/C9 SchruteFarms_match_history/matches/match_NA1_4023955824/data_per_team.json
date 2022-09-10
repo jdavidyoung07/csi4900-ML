@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 26,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 40325,
+      "total_gold_spent": 37025,
+      "team_comp": [
+        {
+          "champName": "Warwick",
+          "champId": 19
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 36,
+      "total_damage_dealt_to_champions": 62763,
+      "total_damage_dealt_to_objectives": 5076,
+      "total_damage_taken": 111879,
+      "average_vision_score": 18,
+      "total_wards_placed": 36,
+      "average_creep_score": 82,
+      "average_champion_experience": 10019,
+      "dmg_carry": "XinZhao",
+      "obj_carry": "Warwick",
+      "match_id": "NA1_4023955824"
+    },
+    "200": {
+      "total_gold_earned": 55406,
+      "total_gold_spent": 51885,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Pyke",
+          "champId": 555
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 36,
+      "total_deaths": 25,
+      "total_damage_dealt_to_champions": 93550,
+      "total_damage_dealt_to_objectives": 56852,
+      "total_damage_taken": 88334,
+      "average_vision_score": 20,
+      "total_wards_placed": 53,
+      "average_creep_score": 99,
+      "average_champion_experience": 11324,
+      "dmg_carry": "Yasuo",
+      "obj_carry": "Teemo",
+      "match_id": "NA1_4023955824"
+    }
+  }
+}

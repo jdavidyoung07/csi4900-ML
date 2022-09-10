@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 54265,
+      "total_gold_spent": 51070,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Lissandra",
+          "champId": 127
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 0,
+      "total_kills": 26,
+      "total_deaths": 41,
+      "total_damage_dealt_to_champions": 105297,
+      "total_damage_dealt_to_objectives": 47926,
+      "total_damage_taken": 132782,
+      "average_vision_score": 30,
+      "total_wards_placed": 91,
+      "average_creep_score": 104,
+      "average_champion_experience": 11412,
+      "dmg_carry": "Brand",
+      "obj_carry": "LeeSin",
+      "match_id": "NA1_4347133506"
+    },
+    "200": {
+      "total_gold_earned": 62374,
+      "total_gold_spent": 55593,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Ashe",
+          "champId": 22
+        },
+        {
+          "champName": "Soraka",
+          "champId": 16
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 1,
+      "total_kills": 41,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 107502,
+      "total_damage_dealt_to_objectives": 61359,
+      "total_damage_taken": 133869,
+      "average_vision_score": 26,
+      "total_wards_placed": 54,
+      "average_creep_score": 103,
+      "average_champion_experience": 14084,
+      "dmg_carry": "Darius",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4347133506"
+    }
+  }
+}

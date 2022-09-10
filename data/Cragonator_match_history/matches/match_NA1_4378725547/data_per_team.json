@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 200,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 50371,
+      "total_gold_spent": 48243,
+      "team_comp": [
+        {
+          "champName": "Garen",
+          "champId": 86
+        },
+        {
+          "champName": "Lillia",
+          "champId": 876
+        },
+        {
+          "champName": "Irelia",
+          "champId": 39
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Rakan",
+          "champId": 497
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 0,
+      "total_kills": 31,
+      "total_deaths": 44,
+      "total_damage_dealt_to_champions": 78476,
+      "total_damage_dealt_to_objectives": 16706,
+      "total_damage_taken": 124716,
+      "average_vision_score": 20,
+      "total_wards_placed": 52,
+      "average_creep_score": 107,
+      "average_champion_experience": 11784,
+      "dmg_carry": "Lillia",
+      "obj_carry": "Garen",
+      "match_id": "NA1_4378725547"
+    },
+    "200": {
+      "total_gold_earned": 61256,
+      "total_gold_spent": 57475,
+      "team_comp": [
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Amumu",
+          "champId": 32
+        },
+        {
+          "champName": "Rumble",
+          "champId": 68
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Karma",
+          "champId": 43
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 2,
+      "total_kills": 44,
+      "total_deaths": 31,
+      "total_damage_dealt_to_champions": 103674,
+      "total_damage_dealt_to_objectives": 77150,
+      "total_damage_taken": 108757,
+      "average_vision_score": 22,
+      "total_wards_placed": 47,
+      "average_creep_score": 104,
+      "average_champion_experience": 13489,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Rumble",
+      "match_id": "NA1_4378725547"
+    }
+  }
+}

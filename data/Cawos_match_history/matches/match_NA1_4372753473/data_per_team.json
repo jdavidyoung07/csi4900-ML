@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 27933,
+      "total_gold_spent": 24285,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Seraphine",
+          "champId": 147
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 12,
+      "total_deaths": 18,
+      "total_damage_dealt_to_champions": 34626,
+      "total_damage_dealt_to_objectives": 10747,
+      "total_damage_taken": 44462,
+      "average_vision_score": 8,
+      "total_wards_placed": 29,
+      "average_creep_score": 68,
+      "average_champion_experience": 6506,
+      "dmg_carry": "Xerath",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4372753473"
+    },
+    "200": {
+      "total_gold_earned": 35584,
+      "total_gold_spent": 29815,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Yasuo",
+          "champId": 157
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nami",
+          "champId": 267
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 18,
+      "total_deaths": 12,
+      "total_damage_dealt_to_champions": 32194,
+      "total_damage_dealt_to_objectives": 37070,
+      "total_damage_taken": 48580,
+      "average_vision_score": 13,
+      "total_wards_placed": 24,
+      "average_creep_score": 67,
+      "average_champion_experience": 7002,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4372753473"
+    }
+  }
+}

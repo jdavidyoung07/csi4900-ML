@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 59999,
+      "total_gold_spent": 58385,
+      "team_comp": [
+        {
+          "champName": "Jax",
+          "champId": 24
+        },
+        {
+          "champName": "LeeSin",
+          "champId": 64
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Brand",
+          "champId": 63
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 0,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 50,
+      "total_damage_dealt_to_champions": 122501,
+      "total_damage_dealt_to_objectives": 35497,
+      "total_damage_taken": 138554,
+      "average_vision_score": 28,
+      "total_wards_placed": 69,
+      "average_creep_score": 110,
+      "average_champion_experience": 13358,
+      "dmg_carry": "Viktor",
+      "obj_carry": "Jax",
+      "match_id": "NA1_4365198801"
+    },
+    "200": {
+      "total_gold_earned": 69372,
+      "total_gold_spent": 60700,
+      "team_comp": [
+        {
+          "champName": "MonkeyKing",
+          "champId": 62
+        },
+        {
+          "champName": "Kayn",
+          "champId": 141
+        },
+        {
+          "champName": "Zed",
+          "champId": 238
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Swain",
+          "champId": 50
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 1,
+      "total_kills": 50,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 117275,
+      "total_damage_dealt_to_objectives": 71793,
+      "total_damage_taken": 159284,
+      "average_vision_score": 30,
+      "total_wards_placed": 56,
+      "average_creep_score": 115,
+      "average_champion_experience": 16293,
+      "dmg_carry": "Zed",
+      "obj_carry": "Kayn",
+      "match_id": "NA1_4365198801"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 55954,
+      "total_gold_spent": 54395,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Trundle",
+          "champId": 48
+        },
+        {
+          "champName": "Ahri",
+          "champId": 103
+        },
+        {
+          "champName": "Jhin",
+          "champId": 202
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 33,
+      "total_damage_dealt_to_champions": 104900,
+      "total_damage_dealt_to_objectives": 48890,
+      "total_damage_taken": 116550,
+      "average_vision_score": 23,
+      "total_wards_placed": 44,
+      "average_creep_score": 119,
+      "average_champion_experience": 12434,
+      "dmg_carry": "Ahri",
+      "obj_carry": "Trundle",
+      "match_id": "NA1_4423943443"
+    },
+    "200": {
+      "total_gold_earned": 60987,
+      "total_gold_spent": 54620,
+      "team_comp": [
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Udyr",
+          "champId": 77
+        },
+        {
+          "champName": "Cassiopeia",
+          "champId": 69
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Sion",
+          "champId": 14
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 33,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 94217,
+      "total_damage_dealt_to_objectives": 67982,
+      "total_damage_taken": 137489,
+      "average_vision_score": 23,
+      "total_wards_placed": 58,
+      "average_creep_score": 129,
+      "average_champion_experience": 15019,
+      "dmg_carry": "Cassiopeia",
+      "obj_carry": "Cassiopeia",
+      "match_id": "NA1_4423943443"
+    }
+  }
+}

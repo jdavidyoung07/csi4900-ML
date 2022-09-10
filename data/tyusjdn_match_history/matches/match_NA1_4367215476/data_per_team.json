@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 94525,
+      "total_gold_spent": 96220,
+      "team_comp": [
+        {
+          "champName": "Vayne",
+          "champId": 67
+        },
+        {
+          "champName": "Belveth",
+          "champId": 200
+        },
+        {
+          "champName": "Ezreal",
+          "champId": 81
+        },
+        {
+          "champName": "Viktor",
+          "champId": 112
+        },
+        {
+          "champName": "Xerath",
+          "champId": 101
+        }
+      ],
+      "total_baron_kills": 2,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 47,
+      "total_deaths": 69,
+      "total_damage_dealt_to_champions": 266023,
+      "total_damage_dealt_to_objectives": 100276,
+      "total_damage_taken": 238091,
+      "average_vision_score": 49,
+      "total_wards_placed": 99,
+      "average_creep_score": 179,
+      "average_champion_experience": 23762,
+      "dmg_carry": "Belveth",
+      "obj_carry": "Belveth",
+      "match_id": "NA1_4367215476"
+    },
+    "200": {
+      "total_gold_earned": 102197,
+      "total_gold_spent": 96325,
+      "team_comp": [
+        {
+          "champName": "Nasus",
+          "champId": 75
+        },
+        {
+          "champName": "Zac",
+          "champId": 154
+        },
+        {
+          "champName": "Talon",
+          "champId": 91
+        },
+        {
+          "champName": "Draven",
+          "champId": 119
+        },
+        {
+          "champName": "Senna",
+          "champId": 235
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 4,
+      "total_inhibitor_kils": 3,
+      "total_kills": 69,
+      "total_deaths": 47,
+      "total_damage_dealt_to_champions": 202929,
+      "total_damage_dealt_to_objectives": 76073,
+      "total_damage_taken": 304808,
+      "average_vision_score": 37,
+      "total_wards_placed": 80,
+      "average_creep_score": 189,
+      "average_champion_experience": 25695,
+      "dmg_carry": "Talon",
+      "obj_carry": "Nasus",
+      "match_id": "NA1_4367215476"
+    }
+  }
+}

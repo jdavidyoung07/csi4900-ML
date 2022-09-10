@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 100,
+    "vision_winner": 100,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 200,
+    "gold_spender_winner": 100,
+    "final_match_winner": 100
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 78347,
+      "total_gold_spent": 68030,
+      "team_comp": [
+        {
+          "champName": "Aatrox",
+          "champId": 266
+        },
+        {
+          "champName": "Mordekaiser",
+          "champId": 82
+        },
+        {
+          "champName": "Qiyana",
+          "champId": 246
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Blitzcrank",
+          "champId": 53
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 3,
+      "total_kills": 57,
+      "total_deaths": 38,
+      "total_damage_dealt_to_champions": 154692,
+      "total_damage_dealt_to_objectives": 105034,
+      "total_damage_taken": 176612,
+      "average_vision_score": 33,
+      "total_wards_placed": 60,
+      "average_creep_score": 115,
+      "average_champion_experience": 18428,
+      "dmg_carry": "Twitch",
+      "obj_carry": "Mordekaiser",
+      "match_id": "NA1_4426517367"
+    },
+    "200": {
+      "total_gold_earned": 69065,
+      "total_gold_spent": 65825,
+      "team_comp": [
+        {
+          "champName": "Sett",
+          "champId": 875
+        },
+        {
+          "champName": "Volibear",
+          "champId": 106
+        },
+        {
+          "champName": "Yone",
+          "champId": 777
+        },
+        {
+          "champName": "Zeri",
+          "champId": 221
+        },
+        {
+          "champName": "Yuumi",
+          "champId": 350
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 2,
+      "total_inhibitor_kils": 0,
+      "total_kills": 37,
+      "total_deaths": 57,
+      "total_damage_dealt_to_champions": 125152,
+      "total_damage_dealt_to_objectives": 68088,
+      "total_damage_taken": 184058,
+      "average_vision_score": 20,
+      "total_wards_placed": 64,
+      "average_creep_score": 120,
+      "average_champion_experience": 16675,
+      "dmg_carry": "Sett",
+      "obj_carry": "Sett",
+      "match_id": "NA1_4426517367"
+    }
+  }
+}

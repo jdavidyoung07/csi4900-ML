@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 100,
+    "cs_winner": 100,
+    "champ_experience_winner": 200,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 200,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 68691,
+      "total_gold_spent": 67510,
+      "team_comp": [
+        {
+          "champName": "Ornn",
+          "champId": 516
+        },
+        {
+          "champName": "MasterYi",
+          "champId": 11
+        },
+        {
+          "champName": "Kassadin",
+          "champId": 38
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Thresh",
+          "champId": 412
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 39,
+      "total_deaths": 45,
+      "total_damage_dealt_to_champions": 133744,
+      "total_damage_dealt_to_objectives": 47057,
+      "total_damage_taken": 156402,
+      "average_vision_score": 33,
+      "total_wards_placed": 75,
+      "average_creep_score": 146,
+      "average_champion_experience": 17286,
+      "dmg_carry": "Caitlyn",
+      "obj_carry": "MasterYi",
+      "match_id": "NA1_4083612391"
+    },
+    "200": {
+      "total_gold_earned": 75359,
+      "total_gold_spent": 68030,
+      "team_comp": [
+        {
+          "champName": "Fiora",
+          "champId": 114
+        },
+        {
+          "champName": "Viego",
+          "champId": 234
+        },
+        {
+          "champName": "Malzahar",
+          "champId": 90
+        },
+        {
+          "champName": "Twitch",
+          "champId": 29
+        },
+        {
+          "champName": "Nautilus",
+          "champId": 111
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 5,
+      "total_inhibitor_kils": 4,
+      "total_kills": 45,
+      "total_deaths": 39,
+      "total_damage_dealt_to_champions": 123533,
+      "total_damage_dealt_to_objectives": 100450,
+      "total_damage_taken": 177410,
+      "average_vision_score": 28,
+      "total_wards_placed": 54,
+      "average_creep_score": 129,
+      "average_champion_experience": 17905,
+      "dmg_carry": "Malzahar",
+      "obj_carry": "Twitch",
+      "match_id": "NA1_4083612391"
+    }
+  }
+}

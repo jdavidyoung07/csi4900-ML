@@ -1,0 +1,97 @@
+{
+  "general": {
+    "gameLengthMin": 0,
+    "dmg_to_champs_winner": 100,
+    "dmg_to_obj_winner": 200,
+    "vision_winner": 200,
+    "cs_winner": 200,
+    "champ_experience_winner": 100,
+    "wards_placed_winner": 100,
+    "gold_spender_winner": 100,
+    "final_match_winner": 200
+  },
+  "per_team": {
+    "100": {
+      "total_gold_earned": 52241,
+      "total_gold_spent": 51385,
+      "team_comp": [
+        {
+          "champName": "Teemo",
+          "champId": 17
+        },
+        {
+          "champName": "Graves",
+          "champId": 104
+        },
+        {
+          "champName": "Pantheon",
+          "champId": 80
+        },
+        {
+          "champName": "Nilah",
+          "champId": 895
+        },
+        {
+          "champName": "Maokai",
+          "champId": 57
+        }
+      ],
+      "total_baron_kills": 1,
+      "total_dragon_kills": 1,
+      "total_inhibitor_kils": 0,
+      "total_kills": 25,
+      "total_deaths": 30,
+      "total_damage_dealt_to_champions": 80111,
+      "total_damage_dealt_to_objectives": 54501,
+      "total_damage_taken": 100171,
+      "average_vision_score": 21,
+      "total_wards_placed": 49,
+      "average_creep_score": 100,
+      "average_champion_experience": 12809,
+      "dmg_carry": "Graves",
+      "obj_carry": "Graves",
+      "match_id": "NA1_4422858989"
+    },
+    "200": {
+      "total_gold_earned": 53989,
+      "total_gold_spent": 49243,
+      "team_comp": [
+        {
+          "champName": "Darius",
+          "champId": 122
+        },
+        {
+          "champName": "XinZhao",
+          "champId": 5
+        },
+        {
+          "champName": "Corki",
+          "champId": 42
+        },
+        {
+          "champName": "Caitlyn",
+          "champId": 51
+        },
+        {
+          "champName": "Sona",
+          "champId": 37
+        }
+      ],
+      "total_baron_kills": 0,
+      "total_dragon_kills": 3,
+      "total_inhibitor_kils": 1,
+      "total_kills": 30,
+      "total_deaths": 26,
+      "total_damage_dealt_to_champions": 76885,
+      "total_damage_dealt_to_objectives": 66725,
+      "total_damage_taken": 110163,
+      "average_vision_score": 23,
+      "total_wards_placed": 46,
+      "average_creep_score": 101,
+      "average_champion_experience": 12177,
+      "dmg_carry": "Corki",
+      "obj_carry": "XinZhao",
+      "match_id": "NA1_4422858989"
+    }
+  }
+}
