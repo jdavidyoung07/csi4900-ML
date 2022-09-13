@@ -227,15 +227,5 @@ def convert_to_ml_friendly(clean_match_json) -> dict:
         
 
 if __name__ == '__main__' :
-    #TEST_FILE = 'data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
-    #with open(TEST_FILE, 'r') as f:
-     #   data = json.load(f)
-      #  match_data_per_team = clean_json_match_data(data)
-       # print(match_data_per_team)
-        
-        #match_data = convert_to_ml_friendly(match_data_per_team)
-        #with open('data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637_ml_friendly.csv', 'w') as file:
-        #    for key in match_data.keys():
-        #        file.write("%s, %s\n" % (key, match_data[key]))
     run()
 
