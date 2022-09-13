@@ -3,7 +3,7 @@ import os
 import sys
 import shutil
 
-#TEST_FILE = '../data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
+
 participants_key_subset = [
     'win',
     'teamId',
@@ -24,6 +24,9 @@ participants_key_subset = [
     'totalMinionsKilled',
     'damageDealtToObjectives'
     ]
+
+
+
 
 TEAMS = [100,200]
 
@@ -184,6 +187,52 @@ def run() :
     #match_data_per_team = clean_json_match_data(data)
     #print(match_data_per_team)
 
+def convert_to_ml_friendly(clean_match_json): 
+    print('BEFORE: ',clean_json_match_data)
+    teams_info = clean_match_json['per_team']
+    ml_friendly_match_info = {}
+    to_ignore = ['dmg_carry','obj_carry','team_comp','match_id']
+    team_to_ml_class = {}
+
+    for i in range(len(TEAMS)) :
+        team_to_ml_class[TEAMS[i]] = i
+
+    for i in range(len(TEAMS)) :
+        team_info = teams_info[TEAMS[i]]
+        champ_name_to_id = {}
+
+        for v in team_info['team_comp'] :
+            champ_name_to_id[v['champName']] = v['champId']
+        
+        for k in team_info :
+            if k not in to_ignore :
+                ml_friendly_match_info[str(k)+'_'+str(i)] = team_info[k]
+        
+        ml_friendly_match_info['dmg_carry'+'_'+str(i)] = champ_name_to_id[team_info['dmg_carry']]
+        ml_friendly_match_info['obj_carry'+'_'+str(i)] = champ_name_to_id[team_info['dmg_carry']]
+
+        j = 0
+        for k in champ_name_to_id :
+            ml_friendly_match_info['team_comp'+'_'+str(i)+'_'+'champ'+'_'+str(j+1)] = k
+            j+=1
+        
+        
+    
+    for k in clean_match_json['general'] :
+        if k != 'gameLengthMin' :
+            ml_friendly_match_info[k] = team_to_ml_class[clean_match_json['general'][k]]
+        else :
+            ml_friendly_match_info[k] = clean_match_json['general'][k]
+    
+    print()
+    print('AFTER: ',ml_friendly_match_info)
+        
+
 
 if __name__ == '__main__' :
-    run() 
+    TEST_FILE = '../data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
+    with open(TEST_FILE, 'r') as f:
+        data = json.load(f)
+        match_data_per_team = clean_json_match_data(data)
+        print(match_data_per_team)
+        convert_to_ml_friendly(match_data_per_team)
