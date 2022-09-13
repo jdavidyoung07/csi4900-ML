@@ -2,7 +2,7 @@ import json
 import os
 import sys
 import shutil
-
+import csv
 
 participants_key_subset = [
     'win',
@@ -24,9 +24,6 @@ participants_key_subset = [
     'totalMinionsKilled',
     'damageDealtToObjectives'
     ]
-
-
-
 
 TEAMS = [100,200]
 
@@ -171,6 +168,7 @@ def run() :
         for m_index in range(len(matches_list)):
             match_directory = 'data/' + players_list[p_index] + '_match_history/matches/match_' + matches_list[m_index] + '/' + matches_list[m_index] + '.json'
             match_data_file_path = 'data/' + players_list[p_index] + '_match_history/matches/match_' + matches_list[m_index] + '/data_per_team.json'
+            match_data_ml_path = 'data/' + players_list[p_index] + '_match_history/matches/match_' + matches_list[m_index] + '/ml_data.csv'
             with open(match_directory, 'r') as file:
                 data = json.load(file)
                 if data['info']['gameDuration'] == 0:
@@ -182,12 +180,15 @@ def run() :
                     match_data_json_file = open(match_data_file_path, 'w')
                     match_data_json_file.write(match_data_json_string)
                     match_data_json_file.close()
-    #with open(TEST_FILE, 'r') as f:
-    #    data = json.load(f)
-    #match_data_per_team = clean_json_match_data(data)
-    #print(match_data_per_team)
+                    
+                    match_data_ml_friendly = convert_to_ml_friendly(match_data_per_team)
+                    with open(match_data_ml_path, 'w') as file:
+                        for key in match_data_ml_friendly.keys():
+                            file.write("%s, %s\n" % (key, match_data_ml_friendly[key]))
+                    
+    
 
-def convert_to_ml_friendly(clean_match_json): 
+def convert_to_ml_friendly(clean_match_json) -> dict: 
     print('BEFORE: ',clean_json_match_data)
     teams_info = clean_match_json['per_team']
     ml_friendly_match_info = {}
@@ -216,23 +217,25 @@ def convert_to_ml_friendly(clean_match_json):
             ml_friendly_match_info['team_comp'+'_'+str(i)+'_'+'champ'+'_'+str(j+1)] = k
             j+=1
         
-        
-    
     for k in clean_match_json['general'] :
         if k != 'gameLengthMin' :
             ml_friendly_match_info[k] = team_to_ml_class[clean_match_json['general'][k]]
         else :
             ml_friendly_match_info[k] = clean_match_json['general'][k]
     
-    print()
-    print('AFTER: ',ml_friendly_match_info)
+    return ml_friendly_match_info
         
 
-
 if __name__ == '__main__' :
-    TEST_FILE = '../data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
-    with open(TEST_FILE, 'r') as f:
-        data = json.load(f)
-        match_data_per_team = clean_json_match_data(data)
-        print(match_data_per_team)
-        convert_to_ml_friendly(match_data_per_team)
+    #TEST_FILE = 'data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637.json'
+    #with open(TEST_FILE, 'r') as f:
+     #   data = json.load(f)
+      #  match_data_per_team = clean_json_match_data(data)
+       # print(match_data_per_team)
+        
+        #match_data = convert_to_ml_friendly(match_data_per_team)
+        #with open('data/Jedı07_match_history/matches/match_NA1_4034399637/NA1_4034399637_ml_friendly.csv', 'w') as file:
+        #    for key in match_data.keys():
+        #        file.write("%s, %s\n" % (key, match_data[key]))
+    run()
+
