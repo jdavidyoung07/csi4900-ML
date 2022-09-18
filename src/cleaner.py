@@ -41,11 +41,16 @@ def get_players_list()-> list:
 def get_matches(player_name:str)-> list:
     player_directory = 'data/' + player_name + '_match_history/matches' 
     match_list = []
-    with os.scandir(player_directory) as iter:
-        for directory in iter:
-            if not (directory.name.startswith('.') and directory.isfile()):
-                directory_name = directory.name.removeprefix('match_')
-                match_list.append(directory_name)
+
+    try :
+        with os.scandir(player_directory) as iter:
+            for directory in iter:
+                if not (directory.name.startswith('.') and directory.isfile()):
+                    directory_name = directory.name.removeprefix('match_')
+                    match_list.append(directory_name)
+    except FileNotFoundError :
+        print('File not found for ', player_name)
+
     return match_list
 
 
@@ -182,9 +187,11 @@ def run() :
                     match_data_json_file.close()
                     
                     match_data_ml_friendly = convert_to_ml_friendly(match_data_per_team)
+                    columns = match_data_ml_friendly.keys()
                     with open(match_data_ml_path, 'w') as file:
-                        for key in match_data_ml_friendly.keys():
-                            file.write("%s, %s\n" % (key, match_data_ml_friendly[key]))
+                        writer = csv.DictWriter(file,fieldnames=columns)
+                        writer.writeheader()
+                        writer.writerow(match_data_ml_friendly)
                     
     
 
@@ -209,8 +216,8 @@ def convert_to_ml_friendly(clean_match_json) -> dict:
             if k not in to_ignore :
                 ml_friendly_match_info[str(k)+'_'+str(i)] = team_info[k]
         
-        ml_friendly_match_info['dmg_carry'+'_'+str(i)] = champ_name_to_id[team_info['dmg_carry']]
-        ml_friendly_match_info['obj_carry'+'_'+str(i)] = champ_name_to_id[team_info['dmg_carry']]
+        ml_friendly_match_info['dmg_carry'+'_'+str(i)] = team_info['dmg_carry']
+        ml_friendly_match_info['obj_carry'+'_'+str(i)] = team_info['obj_carry']
 
         j = 0
         for k in champ_name_to_id :
@@ -224,7 +231,19 @@ def convert_to_ml_friendly(clean_match_json) -> dict:
             ml_friendly_match_info[k] = clean_match_json['general'][k]
     
     return ml_friendly_match_info
-        
+
+def replace_champ_names_with_tags(clean_ml_friendly_json,champ_data_json) -> dict :
+    keys = list(clean_ml_friendly_json.keys())
+    filtered = [k for k in keys if k.startswith('team_comp') or k.startswith('dmg_carry') or k.startswith('obj_carry')]
+    print('BEFORE: ', clean_ml_friendly_json)
+    champ_data = champ_data_json['data']
+    for k in filtered :
+        print(k)
+        champ_name = clean_ml_friendly_json[k]
+        champ_tags = champ_data[champ_name]['tags']
+        clean_ml_friendly_json[k] = champ_tags[0]
+    
+    print('AFTER: ', clean_ml_friendly_json)        
 
 if __name__ == '__main__' :
     run()
