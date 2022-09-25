@@ -167,7 +167,8 @@ def clean_json_match_data(match:dict) -> dict :
 
 def run() :
     players_list = get_players_list()
-
+    ml_full_data = 'ml_data/full_ml_data.csv'
+    ml_full_data_created = False
     for p_index in range(len(players_list)):
         matches_list = get_matches(players_list[p_index])
         for m_index in range(len(matches_list)):
@@ -188,10 +189,21 @@ def run() :
                     
                     match_data_ml_friendly = convert_to_ml_friendly(match_data_per_team)
                     columns = match_data_ml_friendly.keys()
+
                     with open(match_data_ml_path, 'w') as file:
                         writer = csv.DictWriter(file,fieldnames=columns)
                         writer.writeheader()
                         writer.writerow(match_data_ml_friendly)
+                    if not ml_full_data_created :
+                        with open(ml_full_data, 'w') as file:
+                            writer = csv.DictWriter(file,fieldnames=columns)
+                            writer.writeheader()
+                            writer.writerow(match_data_ml_friendly)
+                        ml_full_data_created = True
+                    else :
+                        with open(ml_full_data,'a') as file :
+                            writer = csv.DictWriter(file,fieldnames=columns)
+                            writer.writerow(match_data_ml_friendly)
                     
     
 
