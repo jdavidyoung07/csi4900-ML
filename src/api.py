@@ -1,3 +1,4 @@
+import json
 import sys
 from flask import Flask,jsonify,request
 import pandas as pd
@@ -7,7 +8,19 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 import joblib
 import traceback
+import dill
 
+
+champ_data = {}
+with open('../champion_data/champion.json','r',encoding='utf-8') as f :
+    champions = json.load(f)
+    for champion in champions['data'] :
+        champ_data[str.lower(champion)] = champions['data'][champion]
+
+def champ_name_replacer(champ_name) :
+    return champ_data[str.lower(champ_name)]['tags'][0]
+
+    
 
 def add(old,new_df) :
     appended_df = pd.concat([old,new_df],ignore_index=True)
@@ -18,7 +31,7 @@ def add(old,new_df) :
 def fill_missing_champ_tags_with_dummy(df): 
     columns = list(df.columns)
     champ_name_columns = [c for c in columns if c.startswith('team_comp') or c.startswith('dmg_carry') or c.startswith('obj_carry')]
-    unique_champ_tags = df[champ_name_columns].stack().unique()
+    unique_champ_tags = ['Marksman', 'Fighter','Mage','Tank','Assassin','Support']
     dummy_dict = {}
     for k in champ_name_columns :
         dummy_dict[k] = unique_champ_tags.copy()
@@ -32,6 +45,10 @@ def fill_missing_champ_tags_with_dummy(df):
 def prepare_team_comp_data_for_prediction(df) :
     columns = list(df.columns)
     champ_name_columns = [c for c in columns if c.startswith('team_comp') or c.startswith('dmg_carry') or c.startswith('obj_carry')]
+
+    for c in champ_name_columns :
+        df[c] = df[c].apply(lambda x : champ_name_replacer(x))
+    
     X,dummy_rows_len = fill_missing_champ_tags_with_dummy(df)
 
     num_pipeline = Pipeline([
@@ -65,7 +82,8 @@ def prepare_no_comp_data_for_prediction(df) :
 
     df_prepared = full_pipeline.fit_transform(df)
     size = len(df)
-    df_prepared = df[:size]
+    df_prepared = df_prepared[:size]
+
     return df_prepared
 
 
@@ -77,6 +95,7 @@ def hello():
 
 @app.route('/predict/no_comp', methods=['POST'])
 def predict_no_comp():
+    model_no_comp = joblib.load("../models/model_noteam_comp_svc.pkl") # Load "model.pkl"
     if model_no_comp:
         try:
             json_ = request.json
@@ -85,7 +104,7 @@ def predict_no_comp():
             prepared_query = prepare_no_comp_data_for_prediction(query)
             prediction = list(model_no_comp.predict(prepared_query))
             print(prediction)
-            return jsonify({'prediction': str(prediction)})
+            return jsonify({'prediction': int(prediction[0])})
         except:
             return jsonify({'trace': traceback.format_exc()})
     else:
@@ -94,7 +113,8 @@ def predict_no_comp():
 
 @app.route('/predict/team_comp', methods=['POST'])
 def predict_team_comp():
-    if model_no_comp:
+    model_team_comp = joblib.load("../models/model_team_comp_svc.pkl") # Load "model.pkl"
+    if model_team_comp:
         try:
             json_ = request.json
             print(json_)
@@ -102,7 +122,7 @@ def predict_team_comp():
             prepared_query = prepare_team_comp_data_for_prediction(query)
             prediction = list(model_team_comp.predict(prepared_query))
             print(prediction)
-            return jsonify({'prediction': str(prediction)})
+            return jsonify({'prediction': int(prediction[0])})
         except:
             return jsonify({'trace': traceback.format_exc()})
     else:
@@ -116,12 +136,5 @@ if __name__ == '__main__':
         port = int(sys.argv[1])
     except:
         port = 12345 
-
-    try :
-        model_no_comp = joblib.load("model_no_comp.pkl") # Load "model.pkl"
-        model_team_comp = joblib.load("model_team_comp.pkl") # Load "model.pkl"
-        print ('Models loaded !')
-    except :
-        print('Models not loaded !')
 
     app.run(port=port, debug=True)
