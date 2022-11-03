@@ -69,18 +69,8 @@ def prepare_team_comp_data_for_prediction(df) :
     return X_prepared
 
 def prepare_no_comp_data_for_prediction(df) :
-    num_pipeline = Pipeline([
-        ('std_scaler',StandardScaler())
-    ])
-
-    full_column_set = set(list(df.columns))
-    num_columns = list(full_column_set)
-
-    full_pipeline = ColumnTransformer([
-            ('num',num_pipeline,num_columns),
-        ],remainder='passthrough')
-
-    df_prepared = full_pipeline.fit_transform(df)
+    scaler = joblib.load("../models/standard_scaler.pkl") # Load "model.pkl"
+    df_prepared = scaler.transform(df)
     size = len(df)
     df_prepared = df_prepared[:size]
 
