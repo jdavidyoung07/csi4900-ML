@@ -9,6 +9,7 @@ from sklearn.pipeline import Pipeline
 import joblib
 import traceback
 import dill
+from flask_cors import cross_origin
 
 
 champ_data = {}
@@ -94,6 +95,7 @@ def hello():
     return "Welcome to LoL team comp winner predictor"
 
 @app.route('/predict/no_comp', methods=['POST'])
+@cross_origin()
 def predict_no_comp():
     model_no_comp = joblib.load("../models/model_noteam_comp_svc.pkl") # Load "model.pkl"
     if model_no_comp:
@@ -112,6 +114,7 @@ def predict_no_comp():
         return ('No non-comp model here to use')
 
 @app.route('/predict/team_comp', methods=['POST'])
+@cross_origin()
 def predict_team_comp():
     model_team_comp = joblib.load("../models/model_team_comp_svc.pkl") # Load "model.pkl"
     if model_team_comp:
