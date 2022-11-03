@@ -74,7 +74,7 @@ def prepare_no_comp_data_for_prediction(df) :
     df_prepared = scaler.transform(df)
     size = len(df)
     df_prepared = df_prepared[:size]
-
+    
     return df_prepared
 
 
